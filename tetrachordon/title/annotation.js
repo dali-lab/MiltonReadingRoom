@@ -1,0 +1,1 @@
+var annotList = {"Medea":"<span class=\"annotation\"><i></i> Translated by Arthur S. Way (London and New York: Loeb Classical Library, 1912-19.  Milton\'s Greek text varies slightly from the Loeb text.<BR></div></FONT></BODY> </HTML> </span>"}

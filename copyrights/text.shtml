@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Using This Site</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oranienbaum' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="../miltonNoNav.js"></script>
+		
+		<style>
+			#contents a {
+				color: #7a2801;
+			}
+		</style>
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml" title="Home"><img id="home" src="../images/home.png"></img></a>
+	<a href="" title="Search"><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+
+	
+    <div id="header">
+		<a name="top"></a>
+		<div class="align-block baldHeader">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > <a href="">Using This Site</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+
+
+<div id="container">
+
+<div id="contents">
+<div class="title">
+<h2>Using This Site</h2>
+
+</div>
+
+<div class="editorial">
+
+<p>
+The copyright to <i>The John Milton Reading Room</i> database is owned by the Trustees of Dartmouth College and is
+protected by the copyright laws of the United States and the Universal
+Copyright Convention. 
+</p>
+
+<p>
+The materials on <i>The Milton Reading Room</i> web pages (including all editorial texts, introductions, annotations, translations, images, descriptions, drawings etc.) are provided for the personal
+use of students, scholars, and the public.  Any commercial use or
+publication of them without authorization is strictly prohibited.  All
+materials apart from John Milton's texts are copyrighted and are not in the public domain. The XHTML coded versions of Milton's texts are copyrighted and are not in the public domain. 
+Copying of materials on the <i>Milton Reading Room</i> web pages is not permitted, except for those purposes that qualify as <a href="http://lcweb.loc.gov/copyright/circs/circ21.pdf" target="_top">fair use</a>.</p>
+
+<h3>Creative Commons License</h3>
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nd/3.0/us/80x15.png" /></a><br /><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type"><i>The Milton Reading Room</i></span> edited by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.dartmouth.edu/~milton/reading_room/contents/index.shtml" property="cc:attributionName" rel="cc:attributionURL">Thomas H. Luxon and copyrighted by the Trustees of Dartmouth College</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons Attribution-No Derivative Works 3.0 United States License</a>.<br />Based on a work at <a xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://www.dartmouth.edu/~milton/copyrights.shtml" rel="dc:source">www.dartmouth.edu</a>.
+</p>
+
+
+
+<h3>Citing this web site in a bibliography</h3>
+<p>
+If you wish to cite the <i>The Milton Reading Room</i> web site in a bibliography, please list it with
+ the URL, and the month and year you accessed it, as in the following example:
+</p>
+
+<blockquote>
+Luxon, Thomas H., ed. <u>The Milton Reading Room</u>, http://www.dartmouth.edu/~milton, March, 2008.
+</blockquote>
+
+<p>
+<i>The Milton Reading Room</i> offers links to many other text files and web sites that are protected by copyrights of their own.
+</p>
+
+<p>We encourage you to make as many links as you want to anything
+within the <i>Milton Reading Room</i> web site, provided that you properly attribute the
+source of the data and provide a pointer to it for the benefit of the
+reader, whenever appropriate.</p>
+
+<p>
+For more information, see the Library of Congress documents on
+<a href="http://lcweb.loc.gov/copyright/" target="_top">copyrights</a> and
+<a href="http://lcweb.loc.gov/copyright/circs/circ21.pdf" target="_top">fair use</a>.</p>
+
+	
+</div>
+</div>
+</div>
+
+
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 
+
+
+

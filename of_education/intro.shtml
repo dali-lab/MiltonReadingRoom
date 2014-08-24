@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Of Education: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+			<a href=""><img id="search" src="../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+					<span id="poemBanner">Of Education</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+				<a href="../contents/text.shtml#prose">Prose</a> > <a href="">Of Education: Introduction</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+			
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="intro.shtml"><b>Introduction</b></a>
+					</li>
+					<li>
+						<a href="text.shtml">Text</a>
+					</li>
+					
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content" class="lengthyWork">
+                  
+
+<p class="poemTitle">Introduction</p>
+
+<p>
+Milton first published <span class="booktitle">Of Education</span> in 1644 as a rather informal looking, eight-page pamphlet without a title page, date, or publisher's name.  The tract was reprinted in 1673 as part of the second edition of Milton's collected early poems in a volume called <span class="booktitle">Poems, etc. upon several occasions. . .  With a small tractate of Education &mdash; to Mr. Hartlib</span> (see the <a href="../1673/text.shtml" target="main">title page in a new window</a>).</p>
+
+<p class="next"><span class="booktitle">Of Education</span> is Milton's contribution to contemporary debate about methods of education, which in turn was part of a larger discussion about how the Church should be organized and how the State should be governed.  In the Yale edition of 1928, editor Oliver Ainsworth wrote</p>
+
+<blockquote>In substance, Milton's tractate generally agrees with the humanistic theory of education that grew up in Western Europe during the fifteenth and sixteenth centuries, under the impulse of the Revival of Learning.  This theory is marked by two or three outstanding characteristics, all of which are prominent in Milton's treatise.  One of these is a clearer consciousness, among teachers and students, of education as a discipline for active life.  A second is an insistence upon the more extensive reading of ancient writers, both classical and Christian, as the principal means of securing this discipline.  A third characteristic is an attitude of severe and often hostile criticism toward medieval education and culture. (<a href="../bibliography/a-b/text.shtml#oliver_ainsworth" target="main">Ainsworth</a> 8)</blockquote>
+
+<p class="next">The theories of the Moravian divine and now renowned educator, <a href="http://www.search.eb.com/eb/article?eu=25332" target="main">John Amos Comenius (1592-1670),</a> focused  debate on educational reform, especially concerning the teaching of Latin.  Comenius championed the idea of a "natural method" (<a href="../bibliography/r-s/text.shtml#william_riggs" target="main">Riggs</a> 448).  Gauri Viswanathan writes, "Comenius's empiricist bias had a predominantly theological interest that appealed to Puritan reformers, for he saw in the knowledge of nature, and the ways that nature reveals its secrets, the fundamental source of spiritual meaning and purpose" (<a href="../bibliography/t-z/text.shtml#gauri_viswanathan" target="main">Viswanathan</a> 3).  His ideas attracted the attention of Samuel Hartlib, a Prussian emigrant and merchant who gained prominence as a Puritan educator.  Hartlib assembled a circle of trusted advisors  dedicated to reforming the process of education along lines suggested by Comenius's theories.  In her article "Milton and the Hartlib Circle: Educational Projects and Epic Paideia," Barbara  Lewalski describes their "disgust" for  Aristotelian scholasticism - "the logic chopping, metaphysical subtleties, and rhetorical emphases of the trivium" (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="main">Lewalski</a> 204) - that was associated with the Catholic Church.  Milton was not a member of this assembly, but he did communicate with them and he shared a keen interest in their ideas.  Concerning his relationship to the group, Lewalski writes: "Milton conceived of education and learning in his own terms, which are in dialogue with, but not ... in close agreement with, the projects of the Hartlib Circle" (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="main">Lewalski</a> 202).</p>
+
+<p class="next">Many of the ideas articulated in <span class="booktitle">Of Education</span> were  inspired by Comenius.  For example, Milton believed that education should move from experiences of the senses to the corresponding abstract concepts, that the educational process should be rigorous but also delightful, and that young students (always assumed to be exclusively boys) should study a wide variety of languages, ancient and modern, and read a wide variety of texts.  He also agreed with the Moravian scholar that the current methods of learning Latin and Greek were a waste of time (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="main">Lewalski</a> 209).  However, while the Hartlib Circle endorsed the university system and sought to reform it, Milton "scornfully repudiated university education for arts students and ministers ... He denounced the Aristotelian scholastic university curriculum as a "'Lernian bog' of fallacies" (208).  Milton also disagreed with the Circle on the final goal of education. While Comenius "proposed a pleasurable method of education applicable to and intended for all &mdash; boys and girls, the able and the dull, all social ranks," Milton expressed historical and literary study as "steadfast pillars of the State" and believed that "the object of education was to make good citizens of the state" (<a href="../bibliography/t-z/text.shtml#gauri_viswanathan" target="main">Viswanathan</a> 3).  For Milton, the education of women was not a relevant issue, since they could not be "brave men and worthy patriots."</p>
+
+<p class="next">Such disagreements with his contemporaries suggest that Milton drew heavily on his own educational experiences in forming his opinions.  During the three years just prior to his acceptance at Cambridge, Milton studied at St. Paul's School, a small boys' school founded by John Colet and influenced by both Erasmus and Thomas More (<a href="../bibliography/a-b/text.shtml#peter_ackroyd" target="main">Ackroyd</a> 130) that was  dedicated to a humanist (and largely anti-scholastic) approach to learning.  His practical suggestions in <span class="booktitle">Of Education</span> were based on his good experience at St. Paul's and on his bad experiences under his first tutor at Cambridge, William Chapell (<a href="../bibliography/f-h/text.shtml#Flannagan" target="main">Flannagan</a> 978).  He also drew on "his experience (from 1640-46) in running a school in his home for his nephews and other boys, [and on] the highly disciplined five-year reading program he undertook after university at his father's charge" (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="main">Lewalski</a> 208).  From the testimony of one of his nephews and pupils, Edward Phillips, it appears that Milton was able to put many of his ideas into practice.  Among other things, his school enacted the reversal of the normal educational order that he so strongly despised, and consequently facilitated the learning of Latin and Greek in a very short period of time (<a href="../bibliography/f-h/text.shtml#Flannagan" target="main">Flannagan</a> 978).</p>
+
+<p class="next">Part of this "reversal" was the elevation of the art of poetry to the same level as skills such as rhetoric and logic.    Many critics have speculated as to why Milton included <span class="booktitle">Of Education</span> in the 1673 printing of his early poems; perhaps it was a recognition on his part that the tract's attitude towards education in general and poetry in particular was fundamental to an understanding of his juvenalia.</p>
+
+<p class="next">	An even more popular area of scholarly speculation is how <span class="booktitle">Of Education</span> can  shed  light on readings of  <span class="booktitle">Paradise Lost</span>.  Many critics think that the pamphlet's principles underlie the teaching Adam enjoys from the angels Raphael and Michael, and even in his conversation with the Father (<a href="../pl/book_8/text.shtml#line315" target="main"><span class="booktitle">PL</span> 8.316-451</a>).   Ann Baynes Coiro sees Michael, in Books 11 and 12, as leading Adam "through an education that exactly parallels, down to the smallest detail, the 'methodical course' that Milton had delineated with such precision in his educational tractate" (<a href="../bibliography/c-e/text.shtml#ann_coiro" target="main">Coiro</a>133).  In his essay "Divine Instruction: Of Education and the Pedagogy of Raphael, Michael, and the Father,"  Michael Allen argues that Raphael and Michael serve as foils for the Father, who is "the ideal schoolmaster."  He sees the two angels as representative of Milton's "paradoxical teaching method... whereby teachers offer 'lectures and explanations' so as to 'lead and draw' their students 'in willing obedience, inflamed with the study of learning and the admiration of virtue."  It is the Father who "combines left and right" as the "embodiment" of Milton's educational principles (<a href="../bibliography/a-b/text.shtml#michael_allen" target="main">Allen</a> 114).</p>
+
+<p class="next">Barbara Lewalski believes that  Milton's poetry offers a more effective education than  any of the  reforms debated in the seventeenth century: "Milton's poems undertake directly what his educational projects and anti-censorship arguments could only propose: that is, to develop the moral and political consciousness of a now self-selected 'fit audience,' through a literary regimen at once intellectually arduous and delightful" (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="main">Lewalski</a> 219).</p>
+
+<p class="next">The copytext for this edition of <span class="booktitle">Of Education</span> is a copy of Milton's 1673 <span class="booktitle">Poems, etc.</span> in the  Rauner Library at Dartmouth College (Hickmot 173).</p>  
+<p class="author">
+Katherine Lynch and Thomas H. Luxon
+</p>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+</body>
+</html>

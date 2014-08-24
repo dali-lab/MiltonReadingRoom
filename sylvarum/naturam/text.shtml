@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Sylvarum Liber: Naturam non pati senium</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Sylvarum Liber</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Sylvarum Liber: Naturam non pati senium</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin</a>
+					</li>
+					<li id="notLast">
+						<a href="" id="English">English</a>
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						Texts
+					</li>
+					<li id="notLast">
+						<a href="../anno_16/text.shtml">Anno &aelig;tatis 16</a>
+					</li>
+					<li id="notLast">
+						<a href="../novembris/text.shtml">In Quintus <br>Novembris</a>
+					</li>
+					<li id="notLast">
+						<a href="../ely/text.shtml">Anno &aelig;tatis 17</a>
+					</li>
+					<li id="notLast">
+						<a href="../naturam/text.shtml"><b>Naturam non pati senium</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../idea/text.shtml">De Idea Platonica</a>
+					</li>
+					<li id="notLast">
+						<a href="../patrem/text.shtml">Ad Patrem</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_114/text.shtml">Psalm 114</a>
+					</li>
+					<li id="notLast">
+						<a href="../philosophus/text.shtml">Philosophus ad <br>regem</a>
+					</li>
+					<li id="notLast">
+						<a href="../salsillum/text.shtml">Ad Salsillum</a>
+					</li>
+					<li id="notLast">
+						<a href="../mansus/text.shtml">Mansus</a>
+					</li>
+					<li class="newGroup">
+						<a href="../../effigy/text.shtml">Additions in <i>Poems</i> (1673)</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn"><span class="mi">Naturam non pati senium.</span></a></p>
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Heu"><span>H</span>eu</span> qu&agrave;m perpetuis erroribus acta fatiscit<br />
+Avia mens hominum, tenebrisque immersa profundis<br />
+Oedipodioniam volvit sub pectore noctem!<br />
+Qu&aelig; vesana suis metiri facta deorum<br />
+Audet, &amp; incisas leges adamante perenni<span class="line" id="line5"> [ 5 ]</span><br />
+Assimilare suis, nulloque solubile s&aelig;clo<br />
+Consilium fati perituris alligat horis.
+</p>
+<p>
+<span class="mindent">Erg&oacute;ne marcescet sulcantibus obsita rugis</span><br />
+Natur&aelig; facies, &amp; rerum publica mater<br />
+Omniparum contracta uterum sterilescet ab &aelig;vo?<span class="line" id="line10"> [ 10 ]</span><br />
+Et se fassa senem mal&egrave; certis passibus ibit<br />
+Sidereum tremebunda caput? num tetra vetustas<br />
+Annorumque &aelig;terna fames, squalorque situsque<br />
+Sidera vexabunt? an &amp; insatiabile Tempus<br />
+Esuriet C&aelig;lum, rapietque in viscera patrem?<span class="line" id="line15"> [ 15 ]</span><br />
+Heu, potuitne suas imprudens Jupiter arces<br />
+Hoc contra munisse nefas, &amp; Temporis isto<br />
+Exemisse malo, gyrosque dedisse perennes?<br />
+Ergo erit ut quandoque sono dilapsa tremendo<br />
+Convexi tabulata ruant, atque obvius ictu<span class="line" id="line20"> [ 20 ]</span><br />
+Stridat uterque polus, super&acirc;que ut Olympius aul&acirc;<br />
+Decidat, horribilisque retect&acirc; Gorgone Pallas.<br />
+Qualis in &AElig;g&aelig;am proles Junonia Lemnon<br />
+Deturbata sacro cecidit de limine c&aelig;li.<br />
+Tu quoque Ph&oelig;be tui casus imitabere nati<span class="line" id="line25"> [ 25 ]</span><br />
+Pr&aelig;cipiti curru, subit&aacute;que ferere ruin&acirc;<br />
+Pronus, &amp; extinct&acirc; fumabit lampade Nereus,<br />
+Et dabit attonito feralia sibila ponto.<br />
+Tunc etiam a&euml;rei divulsis sedibus H&aelig;mi<br />
+Dissultabit apex, imoque allisa barathro<span class="line" id="line30"> [ 30 ]</span><br />
+Terrebunt Stygium dejecta Ceraunia Ditem<br />
+In superos quibus usus erat, fraternaque bella.
+</p>
+
+<p>
+<span class="mindent">At Pater omnipotens fundatis fortius astris</span><br />
+Consuluit rerum summ&aelig;, certoque peregit<br />
+Pondere fatorum lances, atque ordine summo<span class="line" id="line35"> [ 35 ]</span><br />
+Singula perpetuum jussit servare tenorem.<br />
+Volvitur hinc lapsu mundi rota prima diurno;<br />
+Raptat &amp; ambitos soci&acirc; vertigine c&aelig;los.<br />
+Tardior haud solito Saturnus, &amp; acer ut olim<br />
+Fulmine&ugrave;m rutilat cristat&acirc; casside Mavors.<span class="line" id="line40"> [ 40 ]</span><br />
+Floridus &aelig;tern&ugrave;m Ph&oelig;bus juvenile coruscat,<br />
+Nec fovet eff&oelig;tas loca per declivia terras<br />
+Devexo temone Deus; sed semper amic&aacute;<br />
+Luce potens eadem currit per signa rotarum,<br />
+Surgit odoratis pariter formosus ab Indis<span class="line" id="line45"> [ 45 ]</span><br />
+&AElig;thereum pecus albenti qui cogit Olympo<br />
+Mane vocans, &amp; serus agens in pascua c&aelig;li,<br />
+Temporis &amp; gemino dispertit regna colore.<br />
+Fulget, obitque vices alterno Delia cornu,<br />
+C&aelig;ruleumque ignem paribus complectitur ulnis.<span class="line" id="line50"> [ 50 ]</span><br />
+Nec variant elementa fidem, solit&oacute;que fragore<br />
+Lurida perculsas jaculantur fulmina rupes.<br />
+Nec per inane furit leviori murmure Corus,<br />
+Stringit &amp; armiferos &aelig;quali horrore Gelonos<br />
+Trux Aquilo, spiratque hyemem, nimbosque volutat.<span class="line" id="line55"> [ 55 ]</span><br />
+Utque solet, Siculi diverberat ima Pelori<br />
+Rex maris, &amp; rauc&acirc; circumstrepit &aelig;quora conch&acirc;<br />
+Oceani Tubicen, nec vast&acirc; mole minorem<br />
+&AElig;g&aelig;ona ferunt dorso Balearica cete.<br />
+Sed neque Terra tibi s&aelig;cli vigor ille vetusti<span class="line" id="line60"> [ 60 ]</span><br />
+Priscus abest, servatque suum Narcissus odorem,<br />
+Et puer ille suum tenet &amp; puer ille decorem<br />
+Ph&oelig;be tuusque &amp; Cypri tuus, nec ditior olim<br />
+Terra datum sceleri celavit montibus aurum<br />
+Conscia, vel sub aquis gemmas. Sic denique in &aelig;vum<span class="line" id="line65"> [ 65 ]</span><br />
+Ibit cunctarum series justissima rerum,<br />
+Donec flamma orbem populabitur ultima, lat&egrave;<br />
+Circumplexa polos, &amp; vasti culmina c&aelig;li;<br />
+Ingentique rogo flagrabit machina mundi.
+</p>
+
+</div>
+</div>
+
+<div id="alternateContent">
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">Nature Suffers No Decay</a>
+</p>
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Alas"><span>A</span>las</span>, how the wandering mind of man grows weary in the endless struggle with error; how, overwhelmed with profound darkness, it involves itself in a night like that wherein <a href="" id="oedipus" class="annotBtn">Oedipus</a> wandered! Insanely it dares to judge the deeds of the gods by its own deeds, and to liken laws inscribed on everlasting adamant to its own laws. It limits to its own passing hours the plan of fate that is unchanged for ever.
+</p>
+
+<p>
+Shall the face of Nature wither, and be furrowed with wrinkles; and shall the common mother, who has borne all things, with closed womb be barren from old age? Must she confess herself aged, and walk with uncertain steps, her starry head trembling? Shall loathsome age and the ceaseless hunger and thirst of the years, shall rust and decay, vex the stars? Shall insatiable Time swallow up Heaven and devour his own father? Alas, could imprudent Jove have fortified his citadels against this evil; could he have made them exempt from the ravages of Time, and have given them perpetual revolutions? Therefore some day it shall come to pass that the crumbling floor of heaven with thundrous roar shall fall in ruins, and the poles of the earth shall crash in collision, when Olympian Jove falls from his celestial palace, and with him dread Athene, her <a href="" id="gorgon" class="annotBtn">Gorgon shield</a> uncovered, even as the <a href="" id="vulcan" class="annotBtn">son of Juno</a> cast down from the sacred threshold of heaven fell upon Aegean Lemnos. And you, too, Phoebus, falling from your rushing chariot, shall imitate <a href="" id="phaeton" class="annotBtn">your own son's fate</a>, and be borne down in sudden ruin; <a href="" id="nereus" class="annotBtn">Nereus</a> shall smoke at the extinction of your lamp, and give forth from the astonished sea a fearful hissing. Then with its foundations rent asunder, the summit even of <a href="" id="haemus" class="annotBtn">lofty Haemus</a> shall crumble; and the <a href="" id="hills" class="annotBtn">Ceraunian hills</a>, which he used in the war on his brother immortals, broken and cast down to the lowest depths shall terrify Stygian Dis.
+</p>
+<p>
+But the Father omnipotent who more firmly fixed the stars took thought for the sum of things, and made the scales of the fates to weigh with certain balance. He ordained all things in the great order to move in their own courses for ever. Therefore the prime wheel of the universe turns in diurnal round, and bears with it in whirling motion the heavenly spheres. Saturn moves no slower than his wont, and, fierce as of old, radiant Mars gleams in crested helmet. Phoebus shines with the bloom of perpetual youth, nor does he warm the valleys of the worn-out earth by a downward turn of his chariot; but ever through the same signs of the spheres he hastens on with friendly light. Beautiful as at first from fragrant India ascends <a href="" id="star" class="annotBtn">the star</a> whose office it is to shepherd the ethereal flocks on whitening Olympus, calling them home at dawn, and at evening leading them out on the pastures of heaven, parting the realms of time with twofold light. With alternate crescents <a href="" id="delia" class="annotBtn">changeful Delia</a> still waxes and wanes, and with outstretched arms still clasps the kindled blue. The elements break not their faith. With its wonted crash the lurid lightning smites the rocks and shatters them. With no gentler sound <a href="" id="corus" class="annotBtn">Corus</a> still rages through the void, and the wild <a href="" id="aquilo" class="annotBtn">Aquilo</a> with equal chill tortures the warlike <a href="" id="Geloni" class="annotBtn">Geloni</a>, as it breathes forth winter and rolls the clouds along. As of old <a href="" id="neptune" class="annotBtn">the sea-king</a> still breaks at the feet of <a href="" id="pelorus" class="annotBtn">Sicilian Pelorus</a>, and the <a href="" id="trumpeter" class="annotBtn">trumpeter of Ocean</a> with his hoarse shell still resounds over the deep. The Balearic monsters bear on their backs the undiminished bulk of <a href="" id="aegaeon" class="annotBtn">Aegaeon</a>. Nor yet, O Earth, are you lacking in your pristine vigor. Narcissus still preserves his perfume; and your favorite boy, O Phoebus, and yours, Cythera, <a href="" id="youth" class="annotBtn">the youth of Cyprus</a>, are lovely as before. Earth, conscious of evil, did not in time past hide richer store of gold beneath the mountains or gems beneath the sea. Thus for ages the unbroken order of all things shall continue, until the final flames destroy the world, enveloping the wide-set poles and the great arch of heaven, and consuming the mighty frame of the world as on a funeral pyre.
+</p>
+ 
+
+</div>
+</div>
+
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

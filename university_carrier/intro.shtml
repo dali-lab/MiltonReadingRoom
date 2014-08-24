@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>On the University Carrier: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner">On the University Carrier</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">On the University Carrier: Introduction</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+	
+	<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="intro.shtml"><b>Introduction</b></a>
+				</li>
+				<li>
+					<a href="text.shtml">Text</a>
+				</li>
+				
+			</ul>	
+	</div>
+<div id="container">
+<div id="content">
+
+<p class="poemTitle">Introduction</p>
+
+<p>
+This and the next poem in the collections of 1645 and 1673 (<a href="../another/text.shtml" target="main">"Another on the same"</a>) are Milton's contributions to  the Hobson jest poems popular on campus at Cambridge University after the death of Thomas Hobson on January 1, 1631.  Hobson was eighty-six when he died and he had served the university for over sixty years by driving a regular coach between The Bull, a London inn, and the University, carrying students, guests, letters, and sometimes parents.  He also hired out horses.  The expression "Hobson's choice" originated as a sarcastic reference to Hobson's insistence that anyone hiring a horse must "choose" the one closest to the stable door.</p>
+<p>
+Milton's second Hobson poem, <a href="../another/text.shtml" target="main">"Another on the same,"</a> appeared with another Hobson poem, called "Hobsons Epitaph," in a collection called <a href="http://wwwlib.umi.com/eebo/image/13794/70" target="main"><span class="booktitle">A Banquet of Jests. Or A Collection of Court. Camp. Colledge. Citie, Country Iests</span></a>  
+(London 1640) pages 129-132.  A 1657 edition of much the same book, now called <a href="http://wwwlib.umi.com/eebo/image/55914/45" target="main"><span class="booktitle">A Banquet of Jests New and Old Or Change of Cheare</span></a> (London, 1657) printed both poems again with some changes on pages 82-84.  Milton's first Hobson poem was republished along with the others as "Another" in <a href="http://wwwlib.umi.com/eebo/image/93926/45" target="main"><span class="booktitle">Wit Restor'd In severall Select Poems Not formerly publish't</span></a>  (London 1658) pages 83-84.   These are all collections of jokes, ribald stories, and satires based on stereotypes of women, servingmen, lawyers, clerics, and others.  The unattributed Hobson poem that appears in all the  collections mentioned above may also, suggested W. R. Parker (<span class="booktitle">Modern Language Review </span>31 [1936]: 395-402), be Milton's, though Milton never chose to include it in either the 1645 or 1673 collections.  The copytext for the present edition is <a href="http://wwwlib.umi.com/eebo/image/114721/19" target="main">1645</a>.</p>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+</body> 
+</html> 

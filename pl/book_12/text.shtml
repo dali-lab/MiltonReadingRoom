@@ -1,0 +1,1036 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Paradise Lost: Book 12</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oranienbaum' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../../miltonNav.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+		
+	</head>
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+
+			<div id="headerPL">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span><br><span id="poemBanner">Paradise Lost</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="">Paradise Lost: Book 12</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="../intro/text.shtml">Introduction</a>
+					</li>
+					<li id="notLast">
+						<a href="../note/text.shtml">Front Matter</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_1/text.shtml">Book 1</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_2/text.shtml">Book 2</a>
+					</li >
+					<li id="notLast">
+						<a href="../book_3/text.shtml">Book 3</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_4/text.shtml">Book 4</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_5/text.shtml">Book 5</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_6/text.shtml">Book 6</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_7/text.shtml">Book 7</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_8/text.shtml">Book 8</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_9/text.shtml">Book 9</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_10/text.shtml">Book 10</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_11/text.shtml">Book 11</a>
+					</li>
+					<li>
+						<a href="../book_12/text.shtml"><b>Book 12</b></a>
+					</li>
+				</ul>
+			</div>
+			
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+<h2 class="msubhead">BOOK 12</h2>
+<h3 class="msubsubhead">THE ARGUMENT</h3>
+
+<div class="prose">
+<p class="margument">
+
+<a name="argument">The Angel</a> <span class="reversem">Michael</span> continues from the Flood to relate what shall
+<a href="" id="succeed" class="annotBtn">succeed</a>; then, in the mention of <span class="reversem">Abraham</span>, comes by degrees to explain,
+who that Seed of the Woman shall be, which was promised <span class="reversem">Adam</span> and <span class="reversem">Eve</span>
+in the Fall; his Incarnation, Death, Resurrection, and <span class="varspell" title="Ascension">Ascention</span>;
+the state of the Church till his second Coming. <span class="reversem">Adam</span> greatly satisfied
+and recomforted by these <a href="" id="Relations" class="annotBtn">Relations</a> and Promises descends the Hill with
+<span class="reversem">Michael</span>; wakens <span class="reversem">Eve</span>, who all this while had slept, but with gentle
+dreams <span class="varspell" title="composed">compos'd</span> to quietness of mind and submission. <span class="reversem">Michael</span> in either
+hand leads them out of Paradise, the fiery Sword waving behind them,
+and the Cherubim taking <span class="varspell" title="their">thir</span> Stations to guard the <a href="" id="Place" class="annotBtn">Place</a>.</p>
+</div>
+
+
+<div class="verse_epic">
+<p class="first">
+<span class="varspell" title="As"><span class="minitial">A</span>S</span> one who in his journey <a href="" id="bates" class="annotBtn">bates</a> at <span class="varspell" title="Noon">Noone</span>,<br />
+Though bent on speed, so <span class="varspell" title="here">heer</span> the Archangel <span class="varspell" title="paused">paus'd</span><br />
+Betwixt the world <span class="varspell" title="destroyed">destroy'd</span> and world <span class="varspell" title="restored">restor'd</span>,<br />
+If <span class="mi">Adam</span> aught perhaps might interpose;<br />
+
+Then with transition sweet new Speech resumes.<span class="line" id="line5"> [ 5 ]</span>
+</p>
+<p>
+Thus thou hast seen one World begin and end;<br />
+And Man as from a second stock proceed.<br />
+Much thou hast yet to see, but I <span class="varspell" title="perceive">perceave</span><br />
+Thy mortal sight to <span class="varspell" title="fail">faile</span>; objects divine<br />
+
+Must needs <span class="varspell" title="impair">impaire</span> and <a href="" id="wearie" class="annotBtn"><span class="varspell" title="weary">wearie</span> human sense</a>:<span class="line" id="line10"> [ 10 ]</span><br />
+Henceforth what is to <span class="varspell" title="come">com</span> I will relate,<br />
+Thou therefore give due audience, and attend.<br />
+This <a href="" id="sours" class="annotBtn">second <span class="varspell" title="source">sours</span></a> of Men, while yet but few;<br />
+And while the dread of judgement past remains<br />
+
+Fresh in <span class="varspell" title="their">thir</span> <span class="varspell" title="minds">mindes</span>, fearing the <span class="varspell" title="Deity">Deitie</span>,<span class="line" id="line15"> [ 15 ]</span><br />
+With some regard to what is just and right<br />
+Shall lead <span class="varspell" title="their">thir</span> lives and <span class="varspell" title="multiply">multiplie</span> apace,<br />
+<span class="varspell" title="Laboring">Labouring</span> the <span class="varspell" title="soil">soile</span>, and reaping plenteous crop,<br />
+Corn wine and <span class="varspell" title="oil">oyle</span>; and from the herd or flock,<br />
+
+Oft sacrificing Bullock, Lamb, or Kid,<span class="line" id="line20"> [ 20 ]</span><br />
+With large Wine-offerings <span class="varspell" title="poured">pour'd</span>, and sacred Feast,<br />
+<span class="varspell" title="Shall">Shal</span> spend <span class="varspell" title="their">thir</span> <span class="varspell" title="days">dayes</span> in joy <span class="varspell" title="unblamed">unblam'd</span>, and dwell<br />
+Long time in peace by Families and Tribes<br />
+Under paternal rule; till one shall rise<br />
+
+Of proud ambitious heart, who not content<span class="line" id="line25"> [ 25 ]</span><br />
+With fair <span class="varspell" title="equality">equalitie</span>, fraternal state,<br />
+Will arrogate Dominion <span class="varspell" title="undeserved">undeserv'd</span><br />
+Over his brethren, and quite dispossess<br />
+Concord and law of Nature from the Earth,<br />
+
+Hunting (and Men not Beasts shall be his game)<span class="line" id="line30"> [ 30 ]</span><br />
+With <span class="varspell" title="War">Warr</span> and hostile snare such as refuse<br />
+Subjection to his Empire tyrannous:<br />
+A <a href="" id="nimrod" class="annotBtn"><span class="varspell" title="mighty">mightie</span> Hunter</a> thence he shall be <span class="varspell" title="styled">styl'd</span><br />
+Before the Lord, as in despite of <span class="varspell" title="Heaven">Heav'n</span>,<br />
+
+Or <a href="" id="claming" class="annotBtn">from <span class="varspell" title="Heaven">Heav'n</span> <span class="varspell" title="claiming">claming</span></a> second <span class="varspell" title="Sovereignty">Sovrantie</span>;<span class="line" id="line35"> [ 35 ]</span><br />
+And <a href="" id="rebel" class="annotBtn">from Rebellion</a> shall derive his name,<br />
+Though of Rebellion others he accuse.<br />
+<span class="varspell" title="He">Hee</span> with a crew, whom like Ambition <span class="varspell" title="joins">joyns</span><br />
+With him or under him to tyrannize,<br />
+
+Marching from <span class="mi">Eden</span> towards the West, shall <span class="varspell" title="find">finde</span><span class="line" id="line40"> [ 40 ]</span><br />
+<a href="" id="plain" class="annotBtn">The Plain</a>, wherein a black bituminous gurge<br />
+<span class="varspell" title="Boils">Boiles</span> out from under ground, the mouth of Hell;<br />
+Of Brick, and of that stuff they cast to build<br />
+<a name="babel">A <span class="varspell" title="City">Citie</span>  and  <span class="varspell" title="Tower">Towre</span></a>, whose top may reach to <span class="varspell" title="Heaven">Heav'n</span>;<br />
+
+And get themselves <a href="" id="name" class="annotBtn">a name</a>, <span class="varspell" title="lest">least</span> far <span class="varspell" title="dispersed">disperst</span><span class="line" id="line45"> [ 45 ]</span><br />
+In <span class="varspell" title="foreign">foraign</span> Lands <span class="varspell" title="their">thir</span> <span class="varspell" title="memory">memorie</span> be lost,<br />
+Regardless whether good or evil fame.<br />
+But God who oft descends to visit men<br />
+Unseen, and through <span class="varspell" title="their">thir</span> habitations walks<br />
+
+To mark <span class="varspell" title="their">thir</span> doings, them beholding soon,<span class="line" id="line50"> [ 50 ]</span><br />
+Comes down to see <span class="varspell" title="their">thir</span> <span class="varspell" title="City">Citie</span>, ere the Tower<br />
+Obstruct <span class="varspell" title="Heaven">Heav'n</span> <span class="varspell" title="Towers">Towrs</span>, and in derision sets<br />
+Upon <span class="varspell" title="their">thir</span> Tongues a <a href="" id="various" class="annotBtn">various</a> Spirit to <a href="" id="rase" class="annotBtn"><span class="varspell" title="erase">rase</span></a><br />
+Quite out <span class="varspell" title="their">thir</span> Native Language, and instead<br />
+
+To sow a jangling noise of words unknown:<span class="line" id="line55"> [ 55 ]</span><br />
+Forthwith a hideous gabble rises loud<br />
+Among the Builders; each to other calls<br />
+Not understood, till hoarse, and all in rage,<br />
+As <span class="varspell" title="mocked">mockt</span> they storm; great laughter was in <span class="varspell" title="Heaven">Heav'n</span><br />
+
+And looking down, to see the hubbub strange<span class="line" id="line60"> [ 60 ]</span><br />
+And hear the din; thus was the building left<br />
+Ridiculous, and the work Confusion <span class="varspell" title="named">nam'd</span>.
+</p>
+<p>
+Whereto thus <span class="mi">Adam</span> fatherly <span class="varspell" title="displeased">displeas'd</span>.<br />
+O <a name="execrableson">execrable</a> Son so to aspire<br />
+
+Above his Brethren, to himself assuming<span class="line" id="line65"> [ 65 ]</span><br />
+<span class="varspell" title="Authority">Authoritie</span> <span class="varspell" title="usurped">usurpt</span>, from God not <span class="varspell" title="given">giv'n</span>:<br />
+He gave us <span class="varspell" title="only">onely</span> over Beast, Fish, Fowl<br />
+Dominion absolute; that right we hold<br />
+By his donation; but Man over men<br />
+
+He made not Lord; such title to himself<span class="line" id="line70"> [ 70 ]</span><br />
+Reserving, human left from human free.<br />
+But this Usurper his encroachment proud<br />
+<span class="varspell" title="Stays">Stayes</span> not on Man; to God his Tower intends<br />
+Siege and defiance: Wretched man! what food<br />
+
+Will he convey up thither to sustain<span class="line" id="line75"> [ 75 ]</span><br />
+Himself and his rash <span class="varspell" title="Army">Armie</span>, where thin <span class="varspell" title="Air">Aire</span><br />
+Above the Clouds will pine his entrails gross,<br />
+And famish him of Breath, if not of Bread?
+</p>
+<p>
+To whom thus <span class="mi">Michael</span>.  Justly thou <span class="varspell" title="abhorrest">abhorr'st</span><br />
+
+That Son, who on the quiet state of men<span class="line" id="line80"> [ 80 ]</span><br />
+Such trouble brought, affecting to subdue<br />
+Rational <span class="varspell" title="Liberty">Libertie</span>; yet know <span class="varspell" title="withal">withall</span>,<br />
+<a name="liberty">Since</a> thy original lapse, <a href="" id="Libertie" class="annotBtn">true <span class="varspell" title="Liberty">Libertie</span></a><br />
+Is lost, which <span class="varspell" title="always">alwayes</span> with right Reason dwells<br />
+
+
+<span class="varspell" title="Twinned">Twinn'd</span>, and from her hath no <span class="varspell" title="individual">dividual</span> being:<span class="line" id="line85"> [ 85 ]</span><br />
+<a name="reasonobscured">Reason</a> in man <span class="varspell" title="obscured">obscur'd</span>, or not <span class="varspell" title="obeyed">obeyd</span>,<br />
+Immediately inordinate desires<br />
+And upstart Passions catch the Government<br />
+From Reason, and to servitude reduce<br />
+
+Man till then free. Therefore since <span class="varspell" title="he">hee</span> permits<span class="line" id="line90"> [ 90 ]</span><br />
+Within himself <span class="varspell" title="unworthy">unworthie</span> Powers to reign<br />
+Over free Reason, God in Judgement just<br />
+Subjects him from without to violent Lords;<br />
+Who oft as undeservedly enthrall<br />
+
+His outward freedom: <a name="tyranny"><span class="varspell" title="Tyranny">Tyrannie</span></a> must be,<span class="line" id="line95"> [ 95 ]</span><br />
+Though to the Tyrant thereby no excuse.<br />
+Yet <span class="varspell" title="sometimes">somtimes</span> Nations will decline so low<br />
+From <span class="varspell" title="virtue">vertue</span>, which is reason, that no wrong,<br />
+But Justice, and <a href="" id="fatal" class="annotBtn">some fatal curse</a> <span class="varspell" title="annexed">annext</span><br />
+
+Deprives them of <span class="varspell" title="their">thir</span> outward <span class="varspell" title="liberty">libertie</span>,<span class="line" id="line100"> [ 100 ]</span><br />
+<span class="varspell" title="Their">Thir</span> inward lost: Witness <span class="varspell" title="the">th'</span> <a href="" id="irreverent" class="annotBtn">irreverent Son</a><br />
+Of him who built the Ark, who for the shame<br />
+<span class="varspell" title="Done">Don</span> to his Father, heard this <span class="varspell" title="heavy">heavie</span> curse,<br />
+<span class="mi">Servant of Servants</span>, on his <span class="varspell" title="vicious">vitious</span> Race.<br />
+
+Thus will this latter, as the former World,<span class="line" id="line105"> [ 105 ]</span><br />
+Still tend from bad to worse, till God at last<br />
+Wearied with their iniquities, withdraw<br />
+His presence from among them, and avert<br />
+His holy Eyes; resolving from thenceforth<br />
+
+To leave them to <span class="varspell" title="their">thir</span> own polluted <span class="varspell" title="ways">wayes</span>;<span class="line" id="line110"> [ 110 ]</span><br />
+And <a href="" id="peculiar" class="annotBtn">one peculiar Nation</a> to select<br />
+From all the rest, of whom to be <span class="varspell" title="invoked"> invok'd</span>,<br />
+A Nation from <a href="" id="faithful" class="annotBtn">one faithful man</a> to spring:<br />
+Him on this side <span class="mi">Euphrates</span> yet residing,<br />
+
+<a href="" id="Bred" class="annotBtn">Bred up in Idol-worship</a>; O that men<span class="line" id="line115"> [ 115 ]</span><br />
+(Canst thou believe?) should be so stupid grown,<br />
+While yet the <span class="varspell" title="Patriarch">Patriark</span> <span class="varspell" title="lived">liv'd</span>, who <span class="varspell" title="escaped">scap'd</span> the Flood,<br />
+As to forsake the living God, and fall<br />
+To worship <span class="varspell" title="their">thir</span> own work in Wood and Stone<br />
+
+For Gods! yet him God the most High <span class="varspell" title="vouchsafes">voutsafes</span><span class="line" id="line120"> [ 120 ]</span><br />
+To <a href="" id="Vision" class="annotBtn">call by Vision</a> from his <span class="varspell" title="Father's">Fathers</span> house,<br />
+His kindred and false Gods, into a Land<br />
+Which he will <span class="varspell" title="show">shew</span> him, and from him will raise<br />
+A <span class="varspell" title="mighty">mightie</span> Nation, and upon him <span class="varspell" title="shower">showre</span><br />
+
+His benediction so, that in his Seed<span class="line" id="line125"> [ 125 ]</span><br />
+All Nations shall be <span class="varspell" title="blessed">blest</span>; he straight obeys<br />
+Not knowing to what Land, yet firm <a href="" id="believes" class="annotBtn">believes</a>:<br />
+I see him, but thou canst not, with what Faith<br />
+He leaves his Gods, his Friends, and native <span class="varspell" title="Soil">Soile</span><br />
+
+Ur of <span class="mi"><span class="varspell" title="Chaldaea">Chald&aelig;a</span></span>, passing now the Ford<span class="line" id="line130"> [ 130 ]</span><br />
+To <span class="mi">Haran</span>, after a cumbrous Train<br />
+Of Herds and Flocks, and numerous <a href="" id="servitude" class="annotBtn">servitude</a>;<br />
+Not <span class="varspell" title="wandering">wandring</span> poor, but trusting all his wealth<br />
+With God, who <span class="varspell" title="called">call'd</span> him, in a land unknown.<br />
+
+<span class="mi">Canaan</span> he now attains, I see his Tents<span class="line" id="line135"> [ 135 ]</span><br />
+<span class="varspell" title="Pitched">Pitcht</span> about <span class="mi">Sechem</span>, and the <span class="varspell" title="neighboring">neighbouring</span> <span class="varspell" title="Plain">Plaine</span><br />
+Of <a href="" id="Moreh" class="annotBtn"><span class="mi">Moreh</span></a>; there by promise he <span class="varspell" title="receives">receaves</span><br />
+Gift to his <span class="varspell" title="Progeny">Progenie</span> of all that Land;<br />
+From <span class="mi">Hamath</span> Northward to the Desert South<br />
+
+(Things by <span class="varspell" title="their">thir</span> names I call, though yet <span class="varspell" title="unnamed">unnam'd</span>)<span class="line" id="line140"> [ 140 ]</span><br />
+From <span class="mi">Hermon</span> East to the great Western Sea,<br />
+Mount <span class="mi">Hermon</span>, yonder Sea, each place behold<br />
+In prospect, as I point them; on the <span class="varspell" title="shore">shoare</span><br />
+Mount <span class="mi">Carmel</span>; here the double-founted stream<br />
+
+<span class="mi">Jordan</span>, true limit Eastward; but his Sons<span class="line" id="line145"> [ 145 ]</span><br />
+Shall dwell to <a href="" id="Senir" class="annotBtn"><span class="mi">Senir</span></a>, that long <a href="" id="line146" class="annotBtn">ridge of Hills</a>.<br />
+This ponder, that all Nations of the Earth<br />
+Shall in his Seed be blessed; by <a href="" id="Seed" class="annotBtn">that Seed</a><br />
+Is meant thy great deliverer, who shall bruise<br />
+
+The <span class="varspell" title="Serpent's">Serpents</span> head; whereof to thee anon<span class="line" id="line150"> [ 150 ]</span><br />
+Plainlier shall be <span class="varspell" title="revealed">reveald</span>. This Patriarch <span class="varspell" title="blessed">blest</span>,<br />
+Whom <span class="mi">faithful Abraham</span> due time shall call,<br />
+A Son, and of his Son a <a href="" id="childe" class="annotBtn">Grand-<span class="varspell" title="child">childe</span></a> leaves,<br />
+Like him in faith, in wisdom, and renown;<br />
+
+The <span class="varspell" title="Grandchild">Grandchilde</span> with <a href="" id="twelve" class="annotBtn">twelve Sons</a> <span class="varspell" title="increased">increast</span>, departs<span class="line" id="line155"> [ 155 ]</span><br />
+From <span class="mi">Canaan</span>, to a land hereafter <span class="varspell" title="called">call'd</span><br />
+<span class="mi">Egypt</span>, divided by the River <span class="mi">Nile</span>;<br />
+See where it flows, disgorging at <a href="" id="seaven" class="annotBtn"><span class="varspell" title="seven"> seaven</span> <span class="varspell" title="mouths">mouthes</span></a><br />
+Into the Sea: to sojourn in that Land<br />
+
+He comes invited by a <a href="" id="yonger" class="annotBtn"><span class="varspell" title="younger">yonger</span> Son</a><span class="line" id="line160"> [ 160 ]</span><br />
+In time of dearth, a Son whose worthy deeds<br />
+Raise him to be the second in that <span class="varspell" title="Realm">Realme</span><br />
+Of <span class="mi"><span class="varspell" title="Pharaoh">Pharao</span></span>: there he dies, and leaves his Race<br />
+Growing into a Nation, and now grown<br />
+
+Suspected to a <a href="" id="sequent" class="annotBtn">sequent King</a>, who seeks<span class="line" id="line165"> [ 165 ]</span><br />
+To stop <span class="varspell" title="their">thir</span> overgrowth, as inmate guests<br />
+Too numerous; whence of guests he makes them slaves<br />
+Inhospitably, and <a href="" id="infant" class="annotBtn">kills <span class="varspell" title="their">thir</span> infant Males</a>:<br />
+Till by two brethren (those two brethren call<br />
+
+<span class="mi">Moses</span> and <span class="mi">Aaron</span>) sent from God to <span class="varspell" title="claim">claime</span><span class="line" id="line170"> [ 170 ]</span><br />
+His people from <span class="varspell" title="enthrallment">enthralment</span>, they return<br />
+With glory and <span class="varspell" title="spoil">spoile</span> back to <span class="varspell" title="their">thir</span> <span class="varspell" title="promised">promis'd</span> Land.<br />
+But first the lawless Tyrant, who denies<br />
+To know <span class="varspell" title="their">thir</span> God, or message to regard,<br />
+
+Must be <span class="varspell" title="compelled">compelld</span> by <a href="" id="dire" class="annotBtn"><span class="varspell" title="Signs">Signes</span> and Judgements dire</a>;<span class="line" id="line175"> [ 175 ]</span><br />
+To blood unshed the Rivers must be <span class="varspell" title="turned">turnd</span>,<br />
+Frogs, Lice and Flies must all his Palace fill<br />
+With <span class="varspell" title="loathed">loath'd</span> intrusion, and fill all the land;<br />
+His <span class="varspell" title="Cattle">Cattel</span> must of Rot and <a href="" id="Murren" class="annotBtn"><span class="varspell" title="Murrain">Murren</span></a> die,<br />
+
+<a href="" id="blaines" class="annotBtn">Botches and <span class="varspell" title="blains">blaines</span></a> must all his flesh <span class="varspell" title="emboss">imboss</span>,<span class="line" id="line180"> [ 180 ]</span><br />
+And all his people; Thunder <span class="varspell" title="mixed">mixt</span> with <span class="varspell" title="Hail">Haile</span>,<br />
+<span class="varspell" title="Hail">Haile</span> <span class="varspell" title="mixed">mixt</span> with fire must rend <span class="varspell" title="the">th'</span> <span class="mi">Egyptian</span> <span class="varspell" title="Sky">Skie</span><br />
+And wheel on <span class="varspell" title="the">th'</span> Earth, devouring where it <span class="varspell" title="rolls">rouls</span>;<br />
+What it devours not, Herb, or Fruit, or <span class="varspell" title="Grain">Graine</span>,<br />
+
+A <span class="varspell" title="darksome">darksom</span> Cloud of Locusts swarming down<span class="line" id="line185"> [ 185 ]</span><br />
+Must eat, and on the ground leave nothing green:<br />
+Darkness must overshadow all his bounds,<br />
+Palpable darkness, and blot out three <span class="varspell" title="days">dayes</span>;<br />
+Last with one midnight stroke all the first-born<br />
+
+Of <span class="mi">Egypt</span> must lie dead. Thus with ten wounds<span class="line" id="line190"> [ 190 ]</span><br />
+The <a href="" id="dragon" class="annotBtn">River-dragon</a> <span class="varspell" title="tamed">tam'd</span> at length submits<br />
+To let his <a href="" id="sojourners" class="annotBtn">sojourners</a> depart, and oft<br />
+Humbles his stubborn heart, but still as Ice<br />
+More <span class="varspell" title="hardened">hard'nd</span> after thaw, till in his rage<br />
+
+Pursuing whom he late <span class="varspell" title="dismissed">dismissd</span>, the Sea<span class="line" id="line195"> [ 195 ]</span><br />
+Swallows him with his Host, but them lets pass<br />
+As on <span class="varspell" title="dry">drie</span> land between two <a href="" id="christal" class="annotBtn"><span class="varspell" title="chrystal">christal</span> walls</a>,<br />
+<span class="varspell" title="Awed">Aw'd</span> by the rod of <span class="mi">Moses</span> so to stand<br />
+Divided, till his <span class="varspell" title="rescued">rescu'd</span> gain <span class="varspell" title="their">thir</span> <span class="varspell" title="shore">shoar</span>:<br />
+
+Such wondrous power God to his Saint will lend,<span class="line" id="line200"> [ 200 ]</span><br />
+Though <a href="" id="present" class="annotBtn">present in his Angel</a>, who shall <span class="varspell" title="go">goe</span><br />
+Before them in a Cloud, and Pillar of Fire,<br />
+By day a Cloud, by night a Pillar of Fire,<br />
+To guide them in <span class="varspell" title="their">thir</span> journey, and remove<br />
+
+<span class="varspell" title="Behind">Behinde</span> them, while <a href="" id="line204" class="annotBtn"><span class="varspell" title="the">th'</span> <span class="varspell" title="obdurate">obdurat</span> King</a> pursues:<span class="line" id="line205"> [ 205 ]</span><br />
+All night he will pursue, but his approach<br />
+Darkness defends between till morning Watch;<br />
+Then through the <span class="varspell" title="Fiery">Firey</span> Pillar and the Cloud<br />
+God looking forth will trouble all his Host<br />
+
+And <a href="" id="craze" class="annotBtn">craze</a> <span class="varspell" title="their">thir</span> Chariot wheels: when by command<span class="line" id="line210"> [ 210 ]</span><br />
+<span class="mi">Moses</span> once more his potent Rod extends<br />
+Over the Sea; the Sea his Rod obeys;<br />
+On <span class="varspell" title="their">thir</span> <span class="varspell" title="embattled">imbattelld</span> ranks the Waves return,<br />
+And overwhelm <a href="" id="Warr" class="annotBtn"><span class="varspell" title="their">thir</span> <span class="varspell" title="War">Warr</span></a>: the <a href="" id="Race" class="annotBtn">Race elect</a><br />
+
+Safe towards <span class="mi">Canaan</span> from the <span class="varspell" title="shore">shoar</span> advance<span class="line" id="line215"> [ 215 ]</span><br />
+Through the <span class="varspell" title="wild">wilde</span> Desert, not the readiest way,<br />
+<span class="varspell" title="Lest">Least</span> <span class="varspell" title="entering">entring</span> on the <span class="mi">Canaanite</span> <span class="varspell" title="alarmed">allarmd</span><br />
+<span class="varspell" title="War">Warr</span> <span class="varspell" title="terrify">terrifie</span> them inexpert, and <span class="varspell" title="fear">feare</span><br />
+Return them back to <span class="mi">Egypt</span>, choosing rather<br />
+
+Inglorious life with servitude; for life<span class="line" id="line220"> [ 220 ]</span><br />
+To noble and ignoble is more sweet<br />
+<span class="varspell" title="Untrained">Untraind</span> in <a href="" id="line222" class="annotBtn"><span class="varspell" title="Arms">Armes</span></a>, where rashness leads not on.<br />
+This also shall they gain by <a href="" id="delay" class="annotBtn"><span class="varspell" title="their">thir</span> delay</a><br />
+In the wide Wilderness, there they shall found<br />
+
+<span class="varspell" title="Their">Thir</span> government, and <span class="varspell" title="their">thir</span> <a href="" id="Senate" class="annotBtn">great Senate</a> choose<span class="line" id="line225"> [ 225 ]</span><br />
+Through the twelve Tribes, to rule by Laws <span class="varspell" title="ordained">ordaind</span>:<br />
+God from the Mount of Sinai, whose gray top<br />
+Shall tremble, he descending, will himself<br />
+In Thunder Lightning and loud <span class="varspell" title="Trumpets'">Trumpets</span> sound<br />
+
+<span class="varspell" title="Ordain">Ordaine</span> them <span class="varspell" title="Laws">Lawes</span>; part such as <span class="varspell" title="appertain">appertaine</span><span class="line" id="line230"> [ 230 ]</span><br />
+To civil Justice, part religious Rites<br />
+Of sacrifice, informing them, by types<br />
+And <a href="" id="shadowes" class="annotBtn"><span class="varspell" title="shadows">shadowes</span></a>, of that <span class="varspell" title="destined">destind</span> Seed to bruise<br />
+The Serpent, by what <span class="varspell" title="means">meanes</span> he shall achieve<br />
+
+<span class="varspell" title="Mankind's">Mankinds</span> deliverance. But the voice of God<span class="line" id="line235"> [ 235 ]</span><br />
+To mortal <span class="varspell" title="ear">eare</span> is <a href="" id="dreadful" class="annotBtn">dreadful</a>; they beseech<br />
+That <span class="mi">Moses</span> might report to them his will,<br />
+And terror cease; he grants what they <span class="varspell" title="besought">besaught</span><br />
+Instructed that to God is no access<br />
+
+Without Mediator, whose high Office now<span class="line" id="line240"> [ 240 ]</span><br />
+<span class="mi">Moses</span> in figure <span class="varspell" title="bears">beares</span>, to introduce<br />
+One greater, of whose day he shall foretell,<br />
+And all the Prophets in <span class="varspell" title="their">thir</span> Age the times<br />
+Of great <a href="" id="Messiah" class="annotBtn"><span class="mi">Messiah</span></a> shall sing. Thus Laws and Rites<br />
+
+<span class="varspell" title="Established">Establisht</span>, such delight hath God in Men<span class="line" id="line245"> [ 245 ]</span><br />
+Obedient to his will, that he <span class="varspell" title="vouchsafes">voutsafes</span><br />
+Among them to set up his <a href="" id="Tabernacle" class="annotBtn">Tabernacle</a>,<br />
+The holy One with mortal Men to dwell:<br />
+By his prescript a Sanctuary is <span class="varspell" title="framed">fram'd</span><br />
+
+Of Cedar, overlaid with Gold, therein<span class="line" id="line250"> [ 250 ]</span><br />
+An Ark, and in the Ark his Testimony,<br />
+The Records of his <span class="varspell" title="Covenant">Cov'nant</span>, over these<br />
+A <span class="varspell" title="Mercy">Mercie</span>-seat of Gold between the wings<br />
+Of two bright Cherubim, before him burn<br />
+
+<a href="" id="Seaven" class="annotBtn"><span class="varspell" title="Seven">Seaven</span> Lamps</a> as in a Zodiac representing<span class="line" id="line255"> [ 255 ]</span><br />
+The <span class="varspell" title="Heavenly">Heav'nly</span> fires; over the Tent a Cloud<br />
+Shall rest by Day, a fiery <span class="varspell" title="gleam">gleame</span> by Night,<br />
+Save when they <span class="varspell" title="journey">journie</span>, and at length they come,<br />
+Conducted by his Angel to the Land<br />
+
+<span class="varspell" title="Promised">Promisd</span> to <span class="mi">Abraham</span> and his Seed: the rest<span class="line" id="line260"> [ 260 ]</span><br />
+Were long to tell, how many <span class="varspell" title="Battles">Battels</span> fought,<br />
+How many Kings <span class="varspell" title="destroyed">destroyd</span>, and Kingdoms won,<br />
+Or how the Sun shall in mid <span class="varspell" title="Heaven">Heav'n</span> <a href="" id="stand" class="annotBtn">stand still</a><br />
+A day entire, and <span class="varspell" title="Night's">Nights</span> due course <span class="varspell" title="adjourn">adjourne</span>,<br />
+
+<span class="varspell" title="Man's">Mans</span> voice commanding, Sun in <span class="mi">Gibeon</span> stand,<span class="line" id="line265"> [ 265 ]</span><br />
+And thou Moon in the vale of <span class="mi"><span class="varspell" title="Ajalon">Aialon</span></span>,<br />
+Till <a href="" id="line267" class="annotBtn"><span class="mi">Israel</span></a> overcome; so call the third<br />
+From <span class="mi">Abraham</span>, Son of <span class="mi">Isaac</span>, and from him<br />
+His whole descent, who thus shall <span class="mi">Canaan</span> win.
+
+
+</p>
+<p>
+Here <span class="mi">Adam</span> <span class="varspell" title="interposed">interpos'd</span>. O sent from <span class="varspell" title="Heaven">Heav'n</span>,<span class="line" id="line270"> [ 270 ]</span><br />
+<span class="varspell" title="Enlightener">Enlightner</span> of my darkness, gracious things<br />
+Thou hast <span class="varspell" title="revealed">reveald</span>, those chiefly which <span class="varspell" title="concern">concerne</span><br />
+Just <span class="mi">Abraham</span> and his Seed: now first I <span class="varspell" title="find">finde</span><br />
+Mine eyes true <span class="varspell" title="opening">op'ning</span>, and my heart much <span class="varspell" title="eased">eas'd</span>,<br />
+
+<span class="varspell" title="Erewhile">Erwhile</span> <span class="varspell" title="perplexed">perplext</span> with thoughts what would <span class="varspell" title="become">becom</span><span class="line" id="line275"> [ 275 ]</span><br />
+Of <span class="varspell" title="me">mee</span> and all Mankind; but now I see<br />
+His day, in whom all Nations shall be <span class="varspell" title="blessed">blest</span>,<br />
+<span class="varspell" title="Favor">Favour</span> unmerited by me, who sought<br />
+<span class="varspell" title="Forbidden">Forbidd'n</span> knowledge by <span class="varspell" title="forbidden">forbidd'n</span> means.<br />
+
+This yet I apprehend not, why to those<span class="line" id="line280"> [ 280 ]</span><br />
+Among whom God will <span class="varspell" title="deign">deigne</span> to dwell on Earth<br />
+So many and so various Laws are <span class="varspell" title="given">giv'n</span>;<br />
+So many Laws argue so many sins<br />
+Among them; how can God with such reside?
+</p>
+<p>
+To whom thus <span class="mi">Michael.</span> Doubt not but that sin<span class="line" id="line285"> [ 285 ]</span><br />
+Will reign among them, as of thee begot;<br />
+And therefore was Law given them to <a href="" id="evince" class="annotBtn">evince</a><br />
+<span class="varspell" title="Their">Thir</span> natural <a href="" id="pravitie" class="annotBtn"><span class="varspell" title="depravity">pravitie</span></a>, by stirring up<br />
+Sin against Law to fight; that when they see<br />
+
+Law can discover sin, but not remove,<span class="line" id="line290"> [ 290 ]</span><br />
+Save by those <span class="varspell" title="shadowy">shadowie</span> expiations weak,<br />
+The <span class="varspell" title="blood">bloud</span> of Bulls and Goats, they may conclude<br />
+Some <span class="varspell" title="blood">bloud</span> more precious must be paid for Man,<br />
+Just for unjust, that in such righteousness<br />
+
+To them by Faith imputed, they may <span class="varspell" title="find">finde</span><span class="line" id="line295"> [ 295 ]</span><br />
+Justification towards God, and peace<br />
+Of Conscience, which the Law by Ceremonies<br />
+Cannot appease, nor Man the moral part<br />
+Perform, and not performing <a href="" id="line299" class="annotBtn">cannot live</a>.<br />
+
+So Law appears <span class="varspell" title="imperfect">imperfet</span>, and but <span class="varspell" title="given">giv'n</span><span class="line" id="line300"> [ 300 ]</span><br />
+With purpose to resign them in full time<br />
+Up to <a href="" id="covnant" class="annotBtn">a better <span class="varspell" title="Covenant">Cov'nant</span></a>, <span class="varspell" title="disciplined">disciplin'd</span><br />
+From <a href="" id="shadowie" class="annotBtn"><span class="varspell" title="shadowy">shadowie</span> Types to Truth</a>, from Flesh to Spirit,<br />
+From imposition of strict Laws, to free<br />
+
+Acceptance of large Grace, from <span class="varspell" title="servile">servil</span> fear<span class="line" id="line305"> [ 305 ]</span><br />
+To filial, works of Law to works of Faith.<br />
+And therefore shall not <span class="mi">Moses</span>, though of God<br />
+Highly <span class="varspell" title="beloved">belov'd</span>, being but the Minister<br />
+Of Law, his people into <span class="mi">Canaan</span> lead;<br />
+
+But <span class="mi">Joshua</span> whom the Gentiles <span class="mi">Jesus</span> call,<span class="line" id="line310"> [ 310 ]</span><br />
+His Name and Office bearing, who shall quell<br />
+The <span class="varspell" title="adversary">adversarie</span> Serpent, and bring back<br />
+Through the <span class="varspell" title="world's">worlds</span> wilderness long <span class="varspell" title="wandered">wanderd</span> man<br />
+Safe to eternal Paradise of rest.<br />
+
+Meanwhile they in <span class="varspell" title="their">thir</span> <a href="" id="earthly" class="annotBtn">earthly <span class="mi">Canaan</span></a> <span class="varspell" title="placed">plac't</span><span class="line" id="line315"> [ 315 ]</span><br />
+Long time shall dwell and prosper, but when sins<br />
+National interrupt <span class="varspell" title="their">thir</span> public peace,<br />
+Provoking God to raise them enemies:<br />
+From whom as oft he saves them penitent<br />
+
+By <a href="" id="first" class="annotBtn">Judges first</a>, then under Kings; of whom<span class="line" id="line320"> [ 320 ]</span><br />
+The second, both for <span class="varspell" title="piety">pietie</span> <span class="varspell" title="renowned">renownd</span><br />
+And puissant deeds, a promise shall receive<br />
+Irrevocable, that his Regal Throne<br />
+For ever shall endure; the like shall sing<br />
+
+All <span class="varspell" title="Prophecy">Prophecie</span>, That of the Royal Stock<span class="line" id="line325"> [ 325 ]</span><br />
+Of <span class="mi">David</span> (so I name this King) shall rise<br />
+A Son, <a href="" id="Seed2" class="annotBtn">the <span class="varspell" title="Woman's">Womans</span> Seed</a> to thee foretold,<br />
+Foretold to <span class="mi">Abraham</span>, as in whom shall trust<br />
+All Nations, and to Kings foretold, of Kings<br />
+
+The last, for of his Reign shall be no end.<span class="line" id="line330"> [ 330 ]</span><br />
+But first a long succession must ensue,<br />
+And his <a href="" id="next" class="annotBtn">next Son</a> for Wealth and Wisdom <span class="varspell" title="famed">fam'd</span>,<br />
+The clouded Ark of God till then in Tents<br />
+<span class="varspell" title="Wandering">Wandring</span>, shall in a glorious Temple enshrine.<br />
+
+Such follow him, as shall be <span class="varspell" title="registered">registerd</span><span class="line" id="line335"> [ 335 ]</span><br />
+Part good, part bad, of bad the longer <span class="varspell" title="scroll">scrowle</span>,<br />
+Whose foul Idolatries, and other faults<br />
+<span class="varspell" title="Heaped">Heapt</span> to the popular <span class="varspell" title="sum">summe</span>, will so incense<br />
+God, as to leave them, and expose <span class="varspell" title="their">thir</span> Land,<br />
+
+<span class="varspell" title="Their">Thir</span> <span class="varspell" title="City">Citie</span>, his Temple, and his holy Ark<span class="line" id="line340"> [ 340 ]</span><br />
+With all his sacred things, a scorn and prey<br />
+To that proud <span class="varspell" title="City">Citie</span>, whose high Walls thou <span class="varspell" title="sawest">saw'st</span><br />
+Left in confusion, <a href="" id="Babylon" class="annotBtn"><span class="mi">Babylon</span></a> thence <span class="varspell" title="called">call'd</span>.<br />
+There in <span class="varspell" title="captivity">captivitie</span> he lets them dwell<br />
+
+The space of <span class="varspell" title="seventy">seventie</span> years, then brings them back,<span class="line" id="line345"> [ 345 ]</span><br />
+<span class="varspell" title="Remembering">Remembring</span> <span class="varspell" title="mercy">mercie</span>, and his <span class="varspell" title="Covenant">Cov'nant</span> sworn<br />
+To <span class="mi">David</span>, <span class="varspell" title="established">stablisht</span> as the <span class="varspell" title="days">dayes</span> of <span class="varspell" title="Heaven">Heav'n</span>.<br />
+<span class="varspell" title="Returned">Returnd</span> from <span class="mi">Babylon</span> by leave of Kings<br />
+<span class="varspell" title="Their">Thir</span> Lords, whom God <span class="varspell" title="disposed"> dispos'd</span>, the house of God<br />
+
+They first<a href="" id="edifie" class="annotBtn"> re-<span class="varspell" title="edify">edifie</span></a>, and for a while<span class="line" id="line350"> [ 350 ]</span><br />
+In mean estate live moderate, till grown<br />
+In wealth and multitude, factious they grow;<br />
+But first <a href="" id="among" class="annotBtn">among the Priests</a> dissension springs,<br />
+Men who attend the Altar, and should most<br />
+
+<span class="varspell" title="Endeavor">Endeavour</span> Peace: <span class="varspell" title="their">thir</span> strife pollution brings<span class="line" id="line355"> [ 355 ]</span><br />
+Upon the Temple it self: at last they <span class="varspell" title="seize">seise</span><br />
+The Scepter, and regard not <span class="mi"><span class="varspell" title="David's">Davids</span></span> Sons,<br />
+Then <span class="varspell" title="lose">loose</span> it to a <a href="" id="stranger" class="annotBtn">stranger</a>, that the true<br />
+Anointed King <span class="mi">Messiah</span> might be born<br />
+
+<span class="varspell" title="Barred">Barr'd</span> of his right; yet at his Birth a <span class="varspell" title="Star">Starr</span><span class="line" id="line360"> [ 360 ]</span><br />
+Unseen before in <span class="varspell" title="Heaven">Heav'n</span> proclaims him <span class="varspell" title="come">com</span>,<br />
+And guides the <a href="" id="Eastern" class="annotBtn">Eastern Sages</a>, who <span class="varspell" title="inquire">enquire</span><br />
+His place, to offer Incense, Myrrh, and Gold;<br />
+His place of birth a solemn Angel tells<br />
+
+To simple Shepherds, keeping watch by night;<span class="line" id="line365"> [ 365 ]</span><br />
+They gladly thither haste, and by a <span class="varspell" title="Choir">Quire</span><br />
+Of <span class="varspell" title="squadroned">squadrond</span> Angels hear his <a href="" id="line367" class="annotBtn">Carol sung</a>.<br />
+A Virgin is his Mother, but his Sire<br />
+The <a href="" id="Power" class="annotBtn">Power of the most High</a>; he shall ascend<br />
+
+The Throne <span class="varspell" title="hereditary">hereditarie</span>, and bound his Reign<span class="line" id="line370"> [ 370 ]</span><br />
+With <span class="varspell" title="earth's">earths</span> wide bounds, his glory with the <span class="varspell" title="Heavens">Heav'ns</span>.
+</p>
+<p>
+He <span class="varspell" title="ceased">ceas'd</span>, discerning <span class="mi">Adam</span> with such joy<br />
+<span class="varspell" title="Surcharged">Surcharg'd</span>, as had like grief <span class="varspell" title="been">bin</span> <span class="varspell" title="dewed">dew'd</span> in tears,<br />
+Without the vent of words, which these he <span class="varspell" title="breathed">breathd</span>.
+</p>
+<p>
+O Prophet of glad tidings, finisher<span class="line" id="line375"> [ 375 ]</span><br />
+Of utmost hope! now clear I understand<br />
+What oft my <span class="varspell" title="steadiest">steddiest</span> thoughts have <span class="varspell" title="searched">searcht</span> in vain,<br />
+Why our great expectation should be <span class="varspell" title="called">call'd</span><br />
+The seed of Woman: <a href="" id="Haile" class="annotBtn">Virgin Mother, <span class="varspell" title="Hail">Haile</span></a>,<br />
+
+High in the love of <span class="varspell" title="Heaven">Heav'n</span>, yet from my <span class="varspell" title="Loins">Loynes</span><span class="line" id="line380"> [ 380 ]</span><br />
+Thou shalt proceed, and from thy Womb the Son<br />
+Of God most High; So God with man unites.<br />
+Needs must the Serpent now his <a href="" id="capital" class="annotBtn">capital</a> bruise<br />
+Expect with mortal <span class="varspell" title="pain">paine</span>: say where and when<br />
+
+<span class="varspell" title="Their">Thir</span> fight, what stroke shall bruise the <span class="varspell" title="Victor's">Victors</span> <a name="headheel">heel</a><span class="line" id="line385"> [ 385 ]</span>.
+</p>
+<p>
+To whom thus <span class="mi">Michael.</span> <a name="notduel">Dream</a> not of <span class="varspell" title="their">thir</span> fight,<br />
+As of a Duel, or the local wounds<br />
+Of head or heel: not therefore <span class="varspell" title="joins">joynes</span> the Son<br />
+Manhood to God-head, with more strength to foil<br />
+
+Thy <span class="varspell" title="enemy">enemie</span>; nor so is overcome<span class="line" id="line390"> [ 390 ]</span><br />
+<span class="mi">Satan</span>, whose fall from <span class="varspell" title="Heaven">Heav'n</span>, a deadlier bruise,<br />
+<span class="varspell" title="Disabled">Disabl'd</span> not to give thee thy <span class="varspell" title="death's">deaths</span> wound:<br />
+Which <span class="varspell" title="he">hee</span>, who comes thy <span class="varspell" title="Savior">Saviour</span>, shall recure,<br />
+Not by destroying <span class="mi">Satan</span>, but <a href="" id="works" class="annotBtn">his works</a><br />
+
+In thee and in thy Seed: nor can this be,<span class="line" id="line395"> [ 395 ]</span><br />
+But by fulfilling that which thou <span class="varspell" title="diddest">didst</span> want,<br />
+Obedience to the Law of God, <span class="varspell" title="imposed">impos'd</span><br />
+On <span class="varspell" title="penalty">penaltie</span> of death, and suffering death,<br />
+The <span class="varspell" title="penalty">penaltie</span> to thy transgression due,<br />
+
+And due to theirs which out of thine will grow:<span class="line" id="line400"> [ 400 ]</span><br />
+So <span class="varspell" title="only">onely</span> can high Justice rest <a href="" id="appaid" class="annotBtn">appaid</a>.<br />
+The Law of God exact he shall fulfill<br />
+Both <a href="" id="obedience" class="annotBtn">by obedience and by love</a>, though love<br />
+Alone fulfill the Law; thy punishment<br />
+
+He shall endure by coming in the Flesh<span class="line" id="line405"> [ 405 ]</span><br />
+To a reproachful life and cursed death,<br />
+Proclaiming Life to all who shall believe<br />
+In his redemption, and that his obedience<br />
+Imputed becomes theirs by Faith, his merits<br />
+
+To save them, not <span class="varspell" title="their">thir</span> own, though legal works.<span class="line" id="line410"> [ 410 ]</span><br />
+For this he shall live hated, be <span class="varspell" title="blasphemed">blasphem'd</span>,<br />
+<span class="varspell" title="Seized">Seis'd</span> on by force, <span class="varspell" title="judged">judg'd</span>, and to death <span class="varspell" title="condemned">condemnd</span><br />
+A shameful and <span class="varspell" title="accursed">accurst</span>, <a href="" id="naild" class="annotBtn"><span class="varspell" title="nailed">naild</span> to the Cross</a><br />
+<a href="" id="own" class="annotBtn">By his own Nation</a>, <span class="varspell" title="slain">slaine</span> for bringing Life;<br />
+
+But to the Cross he <span class="varspell" title="nails">nailes</span> thy Enemies,<span class="line" id="line415"> [ 415 ]</span><br />
+The Law that is against thee, and the sins<br />
+Of all <span class="varspell" title="mankind">mankinde</span>, with him there <span class="varspell" title="crucified">crucifi'd</span>,<br />
+Never to hurt them more who rightly trust<br />
+In this his satisfaction; so he dies,<br />
+
+But soon revives, Death over him no power<span class="line" id="line420"> [ 420 ]</span><br />
+Shall long usurp; ere the third dawning light<br />
+<span class="varspell" title="Return">Returne</span>, the <a href="" id="Starres" class="annotBtn"><span class="varspell" title="Stars">Starres</span> of Morn</a> shall see him rise<br />
+Out of his grave, fresh as the dawning light,<br />
+Thy ransom paid, which Man from death redeems,<br />
+
+His death for Man, as many as <span class="varspell" title="offered">offerd</span> Life<span class="line" id="line425"> [ 425 ]</span><br />
+Neglect not, and the benefit <span class="varspell" title="embrace">imbrace</span><br />
+By Faith not void of <span class="varspell" title="works">workes</span>: this God-like act<br />
+Annuls thy doom, the death thou <span class="varspell" title="shouldest">shouldst</span> have <span class="varspell" title="died">dy'd</span>,<br />
+In sin for ever lost from life; this act<br />
+
+Shall bruise the head of <span class="mi">Satan</span>, crush his strength<span class="line" id="line430"> [ 430 ]</span><br />
+Defeating Sin and Death, his two <span class="varspell" title="main">maine</span> <span class="varspell" title="arms">armes</span>,<br />
+And fix <span class="varspell" title="far">farr</span> deeper in his head <a href="" id="stings" class="annotBtn"><span class="varspell" title="their">thir</span> stings</a><br />
+<span class="varspell" title="Than">Then</span> <a href="" id="temporal" class="annotBtn">temporal death</a> shall bruise the <span class="varspell" title="Victor's">Victors</span> heel,<br />
+Or theirs whom he redeems, a death like sleep,<br />
+
+A gentle wafting to immortal Life.<span class="line" id="line435"> [ 435 ]</span><br />
+Nor after resurrection shall he stay<br />
+Longer on Earth <span class="varspell" title="than">then</span> <span class="varspell" title="certain">certaine</span> times to <span class="varspell" title="appear">appeer</span><br />
+To his Disciples, Men who in his Life<br />
+Still <span class="varspell" title="followed">follow'd</span> him; to them shall leave in charge<br />
+
+To teach all nations what of him they <span class="varspell" title="learned">learn'd</span><span class="line" id="line440"> [ 440 ]</span><br />
+And his Salvation, them who shall <span class="varspell" title="believe">beleeve</span><br />
+<span class="varspell" title="Baptising">Baptizing</span> in the <a href="" id="profluent" class="annotBtn">profluent <span class="varspell" title="stream">streame</span></a>, the <span class="varspell" title="sign">signe</span><br />
+Of washing them from guilt of sin to Life<br />
+Pure, and in mind <span class="varspell" title="prepared">prepar'd</span>, if so befall,<br />
+
+For death, like that which the redeemer <span class="varspell" title="died">dy'd</span>.<span class="line" id="line445"> [ 445 ]</span><br />
+All Nations they shall teach; for from that day<br />
+Not <span class="varspell" title="only">onely</span> to the Sons of <span class="mi"><span class="varspell" title="Abraham's">Abrahams</span></span> <span class="varspell" title="Loins">Loines</span><br />
+Salvation shall be <span class="varspell" title="Preached">Preacht</span>, but to the Sons<br />
+Of <a href="" id="Faith" class="annotBtn"><span class="mi"><span class="varspell" title="Abraham's">Abrahams</span></span> Faith</a> wherever through the world;<br />
+
+So in his seed all Nations shall be <span class="varspell" title="blessed">blest</span>.<span class="line" id="line450"> [ 450 ]</span><br />
+Then to the <span class="varspell" title="Heaven">Heav'n</span> of <span class="varspell" title="Heavens">Heav'ns</span> he shall ascend<br />
+With victory, triumphing through the <span class="varspell" title="air">aire</span><br />
+Over his foes and thine; there shall surprise<br />
+The Serpent, <a href="" id="aire" class="annotBtn">Prince of <span class="varspell" title="air">aire</span></a>, and <a href="" id="drag" class="annotBtn">drag in <span class="varspell" title="Chains">Chaines</span></a><br />
+
+Through all his <span class="varspell" title="Realm">Realme</span>, and  there confounded leave;<span class="line" id="line455"> [ 455 ]</span><br />
+Then enter into glory, and resume<br />
+His Seat at <span class="varspell" title="God's">Gods</span> right hand, exalted high<br />
+Above all names in <span class="varspell" title="Heaven">Heav'n</span>; and thence shall come,<br />
+When this <span class="varspell" title="world's">worlds</span> dissolution shall be ripe,<br />
+
+With glory and power to judge both <a href="" id="quick" class="annotBtn">quick  and  dead</a><span class="line" id="line460"> [ 460 ]</span><br />
+To judge <span class="varspell" title="the">th'</span> unfaithful dead, but to reward<br />
+His faithful, and <span class="varspell" title="receive">receave</span> them into bliss,<br />
+<a href="" id="Whether" class="annotBtn">Whether in <span class="varspell" title="Heaven">Heav'n</span> or Earth</a>, for then the Earth<br />
+Shall all be Paradise, far happier place<br />
+
+<span class="varspell" title="Than">Then</span> this of <span class="mi">Eden</span>, and far happier <span class="varspell" title="days">daies</span>.<span class="line" id="line465"> [ 465 ]</span>
+</p>
+<p>
+So spake <span class="varspell" title="the">th'</span> Archangel <span class="mi">Michael</span>, then <span class="varspell" title="paused">paus'd</span>,<br />
+As at the <span class="varspell" title="World's">Worlds</span> great period; and our Sire<br />
+Replete with joy and wonder thus <span class="varspell" title="replied">repli'd</span>.
+</p>
+<p>
+O goodness infinite, goodness immense!<br />
+
+That all this <a name="goodevil">good of evil</a> shall produce,<span class="line" id="line470"> [ 470 ]</span><br />
+And evil turn to good; more wonderful<br />
+<span class="varspell" title="Than">Then</span> that  which by creation first brought forth<br />
+Light out of darkness! full of doubt I stand,<br />
+Whether I should repent me now of sin<br />
+
+By <span class="varspell" title="me">mee</span> done and <span class="varspell" title="occasioned">occasiond</span>, or <span class="varspell" title="rejoice">rejoyce</span><span class="line" id="line475"> [ 475 ]</span><br />
+Much more, that much more good thereof shall spring,<br />
+To God more glory, more good will to Men<br />
+From God, and over <span class="varspell" title="wrath">wrauth</span> <a href="" id="abound" class="annotBtn">grace shall abound</a>.<br />
+But say, if our deliverer up to <span class="varspell" title="Heaven">Heav'n</span><br />
+
+Must reascend, what will betide the few<span class="line" id="line480"> [ 480 ]</span><br />
+His faithful, left among <span class="varspell" title="the">th'</span> unfaithful herd,<br />
+The enemies of truth; who then shall guide<br />
+His people, who defend? will they not <span class="varspell" title="deal">deale</span><br />
+<span class="varspell" title="Worse">Wors</span> with his followers <span class="varspell" title="than">then</span> with him they dealt?
+</p>
+<p>
+Be sure they will, said <span class="varspell" title="the">th'</span> Angel; but from <span class="varspell" title="Heaven">Heav'n</span><span class="line" id="line485"> [ 485 ]</span><br />
+<span class="varspell" title="He">Hee</span> to his own a <a href="" id="Comforter" class="annotBtn">Comforter</a> will send,<br />
+The promise of the Father, who shall dwell<br />
+His Spirit within them, and the Law of Faith<br />
+Working through love, upon <span class="varspell" title="their">thir</span> hearts shall write,<br />
+
+To guide them in all truth, and also <span class="varspell" title="arm">arme</span><span class="line" id="line490"> [ 490 ]</span><br />
+With <a href="" id="Armour" class="annotBtn">spiritual <span class="varspell" title="Armour">Armour</span></a>, able to resist<br />
+<span class="mi"><span class="varspell" title="Satan's">Satans</span></span> assaults, and quench his <span class="varspell" title="fiery">fierie</span> darts,<br />
+What Man can do against them, not <span class="varspell" title="afraid">affraid</span>,<br />
+Though to the death, against such cruelties<br />
+
+With inward consolations <span class="varspell" title="recompensed">recompenc't</span>,<span class="line" id="line495"> [ 495 ]</span><br />
+And oft supported so as shall amaze<br />
+<span class="varspell" title="Their">Thir</span> proudest persecuters: for the Spirit<br />
+<a href="" id="Powrd" class="annotBtn"><span class="varspell" title="Poured"> Powrd</span> first</a> on his Apostles, whom he sends<br />
+To evangelize the Nations, then on all<br />
+
+<span class="varspell" title="Baptised">Baptiz'd</span>, shall them with wondrous gifts endue<span class="line" id="line500"> [ 500 ]</span><br />
+To speak all Tongues, and do all Miracles,<br />
+As did <span class="varspell" title="their">thir</span> Lord before them. Thus they win<br />
+Great numbers of each Nation to <span class="varspell" title="receive">receave</span><br />
+With joy the tidings brought from <span class="varspell" title="Heaven">Heav'n</span>: at length<br />
+
+<span class="varspell" title="Their">Thir</span> Ministry <span class="varspell" title="performed">perform'd</span>, and <a href="" id="race" class="annotBtn">race well run</a>,<span class="line" id="line505"> [ 505 ]</span><br />
+<span class="varspell" title="Their">Thir</span> doctrine and <span class="varspell" title="their">thir</span> story written left,<br />
+They die; but in <span class="varspell" title="their">thir</span> room, as they <span class="varspell" title="forewarn">forewarne</span>,<br />
+Wolves shall succeed for teachers, <a href="" id="grievous" class="annotBtn">grievous Wolves</a>,<br />
+Who all the sacred mysteries of <span class="varspell" title="Heaven">Heav'n</span><br />
+
+To <span class="varspell" title="their">thir</span> own vile advantages shall <span class="varspell" title="turn">turne</span><span class="line" id="line510"> [ 510 ]</span><br />
+Of <a href="" id="lucre" class="annotBtn">lucre</a> and ambition, and the truth<br />
+With superstitions and traditions taint,<br />
+Left <span class="varspell" title="only">onely</span> in those written Records pure,<br />
+Though not but by the Spirit understood.<br />
+
+Then shall they seek to avail themselves of names,<span class="line" id="line515"> [ 515 ]</span><br />
+Places and titles, and with these to <span class="varspell" title="join">joine</span><br />
+Secular power, though feigning still to act<br />
+By spiritual, to themselves appropriating<br />
+The Spirit of God, <span class="varspell" title="promised">promisd</span> alike and <span class="varspell" title="given">giv'n</span><br />
+
+To all <span class="varspell" title="Believers">Beleevers</span>; and from that pretense,<span class="line" id="line520"> [ 520 ]</span><br />
+Spiritual <span class="varspell" title="Laws">Lawes</span> by carnal power shall force<br />
+On every conscience; Laws which none shall <span class="varspell" title="find">finde</span><br />
+Left them <span class="varspell" title="enrolled">inrould</span>, or what the Spirit within<br />
+Shall on the heart engrave. What will they then<br />
+
+But force the Spirit of Grace it self, and <span class="varspell" title="bind">binde</span><span class="line" id="line525"> [ 525 ]</span><br />
+His consort <span class="varspell" title="Liberty">Libertie</span>; what, but unbuild<br />
+His living Temples, built by Faith to stand,<br />
+<span class="varspell" title="Their">Thir</span> own Faith not <span class="varspell" title="another's">anothers</span>: for on Earth<br />
+Who against Faith and Conscience can be heard<br />
+
+<a href="" id="Infallible" class="annotBtn">Infallible</a>? yet many will presume:<span class="line" id="line530"> [ 530 ]</span><br />
+Whence <span class="varspell" title="heavy">heavie</span> persecution shall arise<br />
+On all who in the worship persevere<br />
+Of <a href="" id="Spirit" class="annotBtn">Spirit and Truth</a>; the rest, <span class="varspell" title="far">farr</span> greater part,<br />
+<a href="" id="Well" class="annotBtn">Well</a> deem in outward Rites and specious <span class="varspell" title="forms">formes</span><br />
+
+Religion <span class="varspell" title="satisfied">satisfi'd</span>; Truth shall retire<span class="line" id="line535"> [ 535 ]</span><br />
+Bestuck with <span class="varspell" title="slanderous">slandrous</span> darts, and works of Faith<br />
+Rarely be found: so shall the World <span class="varspell" title="go">goe</span> on,<br />
+To good malignant, to bad men <span class="varspell" title="benign">benigne</span>,<br />
+Under her own <span class="varspell" title="weight">waight</span> <a href="" id="groaning" class="annotBtn">groaning</a> till the day<br />
+
+<span class="varspell" title="Appear">Appeer</span> of respiration to the just,<span class="line" id="line540"> [ 540 ]</span><br />
+And vengeance to the wicked, at return<br />
+Of him so lately <span class="varspell" title="promised">promiss'd</span> to thy aid<br />
+The <span class="varspell" title="Woman's">Womans</span> seed, obscurely then foretold,<br />
+Now amplier known thy <span class="varspell" title="Savior">Saviour</span> and thy Lord,<br />
+
+Last in the Clouds from <span class="varspell" title="Heaven">Heav'n</span> to be <span class="varspell" title="revealed">reveald</span><span class="line" id="line545"> [ 545 ]</span><br />
+In glory of the Father, to dissolve<br />
+<span class="mi">Satan</span> with his perverted World, then raise<br />
+From the conflagrant mass, <span class="varspell" title="purged">purg'd</span> and <span class="varspell" title="refined">refin'd</span>,<br />
+New <span class="varspell" title="Heavens">Heav'ns</span>, new Earth, Ages of endless date<br />
+
+Founded in righteousness and peace and love<span class="line" id="line550"> [ 550 ]</span><br />
+To bring forth fruits Joy and eternal Bliss.
+</p>
+<p>
+He ended; and thus <span class="mi">Adam</span> last <span class="varspell" title="replied">reply'd</span>.<br />
+How soon hath thy prediction, Seer <span class="varspell" title="blessed">blest</span>,<br />
+<span class="varspell" title="Measured">Measur'd</span> this transient World, the <a name="raceoftime">Race</a> of time,<br />
+
+Till time stand <span class="varspell" title="fixed">fixt</span>: beyond is all abyss,<span class="line" id="line555"> [ 555 ]</span><br />
+<span class="varspell" title="Eternity">Eternitie</span>, whose end no eye can reach.<br />
+Greatly instructed I shall hence depart.<br />
+Greatly in peace of thought, and have my fill<br />
+Of knowledge, what this Vessel can <span class="varspell" title="contain">containe</span>;<br />
+
+Beyond which was my folly to aspire.<span class="line" id="line560"> [ 560 ]</span><br />
+Henceforth I <span class="varspell" title="learn">learne</span>, that to obey is best,<br />
+And love with <a href="" id="feare" class="annotBtn"><span class="varspell" title="fear">feare</span></a> the <span class="varspell" title="only">onely</span> God, to walk<br />
+As in his presence, ever to observe<br />
+His providence, and on him sole depend,<br />
+
+<a href="" id="Merciful" class="annotBtn">Merciful</a> over all his works, with good<span class="line" id="line565"> [ 565 ]</span><br />
+Still <a href="" id="overcoming" class="annotBtn">overcoming evil</a>, and by small<br />
+Accomplishing great things, by things <span class="varspell" title="deemed">deemd</span> weak<br />
+Subverting <a href="" id="worldly" class="annotBtn">worldly strong</a>, and worldly wise<br />
+By simply meek; that <a href="" id="suffering" class="annotBtn">suffering for <span class="varspell" title="Truth's">Truths</span> sake</a><br />
+
+Is fortitude to highest <span class="varspell" title="victory">victorie</span>,<span class="line" id="line570"> [ 570 ]</span><br />
+And to the faithful Death the Gate of Life;<br />
+Taught this by his example whom I now<br />
+<a href="" id="Acknowledge" class="annotBtn">Acknowledge</a> my Redeemer ever <span class="varspell" title="blessed">blest</span>.
+
+</p>
+<p>
+To whom thus also <span class="varspell" title="the">th'</span> Angel last <span class="varspell" title="replied">repli'd</span>:<br />
+
+This having <span class="varspell" title="learned">learnt</span>, thou hast attained the <span class="varspell" title="sum">summe</span><span class="line" id="line575"> [ 575 ]</span><br />
+Of wisdom; hope no higher, though all the <span class="varspell" title="Stars">Starrs</span><br />
+Thou <span class="varspell" title="knewest">knewst</span> by name, and all <span class="varspell" title="the">th'</span> ethereal Powers,<br />
+All secrets of the deep, all <span class="varspell" title="Nature's">Natures</span> works,<br />
+Or works of God in <span class="varspell" title="Heaven">Heav'n</span>, <span class="varspell" title="Air">Aire</span>, Earth, or Sea,<br />
+
+And all the riches of this World <span class="varspell" title="enjoyedest">enjoydst</span>,<span class="line" id="line580"> [ 580 ]</span><br />
+And all the rule, one Empire; <span class="varspell" title="only">onely</span> add<br />
+Deeds to thy knowledge answerable, <a href="" id="line583" class="annotBtn">add Faith</a>,<br />
+Add <span class="varspell" title="virtue">vertue</span>, Patience, Temperance, add Love,<br />
+By name to come <span class="varspell" title="called">call'd</span> <span class="varspell" title="Charity">Charitie</span>, the soul<br />
+
+Of all the rest: then wilt thou not be loath<span class="line" id="line585"> [ 585 ]</span><br />
+To leave this Paradise, but shalt possess<br />
+A <a name="paradise_within">Paradise</a> within thee, happier <span class="varspell" title="far">farr</span>.<br />
+Let us descend now therefore from this top<br />
+Of Speculation; for the hour precise<br />
+
+Exacts our parting hence; and see the Guards,<span class="line" id="line590"> [ 590 ]</span><br />
+By <span class="varspell" title="me">mee</span> <span class="varspell" title="encamped">encampt</span> on yonder Hill, expect<br />
+<span class="varspell" title="Their">Thir</span> motion, at whose Front a flaming Sword,<br />
+In signal of remove, waves fiercely round;<br />
+We may no longer stay: go, waken <span class="mi">Eve</span>;<br />
+
+Her also I with gentle Dreams have <span class="varspell" title="calmed">calm'd</span><span class="line" id="line595"> [ 595 ]</span><br />
+Portending good, and all her spirits <span class="varspell" title="composed">compos'd</span><br />
+To meek submission: thou at season fit<br />
+Let her with thee partake what thou hast heard,<br />
+Chiefly what may concern her Faith to know,<br />
+
+The great deliverance by her Seed to come<span class="line" id="line600"> [ 600 ]</span><br />
+(For by the Womans Seed) on all Mankind.<br />
+That ye may live, which will be many <span class="varspell" title="days">dayes</span>,<br />
+Both in one Faith unanimous though sad,<br />
+With cause for evils past, yet much more <span class="varspell" title="cheered">cheer'd</span><br />
+
+With meditation on the <span class="varspell" title="happy">happie</span> end.<span class="line" id="line605"> [ 605 ]</span>
+</p>
+<p>
+He ended, and they both descend the Hill;<br />
+Descended, <span class="mi">Adam</span> to the <span class="varspell" title="Bower">Bowre</span> where <span class="mi">Eve</span><br />
+Lay sleeping ran before, but found her <a href="" id="wakt" class="annotBtn"><span class="varspell" title="waked">wak't</span></a>;<br />
+And thus with words not sad she him <span class="varspell" title="received">receav'd</span>.
+</p>
+<p>
+Whence thou <span class="varspell" title="returnest">returnst</span>,  and  whither <span class="varspell" title="wentest">wentst</span>, I know;<span class="line" id="line610"> [ 610 ]</span><br />
+For God is also in sleep, and <a name="dreams">Dreams</a> advise,<br />
+Which he hath sent propitious, some great good<br />
+Presaging, since with sorrow and hearts distress<br />
+Wearied I fell asleep: but now lead on;<br />
+
+In <span class="varspell" title="me">mee</span> is no delay; with thee to <span class="varspell" title="go">goe</span>,<span class="line" id="line615"> [ 615 ]</span><br />
+Is to stay here; without thee here to stay,<br />
+Is to go hence unwilling; thou to <span class="varspell" title="me">mee</span><br />
+Art all things under <span class="varspell" title="Heaven">Heav'n</span>, all places thou,<br />
+Who for my <span class="varspell" title="willful">wilful</span> crime art <span class="varspell" title="banished">banisht</span> hence.<br />
+
+This further consolation yet secure<span class="line" id="line620"> [ 620 ]</span><br />
+I carry hence; though all by <span class="varspell" title="me">mee</span> is lost,<br />
+Such <span class="varspell" title="favor">favour</span> I <span class="varspell" title="unworthy">unworthie</span> am <span class="varspell" title="vouchsafed">voutsaft</span>,<br />
+<a href="" id="line623" class="annotBtn">By <span class="varspell" title="me">mee</span></a> the <span class="varspell" title="Promised">Promis'd</span> Seed shall all restore.
+</p>
+<p>
+So spake our Mother <span class="mi">Eve</span>, and <span class="mi">Adam</span> heard<br />
+
+Well <span class="varspell" title="pleased">pleas'd</span>, but <span class="varspell" title="answered">answer'd</span> not; for now too nigh<span class="line" id="line625"> [ 625 ]</span><br />
+<span class="varspell" title="The">Th'</span> Archangel stood, and from the other Hill<br />
+To <span class="varspell" title="their">thir</span> <span class="varspell" title="fixed">fixt</span> Station, all in bright array<br />
+The Cherubim descended; on the ground<br />
+Gliding meteorous, as <span class="varspell" title="Evening">Ev'ning</span> Mist<br />
+
+<span class="varspell" title="Risen">Ris'n</span> from a River <span class="varspell" title="over">o're</span> the <a href="" id="marish" class="annotBtn">marish</a> glides,<span class="line" id="line630"> [ 630 ]</span><br />
+And gathers ground fast at the <span class="varspell" title="Laborers">Labourers</span> heel<br />
+Homeward returning. High in Front <span class="varspell" title="advanced">advanc't</span>,<br />
+The <span class="varspell" title="brandished">brandisht</span> Sword of God before them <span class="varspell" title="blazed">blaz'd</span><br />
+Fierce as a Comet; which with torrid heat,<br />
+
+And <span class="varspell" title="vapor">vapour</span> as the <span class="mi">Libyan</span> Air <a href="" id="dust" class="annotBtn">adust</a>,<span class="line" id="line635"> [ 635 ]</span><br />
+Began to parch that temperate Clime; whereat<br />
+In either hand <a href="" id="hastning" class="annotBtn">the <span class="varspell" title="hastening">hastning</span> Angel</a> caught<br />
+Our <span class="varspell" title="lingering">lingring</span> Parents, and to <span class="varspell" title="the">th'</span> Eastern Gate<br />
+Led them direct, and down the Cliff as fast<br />
+
+To the subjected <span class="varspell" title="Plaine">Plaine</span>; then <span class="varspell" title="disappeared">disappeer'd</span>.<span class="line" id="line640"> [ 640 ]</span><br />
+They <a name="sword">looking</a> back, all <span class="varspell" title="the">th'</span> Eastern side beheld<br />
+Of Paradise, so late <span class="varspell" title="their">thir</span> <span class="varspell" title="happy">happie</span> seat,<br />
+<span class="varspell" title="Waved">Wav'd</span> over by that flaming Brand, the Gate<br />
+With dreadful Faces <span class="varspell" title="thronged">throng'd</span> and <span class="varspell" title="fiery">fierie</span> <span class="varspell" title="Arms">Armes</span>:<br />
+
+<span class="varspell" title="Some">Som</span> natural tears they <span class="varspell" title="dropped">drop'd</span>, but <span class="varspell" title="wiped">wip'd</span> them soon;<span class="line" id="line645"> [ 645 ]</span><br />
+The World was all before them, where to choose<br />
+<span class="varspell" title="Their">Thir</span> place of rest, and Providence <span class="varspell" title="their">thir</span> guide:<br />
+They hand in hand with <a name="wandring"><span class="varspell" title="wandering">wandring</span></a> steps and slow,<br />
+Through <span class="mi">Eden</span> took <span class="varspell" title="their">thir</span> <span class="varspell" title="solitary">solitarie</span> way.</p>
+</div>
+
+<br /><br />
+
+<div class="title">
+<span class="mi">THE END</span>
+</div>
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+</body> 
+</html> 

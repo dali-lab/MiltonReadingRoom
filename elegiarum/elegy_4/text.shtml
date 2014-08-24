@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Elegiarum: Elegia quarta</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Elegiarum</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Elegiarum: Elegia quarta</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin</a>
+					</li>
+					<li id="notLast">
+						<a href="" id="English">English</a>
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						Texts
+					</li>
+					<li id="notLast">
+						<a href="../elegy_1/text.shtml">Elegia prima</a>,
+						<a href="../elegy_2/text.shtml"> secunda</a>
+					</li>
+					<li id="notLast">
+						<a href="../elegy_3/text.shtml">Elegia tertia</a>,
+						<a href="../elegy_4/text.shtml"><b> quarta</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../elegy_5/text.shtml">Elegia quinta</a>,
+						<a href="../elegy_6/text.shtml"> sexta</a>
+					</li>
+					<li id="notLast">
+						<a href="../elegy_7/text.shtml">Elegia septima</a>
+					</li>
+					<li id="notLast">
+						<a href="../mente/text.shtml">Haec ego mente</a>
+					</li>
+					<li id="notLast" class="newGroup">
+						<a href="../plot/text.shtml">In Proditionem Bombardicam</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem/text.shtml">In eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem2/text.shtml">In eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem3/text.shtml">In eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../gunpowder/text.shtml">In Inventorem Bombardae</a>
+					</li>
+					<li id="notLast" class="newGroup">
+						<a href="../leonoram/text.shtml">Ad Leonoram</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem4/text.shtml">Ad eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem5/text.shtml">Ad eandem</a>
+					</li>
+					<li class="newGroup">
+						<a href="../../apologus/text.shtml">Additions in <i>Poems</i> (1673)</a>
+					</li>			
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">Elegia quarta. </a> Anno &aelig;tatis 18.<br />
+ <span class="mi">Ad Thomam Junium pr&aelig;ceptorem<br />
+ suum apud mercatores Anglicos Hamburg&aelig;<br />
+ agentes Pastoris munere fungentum.</span></p>
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Curre"><span>C</span>urre</span> per immensum subit&ograve; mea littera pontum,<br />
+<span class="mindent">I, pete Teutonicos l&aelig;ve per &aelig;quor agros,</span>
+</p>
+
+<p>
+Segnes rumpe moras, &amp; nil, precor, obstet eunti,<br />
+<span class="mindent">Et festinantis nil remoretur iter.</span>
+</p>
+
+<p>
+Ipse ego Sicanio fr&aelig;nantem carcere ventos<span class="line" id="line5"> [ 5 ]</span><br />
+<span class="mindent">&AElig;olon, &amp; virides sollicitabo Deos;</span>
+</p>
+
+<p>
+C&aelig;ruleamque suis comitatam Dorida Nymphis,<br />
+<span class="mindent">Ut tibi dent placidam per sua regna viam.</span>
+</p>
+
+<p>
+At tu, si poteris, celeres tibi sume jugales,<br />
+<span class="mindent">Vecta quibus Colchis fugit ab ore viri.</span><span class="line" id="line10"> [ 10 ]</span>
+</p>
+
+<p>
+Aut queis Triptolemus Scythicas devenit in oras<br />
+<span class="mindent">Gratus Eleusin&acirc; missus ab urbe puer.</span>
+</p>
+
+<p>
+Atque ubi Germanas flavere videbis arenas<br />
+<span class="mindent">Ditis ad Hamburg&aelig; m&oelig;nia flecte gradum,</span>
+</p>
+
+<p>
+Dicitur occiso qu&aelig; ducere nomen ab Ham&acirc;,<span class="line" id="line15"> [ 15 ]</span><br />
+<span class="mindent">Cimbrica quem fertur clava dedisse neci.</span>
+</p>
+
+<p>
+Vivit ibi antiqu&aelig; clarus pietatis honore<br />
+<span class="mindent">Pr&aelig;sul Christicolas pascere doctus oves;</span>
+</p>
+
+<p>
+Ille quidem est anim&aelig; plusquam pars altera nostr&aelig;,<br />
+<span class="mindent">Dimidio vit&aelig; vivere cogor ego.</span><span class="line" id="line20"> [ 20 ]</span>
+</p>
+
+<p>
+Hei mihi quot pelagi, quot montes interjecti<br />
+<span class="mindent">Me faciunt ali&acirc; parte carere mei!</span>
+</p>
+
+<p>
+Charior ille mihi quam tu doctissime Graium<br />
+<span class="mindent">Cliniadi, pronepos qui Telamonis erat.</span>
+</p>
+
+<p>
+Qu&aacute;mque Stagirites generoso magnus alumno,<span class="line" id="line25"> [ 25 ]</span><br />
+<span class="mindent">Quem peperit Libyco Chaonis alma Jovi.</span>
+</p>
+
+<p>
+Qualis Amyntorides, qualis Philyr&euml;ius Heros<br />
+<span class="mindent">Myrmidonum regi, talis &amp; ille mihi.</span>
+</p>
+
+<p>
+Primus ego Aonios illo pr&aelig;eunte recessus<br />
+<span class="mindent">Lustrabam, &amp; bifidi sacra vireta jugi,</span><span class="line" id="line30"> [ 30 ]</span>
+</p>
+
+<p>
+Pieriosque hausi latices, Clioque favente,<br />
+<span class="mindent">Castalio sparsi l&aelig;ta ter ora mero.</span>
+</p>
+
+<p>
+Flammeus at signum ter viderat arietis &AElig;thon,<br />
+<span class="mindent">Induxitque auro lanea terga novo,</span>
+</p>
+
+<p>
+Bisque novo terram sparsisti Chlori senilem<span class="line" id="line35"> [ 35 ]</span><br />
+<span class="mindent">Gramine, bisque tuas abstulit Auster opes:</span>
+</p>
+
+<p>
+Necdum ejus licuit mihi lumina pascere vultu,<br />
+<span class="mindent">Aut lingu&aelig; dulces aure bibisse sonos.</span>
+</p>
+
+<p>
+Vade igitur, cursuque Eurum pr&aelig;verte sonorum,<br />
+<span class="mindent">Qu&agrave;m sit opus monitis res docet, ipsa vides.</span><span class="line" id="line40"> [ 40 ]</span>
+</p>
+
+<p>
+Invenies dulci cum conjuge forte sedentem,<br />
+<span class="mindent">Mulcentem gremio pignora chara suo,</span>
+</p>
+
+<p>
+Forsitan aut veterum pr&aelig;larga volumina patrum<br />
+<span class="mindent">Versantem, aut veri biblia sacra Dei.</span>
+</p>
+
+<p>
+C&aelig;lestive animas saturantem rore tenellas,<span class="line" id="line45"> [ 45 ]</span><br />
+<span class="mindent">Grande salutifer&aelig; religionis opus.</span>
+</p>
+
+<p>
+Utque solet, multam, sit dicere cura salutem,<br />
+<span class="mindent">Dicere quam decuit, si modo adesset, herum.</span>
+</p>
+
+<p>
+H&aelig;c quoque paulum oculos in humum defixa modestos,<br />
+<span class="mindent">Verba verecundo sis memor ore loqui:</span><span class="line" id="line50"> [ 50 ]</span>
+</p>
+
+<p>
+H&aelig;c tibi, si teneris vacat inter pr&aelig;lia Musis<br />
+<span class="mindent">Mittit ab Angliaco littore fida manus.</span>
+</p>
+
+<p>
+Accipe sinceram, quamvis sit sera, salutem;<br />
+<span class="mindent">Fiat &amp; hoc ipso gratior illa tibi.</span>
+</p>
+
+<p>
+Sera quidem, sed vera fuit, quam casta recepit<span class="line" id="line55"> [ 55 ]</span><br />
+<span class="mindent">Icaris a lento Penelopeia viro.</span>
+</p>
+
+<p>
+Ast ego quid volui manifestum tollere crimen,<br />
+<span class="mindent">Ipse quod ex omni parte levare nequit.</span>
+</p>
+
+<p>
+Arguitur tardus merit&ograve;, noxamque fatetur,<br />
+</p>
+
+<p>
+<span class="mindent">Et pudet officium deseruisse suum.<span class="line" id="line60"> [ 60 ]</span></span>
+</p>
+
+<p>
+Tu mod&ograve; da veniam fasso, veniamque roganti,<br />
+<span class="mindent">Crimina diminui, qu&aelig; patuere, solent.</span>
+</p>
+
+<p>
+Non ferus in pavidos rictus diducit hiantes,<br />
+<span class="mindent">Vulnifico pronos nec rapit ungue leo.</span>
+</p>
+
+<p>
+S&aelig;pe sarissiferi crudelia pectora Thracis<span class="line" id="line65"> [ 65 ]</span><br />
+<span class="mindent">Supplicis ad m&oelig;stas delicuere preces.</span>
+</p>
+
+<p>
+Extens&aelig;que manus avertunt fulminis ictus,<br />
+<span class="mindent">Placat &amp; iratos hostia parva Deos.</span>
+</p>
+
+<p>
+Jamque diu scripsisse tibi fuit impetus illi,<br />
+<span class="mindent">Neve moras ultra ducere passus Amor.</span><span class="line" id="line70"> [ 70 ]</span>
+</p>
+
+<p>
+Nam vaga Fama refert, heu nuntia vera malorum!<br />
+<span class="mindent">In tibi finitimis bella tumere locis,</span>
+</p>
+
+<p>
+Teque tu&agrave;mque urbem truculento milite cingi,<br />
+<span class="mindent">Et jam Saxonicos arma parasse duces.</span>
+</p>
+
+<p>
+Te circum lat&egrave; campos populatur Enyo,<span class="line" id="line75"> [ 75 ]</span><br />
+<span class="mindent">Et sata carne virum jam cruor arva rigat.</span>
+</p>
+
+<p>
+Germanisque suum concessit Thracia Martem,<br />
+<span class="mindent">Illuc Odrysios Mars pater egit equos.</span>
+</p>
+
+<p>
+Perpetu&oacute;que comans jam deflorescit oliva,<br />
+<span class="mindent">Fugit &amp; &aelig;risonam Diva perosa tubam,</span><span class="line" id="line80"> [ 80 ]</span>
+</p>
+
+<p>
+Fugit io terris, &amp; jam non ultima virgo<br />
+<span class="mindent">Creditur ad superas justa volasse domos.</span>
+</p>
+
+<p>
+Te tamen intere&agrave; belli circumsonat horror,<br />
+<span class="mindent">Vivis &amp; ignoto solus in&oacute;psque solo;</span>
+</p>
+
+<p>
+Et, tibi quam patrii non exhibuere penates<span class="line" id="line85"> [ 85 ]</span><br />
+<span class="mindent">Sede peregrin&acirc; qu&aelig;ris egenus opem.</span>
+</p>
+
+<p>
+Patria dura parens, &amp; saxis s&aelig;vior albis<br />
+<span class="mindent">Spumea qu&aelig; pulsat littoris unda tui,</span>
+</p>
+
+<p>
+Siccine te decet innocuos exponere <a href="" id="foetus" class="annotBtn">f&aelig;tus;</a><br />
+<span class="mindent">Siccine in externam ferrea cogis humum,</span><span class="line" id="line90"> [ 90 ]</span>
+</p>
+
+<p>
+Et sinis ut terris qu&aelig;rant alimenta remotis<br />
+<span class="mindent">Quos tibi prospiciens miserat ipse Deus,</span>
+</p>
+
+<p>
+Et qui l&aelig;ta ferunt de c&aelig;lo nuntia, quique<br />
+<span class="mindent">Qu&aelig; via post cineres ducat ad astra, docent?</span>
+</p>
+
+<p>
+Digna quidem Stygiis qu&aelig; vivas clausa tenebris,<span class="line" id="line95"> [ 95 ]</span><br />
+<span class="mindent">&AElig;tern&acirc;que anim&aelig; digna perire fame!</span>
+</p>
+
+<p>
+Haud aliter vates terr&aelig; Thesbitidis olim<br />
+<span class="mindent">Pressit inassueto devia tesqua pede,</span>
+</p>
+
+<p>
+Desertasque Arabum salebras, dum regis Achabi<br />
+<span class="mindent">Effugit atque tuas, Sidoni dira, manus.</span><span class="line" id="line100"> [ 100 ]</span>
+</p>
+
+<p>
+Talis &amp; horrisono laceratus membra flagello,<br />
+<span class="mindent">Paulus ab &AElig;mathi&acirc; pellitur urbe Cilix.</span>
+</p>
+
+<p>
+Piscos&aelig;que ipsum Gergess&aelig; civis Jes&uumlaut;m<br />
+<span class="mindent">Finibus ingratus jussit abire suis.</span>
+</p>
+
+<p>
+At tu sume animos, nec spes cadat anxia curis<span class="line" id="line105"> [ 105 ]</span><br />
+<span class="mindent">Nec tua concutiat decolor ossa metus.</span>
+</p>
+
+<p>
+Sis etenim quamvis fulgentibus obsitus armis, <br />
+<span class="mindent">Intententque tibi millia tela necem,</span>
+</p>
+
+<p>
+At nullis vel inerme latus violabitur armis,<br />
+<span class="mindent">Deque tuo cuspis nulla cruore bibet.</span><span class="line" id="line110"> [ 110 ]</span>
+</p>
+
+<p>
+Namque eris ipse Dei radiante sub &aelig;gide tutus,<br />
+<span class="mindent">Ille tibi custos, &amp; pugil ille tibi;</span>
+</p>
+
+<p>
+Ille Sion&aelig;&aelig; qui tot sub m&oelig;nibus arcis <br />
+<span class="mindent">Assyrios fudit nocte silente viros;</span>
+</p>
+
+<p>
+Inque fugam vertit quos in Samaritidas oras,<span class="line" id="line115"> [ 115 ]</span><br />
+<span class="mindent">Misit ab antiquis prisca Damascus agris,</span>
+</p>
+
+<p>
+Terruit &amp; densas pavido cum rege cohortes,<br />
+<span class="mindent">Aere dum vacuo buccina clara sonat,</span>
+</p>
+
+<p>
+Cornea pulvereum dum verberat ungula campum,<br />
+<span class="mindent">Currus arenosam dum quatit actus humum,</span><span class="line" id="line120"> [ 120 ]</span>
+</p>
+
+<p>
+Auditurque hinnitus equorum ad bella ruent&ucirc;m,<br />
+<span class="mindent">Et strepitus ferri, murmuraque alta vir&ucirc;m.</span>
+</p>
+
+<p>
+Et tu (quod superest miseris) sperare memento,<br />
+<span class="mindent">Et tua magnanimo pectore vince mala.</span>
+</p>
+
+<p>
+Nec dubites quandoque frui melioribus annis,<span class="line" id="line125"> [ 125 ]</span><br />
+<span class="mindent">Atque iterum patrios posse videre lares.</span>
+</p>
+
+</div>
+</div>
+
+<div id="alternateContent">
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">The Fourth Elegy.</a>  At the Age of 18<br />
+<span class="mi">To Thomas Young, His Teacher<br />
+Serving Now as Chaplain among the English<br />
+Merchants Resident in Hamburg</span>
+</p>
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Away"><span>A</span>way</span>, my letter, speed through the boundless sea; go, seek the Teutonic lands over the smooth expanse of the deep; have done with lingering delays, and let nothing, I pray, thwart your going, nothing stay the haste of your course. I shall myself implore Aeolus, who curbs the winds in his Sicilian cave, and the green gods, and <a href="" id="cerulean" class="annotBtn">cerulean Doris</a> with her company of nymphs, to give you a peaceful journey through their realms. But procure for yourself, if you may, the swift team wherewith the <a href="" id="medea" class="annotBtn">Colchian woman</a> fled from the face of her husband, or that with which young <a href="" id="triptolemus" class="annotBtn">Triptolemus</a> reached the Scythian shores, a welcome messenger from the city of Eleusis. And when you descry the yellow sands of Germany, turn your course to the walls of rich Hamburg, which, as the legend runs, derives its name from Hama, slain, it is said, with a <a href="" id="hamburg" class="annotBtn">Cimbrian</a> club. There dwells a pastor, renowned for his simple piety, instructed to feed the flocks of Christ. In truth he is more than half my soul, and I am forced to live half my life without him. Alas, how many seas, how many mountains, intervene and part me from <a href="" id="otherself" class="annotBtn">my other dearer self</a>! Dearer is he to me than were you, Socrates, wisest of the Greeks, to <a href="" id="cliniades" class="annotBtn">Cliniades</a> of the stock of Telamon; dearer even than the great <a href="" id="stagirite" class="annotBtn">Stagirite</a> to his noble pupil, whom a <a href="" id="olympias" class="annotBtn">Chaonian mother</a> bore to Libyan Jove. What the <a href="" id="phoenix" class="annotBtn">son of Amyntor</a> and what the half-divine son of Philyra were to the king of the Myrmidons, such is this man to me. He was my guide when I was first threading the <a href="" id="shades" class="annotBtn">Aonian shades</a>, and the sacred greenswards of the cloven hill; he first led me to drink of <a href="" id="pierian" class="annotBtn">the Pierian water</a>, and favored by <a href="" id="clio" class="annotBtn">Clio</a> I thrice wet my lips with <a href="" id="castalian" class="annotBtn">Castalian wine</a>. But thrice has <a href="" id="aethon" class="annotBtn">flaming Aethon</a> passed the sign of the Ram, and newly clothed his fleecy back with gold; and twice, <a href="" id="chloris" class="annotBtn">Chloris</a>, you have bestrewn the old earth with new grass, and twice Auster has swept away your wealth, since my eyes were permitted to feast on his face, or my ears to drink in the sweet music of his voice. Go, then, and in your course outstrip the roaring East Wind. Whatever admonition you may need, circumstances will teach, and you yourself will see. You will find him perhaps sitting with his charming wife, fondling on his knee the pledges of their love; or perchance turning over some stout volume of the ancient Fathers, or the Holy Scriptures of the one true God; or shedding the heavenly dew upon the souls of feeble men, which is religion's sublime work of healing. But only let it be your care to greet him, as the custom is, and to speak as would befit your master were he present. Fix your shy glances for a brief space on the ground, then remember with modest lips to speak these words:</p>
+
+<p>
+"If <a href="" id="battles" class="annotBtn">in the midst of battles</a> there is leisure for the gentle Muses, a faithful hand sends you these verses from the shores of England. Though it be late, accept this cordial greeting; and may it be the more welcome because it is late. Late indeed, but true, was the greeting that chaste Penelope, daughter of Icarius, received from her <a href="" id="tardy" class="annotBtn">tardy husband</a>. But why should I wish to blot out so manifest a fault, which even the offender himself could in no wise excuse? He is justly charged with delay; he confesses his fault, and is ashamed to have left a duty unfulfilled. But forgive me, since I thus confess and crave your favor, for sins confessed are half-atoned.
+</p>
+ 
+<p>
+"The wild beast with gaping jaws does not rend its trembling prey; the lion with wounding claw will not tear his cowering victim. Even the cruel hearts of Thracian lancers have often yielded to the sorrowful appeals of a suppliant. Uplifted hands will stay the thunderbolt, and a little offering may appease the angry gods. 
+</p>
+
+<p>
+"He has long been moved to write to you, and now love will suffer him no longer to delay, for uncertain Rumor &mdash; Rumor a truthful messenger of evils &mdash; reports the districts round about you rife with war, you and your city besieged by ravaging armies, and the Saxon leaders already prepared for conflict. <a href="" id="enyo" class="annotBtn">Enyo</a> is devastating the surrounding fields far and wide, and blood drenches the earth now sown with the flesh of men. Thrace has yielded Mars to Germany, and thither the father of war now urges his <a href="" id="odrysian" class="annotBtn">Odrysian horses</a>. The ever-verdant olive now withers, and the goddess of peace who hates the blare of the brazen trumpet has fled from the earth; and, see the righteous Virgin is believed not to have been the last to flee to a home in the heavens. Yet where you dwell alone and helpless in a foreign land, about you still resounds the horror of war. Poor, you must seek in foreign parts the sustenance that your Fatherland denies you. O Fatherland, ruthless parent, harsher than the white cliffs where the foaming waves beat on your shores, does it become you thus to cast off your innocent children, thus, O heart of iron, to drive them forth upon a foreign soil? And will you permit those whom God himself in his providence sent to bear you glad tidings from heaven, and to teach you the way that leads through death to heaven, will you permit them to seek their sustenance in lands remote? You are worthy then to live confined in Stygian darkness, and to perish from the everlasting hunger of the soul! Even so the <a href="" id="elijah" class="annotBtn">Tishbite prophet</a> trod of old with unaccustomed feet the lonely paths of the desert and the rugged wastes of Arabia, when he fled from the hand of king Ahab and from you, cursed <a href="" id="jezebel" class="annotBtn">Sidonian woman</a>. Thus <a href="" id="paul" class="annotBtn">Cilician Paul</a>, tortured and bleeding from the stripes of the harsh-sounding scourges, was cast out of the Aemathian city. Thus the ungrateful people of fishy <a href="" id="gergessa" class="annotBtn">Gergessa</a> bade even Jesus depart out of their coasts.
+</p>
+ 
+<p>
+"But take courage; and, though hope be spent with care, let it not fail; let not wan fear send a shudder through your bones. For though you are beset with gleaming arms, and a thousand darts threaten death, yet no weapon shall wound your defenceless breast, no spear shall drink your blood. You shall dwell in safety under the radiant aegis of God. He will be your protector and your champion &mdash; he who in the silence of night overthrew the <a href="" id="assyria" class="annotBtn">hosts of Assyria</a> beneath the walls of the citadel of Zion, and put to flight those whom venerable <a href="" id="damascus" class="annotBtn">Damascus</a> from her ancient plains sent forth upon the fields of Samaria. He made their king tremble, and terrified their dense cohorts, when on the empty air the clear-voiced trumpet sounded, when horny hoofs beat the dusty plain, and the routed chariot shook the sandy ground, and there was heard the neighing of horses rushing to battle, the clash of steel, and the deep roar of men's voices.
+</p>
+<p>
+ "But remember still to hope, for hope is left even to the wretched, and with high-souled courage conquer your misfortune. Doubt not that in future you will enjoy happier times, and once more see your native home." 
+</p>
+
+</div>
+
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

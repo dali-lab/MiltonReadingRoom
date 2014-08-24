@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>The Passion</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../miltonNoNav.js"></script>
+
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner">The Passion</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">The Passion</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+
+<div id="container">
+
+<div id="content">
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">The Passion</a></p>
+
+<div class="verse">
+                         
+<p class>
+<b>I</b>
+</p>
+
+<p class="first">
+<span class="varspell" title="Erewhile"><span class="minitial">E</span>re-while</span> of <a href="" id="Musick" class="annotBtn"><span class="varspell" title="Music">Musick</span></a>, and <a href="" id="Ethereal" class="annotBtn">Ethereal</a> mirth,<br />
+<span class="varspell" title="Wherewith">Wherwith</span> the stage of <span class="varspell" title="Air">Ayr</span> and Earth did ring,<br />
+And joyous news of <span class="varspell" title="heavenly">heav'nly</span> <span class="varspell" title="Infant's">Infants</span> birth,<br />
+<a href="" id="Mymuse" class="annotBtn">My muse</a> with Angels did <a href="" id="divide" class="annotBtn">divide</a> to sing;<br />
+But headlong joy is ever on the wing,<span class="line" id="line5"> [ 5 ]</span><br />
+<span class="mhalfindent">In <span class="varspell" title="Wintery">Wintry</span> solstice like the <span class="varspell" title="shortened">shortn'd</span> light</span><br />
+Soon <span class="varspell" title="swallowed">swallow'd</span> up in dark and long out-living night.
+</p>
+
+
+<p>
+<b>II</b>
+</p>
+
+
+<p>
+For now to sorrow must I tune my song,<br />
+And set my <span class="varspell" title="Harp">Harpe</span> to notes of saddest <span class="varspell" title="woe">wo</span>,<br />
+Which on our dearest Lord did <a href="" id="sease" class="annotBtn"><span class="varspell" title="seize">sease</span></a> <span class="varspell" title="erte">er'e</span> long,<span class="line" id="line10"> [ 10 ]</span><br />
+Dangers, and snares, and wrongs, and worse then so,<br />
+Which he for us did freely undergo<br />
+<span class="mhalfindent">Most perfect <a href="" id="Heroe" class="annotBtn"><span class="mi"><span class="varspell" title="Hero">Heroe</span></span></a>, <span class="varspell" title="tried">try'd</span> in heaviest plight</span><br />
+Of <span class="varspell" title="labors">labours</span> huge and hard, too hard for <a href="" id="humanwight" class="annotBtn">human wight</a>.
+</p>
+
+<p>
+<b>III</b>
+</p>
+
+<p>
+He <span class="varspell" title="sovereign">sov'ran</span> <a href="" id="Priest" class="annotBtn">Priest</a> stooping his <span class="varspell" title="regal">regall</span> head<span class="line" id="line15"> [ 15 ]</span><br />
+That <span class="varspell" title="dropped">dropt</span> with odorous oil down his fair eyes,<br />
+Poor fleshly <a href="" id="Tabernacle" class="annotBtn">Tabernacle</a> entered,<br />
+His starry <a href="" id="front" class="annotBtn">front</a> low-<span class="varspell" title="roofed">rooft</span> beneath the skies;<br />
+O what a Mask was there, what a disguise!<br />
+<span class="mhalfindent">Yet more; the stroke of death he must abide,</span><span class="line" id="line20"> [ 20 ]</span><br />
+Then lies him meekly down fast by his <span class="varspell" title="Brethrens'">Brethrens</span> side.
+</p>
+
+
+<p>
+<b>IV</b>
+</p>
+
+<p>
+These latter scenes confine my roving <span class="varspell" title="verse">vers</span>,<br />
+To this Horizon is my <a href="" id="Phoebus" class="annotBtn"><span class="mi"><span class="varspell" title="Phoebus">Ph&oelig;bus</span></span></a> bound,<br />
+His Godlike acts, and his temptations fierce,<br />
+And former sufferings other where are found;<span class="line" id="line25"> [ 25 ]</span><br />
+Loud <span class="varspell" title="over">o're</span> the rest <a href="" id="CremonaTrumpdothsound" class="annotBtn"><span class="mi">Cremona's</span> Trump</a> doth sound;<br />
+<span class="mhalfindent">Me softer airs befit, and softer strings</span><br />
+Of <a href="" id="LuteorViol" class="annotBtn">Lute, or Viol</a> <a href="" id="still" class="annotBtn">still</a>, more apt for mournful things.
+</p>
+
+<p>
+<b>V</b>
+</p>
+
+
+<p>
+Befriend me night best Patroness of grief,<br />
+Over the <a href="" id="Pole" class="annotBtn">Pole</a> thy thickest mantle throw,<span class="line" id="line30"> [ 30 ]</span><br />
+And work my <span class="varspell" title="flattered">flatter'd</span> fancy to belief,<br />
+That <span class="varspell" title="Heaven">Heav'n</span> and Earth are <span class="varspell" title="colored">colour'd</span> with my <span class="varspell" title="woe">wo</span>;<br />
+My sorrows are too dark for day to know:<br />
+<span class="mhalfindent">The leaves should all be black <span class="varspell" title="whereon">wheron</span> I write,</span><br />
+And letters where my tears have <span class="varspell" title="washed">washt</span> a <a href="" id="wannishwhite" class="annotBtn">wannish white</a>.<span class="line" id="line35"> [ 35 ]</span>
+</p>
+
+
+<p>
+<b>VI</b>
+</p>
+
+
+<p>
+<a name="line36"></a>See see the Chariot, and those rushing wheels,<br />
+That whirl'd <a href="" id="Prophet" class="annotBtn">the Prophet</a> up at <span class="mi">Chebar</span> flood,<br />
+My spirit <span class="varspell" title="some">som</span> transporting <span class="mi">Cherub</span> feels,<br />
+To bear me where the Towers of <a href="" id="Salem" class="annotBtn"><span class="mi">Salem</span></a> stood,<br />
+Once glorious Towers, now sunk in <span class="varspell" title="guiltless">guiltles</span> blood;<span class="line" id="line40"> [ 40 ]</span><br />
+<span class="mhalfindent">There doth my soul in holy vision sit</span><br />
+In pensive trance, and anguish, and ecstatick fit.
+</p>
+
+
+<p>
+<b>VII</b>
+</p>
+
+<p>
+Mine eye hath found that sad <a href="" id="Sepulchralrock" class="annotBtn">Sepulchral rock</a><br />
+That was the <a href="" id="Casket" class="annotBtn">Casket</a> of Heav'ns richest store,<br />
+And here though grief my feeble <a href="" id="handsuplock" class="annotBtn">hands up-lock</a>,<span class="line" id="line45"> [ 45 ]</span><br />
+Yet on the <a href="" id="softnedQuarry" class="annotBtn">softned Quarry</a> would I <a href="" id="score" class="annotBtn">score</a><br />
+My <a href="" id="plaining" class="annotBtn">plaining</a> vers as <a href="" id="lively" class="annotBtn">lively</a> as before;<br />
+<span class="mhalfindent">For sure so well instructed are my tears,</span><br />
+That they would fitly fall in order'd <a href="" id="Characters" class="annotBtn">Characters</a>.
+</p>
+
+
+<p>
+<b>VIII</b>
+</p>
+
+<p>
+Or should I thence hurried on <a href="" id="viewles" class="annotBtn">viewles</a> wing,<span class="line" id="line50"> [ 50 ]</span><br />
+<a href="" id="weeping" class="annotBtn">Take up a weeping</a> on the Mountains wilde,<br />
+The gentle neighbourhood of grove and spring<br />
+Would soon unboosom all thir Echoes milde,<br />
+And I (for grief is easily beguild)<br />
+<span class="mhalfindent">Might think th' infection of my sorrows loud,</span><span class="line" id="line55"> [ 55 ]</span><br />
+Had <a href="" id="got" class="annotBtn">got</a> a <a href="" id="raceofmourners" class="annotBtn">race of mourners</a> on som pregnant cloud.
+</p>
+<br />
+
+<p class="mcenter"><span class="mi">This Subject the Author finding to be above the yeers he had, when
+he wrote it, and nothing satisfi'd with what was begun, left it
+unfinisht.</span></p>
+           
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

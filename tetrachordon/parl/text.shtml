@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Tetrachordon: To Parliament</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Tetrachordon</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#prose">Prose</a> > <a href="">Tetrachordon: To Parliament</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="../title/text.shtml">Title</a>
+					</li>
+					<li id="notLast">
+						<a href="../parl/text.shtml"><b>To Parliament</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../genesis/text.shtml">Genesis Places</a>
+					</li>
+					<li id="notLast">
+						<a href="../deut/text.shtml">Deuteronomy Places</a>
+					</li>
+					<li id="notLast">
+						<a href="../matt/text.shtml">Matthew Places</a>
+					</li>
+					<li>
+						<a href="../corin/text.shtml">1 Corinthians Places</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content" class="lengthyWork">  
+<b>To the PARLAMENT</b></br>
+
+<p>
+That which I knew to be the part of a good Magistrate, 
+aiming at true liberty through the right information 
+of religious and civil life, and that which I saw, and 
+was partaker, of your Vows and <a href="" id="Covenants" class="annotBtn">solemne Cov'nants</a>, 
+<span class="varspell" title="Parliament">Parlament</span> of England, your actions also manifestly 
+tending to exalt the truth, and to depress the 
+tyranny of error, and ill custome, with more  
+constancy and prowesse then ever yet any, since that 
+ <span class="varspell" title="Parliament">Parlament</span> which put the first Scepter of this  
+Kingdom into his hand whom God and extraordinary  
+vertue made thir Monarch, were the causes that  
+mov'd me, one else not placing much in the eminence 
+ of a dedication, to present your high notice with a 
+ Discourse, conscious to it self of nothing more then 
+of  
+diligence, and firm affection to the publick good.  And 
+that ye took it so as wise and impartial men,  
+obtaining so great power and dignitie, are wont to  
+accept, in matters both doubtfull and important, what 
+they think offer'd them well meant, and from a  
+rational ability, I had no lesse then to perswade me. 
+And on that perswasion am return'd, as to a famous  
+and free Port, my self also bound by more then a  
+<i>maritime</i> Law, to expose as freely what fraughtage I 
+conceave to bring of no trifles.  For although it be 
+generally known, how and by whom ye have been  
+instigated to a hard censure of that former book  
+entitl'd, The Doctrine, and Discipline of Divorce, an 
+opinion held by some of the best among reformed  
+Writers without scandal or confutement, though now  
+thought new and dangerous by some of our severe
+<a href="" id="Gnostics" class="annotBtn"><i>Gnostics</i></a>, whose little reading, and less meditating 
+holds ever with hardest obstinacy that which it took 
+up with easiest credulity, I do not find yet that  
+ought, for the furious incitements which have been  
+us'd, hath issu'd by your appointment, that might  
+give the least interruption or disrepute either to the 
+Author, or to the Book.  Which he who will be better 
+advis'd then to call your neglect, or connivance at 
+a  
+thing imagin'd so perilous, can attribute it to nothing 
+more justly, then to the deep and quiet stream of  
+your direct and calme deliberations; that gave not  
+way either to the fervent rashnesse, or the  
+immaterial gravity of those who ceas'd not to  
+exasperate without cause.  For which uprightnesse  
+and incorrupt refusall of what ye were incens'd to,  
+Lords and Commons, (though it were don to justice, 
+not to me, and was a peculiar demonstration how farre 
+your waies are different from the rash vulgar)  
+besides those allegiances of oath and duty, which are 
+my public debt to your public labours, I have yet a 
+store of gratitude laid up, which cannot be  
+exhausted; and such thanks perhaps they may live to 
+be, as shall more then whisper to the next ages.  Yet 
+that the Author may be known to ground himself  
+upon his own innocence, and the merit of his cause, 
+not upon the favour of a diversion, or a delay to any 
+just censure, but wishes rather he might see those  
+<a name="palmer">his detracters</a> at any fair meeting, as learned  
+debatements are privileg'd with a due freedom under 
+equal Moderators, I shall here briefly single <a href="" id="palmer" class="annotBtn">one of them</a> (because he hath oblig'd me to it) who I  
+perswade me having scarse read the book, nor  
+knowing him who writ it, or at least faining the  
+latter, hath not forborn to scandalize him,  
+unconferr'd with, unadmonisht, undealt with by  
+any Pastorly or brotherly convincement, in the most 
+open and invective manner, and at the most bitter  
+opportunity that drift or set design could have  
+invented.  And this, when as the Canon Law, though  
+commonly most favouring the boldnesse of their  
+Priests, punishes the naming or traducing of any  
+person in the Pulpit, was by him made no scruple.  If 
+I shall therfore take licence by the right of nature, 
+and that liberty wherin I was born, to defend my self 
+publicly against a printed Calumny, and do willingly 
+appeal to those Judges to whom I am accus'd, it can 
+be no immoderate, or unallowable course of seeking  
+so just and needful reparations.  Which I had don  
+long since, had not these employments, which are  
+now visible, deferr'd  me.  It was preacht before ye, 
+Lords and Commons, in August  last upon a special  
+day of humiliation, that <i>there was a wicked Book  
+abroad</i>, and ye were taxt of sin that it was yet  
+<i>uncensur'd, the book deserving to be burnt</i>, and  
+<i>impudence</i> also was charg'd upon the Author, who  
+durst <i>set his name to it, and dedicate it to your  
+selves</i>.  First, Lords and Commons, I pray to that God, 
+before whom ye then were prostrate, so to forgive ye 
+those omissions and trespasses, which ye desire most 
+should find forgiveness, as I shall soon shew to the 
+world how easily ye absolve your selves of that  
+which this man calls your sin, and is indeed your  
+wisdom, and your Noblenesse, wherof to this day ye  
+have don well not to repent.  He terms it <i>a wicked 
+book</i>, and why but <i>for allowing other causes of  
+Divorce, then Christ and his Apostles mention</i>; and  
+with the same censure condemns of wickedness not  
+onely <i>Martin Bucer</i> that elect Instrument of  
+Reformation, highly honour'd and had in reverence  
+by <i>Edward</i> the sixth, and his whole <span class="varspell" title="Parliament">Parlament</span>, whom  
+also I had published in English by a good providence, 
+about a week before this calumnious digression was  
+preach'd; so that if he knew not <i>Bucer</i> then, as he  
+ought to have known, he might at least have known  
+him some months after, ere the Sermon came in  
+print, wherin notwithstanding he persists in his  
+former sentence, and condemnes again of wickedness,  
+either ignorantly or wilfully, not onely <i>Martin Bucer</i>, 
+and all the choisest and holiest of our Reformers, but 
+the whole <span class="varspell" title="Parliament">Parlament</span> and Church of England in those  
+best and purest times of <i>Edward</i> the sixth.  All which 
+I shall prove with good evidence, at the end of those 
+Explanations.  And then let it be judg'd and seriously 
+consider'd with what hope the affairs of our Religion 
+are committed to one among others, who hath now  
+onely left him which of the twain he will choose,  
+whether this shall be his palpable ignorance, or the 
+same wickedness of his own book, which he so  
+lavishly imputes to the writings of other men: and  
+whether this of his, that thus peremptorily defames 
+and attaints of wickedness unspotted Churches,  
+unblemisht <span class="varspell" title="Parliaments">Parlaments</span>, and the most eminent  
+restorers of Christian Doctrine, deserve not to be  
+burnt first.  And if his heat had burst out onely  
+against the opinion, his wonted passion had no doubt 
+bin silently born with wonted patience.  But since, 
+against the charity of that solemne place and meeting, 
+it serv'd him furder to inveigh opprobriously  
+against the person, branding him with no lesse then  
+impudence, onely for setting his name to what he had 
+writt'n; I must be excus'd not to be so wanting to the 
+defence of an honest name, or to the reputation of  
+those good Men who afford me their society, but to be 
+sensible of such a foule endeavour'd disgrace: not  
+knowing ought either in mine own deserts, or the  
+Laws of this Land, why I should be subject, in such 
+a  
+notorious and illegal manner, to the intemperancies  
+of this mans preaching choler.  And indeed to be so 
+prompt and ready in the midst of his humblenesse, to 
+tosse reproaches of this bulk and size, argues as if 
+they were the weapons of his exercise, I am sure not 
+of his Ministry, or of that dayes work.  Certainly to 
+subscribe my name at what I was to own, was what  
+the State had order'd and requires.  And he who lists 
+not to be malicious, would call it ingenuity, cleer 
+conscience, willingness to avouch what might be  
+question'd, or to be better instructed.  And if God 
+were so displeas'd with those, <a href="" id="verse4" class="annotBtn"><i>Isa</i>. 58.</a>  who <i>on the  
+solemne fast were wont to smite with the fist of  
+wickednesse</i>, it could be no sign of his own humiliation 
+accepted, which dispos'd him to smite so keenly with 
+a reviling tongue.  But if onely to have writ my name 
+must be counted impudence, how doth this but  
+justifie another, who might affirm with as good  
+warrant, that the late Discourse of <i>Scripture and  
+Reason</i>, which is certain to be chiefly his own  
+draught, was publisht without a name, out of base  
+fear, and the sly avoidance of what might follow to 
+his detriment, if the party at Court should hap to  
+reach him. And I, to have set my name, where he  
+accuses me to have set it, am so far from recanting, 
+that I offer my hand also if need be, to make good the 
+same opinion which I there maintain, by inevitable  
+consequences drawn parallel from his own principal  
+arguments in that of <i>Scripture and Reason</i>: which I  
+shall pardon him, if he can deny, without shaking his 
+own composition to peeces.  The <i>impudence</i> therfore, 
+since he waigh'd so little what a grosse revile that 
+was  
+to give his equall, I send him back again for a  
+<i>phylactery</i> to stitch upon his arrogance, that  
+censures not onely before conviction so bitterly  
+without so much as one reason giv'n, but censures  
+the Congregation of his Governors to their faces, for 
+not being so hasty as himself to censure.
+</p>
+
+<p>And wheras my other crime is, that I address'd  
+the Dedication of what I had studied, to the  
+<span class="varspell" title="Parliament">Parlament</span>, how could I better declare the loyalty  
+which I owe to that supreme and majestick Tribunal,  
+and the opinion which I have of the high-entrusted  
+judgment, and personall worth assembl'd in that  
+place.  With the same affections therfore, and the  
+same addicted fidelity, <span class="varspell" title="Parliament">Parlament</span> of England, I here 
+ 
+again have brought to your perusal on the same  
+argument these following Expositions of Scripture.  
+ 
+The former book, as pleas'd some to think, who were 
+ 
+thought judicious, had of reason in it to a sufficiencie; 
+ 
+what they requir'd, was that the Scriptures there  
+alleg'd might be discuss'd more fully.  To their  
+desires, thus much furder hath been labour'd in the 
+ 
+Scriptures.  Another sort also who wanted more  
+autorities, and citations, have not been here  
+unthought of.  If all this attain not to satisfie them, 
+as  
+I am confident that none of those our great  
+controversies at this day, hath had a more  
+demonstrative explaining, I must confesse to admire  
+what it is; for doubtlesse it is not reason now adayes 
+ 
+that satisfies, or suborns the common credence of  
+men, to yeeld so easily, and grow so vehement in  
+matters much more disputable, and farre lesse  
+conducing to the daily good and peace of life.  Some 
+ 
+whose necessary shifts have long enur'd them to  
+cloak the defects of their unstudied yeers, and  
+hatred now to learn, under the appearance of a  
+grave solidity, which estimation they have gain'd  
+among weak perceivers, find the ease of slighting  
+what they cannot refute, and are determin'd, as I  
+hear, to hold it not worth the answering.  In which 
+ 
+number I must be forc'd to reck'n <a href="" id="Doctor" class="annotBtn">that Doctor</a>, who  
+in a late equivocating Treatise plausibly set afloat 
+ 
+against the <i>Dippers</i>, diving the while himself with a 
+ 
+more deep prelatical malignance against the present 
+ 
+state, &amp; Church-government, mentions with  
+ignominy <i>the Tractate of Divorce</i>; yet answers  
+nothing, but instead therof (for which I do not  
+commend his marshalling) sets <i>Moses</i> also among the  
+crew of his Anabaptists, as one who to a holy Nation, 
+ 
+the Commonwealth of Israel, gave Laws <i>breaking the  
+bonds of mariage to inordinate lust</i>.  These are no 
+ 
+mean surges of blasphemy, not onely <i>dipping Moses</i>  
+the divine Lawgiver, but dashing with a high hand  
+against the justice and purity of God himself; as  
+these ensuing Scriptures plainly and freely handl'd 
+ 
+shall verifie to the launcing of that old <a href="" id="apostemated" class="annotBtn"><i>apostemated</i></a>  
+ 
+error.  Him therefore I leave now to his repentance.</p>
+
+  <p>Others, which is their courtesie, confesse that wit  
+and parts may do much to make that seem true  
+which is not (as was objected to <i>Socrates</i> by them  
+who could not resist his efficacy, that he ever made 
+ 
+the worse cause seem the better) and thus thinking  
+themselves discharg'd of the difficulty, love not to 
+ 
+wade furder into the fear of a convincement.  These 
+ 
+will be their excuses to decline the full examining 
+of  
+this serious point.  So much the more I presse it and 
+ 
+repeat it, Lords and Commons, that ye beware while  
+time is, ere this grand secret, and onely art of  
+ignorance affecting tyrany, grow powerful, and rule 
+ 
+among us.  For if sound argument and reason shall be 
+ 
+thus put off, either by an undervaluing silence, or 
+ 
+the maisterly censure of a rayling word or two in the 
+ 
+Pulpit, or by rejecting the force of truth, as the meer 
+ 
+cunning of eloquence and Sophistry, what can be the 
+ 
+end of this, but that all good learning and knowledge 
+ 
+will suddenly decay:  Ignorance, and illiterate  
+presumption, which is yet but our disease, will turn 
+ 
+at length into our very constitution, and prove the  
+<i>hectic</i> evill of this age: worse to be fear'd, if it get 
+ 
+once to reign over us, then any <a href="" id="fifth" class="annotBtn">fift Monarchy</a>.  If 
+ 
+this shall be the course, that what was wont to be a 
+ 
+chief commendation, and the ground of other mens  
+confidence in an Author, his diligence, his learning, 
+ 
+his elocution whether by right, or by ill meaning  
+granted him, shall be turn'd now to a disadvantage  
+and suspicion against him, that what he writes,  
+though unconfuted, must therfore be mistrusted,  
+therfore not receiv'd for the industry, the exactnesse, 
+ 
+the labour in it, confess'd to be more then ordnary; 
+ 
+as if wisdome had now forsak'n the thirstie and  
+laborious inquirer to dwell against her nature with 
+ 
+the arrogant and shallow babler, to what purpose all 
+ 
+those pains and that continual searching requir'd of 
+ 
+us by <i>Solomon</i> to the attainment of understanding;  
+why are men bred up with such care and expence to  
+a life of perpetual studies, why do your selves with 
+ 
+such endeavour seek to wipe off the imputation of  
+intending to discourage the progresse and advance of 
+ 
+learning?  He therfore whose heart can bear him to  
+the high pitch of your noble enterprises, may easily 
+ 
+assure himself that the prudence and farre-judging  
+circumspectnesse of so grave a Magistracy sitting in 
+ 
+<span class="varspell" title="Parliament">Parlament</span>, who have before them the prepar'd and  
+purpos'd Act of their most religious predecessors to 
+ 
+imitate in this question, cannot reject the cleerness 
+ 
+of these reasons, and these allegations both here and 
+ 
+formerly offer'd them; nor can over-look the  
+necessity of ordaining more wholesomly and more  
+humanly in the casualties of Divorce, then our Laws 
+ 
+have yet establisht: if the most urgent and  
+excessive grievances hapning in domestick life, be  
+worth the laying to heart, which, unlesss Charity be 
+ 
+farre from us, cannot be neglected.  And that these  
+things both in the right constitution, and in the right 
+ 
+reformation of a Common-wealth call for speediest  
+redresse, and ought to be the first consider'd, anough 
+ 
+was urg'd in what was prefac'd to that monument of  
+<i>Bucer</i> which I brought to your remembrance, and  
+the other time before.  Henceforth, except new cause 
+ 
+be giv'n, I shall say lesse and lesse.  For if the Law 
+ 
+make not timely provision, let the Law, as reason is, 
+ 
+bear the censure of those consequences, which her  
+own default now more evidently produces.  And if  
+men want manlinesse to expostulate the right of their 
+ 
+due ransom, and to second their own occasions, they 
+ 
+may sit hereafter and bemoan themselves to have  
+neglected through faintnesse the only remedy of their 
+ 
+sufferings, which a seasonable and well-grounded  
+speaking might have purchas'd them.  And perhaps  
+in time to come, others will know how to esteem what 
+ 
+is not every day put into their hands, when they  
+have markt events, and better weigh'd how hurtfull  
+and unwise it is, to hide a secret and pernicious  
+rupture under the ill counsell of a bashful silence.  But 
+ 
+who would distrust ought, or not be ample in his  
+hopes of your wise and Christian determinations?  
+who have the prudence to consider, and should have  
+the goodnesse <a href="" id="Gods" class="annotBtn">like gods, as ye are call'd</a>, to find out 
+ 
+readily, and by just Law to administer those  
+redresses which have of old, not without God  
+ordaining, bin granted to the adversities of  
+mankind, ere they who needed, were put to ask.   
+Certainly, if any other have enlarg'd his thoughts to 
+ 
+expect from this Government so justly undertak'n,  
+and by frequent assistances from heaven so  
+apparently upheld, glorious changes and renovations 
+ 
+both in Church and State, he among the formost  
+might be nam'd, who prays that the fate of England  
+may tarry for no other Deliverers.</p>
+
+John Milton.
+ 
+
+</font>
+
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

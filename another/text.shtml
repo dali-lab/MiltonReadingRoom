@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Another on the Same: Text</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		<script src="../nav1.1.js"></script>
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+					
+	
+			   <div id="header">
+					<a name="top"></a>
+					<div class="align-block">
+						<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+						<span id="poemBanner">Another on the Same</span>
+					</div>
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+		
+			
+		</div>
+			</div>
+			
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="intro.shtml">Introduction</a>
+					</li>
+					<li>
+						<a href="text.shtml"><b>Text</b></a>
+					</li>
+						
+				</ul>	
+			</div>
+
+<div id="container">
+	<div id="content">
+
+<p class="poemTitle">Another on the Same</p>
+
+<div class="verse">
+ <p class="first">
+<span class="varspell" title="Here"><span>H</span>ere</span> lieth one who did most truly prove,<br />
+That he could never die while he could move,<br />
+So hung his destiny never to rot<br />
+While he might still <span class="varspell" title="jog">jogg</span> on, and keep his trot,<br />
+
+Made of <a href="" id="sphear" class="annotBtn"><span class="varspell" title="sphere">sphear</span>-metal,</a> never to decay<br />
+<span class="varspell" title="Until">Untill</span> his revolution was at stay.<span class="line" id="line5"> [ 5 ]</span><br />
+<a href="" id="numbers" class="annotBtn">Time numbers motion,</a> yet (without a crime<br />
+<span class="varspell" title="Against">'Gainst</span> old truth) motion <span class="varspell" title="numbered">number'd</span> out his time;<br />
+And like an <a href="" id="Engin" class="annotBtn"><span class="varspell" title="Engine">Engin</span></a> <span class="varspell" title="moved">mov'd</span> with wheel and <span class="varspell" title="weight">waight</span>,<br />
+
+His <a href="" id="principles" class="annotBtn">principles</a> being <span class="varspell" title="ceased">ceast</span>, he ended <span class="varspell" title="straight">strait</span>,<span class="line" id="line10"> [ 10 ]</span><br />
+Rest that gives all men life, gave him his death,<br />
+And too much breathing put him out of breath,<br />
+Nor were it contradiction to affirm<br />
+Too long vacation <span class="varspell" title="hastened">hastned</span> on <a href="" id="term" class="annotBtn">his term</a>.<br />
+
+<span class="varspell" title="Merely">Meerly</span> to drive the time away he <span class="varspell" title="sickened">sickn'd</span>,<span class="line" id="line15"> [ 15 ]</span><br />
+Fainted, and died, nor would with Ale be <a href="" id="quicknd" class="annotBtn"><span class="varspell" title="quickened">quickn'd</span></a>;<br />
+Nay, quoth he, on his swooning bed <span class="varspell" title="outstretched">outstretch'd</span>,<br />
+If I may not <a href="" id="carry" class="annotBtn">carry,</a> sure <span class="varspell" title="I'll">Ile</span> <span class="varspell" title="never">ne're</span> be <span class="varspell" title="fetched">fetch'd</span>,<br />
+But vow though the <a href="" id="cross" class="annotBtn">cross Doctors</a> all stood hearers,<br />
+
+For one Carrier put down to make six <a href="" id="bearers" class="annotBtn">bearers</a>.<span class="line" id="line20"> [ 20 ]</span><br />
+Ease was his chief disease, and to judge right,<br />
+He <span class="varspell" title="died">di'd</span> for <a href="" id="heavines" class="annotBtn"><span class="varspell" title="heaviness">heavines</span></a> that his Cart went light,<br />
+His <span class="varspell" title="leisure">leasure</span> told him that his time was <span class="varspell" title="come">com</span>,<br />
+And lack of load, made his life <span class="varspell" title="burdensome">burdensom</span>,<br />
+
+That even to his last breath (<span class="varspell" title="there">ther</span> be that <span class="varspell" title="say it">say't</span>)<span class="line" id="line25"> [ 25 ]</span><br />
+As he were <a href="" id="prest" class="annotBtn"><span class="varspell" title="pressed">prest</span> to death,</a> he <span class="varspell" title="cried">cry'd</span> more <span class="varspell" title="weight">waight</span>;<br />
+But had his doings lasted as they were,<br />
+He had <span class="varspell" title="been">bin</span> an <span class="varspell" title="immortal">immortall</span> Carrier.<br />
+<a href="" id="Moon" class="annotBtn">Obedient to the Moon</a> he spent his date<br />
+
+In <span class="varspell" title="course">cours</span> reciprocal, and had his fate<span class="line" id="line30"> [ 30 ]</span><br />
+<span class="varspell" title="Linked">Linkt</span> to the mutual flowing of the Seas,<br />
+Yet (strange to think) his <a href="" id="wain" class="annotBtn">wain</a> was his increase:<br />
+His Letters are <span class="varspell" title="delivered">deliver'd</span> all and <span class="varspell" title="gone">gon</span>,<br />
+<span class="varspell" title="Only">Onely</span> remains this <a href="" id="superscription" class="annotBtn">superscription</a>.</p>
+  
+</div>
+	</div>
+				
+				<div id="annotation"></div>	
+			</div>
+			
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>			
+	
+	
+	
+</body> 
+</html> 
+

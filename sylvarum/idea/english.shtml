@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+ 
+
+
+<!--Copyright 2003, all rights reserved-->
+
+<title>Milton: The Platonic Idea as Understood by Aristotle</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/prose/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/prose/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">The Platonic Idea as Understood by Aristotle</a>
+</p>
+<br />
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Declare"><span class="minitial">D</span>eclare</span>, O goddesses that guard the sacred groves, and you, O Memory, blessed mother of <a href="" id="ninefold" class="annotBtn">the ninefold deity</a>, and you, <a href="" id="eternity" class="annotBtn">Eternity</a>, who in some vast cave far-off lie stretched at ease, guarding the chronicles and the unalterable laws of Jove, recording the festivals of heaven and the daily life of the gods, declare who is that first being, eternal, incorruptible, coeval with the heavens, one and universal, made in the likeness of God &mdash; the being after whose image clever Nature has fashioned the human race. Surely he does not dwell unborn in the mind of Jove, a twin of virgin Pallas. But however general his nature, strange to say, he exists apart as an individual, and is confined to a fixed portion of space. Perchance a comrade of the sempiternal stars he wanders through the ten spheres of heaven, or inhabits the moon, the planet nearest to earth. Perchance by Lethe's waters of oblivion he drowses among the shades that await embodiment; or mayhap in some distant region of the earth this archetype of man walks as a huge giant, raising his head aloft to frighten the gods, larger even than Atlas who bears the stars.  <a href="" id="seer" class="annotBtn">The Dircean seer</a> to whom blindness gave profounder insight did not see him in the depths of his vision. <a href="" id="hermes" class="annotBtn">Pleione's grandchild</a> did not in the silence of night reveal him to his wise band of prophets. The Assyrian priest, though he could recount the long ancestral line of ancient Ninus, tell of <a href="" id="belus" class="annotBtn">Belus of old time</a>, and of renowned Osiris, knew not this being. Not even <a href="" id="hermes3" class="annotBtn">thrice-great Hermes</a>, glorious for his threefold name, though skilled in mysteries, left such a prodigy to the worshipers of Isis. But you, the unfading glory of <a href="" id="plato" class="annotBtn">the Academy</a> &mdash; if you were the first to introduce such monsters to the schools &mdash; surely you will recall the poets exiled from your State, for you are the greatest fabler of them all; or, founder though you be, you must yourself go forth. 
+</p>
+
+</div>
+</body>
+</html>

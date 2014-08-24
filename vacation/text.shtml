@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>At a Vacation Exercise: Text</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner">At a Vacation Exercise</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1673"><i>Poems</i> (1673)</a> > <a href="">At a Vacation Exercise: Text</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+	<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="intro.shtml">Introduction</a>
+				</li>
+				<li>
+					<a href="text.shtml"><b>Text</b></a>
+				</li>
+				
+			</ul>	
+	</div>
+
+<div id="container">
+
+<div id="content">
+<div class="verse">
+<p class="poemTitle">Anno &AElig;tatis 19. <span class="mi">At a Vacation Exercise in the <span class="varspell" title="College">Colledge</span>,<br /> part</span> Latin, <span class="mi">part</span> English.  <span class="mi">The</span> Latin <span class="mi">speeches ended,<br /> the</span> English <span class="mi">thus began</span>.</p>
+
+<p class="first">
+<span class="varspell" title="Hail"><span>H</span>ail</span> native Language, that by sinews weak<br />
+<span class="varspell" title="Diddest">Didst</span> move my first <span class="varspell" title="endeavoring">endeavouring</span> tongue to speak,<br />
+And <span class="varspell" title="madest">mad'st</span> imperfect words with childish <span class="varspell" title="trips">tripps</span>,<br />
+Half <span class="varspell" title="unpronounced">unpronounc't</span>, slide through my <a href="" id="infant" class="annotBtn">infant</a>-<span class="varspell" title="lips">lipps</span>,<br />
+Driving <span class="varspell" title="dumb">dum</span> silence from the portal <span class="varspell" title="door">dore</span>,<span class="line" id="line5"> [ 5 ]</span><br />
+Where he had mutely <span class="varspell" title="sat">sate</span> two years before:<br />
+Here I salute thee and thy pardon ask,<br />
+That now I use thee in my <a href="" id="latter" class="annotBtn">latter task</a>:<br />
+Small loss it is that thence can come unto thee,<br />
+I know my tongue but little Grace can do thee:<span class="line" id="line10"> [ 10 ]</span><br />
+Thou <span class="varspell" title="needest">needst</span> not be ambitious to be first,<br />
+Believe me I have <a href="" id="thither" class="annotBtn">thither</a> <span class="varspell" title="packed">packt</span> the worst:<br />
+And, if it happen as I did forecast,<br />
+The daintiest dishes shall be <span class="varspell" title="served">serv'd</span> up last.<br />
+I pray thee then deny me not thy <span class="varspell" title="aid">aide</span><span class="line" id="line15"> [ 15 ]</span><br />
+For this same small <a href="" id="neglect" class="annotBtn">neglect</a> that I have made:<br />
+But haste thee <span class="varspell" title="straight">strait</span> to do me once a Pleasure,<br />
+And from thy <span class="varspell" title="wardrobe">wardrope</span> bring thy chiefest treasure;<br />
+Not those <a href="" id="toys" class="annotBtn">new fangled toys</a>, and <span class="varspell" title="trimming">triming</span> slight<br />
+Which <a href="" id="takes" class="annotBtn">takes</a> our <a href="" id="fantasticks" class="annotBtn">late</a> <span class="varspell" title="fantastics"><a href="" id="fantasticks" class="annotBtn">fantasticks</a></span> with delight,<span class="line" id="line20"> [ 20 ]</span><br />
+But cull those richest Robes, and <span class="varspell" title="gayest">gay'st</span> attire<br />
+Which deepest Spirits, and choicest Wits desire:<br />
+I have some naked thoughts that rove about<br />
+And loudly knock to have their passage out;<br />
+And <span class="varspell" title="weary">wearie</span> of their place do only stay<span class="line" id="line25"> [ 25 ]</span><br />
+Till thou hast <span class="varspell" title="decked">deck't</span> them in thy best <span class="varspell" title="array">aray</span>;<br />
+That so they may without <a href="" id="suspect" class="annotBtn">suspect</a> or fears<br />
+Fly swiftly to this fair Assembly's ears;<br />
+Yet had I rather, if I were to <span class="varspell" title="choose">chuse</span>,<br />
+Thy service in some graver subject use,<span class="line" id="line30"> [ 30 ]</span><br />
+Such as may make thee search thy <a href="" id="coffers" class="annotBtn">coffers</a> round,<br />
+Before thou <span class="varspell" title="clothe">cloath</span> my <a href="" id="fancy" class="annotBtn">fancy</a> in fit sound:<br />
+Such where the deep transported mind may <span class="varspell" title="soar">soare</span><br />
+Above the wheeling poles, and at <span class="varspell" title="Heaven's">Heav'ns</span> <span class="varspell" title="door">dore</span><br />
+Look in, and see each blissful <span class="varspell" title="Deity">Deitie</span><span class="line" id="line35"> [ 35 ]</span><br />
+How he before the thunderous throne doth lie,<br />
+Listening to what <a href="" id="unshorn" class="annotBtn">unshorn</a> <span class="mi">Apollo</span> sings<br />
+To <span class="varspell" title="the">th'</span> touch of golden wires, while <span class="mi"><a href="" id="Hebe" class="annotBtn">Hebe</a></span> brings<br />
+Immortal Nectar to her Kingly Sire:<br />
+Then passing through the Spheres of watchful fire,<span class="line" id="line40"> [ 40 ]</span><br />
+And <span class="varspell" title="Misty">Mistie</span> Regions of wide air next under,<br />
+And hills of Snow and <a href="" id="lofts" class="annotBtn">lofts</a> of <a href="" id="piled" class="annotBtn">piled</a> Thunder,<br />
+May tell at length how green-<span class="varspell" title="eyed">ey'd</span> <span class="mi">Neptune</span> raves,<br />
+In <span class="varspell" title="Heaven's">Heav'ns</span> defiance mustering all his waves;<br />
+Then sing of secret things that came to pass<span class="line" id="line45"> [ 45 ]</span><br />
+When <a href="" id="Beldam" class="annotBtn">Beldam</a> Nature in her cradle was;<br />
+And last of Kings and Queens and <span class="mi"><span class="varspell" title="Heroes">Hero's</span></span> old<br />
+Such as the wise <span class="mi"><a href="" id="Demodocus" class="annotBtn">Demodocus</a></span> once told<br />
+In solemn Songs at King <span class="mi"><span class="varspell" title="Alcinous's">Alcinous</span></span> feast,<br />
+While sad <span class="mi"><span class="varspell" title="Ulysses">Ulisses</span></span> soul and all the rest<span class="line" id="line50"> [ 50 ]</span><br />
+Are held with his melodious <span class="varspell" title="harmony">harmonie</span><br />
+In willing chains and sweet <span class="varspell" title="captivity">captivitie</span>.<br />
+<a href="" id="stray" class="annotBtn">But fie my <span class="varspell" title="wandering">wandring</span> Muse how dost thou stray!</a><br />
+Expectance calls thee now another way,<br />
+Thou <span class="varspell" title="knowest">know'st</span> it must be now thy only <a href="" id="bent" class="annotBtn">bent</a><span class="line" id="line55"> [ 55 ]</span><br />
+To keep in <a href="" id="compass" class="annotBtn">compass</a> of thy <a href="" id="Predicament" class="annotBtn">Predicament</a>:<br />
+Then quick about thy <span class="varspell" title="purposed">purpos'd</span> business come,<br />
+That to the next I may resign my <span class="varspell" title="Room">Roome</span>.
+</p>
+<br />
+
+<p>
+<span class="mi">Then</span> Ens <span class="mi">is presented as father of the <span class="varspell" title="Predicaments">Pr&aelig;dicaments</span> his ten Sons, whereof the Eldest stood for</span> Substance <span class="mi">with his Canons, which</span> Ens <span class="mi">thus speaking, explains.</span>
+</p>
+
+
+<p class="first">
+<span class="varspell" title="Good"><span class="minitial">G</span>ood</span> luck befriend thee Son; for at thy birth<br />
+The <span class="varspell" title="Fairy">Faiery</span> Ladies <span class="varspell" title="danced">daunc't</span> upon the hearth;<span class="line" id="line60"> [ 60 ]</span><br />
+Thy <span class="varspell" title="drowsy">drowsie</span> Nurse hath sworn she did them <span class="varspell" title="spy">spie</span><br />
+Come tripping to the Room where thou <span class="varspell" title="diddest">didst</span> lie;<br />
+And sweetly singing round about thy Bed<br />
+Strew all their blessings on thy sleeping Head.<br />
+She heard them give thee this, that thou <span class="varspell" title="shouldest">should'st</span> <a href="" id="still" class="annotBtn">still</a><span class="line" id="line65"> [ 65 ]</span><br />
+From eyes of mortals walk <a href="" id="invisible" class="annotBtn">invisible</a>,<br />
+Yet there is something that doth force my fear,<br />
+For once it was my dismal hap to hear<br />
+A <span class="mi"><a href="" id="Sybil" class="annotBtn">Sybil</a></span> old, bow-bent with crooked age,<br />
+That far events full wisely could presage,<span class="line" id="line70"> [ 70 ]</span><br />
+And in times <a href="" id="Glass" class="annotBtn">long and dark Prospective Glass</a><br />
+<span class="varspell" title="Foresaw">Fore-saw</span> what future <span class="varspell" title="days">dayes</span> should bring to pass,<br />
+Your Son, said she, (nor can you it prevent)<br />
+Shall subject be to many an Accident.<br />
+<span class="varspell" title="Ore">O're</span> all his Brethren he shall Reign as King,<span class="line" id="line75"> [ 75 ]</span><br />
+<a href="" id="underling" class="annotBtn">Yet every one shall make him underling</a>,<br />
+And those that cannot live from him asunder<br />
+Ungratefully shall strive to keep him under,<br />
+In worth and excellence he shall out-go them,<br />
+Yet being above them, he shall be below them;<span class="line" id="line80"> [ 80 ]</span><br />
+From others he shall stand in need of nothing,<br />
+Yet on his Brothers shall depend for <span class="varspell" title="Clothing">Cloathing</span>.<br />
+To find a Foe it shall no be his hap,<br />
+And peace shall lull him in her <span class="varspell" title="flowery">flowry</span> lap;<br />
+Yet shall he live in strife, and at his <span class="varspell" title="door">dore</span><span class="line" id="line85"> [ 85 ]</span><br />
+Devouring war shall never cease to <span class="varspell" title="roar">roare</span>:<br />
+<a href="" id="enmity" class="annotBtn">Yea it shall be his natural property<br />
+To <span class="varspell" title="harbor">harbour</span> those that are at enmity</a>.<br />
+What power, what force, what mighty spell, if not<br />
+Your learned hands, can loose this <a href="" id="Gordion" class="annotBtn">Gordian knot</a>?<span class="line" id="line90"> [ 90 ]</span>
+</p>
+<br />
+
+<p>
+<span class="mi">The next</span> Quantity <span class="mi">and</span> Quality, <span class="mi">spake in Prose, then</span> Relation <span class="mi">was <span class="varspell" title="called">call'd</span> by his Name.</span>
+</p>
+
+
+<p class="first">
+<a href="" id="Rivers" class="annotBtn"><span class="varspell" title="Rivers"><span class="minitial">R</span>ivers</span> arise</a>;  whether thou be the Son,<br />
+Of utmost <span class="mi">Tweed</span>, or <span class="mi"><span class="varspell" title="Ouse">Oose</span></span>, or <span class="varspell" title="gulfy"><a href="" id="gulphie" class="annotBtn">gulphie</a></span> <span class="mi"><a href="" id="Dun" class="annotBtn">Dun</a></span>,<br />
+Or <span class="mi">Trent</span>, who like some earth-born Giant spreads<br />
+His <a href="" id="thirty" class="annotBtn">thirty</a> <span class="varspell" title="Arms">Armes</span> along the indented Meads,<br />
+Or <a href="" id="sullen" class="annotBtn">sullen</a> Mole that runneth underneath,<span class="line" id="line95"> [ 95 ]</span><br />
+Or <span class="mi">Severn</span> swift, guilty of <span class="varspell" title="Maiden's"><a href="" id="Maidens" class="annotBtn">Maidens</a></span> <a href="" id="Maidens" class="annotBtn">death</a>,<br />
+Or <span class="varspell" title="Rocky">Rockie</span> <span class="mi">Avon</span>, or of <span class="varspell" title="Sedgy">Sedgie</span> <span class="mi">Lee</span>,<br />
+Or Coaly <span class="mi">Tine</span>, or <span class="varspell" title="ancient">antient</span> <a href="" id="hallowed" class="annotBtn">hollowed</a> <span class="mi">Dee</span>,<br />
+Or <span class="mi">Humber</span> loud that keeps the <span class="mi"><span class="varspell" title="Scythian's">Scythians</span></span> Name,<br />
+Or <span class="mi">Medway</span> smooth, or Royal <span class="varspell" title="Towered">Towred</span> <span class="mi"><span class="varspell" title="Thames">Thame</span></span>.<span class="line" id="line100"> [ 100 ]</span>
+</p>
+<br />
+<p>
+<span class="mi">The rest was Prose.</span>
+</p>
+
+
+
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

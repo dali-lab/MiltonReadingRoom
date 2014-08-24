@@ -1,0 +1,1715 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Areopagitica: Text</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+	
+    <div id="header">
+		<a name="top"></a>
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Areopagitica</span>
+		</div>
+		
+		
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+	<div id="sidebar">
+		<ul id="sidebarNav">
+			<li id="notLast" >
+				<a href="intro/text.shtml">Introduction</a>
+			</li>
+			<li id="notLast" class="newGroup">
+				<a href="title/text.shtml">Title Page</a>
+			</li>
+			<li>
+				<a href="../colasterion/text.shtml"><b>Text</b></a>
+			</li>
+				
+		</ul>	
+	</div>
+
+	
+	
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+<div class="title">                     
+
+<h2 class="msubhead"><a href="" id="areopagitica" class="annotBtn"><span class="mi">AREOPAGITICA</span></a>;<br><br>
+A</h2>
+<h1 class="mhead">SPEECH</h1>
+<h2 class="msubhead">OF<br ><br>
+Mr. <span class="mi">JOHN MILTON</span></h2>
+
+<h3 class="msubsubhead">For the Liberty of UNLICENC'D PRINTING,<br />
+To the PARLAMENT of <span class="mi">ENGLAND</span>.</h3>
+
+<hr />
+</div>
+<blockquote>
+<span class="mi">This is true Liberty when free born men<br />
+Having to advise the public may speak free,<br />
+Which he who can, and will, deserv's high praise,<br />
+Who neither can nor will, may hold his peace;<br />
+What can be juster in a State then this?<br /></span>
+</blockquote>
+
+<p class="author"><a href="" id="eurip" class="annotBtn">Eurip. Hicetid.</a></p>
+<br />
+<div class="title">    
+
+<hr />
+<h2 class="msubhead">For the Liberty of unlicenc'd Printing.</h2>
+</div>
+
+<p class="first">
+<span class="varspell" title="They"><span class="minitial">T</span>hey</span> who to <a href="" id="states" class="annotBtn">States</a> and <span class="varspell" title="Governors">Governours</span> of the Commonwealth direct their Speech, High Court of <span class="varspell" title="Parliament"><span class="varspell" title="Parliament">Parlament</span></span>, or <a href="" id="wanting" class="annotBtn">wanting</a> such <span class="varspell" title="access">accesse</span> in a private condition, write that which they foresee may advance the <span class="varspell" title="public">publick</span> good; I suppose them as at the beginning of no <span class="varspell" title="mean">meane</span> <span class="varspell" title="endeavor">endeavour</span>, not a little <span class="varspell" title="altered">alter'd</span> and <span class="varspell" title="moved">mov'd</span> inwardly in their <span class="varspell" title="minds">mindes</span>: Some with doubt of what will be the <a href="" id="successe" class="annotBtn"><span class="varspell" title="success">successe</span></a>, others with fear of what will be the censure; some with hope,
+others with confidence of what they have to <span class="varspell" title="speak">speake</span>. And me perhaps each of
+these dispositions, as the subject was whereon I <span class="varspell" title="entered">enter'd</span>, may have <a href="" id="othertimes" class="annotBtn">at other
+times</a> variously affected; and likely might in these <span class="varspell" title="foremost">formost</span> expressions
+now also disclose which of them <span class="varspell" title="swayed">sway'd</span> most, but that the very attempt of
+this <span class="varspell" title="address">addresse</span> thus made, and the thought of whom it hath recourse to, hath
+got the power within me to a passion, <span class="varspell" title="far">farre</span> more welcome <span class="varspell" title="than">then</span> <span class="varspell" title="incidental">incidentall</span> to a
+Preface. Which though I stay not to <span class="varspell" title="confess">confesse</span> ere any <span class="varspell" title="ask">aske</span>, I shall be
+<span class="varspell" title="blameless">blamelesse</span>, if <a href="" id="it" class="annotBtn">it</a> be no other, <span class="varspell" title="than">then</span> the joy and gratulation which <a href="" id="it2" class="annotBtn">it</a> brings to all who wish and promote their <span class="varspell" title="Country's">Countries</span> liberty; whereof this whole
+Discourse <span class="varspell" title="proposed">propos'd</span> will be a <span class="varspell" title="certain">certaine</span> testimony, if not a <span class="varspell" title="Trophy">Trophey</span>.  For this is
+not the liberty which <span class="varspell" title="we">wee</span> can hope, that no grievance ever should arise in the
+Commonwealth, that let no man in this World expect; but when complaints
+are freely heard, deeply <span class="varspell" title="considered">consider'd</span> and speedily <span class="varspell" title="reformed">reform'd</span>, then is the
+utmost bound of <span class="varspell" title="civil">civill</span> liberty <span class="varspell" title="attained">attain'd</span>, that wise men <span class="varspell" title="look">looke</span> for. To which if I
+now manifest by the very sound of this which I shall utter, that <span class="varspell" title="we">wee</span> are
+already in good part <span class="varspell" title="arrived">arriv'd</span>, and yet from such a <span class="varspell" title="steep">steepe</span> disadvantage of
+tyranny and superstition grounded into our principles as was <a href="" id="recovery" class="annotBtn">beyond the
+manhood of a <span class="mi">Roman</span> recovery</a>, it will <span class="varspell" title="be">bee</span> attributed first, as is most due, to the strong assistance of God our deliverer, next to your <span class="varspell" title="faithful">faithfull</span> guidance and undaunted <span class="varspell" title="Wisdom">Wisdome</span>, Lords and Commons of <span class="mi">England</span>. Neither is it in <span class="varspell" title="God's">Gods</span> <span class="varspell" title="esteem">esteeme</span> the diminution of his glory, when <span class="varspell" title="honorable">honourable</span> things are
+spoken of good men and worthy Magistrates; which if I now <a href="" id="firstbegin" class="annotBtn">first</a> should
+begin to <span class="varspell" title="do">doe</span>, after so fair a <span class="varspell" title="progress">progresse</span> of your laudable deeds, and such a long obligement upon the whole <span class="varspell" title="Realme">Realme</span> to your indefatigable virtues, I might be
+justly <span class="varspell" title="reckoned">reckn'd</span> among the tardiest, and the unwillingest of them that praise
+<span class="varspell" title="ye">yee</span>. Nevertheless there being three principall things, without which all
+praising is but Courtship and flattery, First, when that only is <span class="varspell" title="praised">prais'd</span> which
+is solidly worth praise: next, when greatest likelihoods are brought that
+such things are truly and really in those persons to whom they are <span class="varspell" title="ascribed">ascrib'd</span>,
+the other, when he who praises, by <span class="varspell" title="showing">shewing</span> that such his <span class="varspell" title="actual">actuall</span> <span class="varspell" title="persuasion">perswasion</span>
+is of whom he writes, can demonstrate that he flatters not; the former two
+of these I have heretofore <span class="varspell" title="endeavored">endeavour'd</span>, <a href="" id="employment" class="annotBtn">rescuing the employment from him</a>
+who went about to <span class="varspell" title="impair">impaire</span> your merits with a <span class="varspell" title="trivial">triviall</span> and malignant
+<a href="" id="encomium" class="annotBtn"><span class="mi">Encomium</span></a>; the latter as belonging chiefly to mine <span class="varspell" title="own">owne</span> <span class="acquittal">acquittall</span>, that whom I so <span class="varspell" title="extolled">extoll'd</span> I did not flatter, hath been <span class="varspell" title="reserved">reserv'd</span> opportunely to this
+occasion. For he who freely magnifies what hath been nobly done, and fears not
+to declare as freely what might be done better, gives ye the best <span class="varspell" title="covenant">cov'nant</span> of
+his fidelity; and that his loyalest affection and his hope waits on your
+proceedings. His highest praising is not flattery, and his plainest advice is a
+<span class="varspell" title="kind">kinde</span> of praising; for though I should <span class="varspell" title="affirm">affirme</span> and hold by argument, that it
+would fare better with truth, with learning, and the Commonwealth, if <a href="" id="publisht" class="annotBtn">one
+of your <span class="varspell" title="published">publisht</span> Orders</a> which I should name, were <span class="varspell" title="called">call'd</span> in, yet at the
+same time it could not but much redound to the <span class="varspell" title="luster">lustre</span> of your <span class="varspell" title="mild">milde</span> and
+<a href="" id="equall" class="annotBtn"><span class="varspell" title="equal">equall</span></a> Government, when as private persons are hereby animated to <span class="varspell" title="think">thinke</span> ye
+better <span class="varspell" title="pleased"><span class="varspell" title="pleased">pleas'd</span></span> with <span class="varspell" title="public">publick</span> advice, <span class="varspell" title="than">then</span> other statists have been delighted
+heretofore with <span class="varspell" title="public">publicke</span> flattery. And men will then see what difference there
+is between the magnanimity of a <a href="" id="triennial" class="annotBtn">trienniall <span class="varspell" title="Parliament"><span class="varspell" title="Parliament">Parlament</span></span></a>, and that jealous
+<span class="varspell" title="haughtiness">hautinesse</span> of Prelates and <a href="" id="cabin" class="annotBtn">cabin <span class="varspell" title="Councillors">Counsellours</span></a> that <span class="varspell" title="usurped">usurpt</span> of late, when as
+they shall observe <span class="varspell" title="ye">yee</span> in the <span class="varspell" title="midst">midd'st</span> of your Victories and successes more
+gently brooking <span class="varspell" title="written">writt'n</span> exceptions against a voted Order, <span class="varspell" title="than">then</span> other Courts, which
+had <span class="varspell" title="produced">produc't</span> nothing worth memory but the <span class="varspell" title="weak">weake</span> ostentation of wealth,
+would have <span class="varspell" title="endured">endur'd</span> the least <span class="varspell" title="signified">signifi'd</span> dislike at any sudden Proclamation. 
+If I should thus <span class="varspell" title="far">farre</span> presume upon the meek <span class="varspell" title="demeanor">demeanour</span> of your <span class="varspell" title="civil">civill</span> and
+gentle <span class="varspell" title="greatness">greatnesse</span>, Lords and Commons, as what your <span class="varspell" title="published">publisht</span> Order hath
+directly said, that to gainsay, I might defend my <span class="varspell" title="self">selfe</span> with ease, if any
+should accuse me of being new or insolent, did they but know how much
+better I find ye esteem it to imitate the old and elegant humanity of Greece,
+<span class="varspell" title="than">then</span> the <span class="varspell" title="barbaric">barbarick</span> pride of a <span class="mi">Hunnish</span> and <span class="mi">Norwegian</span> <span class="varspell" title="stateliness">statelines</span>. And out of those ages, to whose polite wisdom and letters we <span class="varspell" title="owe">ow</span> that we are not yet <a href="" id="Goths" class="annotBtn"><span class="mi"><span class="varspell" title="Goths">Gothes</span></span> and <span class="mi">Jutlanders</span></a>, I could name <a href="" id="isocrates" class="annotBtn">him</a> who from his private house wrote that discourse to the <span class="varspell" title="Parliament">Parlament</span> of <a href="" id="athens" class="annotBtn"><span class="mi">Athens</span></a>, that <span class="varspell" title="persuades">perswades</span> them to change the <span class="varspell" title="form">forme</span> of <span class="mi"><span class="varspell" title="Democracy">Democraty</span></span> which was then <span class="varspell" title="established">establisht</span>. Such <span class="varspell" title="honor">honour</span> was done in those <span class="varspell" title="days">dayes</span> to men who <span class="varspell" title="professed">profest</span> the study of <span class="varspell" title="wisdom">wisdome</span> and eloquence, not only in their own Country, but in other Lands, that Cities and <a href="" id="sr" class="annotBtn">Siniories</a> heard them gladly, and with great respect, if they had aught in <span class="varspell" title="public">publick</span> to admonish the State. Thus did <a href="" id="dion" class="annotBtn"><span class="mi">Dion Prus&aelig;us</span></a>, a stranger and a <span class="varspell" title="private">privat</span> Orator <span class="varspell" title="counsel">counsell</span> the <span class="mi">Rhodians</span> against a former Edict: and I abound with other like examples, which to set <span class="varspell" title="here">heer</span> would be superfluous. But if from 
+the industry of a life wholly dedicated to studious <span class="varspell" title="labors">labours</span>,
+and those <span class="varspell" title="natural">naturall</span> endowments haply not the worst for two and fifty
+degrees of <a href="" id="latitude" class="annotBtn">northern latitude</a>, so much must be derogated, as to count me not
+<span class="varspell" title="equal">equall</span> to any of those who had this <span class="varspell" title="privilege">priviledge</span>, I would obtain to be thought
+not so inferior, as your selves are superior to the most of them who <span class="varspell" title="received">receiv'd</span>
+their <span class="varspell" title="counsel">counsell</span>: and how <span class="varspell" title="far">farre</span> you <span class="varspell" title="excel">excell</span> them, be <span class="varspell" title="assured">assur'd</span>, Lords and
+Commons, there can no greater testimony appear, <span class="varspell" title="than">then</span> when your prudent
+spirit acknowledges and <span class="varspell" title="obeys">obeyes</span> the voice of reason from what quarter
+soever it be heard speaking; and renders ye as willing to repeal any Act of
+your own setting forth, as any set forth by your Predecessors.</p>
+
+<p>
+If ye be thus <span class="varspell" title="resolved">resolv'd</span>, as it were injury to think ye were not; I know not
+what should withhold me from presenting ye with fit instance wherein to
+<span class="varspell" title="show">shew</span> both that love of truth which ye eminently <span class="varspell" title="profess">professe</span>, and that
+<span class="uprightness">uprightnesse</span> of your <span class="varspell" title="judgment">judgement</span> which is not wont to be <span class="varspell" title="partial">partiall</span> to your selves;
+by judging over again that <a href="" id="Order2" class="annotBtn">Order</a> which ye have <span class="varspell" title="ordained">ordain'd</span> <span class="mi">to regulate
+Printing, That no Book, pamphlet, or paper shall be henceforth Printed,
+<span class="varspell" title="unless">unlesse</span> the same be first <span class="varspell" title="approved">approv'd</span> and <span class="varspell" title="licensed">licenc't</span> by such</span>, or at least one of
+such as shall be thereto appointed. For that part which preserves justly
+every <span class="varspell" title="man's">mans</span> <a href="" id="copy" class="annotBtn">Copy</a> to <span class="varspell" title="himself">himselfe</span>, or provides for the poor, I touch not, only
+wish they be not made pretenses to abuse and persecute honest and <a href="" id="pain" class="annotBtn"><span class="varspell" title="painful">painfull</span></a>
+Men, who offend not in either of these particulars. But that other clause of
+Licencing Books, which we thought had <span class="varspell" title="died">dy'd</span> with his brother
+<a href="" id="Quadragesimal" class="annotBtn"><span class="mi">quadragesimal</span></a> and <span class="mi">matrimonial</span> when the <a href="" id="prelats" class="annotBtn"><span class="varspell" title="Prelates">Prelats</span> <span class="varspell" title="expired">expir'd</span></a>, I shall now
+attend with such a <a href="" id="homily" class="annotBtn">Homily</a>, as shall lay before ye, first the inventors of it to
+<span class="varspell" title="be">bee</span> those whom ye will be loath to own; next what is to be thought in <span class="varspell" title="general">generall</span>
+of reading, what ever sort the Books be; and that this Order avails nothing to
+the suppressing of scandalous, seditious, and libellous Books, which were
+mainly intended to be <span class="varspell" title="suppressed">supprest</span>. Last, that it will be primely to the
+discouragement of all learning, and the stop of Truth, not only by
+disexercising and blunting our abilities in what we know already, but by
+<span class="varspell" title="hindering">hindring</span> and cropping the discovery that might <span class="varspell" title="be">bee</span> yet further made both in
+religious and <span class="varspell" title="civil">civill</span> <span class="varspell" title="Wisdom">Wisdome</span>.
+</p>
+ 
+<p>
+I deny not, but that it is of greatest concernment in the Church and
+Commonwealth, to have a vigilant eye how <span class="varspell" title="Books">Bookes</span> <span class="varspell" title="demean">demeane</span> themselves as
+well as men; and thereafter to confine, imprison, and do sharpest justice on
+them as malefactors: For Books are not absolutely dead things, but <span class="varspell" title="do">doe</span>
+contain a <span class="varspell" title="potency">potencie</span> of life in them to be as active as that <span class="varspell" title="soul">soule</span> was whose
+progeny they are; nay they do preserve as in a <a href="" id="vial" class="annotBtn"><span class="varspell" title="vial">violl</span></a> the purest <span class="varspell" title="efficacy">efficacie</span> and
+extraction of that living intellect that bred them. I know they are as lively, and
+as vigorously productive, as those fabulous Dragons teeth; and being sown
+up and down, may chance to spring up <a href="" id="armed" class="annotBtn">armed men</a>. And yet on the other
+hand, <span class="varspell" title="unless">unlesse</span> <span class="varspell" title="wariness">warinesse</span> be <span class="varspell" title="used">us'd</span>, as good almost kill a Man as kill a good
+Book; who kills a Man kills a reasonable creature, <span class="varspell" title="God's">Gods</span> Image; but <span class="varspell" title="he">hee</span>
+who <span class="varspell" title="destroys">destroyes</span> a good <span class="varspell" title="Book">Booke</span>, kills reason it <span class="varspell" title="self">selfe</span>, kills the Image of God, as it
+were <a href="" id="eye" class="annotBtn">in the eye</a>. Many a man lives a burden to the Earth; but a good <span class="varspell" title="Book">Booke</span> is
+the pretious life-blood of a master spirit, <span class="varspell" title="embalmed">imbalm'd</span> and <span class="varspell" title="treasured">treasur'd</span> up on
+purpose to a life beyond life. 'Tis true, no age can restore a life, whereof
+perhaps there is no great <span class="varspell" title="loss">losse</span>; and revolutions of ages do not oft recover the
+<span class="varspell" title="loss">losse</span> of a rejected truth, for the want of which whole Nations fare the worse.
+We should be wary therefore what persecution we raise against the
+living <span class="varspell" title="labors">labours</span> of <span class="varspell" title="public">publick</span> men, how we spill that <span class="varspell" title="seasoned">season'd</span> life of man
+<span class="varspell" title="preserved">preserv'd</span> and <span class="varspell" title="stored">stor'd</span> up in Books; since we see a <span class="varspell" title="kind">kinde</span> of homicide may be
+thus committed, sometimes a <span class="varspell" title="martyrdom">martyrdome</span>, and if it extend to the <a href="" id="impression" class="annotBtn">whole
+impression</a>, a <span class="varspell" title="kind">kinde</span> of massacre, whereof the execution ends not in the
+slaying of an <span class="varspell" title="elemental">elementall</span> life, but strikes at that <span class="varspell" title="ethereal">ethereall</span> and <a href="" id="fift" class="annotBtn"><span class="varspell" title="fifth">fift</span> essence</a>, the
+breath of reason it <span class="varspell" title="self">selfe</span>, <span class="varspell" title="slays">slaies</span> an immortality rather <span class="varspell" title="than">then</span> a life. But lest I
+should be <span class="varspell" title="condemned">condemn'd</span> of introducing licence, while I oppose Licencing, I
+refuse not the <span class="varspell" title="pains">paines</span> to be so much <span class="varspell" title="Historical">Historicall</span>, as will serve to <span class="varspell" title="show">shew</span> what
+hath been done by ancient and famous Commonwealths, against this
+disorder, till the very time that this project of licencing crept out of the
+<a href="" id="Inquisition" class="annotBtn"><span class="mi">Inquisition</span></a>, was <span class="varspell" title="catched">catcht</span> up by our Prelates, and hath caught some of our Presbyters.
+</p>
+ 
+<p>
+In <span class="mi">Athens</span> where Books and Wits were ever busier <span class="varspell" title="than">then</span> in any other part
+of <span class="mi">Greece</span>, I <span class="varspell" title="find">finde</span> but only two sorts of writings which the Magistrate <span class="varspell" title="cared">car'd</span>
+to take notice of; those either blasphemous and <span class="varspell" title="Atheistical">Atheisticall</span>, or Libellous.
+Thus the Books of <a href="" id="protagoras" class="annotBtn"><span class="mi">Protagoras</span></a> were by the <span class="varspell" title="Judges">Iudges</span> of <span class="mi">Areopagus</span>
+commanded to be <span class="varspell" title="burned">burnt</span>, and <span class="varspell" title="himself">himselfe</span> <span class="varspell" title="banished">banisht</span> the territory for a discourse
+begun with his confessing not to know <span class="mi">whether there were gods, or
+whether not:</span>  And against defaming, it was decreed that none should be
+<span class="varspell" title="traduced">traduc'd</span> by name, as was the manner of <a href="" id="comedy" class="annotBtn"><span class="mi">Vetus Com&oelig;dia</span></a>, whereby we
+may <span class="varspell" title="guess">guesse</span> how they <span class="varspell" title="censured">censur'd</span> libelling: And this course was quick enough,
+as <span class="mi">Cicero</span> writes, to quell both the desperate wits of other Atheists, and the
+open way of defaming, as the event <span class="varspell" title="showed">shew'd</span>. Of other sects and opinions,
+though tending to <span class="varspell" title="voluptuousness">voluptuousnesse</span>, and the denying of divine providence,
+they <span class="varspell" title="took">tooke</span> no heed. Therefore we do not read that either <a href="" id="epicurus" class="annotBtn"><span class="mi">Epicurus</span></a>, or that 
+libertine <a href="" id="Cyrene" class="annotBtn">school of <span class="mi">Cyrene</span></a>, or what <a href="" id="Cynick" class="annotBtn">the <span class="mi">Cynick</span></a> impudence <span class="varspell" title="uttered">utter'd</span>, was ever 
+<span class="varspell" title="questioned">question'd</span> by the Laws. Neither is it recorded that the writings of those old 
+Comedians were <span class="varspell" title="suppressed">suppresst</span>, though the acting of them were forbid; and that 
+<span class="mi">Plato</span> commended the reading of <span class="mi">Aristophanes</span>, the loosest of them all, to his
+<span class="varspell" title="royal">royall</span> <span class="varspell" title="scholar">scholler</span> <span class="mi">Dionysius</span>, is commonly known, and may be <span class="varspell" title="excused">excus'd</span>, if holy
+<a href="" id="chrys" class="annotBtn"><span class="mi"><span class="varspell" title="Chrysostom">Chrysostome</span></span>, </a>as is reported, nightly studied so much the same Author and
+had the art to cleanse a scurrilous vehemence into the <span class="varspell" title="style">stile</span> of a rousing
+Sermon. That other leading city of <span class="mi">Greece</span>, <span class="mi">Laced&aelig;mon</span>, considering that
+<a href="" id="lycurgus" class="annotBtn"><span class="mi">Lycurgus</span></a> their Law-giver was so addicted to elegant learning, as to have
+been the first that brought out of <span class="mi">Ionia</span> the <span class="varspell" title="scattered">scatter'd</span> <span class="varspell" title="works">workes</span> of <span class="mi">Homer</span>, and
+sent the poet <a href="" id="thales" class="annotBtn"><span class="mi">Thales</span></a> from <span class="mi"><span class="varspell" title="Crete">Creet</span></span> to prepare and <span class="varspell" title="mollify">mollifie</span> the <span class="mi">Spartan</span> <span class="varspell" title="surliness">surlinesse</span>
+with his smooth songs and odes, the better to plant among them law and
+civility, it is to be <span class="varspell" title="wondered">wonder'd</span> how <span class="varspell" title="museless">muselesse</span> and unbookish they were,
+minding nought but the feats of <span class="varspell" title="War">Warre</span>. There needed no licencing of Books
+among them for they <span class="varspell" title="disliked">dislik'd</span> all, but their <span class="varspell" title="own">owne</span> <a href="" id="sparta" class="annotBtn"><span class="mi"><span class="varspell" title="Laconic">Laconick</span> Apothegms</span></a>, and took a
+slight occasion to chase <a href="" id="arch" class="annotBtn"><span class="mi">Archilochus</span></a> out of their City, perhaps for
+composing in a higher <span class="varspell" title="strain">straine</span> <span class="varspell" title="than">then</span> their own <span class="varspell" title="soldierly">souldierly</span> <span class="varspell" title="ballads">ballats</span> and roundels
+could reach to:  Or if it were for his broad verses, they were not therein so
+cautious, but they were as dissolute in their promiscuous conversing;
+whence <span class="mi">Euripides</span> <span class="varspell" title="affirms">affirmes</span> in <a href="" id="Andromache" class="annotBtn"><span class="mi">Andromache</span></a>, that their women were all
+unchaste. Thus much may give us light after what sort <span class="varspell" title="Books">Bookes</span> were
+prohibited among the Greeks. The Romans also for many ages <span class="varspell" title="trained">train'd</span> 
+up only to a military <span class="varspell" title="roughness">roughnes</span>, resembling most the <span class="mi">Laced&aelig;monian</span> guise, 
+knew of learning little but what their <a href="" id="tables" class="annotBtn">twelve Tables</a>, and the <a href="" id="college" class="annotBtn"><span class="mi"><span class="varspell" title="Pontific">Pontifick</span></span> 
+College</a> with their <span class="mi">Augurs</span> and <span class="mi">Flamins</span> taught them in Religion and Law, 
+so unacquainted with other learning, that when <span class="mi">Carneades</span> and <span class="mi">Critolaus</span>, 
+with the <span class="mi"><span class="varspell" title="Stoic">Stoick</span> Diogenes</span> <span class="varspell" title="coming">comming</span> <span class="varspell" title="Ambassadors">Embassadors</span> to <span class="mi">Rome</span>, <span class="varspell" title="took">tooke</span> thereby 
+occasion to give the City a <span class="varspell" title="taste">tast</span> of their Philosophy, they were suspected
+for seducers by no <span class="varspell" title="less">lesse</span> a man <span class="varspell" title="than">then</span> <span class="mi">Cato</span> the Censor, who <span class="varspell" title="moved">mov'd</span> it in
+the <span class="varspell" title="Senate">Senat</span> to <span class="varspell" title="dismiss">dismisse</span> them speedily, and to banish all such <span class="mi"><span class="varspell" title="Attic">Attick</span></span> <span class="varspell" title="babblers">bablers</span>
+out of <a href="" id="italy" class="annotBtn"><span class="mi">Italy</span></a>. But <span class="mi">Scipio</span> and others of the noblest Senators 
+withstood
+him and his old <a href="" id="sabin" class="annotBtn"><span class="mi"><span class="varspell" title="Sabine">Sabin</span></span></a> austerity; <span class="varspell" title="honored">honour'd</span> and <span class="varspell" title="admired">admir'd</span> the men; 
+and the Censor himself at last in his old age fell to the study of
+that whereof before <span class="varspell" title="he">hee</span> was so scrupulous. And yet at the same
+time <a href="" id="navius" class="annotBtn"><span class="mi">N&aelig;vius</span> ></a>and <a href="" id="plautus" class="annotBtn"><span class="mi">Plautus</span></a> the first <span class="varspell" title="Latin">Latine</span> comedians had <span class="varspell" title="filled">fill'd</span> the City
+with all the <span class="varspell" title="borrowed">borrow'd</span> Scenes of <a href="" id="Philemon" class="annotBtn"><span class="mi">Menander</span> and <span class="mi">Philemon</span></a>. Then began to be
+<span class="varspell" title="considered">consider'd</span> there also what was to be <span class="varspell" title="done">don</span> to libellous books and Authors;
+for <span class="mi">N&aelig;vius</span> was quickly cast into prison for his <span class="varspell" title="unbridled">unbridl'd</span> pen, and <span class="varspell" title="released">releas'd</span>
+by the <span class="mi">Tribunes</span> upon his recantation: We read also that libels were <span class="varspell" title="burned">burnt</span>,
+and the makers <span class="varspell" title="punished">punisht</span> by <a href="" id="gus" class="annotBtn"><span class="mi">Augustus</span>. </a>The like severity no doubt was
+<span class="varspell" title="used">us'd</span> if ought were impiously <span class="varspell" title="written">writt'n</span> against their esteemed gods. Except
+in these two points, how the world went in Books, the <span class="varspell" title="Magistrate">Magistrat</span> kept no
+<span class="varspell" title="reckoning">reckning</span>. And therefore <a href="" id="Lucretius" class="annotBtn"><span class="mi">Lucretius</span> ></a> without impeachment versifies his Epicurism to
+<span class="mi">Memmius</span>, and had the <span class="varspell" title="honor">honour</span> to be set forth the second time by <span class="mi">Cicero</span> so
+great a father of the Commonwealth; although <span class="varspell" title="himself">himselfe</span> disputes against that
+opinion in his own writings. Nor was the <span class="varspell" title="Satirical">Satyricall</span> <span class="varspell" title="sharpness">sharpnesse</span>, or naked
+<span class="varspell" title="plainness">plainnes</span> of <a href="" id="Lucilius" class="annotBtn"><span class="mi">Lucilius</span>, or <span class="mi">Catullus</span>, or <span class="mi">Flaccus</span></a>, by any order prohibited. And
+for matters of State, the story of <a href="" id="titus" class="annotBtn"><span class="mi">Titus Livius</span></a>, though it <span class="varspell" title="extolled">extoll'd</span> that part
+which <span class="mi">Pompey</span> held, was not therefore <span class="varspell" title="suppressed">suppresst</span> by <span class="mi">Octavius C&aelig;sar</span> of
+the other Faction. But that <a href="" id="naso" class="annotBtn"><span class="mi">Naso</span> ></a> was by him <span class="varspell" title="banished">banisht</span> in his old age, for the
+wanton Poems of his youth, was but a <span class="varspell" title="mere">meer</span> covert of State over some secret
+cause: and besides, the Books were neither <span class="varspell" title="banished">banisht</span> nor <span class="varspell" title="called">call'd</span> in. From
+hence we shall meet with little else but tyranny in the Roman Empire, that we may
+not <span class="varspell" title="marvel">marvell</span>, if not so often bad, as good Books were <span class="varspell" title="silenced">silenc't</span>. I shall
+therefore deem to have <span class="varspell" title="been">bin</span> large <span class="varspell" title="enough">anough</span> in producing what among the
+ancients was punishable to write, save only which, all other arguments
+were free to treat on.
+</p>
+ 
+<p>
+By this time the Emperors were become Christians, whose discipline in
+this point I <span class="varspell" title="do">doe</span> not <span class="varspell" title="find">finde</span> to have <span class="varspell" title="been">bin</span> more severe <span class="varspell" title="than">then</span> what was formerly in
+practice. The Books of those whom they took to be grand <span class="varspell" title="Heretics">Hereticks</span> were
+<span class="varspell" title="examined">examin'd</span>, refuted, and <span class="varspell" title="condemned">condemn'd</span> in the general <span class="varspell" title="Councils">Councels</span>; and not till then
+were prohibited, or <span class="varspell" title="burned">burnt</span> by <span class="varspell" title="authority">autority</span> of the Emperor. As for the writings
+of Heathen authors, <span class="varspell" title="unless">unlesse</span> they were <span class="varspell" title="plain">plaine</span> invectives against Christianity,
+as those of <span class="mi">Porphyrius</span> and <a href="" id="Proclus" class="annotBtn"><span class="mi">Proclus</span>, </a> they met with no interdict that can be
+cited, till about the year 400. in a <a href="" id="Councel" class="annotBtn"><span class="mi">Carthaginian</span> <span class="varspell" title="Council">Councel</span></a>, wherein Bishops
+themselves were forbid to read the Books of <a href="" id="Gentiles" class="annotBtn">Gentiles</a>, but Heresies they
+might read: while others long before them on the contrary <span class="varspell" title="scrupled">scrupl'd</span> more
+the Books of <span class="varspell" title="Heretics">Hereticks</span>, <span class="varspell" title="than">then</span> of Gentiles. And that the primitive <span class="varspell" title="Councils">Councels</span> and
+Bishops were wont only to declare what Books were not commendable,
+passing no <span class="varspell" title="further">furder</span>, but leaving it to each <span class="varspell" title="one's">ones</span> conscience to read or to lay
+by, till after the <span class="varspell" title="year">yeare</span> 800. is observ'd already by <a href="" id="padre" class="annotBtn"><span class="mi">Padre Paolo</span></a> the great
+unmasker of the <span class="mi">Trentine</span> <span class="varspell" title="Council">Councel</span>. After which time the Popes of <span class="mi">Rome</span>,
+engrossing what they <span class="varspell" title="pleased">pleas'd</span> of <span class="varspell" title="Political">Politicall</span> rule into their <span class="varspell" title="own">owne</span> hands, 
+extended their dominion over <span class="varspell" title="men's">mens</span> eyes, as they had before over their
+<span class="varspell" title="judgments">judgements</span>, burning and prohibiting to be read, what they fancied not;
+yet sparing in their censures, and the Books not many which they so
+ dealt with: till <a href="" id="5" class="annotBtn"><span class="mi">Martin</span> the 5</a>. by his Bull not only prohibited, but was the
+first that excommunicated the reading of <span class="varspell" title="heretical">hereticall</span> Books; for about that
+time <a href="" id="wiclef" class="annotBtn"><span class="mi"><span class="varspell" title="Wycliff">Wicklef</span></span></a> and <a href="" id="husse" class="annotBtn"><span class="mi"><span class="varspell" title="Huss">Husse</span></span></a> growing terrible, were they
+who first drove the <span class="varspell" title="Papal">Papall</span> Court to a stricter policy of prohibiting. Which
+<span class="varspell" title="course">cours</span> <a href="" id="10" class="annotBtn"><span class="mi">Leo</span>  the 10</a>, and his successors <span class="varspell" title="followed">follow'd</span>, <span class="varspell" title="until">untill</span> the <a href="" id="Trent" class="annotBtn"><span class="varspell" title="Council">Councell</span> of Trent</a>, and
+the <a href="" id="Spanish" class="annotBtn">Spanish Inquisition</a> <span class="varspell" title="engendering">engendring</span> together brought forth, or <span class="varspell" title="perfected">perfeted</span>
+those <a href="" id="author" class="annotBtn">Catalogues, and expurging Indexes</a> that rake through the <span class="varspell" title="entrails">entralls</span> of many
+an old good Author, with a violation <span class="varspell" title="worse">wors</span> <span class="varspell" title="than">then</span> any could be <span class="varspell" title="offered">offer'd</span> to his
+tomb. Nor did they stay in matters <span class="varspell" title="Heretical">Hereticall</span>, but any subject that was not to
+their <span class="varspell" title="palate">palat</span>, they either <span class="varspell" title="condemned">condemn'd</span> in a prohibition, or had it <span class="varspell" title="straight">strait</span> into
+the new Purgatory of an Index. To fill up the measure of encroachment, 
+their last invention was to ordain that no Book, pamphlet, or paper should 
+be Printed (as if <abbr title="Saint">St.</abbr> <span class="mi">Peter</span> had <span class="varspell" title="bequeathed">bequeath'd</span> them the keys of the <span class="varspell" title="Press">Presse</span> also out 
+of Paradise) <span class="varspell" title="unless">unlesse</span> it were <span class="varspell" title="approved">approv'd</span> and <span class="varspell" title="licensed">licenc't</span> under the hands of 2 or 
+3 glutton <span class="varspell" title="Friars">Friers</span>. For example:
+</p>
+
+
+<blockquote>
+Let the Chancellor <span class="mi">Cini</span> be <span class="varspell" title="pleased">pleas'd</span> to see if in this present work
+be <span class="varspell" title="contained">contain'd</span> ought that may withstand the Printing.
+</blockquote>
+<span class="author"><span class="mi">Vincent Rabbatta</span>,  Vicar of <span class="mi">Florence</span>.</span>
+<br />
+<blockquote>
+I have seen this present work, and <span class="varspell" title="find">finde</span> nothing athwart the <span class="varspell" title="Catholic">Catholick</span> faith and good manners: in witness whereof I have given, <abbr title="etcetera">&amp;c</abbr>.
+</blockquote>
+<span class="author"><span class="mi">Nicol&ograve; Cini</span>, Chancellor of <span class="mi">Florence</span>.</span><br />
+<blockquote>
+Attending the precedent relation, it is <span class="varspell" title="allowed">allow'd</span> that this present work of <span class="mi">Davanzati</span> may be printed.
+</blockquote>
+<span class="author"><span class="mi">Vincent Rabbatta</span>, <abbr title="etcetera">&amp;c</abbr>.</span><br />
+<blockquote>
+It may be printed, <span class="mi">July</span> 15.
+</blockquote>
+<span class="author">Friar <span class="mi">Simon Mompei d'Amelia</span>, Chancellor of the holy office in <span class="mi">Florence</span>.</span>
+ 
+<p>
+Sure they have a conceit, if he of the <span class="varspell" title="bottomless">bottomlesse</span> pit had not long
+since broke prison, that this quadruple exorcism would <span class="varspell" title="bar">barre</span> him down. I
+fear their next designe will be to get into their custody the licensing
+of that which they say <a href="" id="claudius" class="annotBtn"><span class="mi">Claudius</span></a> intended, but went not through with.
+<span class="varspell" title="Vouchsafe">Voutsafe</span> to see another of their forms the Roman stamp:
+</p>
+
+
+<blockquote><span class="mi">Imprimatur</span>, If it seem good to the reverend Master of the holy Palace.</blockquote>
+<span class="author"><span class="mi">Belcastro</span> Vicegerent.</span><br />
+<blockquote>
+<span class="mi">Imprimatur</span>
+</blockquote>
+<span class="author">Friar <span class="mi">Nicol&ograve; Rodolphi</span>, Master of the holy Palace.</span>
+    <br />
+<p>
+Sometimes 5 <span class="mi">Imprimaturs</span> are seen together dialogue-wise in the
+<span class="varspell" title="Piazza">Piatza</span> of one Title page, complementing and ducking each to other with their
+<a href="" id="reverences" class="annotBtn"><span class="varspell" title="shaven">shav'n</span> reverences</a>, whether the Author, who stands by in perplexity at the
+foot of his Epistle, shall to the <span class="varspell" title="Press">Presse</span> or to the <a href="" id="spunge" class="annotBtn"><span class="varspell" title="sponge">spunge</span></a>. These are the <span class="varspell" title="pretty">prety</span>
+responsories, these are the dear <a href="" id="Antiphonies" class="annotBtn">Antiphonies</a>, that so <span class="varspell" title="bewitched">bewitcht</span> of late our
+<span class="varspell" title="Prelates">Prelats</span>, and their <span class="varspell" title="Chaplains">Chaplaines</span> with the goodly <span class="varspell" title="Echo">Eccho</span> they made; and besotted
+us to the gay imitation of a lordly <span class="mi">Imprimatur</span>, one from <a href="" id="Lambeth" class="annotBtn">Lambeth house</a>,
+another from the West end of <span class="mi"><span class="varspell" title="Paul's">Pauls</span></span>; so apishly Romanizing, that the word
+of command still was set <span class="varspell" title="down">downe</span> in <span class="varspell" title="Latin">Latine</span>; as if the learned <span class="varspell" title="Grammatical">Grammaticall</span> pen
+that wrote it, would cast no ink without <span class="varspell" title="Latin">Latine</span>: or perhaps, as they thought,
+because no vulgar tongue was worthy to <span class="varspell" title="express">expresse</span> the pure conceit of an
+<span class="mi">Imprimatur</span>; but rather, as I hope, for that our English, the language of
+men ever famous, and <span class="varspell" title="foremost">formost</span> in the <span class="varspell" title="achievements">atchievements</span> of liberty, will not
+easily <span class="varspell" title="find">finde</span> servile letters <span class="varspell" title="enough">anow</span> to spell such a <span class="varspell" title="dictatory">dictatorie</span> presumption <a href="" id="in" class="annotBtn">in</a>
+English. And thus ye have the Inventors and the <span class="varspell" title="original">originall</span> of Book-licencing <span class="varspell" title="ripped">ript</span> up
+and drawn as lineally as any pedigree. We have it not, that can be heard of,
+from any ancient State, or <span class="varspell" title="polity">politie</span>, or Church, nor by any Statute left us by our
+Ancestors elder or later; nor from the <span class="varspell" title="modern">moderne</span> custom of any reformed <span class="varspell" title="City">Citty</span>,
+or Church abroad; but from <a href="" id="Trent" class="annotBtn">the most Antichristian <span class="varspell" title="Council">Councel</span></a> and the most
+tyrannous Inquisition that ever <span class="varspell" title="inquired">inquir'd</span>. Till then Books were ever as freely
+admitted into the World as any other birth; the issue of the brain was no more <span class="varspell" title="stifled">stifl'd</span>
+<span class="varspell" title="than">then</span> the issue of the womb: no envious <span class="mi">Juno</span> <span class="varspell" title="sat">sate</span> <a href="" id="leg" class="annotBtn"><span class="varspell" title="cross-legged">cros-leg'd</span></a>
+over the nativity of any <span class="varspell" title="man's">mans</span> <span class="varspell" title="intellectual">intellectuall</span> off spring; but if it <span class="varspell" title="proved">prov'd</span> a
+Monster, who denies, but that it was justly <span class="varspell" title="burned">burnt</span>, or sunk into the Sea.  But
+that a Book in <span class="varspell" title="worse">wors</span> condition <span class="varspell" title="than">then</span> a peccant soul, should be to stand
+before a Jury ere it be <span class="varspell" title="born">borne</span> to the World, and undergo yet in <span class="varspell" title="darkness">darknesse</span> the
+<span class="varspell" title="judgment">judgement</span> of <a href="" id="rad" class="annotBtn"><span class="mi">Radamanth</span> and his <span class="varspell" title="Colleagues">Collegues</span></a>, ere it can pass the ferry
+backward into light, was never heard before, till that mysterious iniquity,
+<span class="varspell" title="provoked">provokt</span> and <span class="varspell" title="troubled">troubl'd</span> at the first entrance of Reformation, sought out new
+<span class="varspell" title="limbos">limbo's</span> and new hells wherein they might include our Books also within the
+number of their <a href="" id="damned" class="annotBtn">damned</a>. And this was the rare <span class="varspell" title="morsel">morsell</span> so officiously
+<span class="varspell" title="snatched">snatcht</span> up, and so <span class="varspell" title="ill-favoredly">ilfavourdly</span> imitated by our inquisiturient Bishops,
+and the attendant <a href="" id="minorites" class="annotBtn">minorites</a> their Chaplains. That ye like not now these most
+certain Authors of this licencing order, and that all sinister intention was <span class="varspell" title="far">farre</span>
+distant from your thoughts, when ye were <span class="varspell" title="importuned">importun'd</span> the passing it, all
+men who know the integrity of your actions, and how ye <span class="varspell" title="honor">honour</span> Truth,
+will clear <span class="varspell" title="ye">yee</span> readily.
+</p>
+ 
+<p>
+But some will say, What though the inventors were bad, the thing for
+all that may be good? It may be so; yet if that thing be no such
+deep invention, but obvious, and <span class="varspell" title="easy">easie</span> for any man to light on, and yet
+best and wisest Commonwealths through all ages, and occasions have
+foreborne to use it, and falsest seducers, and oppressors of men were
+the first who <span class="varspell" title="took">tooke</span> it up, and to no other purpose but to obstruct
+and hinder the first approach of Reformation; I am of those who
+<span class="varspell" title="believe">beleeve</span>, it will be a harder alchymy <span class="varspell" title="than">then</span> <a href="" id="Lullius" class="annotBtn"><span class="mi">Lullius</span></a> ever knew, to
+<span class="varspell" title="sublimate">sublimat</span> any good use out of such an invention. Yet this only is what
+I request to gain from this reason, that it may be held a dangerous
+and suspicious fruit, as certainly it deserves, for the tree that bore
+it, <span class="varspell" title="until">untill</span> I can dissect one by one the properties it has. But I have
+first to finish, as was propounded, what is to be thought in <span class="varspell" title="general">generall</span>
+of reading Books, what ever sort they be, and whether be more the
+benefit, or the harm that thence proceeds?
+</p>
+
+<p>
+Not to insist upon the examples of <a href="" id="moses" class="annotBtn"><span class="mi">Moses, Daniel</span>, <abbr title="and">&amp;</abbr> <span class="mi">Paul</span>, </a>who were
+<span class="varspell" title="skillful">skilfull</span> in all the learning of the <span class="varspell" title="Egyptians">&AElig;gyptians</span>, <span class="varspell" title="Chaldeans">Caldeans</span>, and Greeks,
+which could not probably be without reading their Books of all
+sorts; in <span class="mi">Paul</span> especially, who thought it no defilement to insert into
+holy Scripture the sentences of three Greek Poets, and one of them <a href="" id="Tragedian" class="annotBtn">a
+Tragedian</a>, the question was, notwithstanding sometimes controverted
+among the Primitive Doctors, but with great odds on that side which
+<span class="varspell" title="affirmed">affirm'd</span> it both <span class="varspel" title="lawful">lawfull</span> and profitable, as was then evidently
+<span class="varspell" title="perceived">perceiv'd</span>, when <a href="" id="Julian" class="annotBtn"><span class="mi">Julian</span></a> the <span class="varspell" title="Apostate">Apostat</span>, and <span class="varspell" title="subtlest">suttlest</span> enemy to our faith,
+made a decree forbidding Christians the study of heathen learning:
+for, said he, they wound us with our own weapons, and with our <span class="varspell" title="own">owne</span>
+arts and sciences they overcome us. And indeed the Christians were put
+so to their shifts by this crafty means, and so much in danger to
+decline into all ignorance, that the two <a href="" id="Apollinarii" class="annotBtn"><span class="mi">Apollinarii</span></a> were fain as a
+man may say, to coin all the <a href="" id="science" class="annotBtn">seven <span class="varspell" title="liberal">liberall</span> Sciences</a> out of the Bible,
+reducing it into <span class="varspell" title="diverse">divers</span> forms of Orations, Poems, Dialogues, <span class="varspell" title="even">ev'n</span> to
+the calculating of a new Christian grammar. But, saith the Historian
+<a href="" id="Socrates" class="annotBtn"><span class="mi">Socrates</span>, </a>The providence of God provided better <span class="varspell" title="than">then</span> the industry of
+<span class="mi">Apollinarius</span> and his son, by taking away that <span class="varspell" title="illiterate">illiterat</span> law with
+the life of him who <span class="varspell" title="devised">devis'd</span> it. So great an injury they then held it
+to be <span class="varspell" title="deprived">depriv'd</span> of <span class="mi"><span class="varspell" title="Hellenic">Hellenick</span></span> learning; and thought it a persecution more
+undermining, and secretly decaying the Church, <span class="varspell" title="than">then</span> the open cruelty
+of <a href="" id="decius" class="annotBtn"><span class="mi">Decius</span> or <span class="mi">Dioclesian</span></a>.
+And perhaps it was the same <span class="varspell" title="politic">politick</span> drift that the <span class="varspell" title="Devil">Divell</span> <span class="varspell" title="whipped">whipt</span> <a href="" id="jerome" class="annotBtn"><abbr title="Saint">St.</abbr>
+<span class="mi"><span class="varspell" title="Jerome">Jerom</span></span></a> in a lenten dream, for reading <span class="mi">Cicero;</span> or else it was a
+<span class="varspell" title="phantasm">fantasm</span> bred by the <span class="varspell" title="fever">feaver</span> which had then <span class="varspell" title="seized">seis'd</span> him. For had an Angel
+<span class="varspell" title="been">bin</span> his discipliner, <span class="varspell" title="unless">unlesse</span> it were for dwelling too much upon
+Ciceronianisms, <abbr title="and">&amp;</abbr> had <span class="varspell" title="chastised">chastiz'd</span> the reading, not the vanity, it
+had <span class="varspell" title="been">bin</span> plainly <span class="varspell" title="partial">partiall</span>; first to correct him for grave <span class="mi">Cicero</span>, and not for scurrill <span class="mi">Plautus</span>, whom he confesses to have <span class="varspell" title="been">bin</span> reading not long before; next to correct him only, and let so many more ancient Fathers wax old
+in those pleasant and florid studies without the lash of such a
+tutoring apparition; insomuch that <a href="" id="Basil" class="annotBtn"><span class="mi">Basil</span></a> teaches how some good use may
+be made of <a href="" id="Margites" class="annotBtn"><span class="mi">Margites</span></a>, a <span class="varspell" title="sportful">sportfull</span> Poem, not now extant, writ by <span class="mi">Homer</span>; and why not then of <a href="" id="Morgante" class="annotBtn"><span class="mi">Morgante</span></a>, an Italian <span class="varspell" title="Romance">Romanze</span> much to the same purpose.
+But if it be agreed we shall be <span class="varspell" title="tried">try'd</span> by visions, there is a
+vision recorded by <a href="" id="Eusebius" class="annotBtn"><span class="mi">Eusebius</span></a> far ancienter <span class="varspell" title="than">then</span> this tale of <span class="mi"><span class="varspell" title="Jerome">Jerom</span></span> to the Nun <span class="mi">Eustochium</span>, and besides has nothing of a <span class="varspell" title="fever">feavor</span> in it. <span class="mi">Dionysius Alexandrinus</span> was about the year 240, a person of great name in the Church for piety and learning, who had wont to avail himself
+much against <span class="varspell" title="heretics">hereticks</span> by being conversant in their Books; <span class="varspell" title="until">untill</span> a
+certain Presbyter laid it scrupulously to his conscience, how he durst
+venture <span class="varspell" title="himself">himselfe</span> among those defiling volumes. The worthy man loath
+to give offence fell into a new debate with <span class="varspell" title="himself">himselfe</span> what was to be
+thought; when suddenly a vision sent from God, it is his own Epistle
+that so <span class="varspell" title="avers">averrs</span> it, <span class="varspell" title="confirmed">confirm'd</span> him in these words: Read any books
+what ever come to thy hands, for thou art sufficient both to judge
+aright, and to examine each matter. To this revelation he assented the
+sooner, as he confesses, because it was <a href="" id="answerable" class="annotBtn">answerable</a> to that of the
+Apostle to the Thessalonians, Prove all things, hold fast that which
+is good. And he might have added another remarkable saying of the same
+Author; To the pure, all things are <a href="" id="pure" class="annotBtn">pure</a>, not only meats and drinks,
+but all <span class="varspell" title="kind">kinde</span> of knowledge whether of good or <span class="varspell" title="evil">evill</span>; the knowledge
+cannot defile, nor consequently the books, if the will and
+conscience be not <span class="varspell" title="defiled">defil'd</span>.
+For books are as meats and viands are; some of good, some of <span class="varspell" title="evil">evill</span>
+substance; and yet God in that <a href="" id="unapocryphal" class="annotBtn"><span class="varspell" title="unapocryphal">unapocryphall</span> vision</a>, said without
+exception, Rise <span class="mi">Peter</span>, kill and eat, leaving the choice to each <span class="varspell" title="man's">mans</span>
+discretion. Wholesome meats to a vitiated <span class="varspell" title="stomach">stomack</span> differ little or
+nothing from unwholesome; and best books to a naughty mind are not
+unappliable to occasions of <span class="varspell" title="evil">evill</span>. Bad meats will scarce breed good
+nourishment in the healthiest concoction; but herein the difference is
+of bad books, that they to a discreet and judicious Reader serve in
+many respects to discover, to confute, to forewarn, and to illustrate.
+<span class="varspell" title="Whereof">Wherof</span> what better <span class="varspell" title="witness">witnes</span> can ye expect I should produce, <span class="varspell" title="than">then</span> one
+of your own now sitting in <span class="varspell" title="Parliament">Parlament</span>, the chief of learned men
+reputed in this land, Mr. <a href="" id="Selden" class="annotBtn"><span class="mi">Selden</span></a>, whose volume of <span class="varspell" title="natural">naturall</span> <abbr title="and">&amp;</abbr> national
+laws proves, not only by great <span class="varspell" title="authorities">autorities</span> brought together, but by
+exquisite reasons and theorems almost mathematically demonstrative,
+that all opinions, yea errors, known, read, and collated, are of
+main service <abbr title="and">&amp;</abbr> assistance toward the speedy attainment of what is
+truest. I conceive therefore, that when God did enlarge the <span class="varspell" title="universall">universall</span>
+diet of <span class="varspell" title="man's">mans</span> body, saving ever the rules of temperance, he then also,
+as before, left arbitrary the <span class="varspell" title="dieting">dyeting</span> and <a href="" id="repasting" class="annotBtn">repasting of our minds</a>; as
+wherein every mature man might have to exercise his <span class="varspell" title="own">owne</span> leading
+capacity.
+How great a <span class="varspell" title="virtue">vertue</span> is temperance, how much of moment through the
+whole life of man? yet God <span class="varspell" title="commits">committs</span> the managing so great a trust,
+without particular Law or prescription, wholly to the <span class="varspell" title="demeanor">demeanour</span> of
+every grown man. And therefore when he himself <span class="varspell" title="tabled">tabl'd</span> the Jews from
+heaven, that Omer which was every <span class="varspell" title="man's">mans</span> daily portion of <a href="" id="Manna" class="annotBtn">Manna</a>, is
+computed to have <span class="varspell" title="been">bin</span> more <span class="varspell" title="than">then</span> might have well <span class="varspell" title="sufficed">suffic'd</span> the heartiest
+feeder thrice as many meals. For those actions which enter into a man,
+rather <span class="varspell" title="than">then</span> issue out of him, and therefore <a href="" id="defile" class="annotBtn">defile not</a>, God uses not
+to <span class="varspell" title="captivate">captivat</span> under a <a href="" id="perpetuall" class="annotBtn"><span class="varspell" title="perpetual">perpetuall</span> childhood</a> of prescription, but trusts
+him with the gift of reason to be his own chooser; there were but
+little work left for preaching, if law and compulsion should grow so
+fast upon those things which <span class="varspell" title="heretofore">hertofore</span> were <span class="varspell" title="governed">govern'd</span> only by
+exhortation. <a href="" id="Salomon" class="annotBtn"><span class="mi"><span class="varspell" title="Solomon">Salomon</span></span></a> informs us that much reading is a <span class="varspell" title="weariness">wearines</span> to
+the flesh; but neither he, nor other <span class="varspell" title="inspired">inspir'd</span> author tells us that such,
+or such reading is <span class="varspel" title="unlawful">unlawfull</span>: yet certainly had God thought good to
+limit us herein, it had <span class="varspell" title="been">bin</span> much more expedient to have told us
+what was <span class="varspel" title="unlawful">unlawfull</span>, <span class="varspell" title="than">then</span> what was wearisome. As for the burning of those
+Ephesian books by <abbr title="Saint">St.</abbr> <span class="mi"><span class="varspell" title="Paul's">Pauls</span></span> converts, tis <span class="varspell" title="replied">reply'd</span> the books were
+<span class="varspell" title="magic">magick</span>, the <a href="" id="Syriac" class="annotBtn"><span class="varspell" title="Syriac">Syriack</span></a> so renders them. It was a <span class="varspell" title="private">privat</span> act, a voluntary
+act, and leaves us to a voluntary imitation: the men in remorse
+<span class="varspell" title="burned">burnt</span> those books which were their own; the <span class="varspell" title="Magistrate">Magistrat</span> by this example
+is not appointed; these men <a href="" id="p" class="annotBtn"><span class="varspell" title="practiced">practiz'd</span></a> the books, another might perhaps
+have read them in some sort usefully.
+<a name="goodandevil">Good</a> and <span class="varspell" title="evil">evill</span> we know in the field of this World grow up together
+almost inseparably; and the knowledge of good is so <span class="varspell" title="involved">involv'd</span> and
+interwoven with the knowledge of <span class="varspell" title="evil">evill</span>, and in so many cunning
+resemblances hardly to be <span class="varspell" title="discerned">discern'd</span>, that those confused seeds which
+were <span class="varspell" title="imposed">impos'd</span> on <a href="" id="Psyche" class="annotBtn"><span class="mi">Psyche</span></a> as an incessant <span class="varspell" title="labor">labour</span> to cull out, and
+sort asunder, were not more <span class="varspell" title="intermixed">intermixt</span>. It was from out the <span class="varspell" title="rind">rinde</span> of
+one apple tasted, that the <a href="" id="knowledge" class="annotBtn">knowledge</a> of good and <span class="varspell" title="evil">evill</span> as two twins cleaving together <span class="varspell" title="leaped">leapt</span> forth into the World. And perhaps this is
+that doom which <span class="mi">Adam</span> fell into of knowing good and <span class="varspell" title="evil">evill</span>, that is to
+say of knowing good by <span class="varspell" title="evil">evill</span>. As therefore the state of man now is;
+what <span class="varspell" title="wisdom">wisdome</span> can there be to choose, what continence to <span class="varspell" title="forbear">forbeare</span> without
+the knowledge of <span class="varspell" title="evil">evill</span>? He that can apprehend and consider vice with
+all her baits and seeming pleasures, and yet abstain, and yet
+distinguish, and yet prefer that which is truly better, he is the true
+<a href="" id="wayfaring" class="annotBtn">wayfaring</a> Christian.
+I cannot praise a <a name="fugitive">fugitive</a> and <span class="varspell" title="cloistered">cloister'd</span> <span class="varspell" title="virtue">vertue</span>, <span class="varspell" title="unexercised">unexercis'd</span> <abbr title="and">&amp;</abbr> <span class="varspell" title="unbreathed">unbreath'd</span>, that never sallies out and sees her adversary, but
+slinks out of the race, where that <a href="" id="garland" class="annotBtn"><span class="varspell" title="immortal">immortall</span> garland</a> is to be run
+for, not without dust and heat. Assuredly we bring not innocence
+into the world, we bring impurity much rather: that which purifies
+us is <span class="varspell" title="trial">triall</span>, and <span class="varspell" title="trial">triall</span> is by what is contrary. That <span class="varspell" title="virtue">vertue</span> therefore
+which is but a youngling in the contemplation of <span class="varspell" title="evil">evill</span>, and knows not
+the utmost that vice promises to her followers, and rejects it, is but
+a blank <span class="varspell" title="virtue">vertue</span>, not a pure; her <span class="varspell" title="whiteness">whitenesse</span> is but an <a href="" id="ex" class="annotBtn"><span class="varspel" title="excremental">excrementall</span></a>
+<span class="varspell" title="whiteness">whitenesse</span>; Which was the reason why our sage and serious Poet <a href="" id="Spencer" class="annotBtn"><span class="mi"><span class="varspell" title="Spenser">Spencer</span></span></a>,
+whom I dare be known to think a better teacher <span class="varspell" title="than">then</span> <a href="" id="Scotus" class="annotBtn"><span class="mi">Scotus</span></a> or <span class="mi">Aquinas</span>, describing true temperance under the person of <span class="mi"><span class="varspell" title="Guyon">Guion</span></span>, brings him in with his palmer through the cave of Mammon, and the <span class="varspel" title="bower">bowr</span> of earthly <span class="varspell" title="bliss">blisse</span> that he might see and know, and yet abstain. Since therefore
+the knowledge and <span class="varspell" title="survey">survay</span> of vice is in this world so necessary to
+the constituting of human <span class="varspell" title="virtue">vertue</span>, and the scanning of error to the
+confirmation of truth, how can we more safely, and with <span class="varspell" title="less">lesse</span> danger
+scout into the regions of sin and falsity <span class="varspell" title="than">then</span> by reading all manner
+of <span class="varspell" title="tracates">tractats</span>, and hearing all manner of reason? And this is the benefit
+which may be had of books promiscuously read.
+But of the harm that may result hence three kinds are usually
+<span class="varspell" title="reckoned">reckn'd</span>. First, is <span class="varspell" title="feared">fear'd</span> the infection that may spread; but then all
+human learning and <span class="varspell" title="controversy">controversie</span> in religious points must remove out
+of the world, yea the Bible it <span class="varspell" title="self">selfe</span>; for that oftimes relates
+blasphemy not nicely, it describes the <span class="varspell" title="carnal">carnall</span> sense of wicked men
+not unelegantly, it brings in holiest men passionately murmuring
+against providence through all the arguments of <span class="mi">Epicurus</span>: in other
+great disputes it answers dubiously and darkly to the common reader:
+And ask a Talmudist what ails the modesty of his marginal Keri, that
+<span class="mi">Moses</span> and all the Prophets cannot <span class="varspell" title="persuade">perswade</span> him to pronounce the
+<span class="varspell" title="textual">textuall</span> <a href="" id="Chetiv" class="annotBtn">Chetiv</a>. For these causes we all know the Bible it <span class="varspell" title="self">selfe</span> put by
+the Papist into the first rank of prohibited books. The ancientest
+Fathers must be next <span class="varspell" title="removed">remov'd</span>, as <span class="mi">Clement</span> of <span class="mi">Alexandria</span>, and that
+<span class="mi">Eusebian</span> book of <a href="" id="ev" class="annotBtn"><span class="varspell" title="Evangelic">Evangelick</span> preparation</a>, transmitting our ears
+through a hoard of heathenish obscenities to receive the Gospel. Who
+finds not that <a href="" id="ir" class="annotBtn"><span class="mi">Iren&aelig;us, Epiphanius, <span class="varspell" title="Jerome">Jerom</span></span></a>, and others discover
+more heresies <span class="varspell" title="than">then</span> they well confute, and that oft for <span class="varspell" title="heresy">heresie</span> which is
+the truer opinion.
+Nor boots it to say for these, and all the heathen Writers of
+greatest infection, if it must be thought so, with whom is bound up
+the life of human learning, that they writ in an unknown tongue, so
+long as we are sure those languages are known as well to the worst
+of men, who are both most able, and most diligent to instill the poison
+they suck, first into the Courts of Princes, acquainting them with the
+choicest delights, and criticisms of sin. As perhaps did that <a href="" id="Petronius" class="annotBtn"><span class="mi">Petronius</span></a>
+whom <span class="mi">Nero</span> <span class="varspell" title="called">call'd</span> his <span class="mi">Arbiter</span>, the Master of his revels; and that
+notorious ribald of <a href="" id="Arezzo" class="annotBtn"><span class="mi">Arezzo</span></a>, dreaded, and yet dear to the Italian
+Courtiers. I name not him for <span class="varspell" title="posterity's">posterities</span> sake, whom <span class="mi">Harry</span> the 8. <span class="varspell" title="named">nam'd</span>
+in merriment his <a href="" id="hell" class="annotBtn">Vicar of hell</a>. By which compendious way all the
+contagion that <span class="varspell" title="foreign">foreine</span> books can infuse, will find a passage to the
+people <span class="varspell" title="far">farre</span> easier and shorter <span class="varspell" title="than">then</span> an Indian voyage, though it could be
+<span class="varspell" title="sailed">sail'd</span> either by the North of <a href="" id="Cataio" class="annotBtn"><span class="mi">Cataio</span></a> Eastward, or of <span class="mi">Canada</span>
+Westward, while our Spanish licencing gags the English <span class="varspell" title="Press">Presse</span> never
+so severely.
+But on the other side that infection which is from books of
+<span class="varspell" title="controversy">controversie</span> in Religion, is more <span class="varspell" title="doubtful">doubtfull</span> and dangerous to the
+learned, <span class="varspell" title="than">then</span> to the ignorant; and yet those books must be permitted
+<span class="varspell" title="untouched">untoucht</span> by the licencer. It will be hard to instance where any
+ignorant man hath <span class="varspell" title="been">bin</span> ever <span class="varspell" title="seduced">seduc't</span> by <span class="varspell" title="Papistical">Papisticall</span> book in English,
+<span class="varspell" title="unless">unlesse</span> it were commended and expounded to him by some of that
+Clergy: and indeed all such <span class="varspell" title="tractates">tractats</span> whether false or true are as
+the <span class="varspell" title="Prophecy">Prophesie</span> of <span class="mi">Isaiah</span> was to the <span class="mi">Eunuch</span>, not to be <span class="mi">understood without a</span> <a href="" id="guide" class="annotBtn"><span class="mi">guide</span></a>. But of our Priests and Doctors how many have <span class="varspell" title="been">bin</span> corrupted by studying the comments of Jesuits and <a href="" id="Sorbonists" class="annotBtn"><span class="mi">Sorbonists</span></a>, and how fast
+they could transfuse that corruption into the people, our experience
+is both late and sad. It is not forgot, since the acute and distinct
+<a href="" id="Arminius" class="annotBtn"><span class="mi">Arminius</span></a> was perverted <span class="varspell" title="merely">meerly</span> by the perusing of a <span class="varspell" title="nameless">namelesse</span>
+discourse <span class="varspell" title="written">writt'n</span> at <span class="mi"><span class="varspell" title="Delft">Delf</span></span>, which at first he took in hand to confute.
+Seeing therefore that those books, <abbr title="and">&amp;</abbr> those in great abundance
+which are likeliest to taint both life and doctrine, cannot be
+<span class="varspell" title="suppressed">suppresst</span> without the fall of learning, and of all ability in
+disputation, and that these books of either sort are most and
+soonest catching to the learned, from whom to the common people
+whatever is <span class="varspell" title="heretical">hereticall</span> or dissolute may quickly be <span class="varspell" title="conveyed">convey'd</span>, and that
+<span class="varspell" title="evil">evill</span> manners are as perfectly <span class="varspell" title="learned">learnt</span> without books a thousand other
+ways which cannot be <span class="varspell" title="stopped">stopt</span>, and <span class="varspell" title="evil">evill</span> doctrine not with books can
+propagate, except a teacher guide, which he might also <span class="varspell" title="do">doe</span> without
+writing, and so beyond prohibiting, I am not able to unfold, how
+this cautelous enterprise of licencing can be exempted from the number of vain
+and impossible attempts. And he who were pleasantly <span class="varspell" title="disposed">dispos'd</span> could not
+well avoid to <span class="varspell" title="liken">lik'n</span> it to the exploit of that gallant man who
+thought to pound up the crows by shutting his Parkgate.
+Besides another inconvenience, if learned men be the first receivers
+out of books <abbr title="and">&amp;</abbr> <span class="varspell" title="dispreaders">dispredders</span> both of vice and error, how shall the
+licencers themselves be confided in, <span class="varspell" title="unless">unlesse</span> we can <span class="varspell" title="confer">conferr</span> upon them,
+or they assume to themselves above all others in the Land, the grace
+of infallibility, and <span class="varspell" title="uncorruptedness">uncorruptednesse</span>? And again if it be true, that
+a wise man like a good refiner can gather gold out of the
+drossiest volume, and that a fool will be a fool with the best book,
+yea or without book, there is no reason that we should deprive a
+wise man of any advantage to his <span class="varspell" title="wisdom">wisdome</span>, while we seek to restrain
+from a fool, that which being <span class="varspell" title="restrained">restrain'd</span> will be no hindrance to his
+folly. For if there should be so much <span class="varspell" title="exactness">exactnesse</span> always <span class="varspell" title="used">us'd</span> to keep
+that from him which is unfit for his reading, we should in the
+<span class="varspell" title="judgment">judgement</span> of <a href="" id="Aristotle" class="annotBtn"><span class="mi">Aristotle</span></a> not only, but of <a href="" id="Salomon2" class="annotBtn"><span class="mi"><span class="varspell" title="Solomon">Salomon</span></span></a>, and of our <a href="" id="Saviour" class="annotBtn"><span class="varspell" title="Savior">Saviour</span></a>, not <span class="varspell" title="vouchsafe">voutsafe</span> him good precepts, and by consequence not willingly admit him to good books; as being certain that a wise man will make better
+use of an idle pamphlet, <span class="varspell" title="than">then</span> a fool will do of sacred Scripture.
+'Tis next <span class="varspell" title="alleged">alleg'd</span> we must not expose ourselves to temptations
+without necessity, and next to that, not <span class="varspell" title="employ">imploy</span> our time in vain
+things. To both these objections one answer will serve, out of the
+grounds already laid, that to all men such books are not
+temptations, nor vanities; but <span class="varspell" title="useful">usefull</span> drugs and <span class="varspell" title="materials">materialls</span> wherewith to
+temper and compose effective and strong <span class="varspell" title="medicines">med'cins</span>, which <span class="varspell" title="man's">mans</span> life
+cannot <a href="" id="want" class="annotBtn">want</a>. The rest, as children and childish men, who have not
+the art to <span class="varspell" title="qualify">qualifie</span> and prepare these working <span class="varspell" title="minerals">mineralls</span>, well may be
+exhorted to forbear, but <span class="varspell" title="hindered">hinder'd</span> forcibly they cannot be by all the
+licencing that Sainted Inquisition could ever yet contrive; which is
+what I <span class="varspell" title="promised">promis'd</span> to deliver next, That this order of licencing conduces
+nothing to the end for which it was <span class="varspell" title="framed">fram'd</span>; and hath almost
+<a href="" id="prevented" class="annotBtn">prevented</a> me by being clear already while thus much hath <span class="varspell" title="been">bin</span>
+explaining. See the ingenuity of Truth, who when she gets a free
+and willing hand, opens herself faster <span class="varspell" title="than">then</span> the pace of method and
+<span class="varspell" title="discourse">discours</span> can overtake her.
+It was the task which I began with, To <span class="varspell" title="show">shew</span> that no Nation, or
+well instituted State, if they <span class="varspell" title="valued">valu'd</span> books at all, did ever use
+this way of licencing; and it might be <span class="varspell" title="answered">answer'd</span>, that this is a
+piece of prudence lately <span class="varspell" title="discovered">discover'd</span>. To which I return, that as it was
+a thing slight and obvious to think on, so if it had <span class="varspell" title="been">bin</span> difficult to
+<span class="varspell" title="find">finde</span> out, there wanted not among them long since, who suggested such
+a <span class="varspell" title="course">cours</span>; which they not following, leave us a pattern of their
+<span class="varspell" title="judgment">judgement</span>, that it was not the not knowing, but the not approving, which
+was the cause of their not using it.
+<span class="mi">Plato</span>, a man of high <span class="varspell" title="authority">autority</span>, indeed, but least of all for his <a href="" id="plato" class="annotBtn">Commonwealth</a>, in the book of his laws, which no City ever yet
+<span class="varspell" title="received">receiv'd</span>, fed his <span class="varspell" title="fancy">fancie</span> with making many edicts to his <span class="varspell" title="airy">ayrie</span>
+Burgomasters, which they who otherwise admire him, wish had <span class="varspell" title="been">bin</span> rather
+buried and <span class="varspell" title="excused">excus'd</span> in the <span class="mi">genial</span> cups of an <span class="mi"><span class="varspell" title="Academic">Academick</span></span> night-sitting. By which laws he seems to <span class="varspell" title="tolerate">tolerat</span> no kind of learning, but by unalterable decree, consisting most of <span class="varspell" title="practical">practicall</span> traditions, to the attainment
+whereof a Library of smaller bulk <span class="varspell" title="than">then</span> his own dialogues would be
+abundant. And <a href="" id="there" class="annotBtn">there also enacts</a> that no Poet should so much as read
+to any <span class="varspell" title="private">privat</span> man, what he had <span class="varspell" title="written">writt'n</span>, <span class="varspell" title="until">untill</span> the Judges and
+Law-keepers had seen it, and <span class="varspell" title="allowed">allow'd</span> it: But that <span class="mi">Plato</span> meant this Law
+peculiarly to that Commonwealth which he had <span class="varspell" title="imagined">imagin'd</span>, and to no
+other, is evident. Why was he not else a Law-giver to himself, but a
+transgressor, and to be <span class="varspell" title="expelled">expell'd</span> by his own <span class="varspell" title="Magistrates">Magistrats</span>; both for
+the <a href="" id="made" class="annotBtn">wanton epigrams and dialogues</a> which he made, and his <span class="varspell" title="perpetual">perpetuall</span>
+reading of <span class="mi">Sophron Mimus</span> and <span class="mi">Aristophanes</span>, books of grossest infamy, and also for commending the latter of them, though he were the
+malicious libeller of his chief <a href="" id="friends" class="annotBtn">friends</a>, to be read by the Tyrant
+<span class="mi">Dionysius</span>, who had little need of such trash to spend his time on? But
+that he knew this licencing of Poems had reference and dependence to
+many other <span class="varspell" title="provisos">proviso's</span> there set down in his fancied republic, which in
+this world could have no place: and so neither he himself, nor any
+<span class="varspell" title="Magistrate">Magistrat</span>, or City ever imitated that <span class="varspell" title="course">cours</span>, which <span class="varspell" title="taken">tak'n</span> apart from
+those other <span class="varspell" title="collateral">collaterall</span> injunctions, must needs be vain and
+<span class="varspell" title="fruitless">fruitlesse</span>. For if they fell upon one kind of strictnesse, <span class="varspell" title="unless">unlesse</span>
+their care were <span class="varspell" title="equal">equall</span> to <span class="varspell" title="regulate">regulat</span> all other things of like <span class="varspell" title="aptness">aptnes</span> to
+corrupt the mind, that single <span class="varspell" title="endeavor">endeavour</span> they knew would be but a
+fond <span class="varspell" title="labor">labour</span>; to shut and <span class="varspell" title="fortify">fortifie</span> one gate against corruption, and be
+necessitated to leave others round about wide open.
+If we think to <span class="varspell" title="regulate">regulat</span> Printing, thereby to rectifie manners, we
+must <span class="varspell" title="regulate">regulat</span> all recreations and pastimes, all that is delightful
+to man. No <span class="varspell" title="music">musick</span> must be heard, no song be set or sung, but what is
+grave and <a href="" id="Dorick" class="annotBtn"><span class="mi"><span class="varspell" title="Doric">Dorick</span></span></a>. There must be licencing dancers, that no gesture,
+motion, or deportment be taught our youth but what by their
+allowance shall be thought honest; for such <span class="mi">Plato</span> was provided of;
+It will ask more <span class="varspell" title="than">then</span> the work of twenty licencers to <span class="varspell" title="examine">examin</span> all
+the lutes, the violins, and the <span class="varspell" title="guitars">ghittarrs</span> in every house; they must
+not be <span class="varspell" title="suffered">suffer'd</span> to prattle as they <span class="varspell" title="do">doe</span>, but must be <span class="varspell" title="licenced">licenc'd</span> what
+they may say. And who shall silence all the airs and <span class="varspell" title="madrigals">madrigalls</span>, that
+whisper <span class="varspell" title="softness">softnes</span> in chambers? The Windows also, and the <span class="mi"><span class="varspell" title="Balconies">Balcone's</span></span> must
+be thought on, there are shrewd books, with dangerous <a href="" id="front" class="annotBtn"><span class="varspell" title="Frontispieces">Frontispices</span></a>
+set to sale; who shall prohibit them, shall twenty licencers? The
+villages also must have their visitors to <span class="varspell" title="inquire">enquire</span> what lectures the
+bagpipe and the <a href="" id="reb" class="annotBtn"><span class="varspell" title="rebeck">rebbeck</span></a> reads <span class="varspell" title="even">ev'n</span> to the <span class="varspell" title="balladry">ballatry</span>, and the <span class="varspell" title="gammut">gammuth</span> of
+every <span class="mi">municipal</span> <span class="varspell" title="fiddler">fidler</span>, for these are the <span class="varspell" title="Countryman's">Countrymans</span> <span class="mi"><span class="varspell" title="Arcadias">Arcadia's</span></span> and his <a href="" id="monte" class="annotBtn"><span class="mi">Monte Mayors</span></a>.
+Next, what more <span class="varspell" title="National">Nationall</span> corruption, for which England hears ill
+abroad, <span class="varspell" title="than">then</span> <span class="varspell" title="household">houshold</span> gluttony; who shall be the rectors of our daily
+rioting? and what shall be done to inhibit the multitudes that
+frequent those houses where <span class="varspell" title="drunkenness">drunk'nes</span> is sold and <span class="varspell" title="harbored">harbour'd</span>? Our
+garments also should be <span class="varspell" title="referred">referr'd</span> to the licencing of some more sober
+work-masters to see them cut into a <span class="varspell" title="less">lesse</span> wanton garb. Who shall
+<span class="varspell" title="regulate">regulat</span> all the <span class="varspell" title="mixed">mixt</span> conversation of our youth, male and female
+together, as is the fashion of this Country, who shall still appoint
+what shall be <span class="varspell" title="discoursed">discours'd</span>, what <span class="varspell" title="presumed">presum'd</span>, and no <span class="varspell" title="further">furder</span>? Lastly, who
+shall forbid and <span class="varspell" title="separate">separat</span> all idle resort, all <span class="varspell" title="evil">evill</span> company? These
+things will be, and must be; but how they shall be lest hurtfull,
+how lest enticing, herein consists the grave and governing wisdom
+of a State.
+To sequester out of the world into <a href="" id="polities" class="annotBtn"><span class="mi"><span class="varspell" title="Atlantic">Atlantick</span></span> and <span class="mi"><span class="varspell" title="Utopian">Eutopian</span></span> polities</a>
+which never can be drawn into use, will not mend our condition; but to
+ordain wisely as in this world of <span class="varspell" title="evil">evill</span>, in the <span class="varspell" title="midst">midd'st</span> whereof God
+hath <span class="varspell" title="placed">plac't</span> us unavoidably. Nor is it <span class="mi">Plato's</span> licencing of books
+will <span class="varspell" title="do">doe</span> this, which necessarily pulls along with it so many other
+kinds of licencing, as will make us all both ridiculous and weary, and
+yet <span class="varspell" title="frustrate">frustrat</span>; but those <span class="varspell" title="unwritten">unwritt'n</span>, or at least unconstraining laws
+of <span class="varspell" title="virtuous">vertuous</span> education, religious and <span class="varspell" title="civil">civill</span> nurture, which <span class="mi">Plato</span>
+<a href="" id="mentions" class="annotBtn">there mentions</a>, as the bonds and ligaments of the Commonwealth, the
+pillars and the sustainers of every <span class="varspell" title="written">writt'n</span> Statute; these they be
+which will bear chief sway in such matters as these, when all
+licencing will be easily eluded. Impunity and <span class="varspell" title="remissness">remissenes</span>, for certain
+are the bane of a Commonwealth, but here the great art <span class="varspell" title="lies">lyes</span> to
+discern in what the law is to bid restraint and punishment, and in
+what things <span class="varspell" title="persuasion">perswasion</span> only is to work.
+If every action which is good, or <span class="varspell" title="evil">evill</span> in man at ripe years, were to
+be under pittance, and prescription, and compulsion, what were <span class="varspell" title="virtue">vertue</span>
+but a name, what praise could be then due to well-doing, what <a href="" id="gramercy" class="annotBtn">gramercy</a>
+to be sober, just or continent? many there be that complain of <span class="varspell" title="divine">divin</span>
+Providence for suffering <span class="mi">Adam</span> to transgresse, foolish tongues! when God
+gave him reason, he gave him freedom to choose, for <a href="" id="reason" class="annotBtn">reason is but
+choosing;</a> he had <span class="varspell" title="been">bin</span> else a <span class="varspell" title="mere">meer</span> <span class="varspell" title="mere">artificiall</span> <span class="mi">Adam</span>, such an <span class="mi">Adam</span> as he is <a href="" id="motions" class="annotBtn">in the motions</a>. We our selves esteem not of that obedience, or
+love, or gift, which is of force: God therefore left him free, set
+before him a provoking object, ever almost in his eyes herein
+consisted his merit, herein the right of his reward, the praise of his
+abstinence. Wherefore did he <span class="varspell" title="create">creat</span> passions within us, pleasures
+round about us, but that these rightly <span class="varspell" title="tempered">temper'd</span> are the very
+ingredients of <span class="varspell" title="virtue">vertu</span>?
+They are not <span class="varspell" title="skillful">skilfull</span> considerers of human things, who <span class="varspell" title="imagine">imagin</span> to
+remove sin by removing the matter of sin; for, besides that it is a
+huge heap increasing under the very act of diminishing, though some
+part of it may for a time be withdrawn from some persons, it cannot
+from all, in such a <span class="varspell" title="universal">universall</span> thing as books are; and when this is
+done, yet the sin remains entire. Though ye take from a covetous man
+all his treasure, he has yet one <span class="varspell" title="jewel">jewell</span> left, ye cannot bereave him
+of his <span class="varspell" title="covetousness">covetousnesse</span>. Banish all objects of lust, shut up all youth
+into the severest discipline that can be <span class="varspell" title="exercised">exercis'd</span> in any hermitage,
+ye cannot make them chaste, that came not thither so: such great
+care and wisdom is <span class="varspell" title="required">requir'd</span> to the right managing of this point.
+Suppose we could <span class="varspell" title="expel">expell</span> sin by this means; look how much we thus
+<span class="varspell" title="expel">expell</span> of sin, so much we <span class="varspell" title="expel">expell</span> of <span class="varspell" title="virtue">vertue</span>: for the matter of them
+both is the same; remove that, and ye remove them both alike.
+This justifies the high providence of God, who though he command
+us temperance, justice, continence, yet <a href="" id="powrs" class="annotBtn"><span class="varspell" title="pours">powrs</span></a> out before us <span class="varspell" title="even">ev'n</span> to a
+<span class="varspell" title="profuseness">profusenes</span> all desirable things, and gives us minds that can
+wander beyond all limit and satiety. Why should we then affect a
+rigour contrary to the manner of God and of nature, by abridging or
+scanting those means, which books freely permitted are, both to the
+<span class="varspell" title="trial">triall</span> of <span class="varspell" title="virtue">vertue</span> and the exercise of truth. It would be better done to
+learn that the law must needs be frivolous which goes to restrain
+things, uncertainly and yet equally working to good, and to <span class="varspell" title="evil">evill</span>. And
+were I the chooser, a dram of well-doing should be <span class="varspell" title="preferred">preferr'd</span> before
+many times as much the forcible hindrance of <span class="varspell" title="evil">evill</span>-doing. For God
+sure esteems the growth and compleating of one <span class="varspell" title="virtuous">vertuous</span> person, more
+<span class="varspell" title="than">then</span> the restraint of ten <span class="varspell" title="vicious">vitious</span>.
+And albeit whatever thing we hear or see, sitting, walking,
+travelling, or conversing may be fitly <span class="varspell" title="called">call'd</span> our book, and is of the
+same effect that writings are, yet grant the thing to be prohibited
+were only books, it appears that this order hitherto is far
+insufficient to the end which it intends. Do we not see, not once or
+oftner, but weekly <a href="" id="libell" class="annotBtn">that <span class="varspell" title="continued">continu'd</span> Court-<span class="varspell" title="libel">libell</span></a> against the <span class="varspell" title="Parliament">Parlament</span>
+and City, Printed, as the wet sheets can <span class="varspell" title="witness">witnes</span>, and <span class="varspell" title="dispersed">dispers't</span>
+among us, for all that licencing can <span class="varspell" title="do">doe</span>. yet this is the prime service
+a man would think, wherein this order should give proof of it self.
+If it were executed, <span class="varspell" title="you'll">you'l</span> say. But certain, if execution be <span class="varspell" title="remiss">remisse</span>
+or blindfold now, and in this particular, what will it be hereafter
+and in other books? If then the order shall not be vain and <span class="varspell" title="frustrate">frustrat</span>,
+behold a new <span class="varspell" title="labor">labour</span>, Lords and Commons, ye must repeal and proscribe
+all scandalous and <span class="varspell" title="unlicensed">unlicenc't</span> books already printed and <span class="varspell" title="divulged">divulg'd</span>;
+after ye have drawn them up into a list, that all may know which are
+<span class="varspell" title="condemned">condemn'd</span>, and which not; and ordain that no <span class="varspell" title="foreign">forrein</span> books be
+<span class="varspell" title="delivered">deliver'd</span> out of custody, till they have <span class="varspell" title="been">bin</span> read over. This office
+will require the whole time of not a few overseers, and those no
+vulgar men. There be also books which are partly <span class="varspell" title="useful">usefull</span> and excellent,
+partly culpable and pernicious; this work will ask as many more
+officials, to make expurgations, and expunctions, that the Commonwealth
+of Learning be not <span class="varspell" title="damnified">damnify'd</span>. In fine, when the multitude of books
+<span class="varspell" title="increase">encrease</span> upon their hands, ye must be fain to catalogue all those
+Printers who are found frequently offending, and forbidd the
+importation of their whole suspected <span class="mi">typography</span>. In a word, that
+this your order may be exact, and not deficient, ye must reform it
+perfectly according to the model of <a href="" id="Trent" class="annotBtn"><span class="mi">Trent</span></a> and <a href="" id="sevil" class="annotBtn"><span class="mi"><span class="varspell" title="Seville">Sevil</span></span></a>, which I know ye
+<span class="varspell" title="abhor">abhorre</span> to <span class="varspell" title="do">doe</span>.
+Yet though ye should condescend to this, which God forbid, the order
+still would be but <span class="varspell" title="fruitless">fruitlesse</span> and defective to that end whereto ye
+meant it. If to prevent sects and schisms, who is so unread or so
+<span class="varspell" title="uncatechised">uncatechis'd</span> in story, that hath not heard of many sects refusing
+books as a hindrance, and preserving their doctrine <span class="varspell" title="unmixed">unmixt</span> for many
+ages, only by <span class="varspell" title="unwritten">unwritt'n</span> traditions. The Christian faith, for that
+was once a schism, is not unknown to have spread all over <span class="mi">Asia</span>, ere
+any Gospel or Epistle was seen in writing. If the amendment of manners
+be <span class="varspell" title="aimed">aym'd</span> at, look into Italy and Spain, whether those places be one
+scruple the better, the honester, the wiser, the chaster, since all
+the <span class="varspell" title="inquistional">inquisitionall</span> rigor that hath been executed upon books.
+</p>
+
+<p>
+Another reason, whereby to make it plain that this order will <span class="varspell" title="miss">misse</span>
+the end it seeks, consider by the quality which ought to be in every
+licencer. It cannot be <span class="varspell" title="denied">deny'd</span> but that he who is made judge to sit
+upon the birth, or death of books whether they may be wafted into this
+world, or not, had need to be a man above the common measure, both
+studious, learned, and judicious; there may be else no mean mistakes
+in the censure of what is passable or not; which is also no mean
+injury. If he be of such worth as <span class="varspell" title="behooves">behoovs</span> him, there cannot be a
+more tedious and unpleasing Journey-work, a greater <span class="varspell" title="loss">losse</span> of time
+levied upon his head, <span class="varspell" title="than">then</span> to be made the <span class="varspell" title="perpetual">perpetuall</span> reader of unchosen
+books and pamphlets, oftimes huge volumes. There is no book that is
+acceptable <span class="varspell" title="unless">unlesse</span> at certain seasons; but to be <span class="varspell" title="enjoined">enjoyn'd</span> the reading
+of that at all times, and in a hand <span class="varspell" title="scarce">scars</span> legible, whereof three pages
+would not down at any time in the fairest Print, is an imposition I
+cannot <span class="varspell" title="believe">beleeve</span> how he that values time, and his own studies, or is
+but of a sensible <span class="varspell" title="nostril">nostrill</span> should be able to endure. In this one thing
+I crave leave of the present licencers to be <span class="varspell" title="pardoned">pardon'd</span> for so thinking:
+who <span class="varspell" title="doubtless">doubtlesse</span> took this office up, looking on it through their
+obedience to the <span class="varspell" title="Parliament">Parlament</span>, whose command perhaps made all things
+seem <span class="varspell" title="easy">easie</span> and unlaborious to them; but that this short <span class="varspell" title="trial">triall</span> hath
+wearied them out already, their own expressions and excuses to them
+who make so many journeys to <span class="varspell" title="solicit">sollicit</span> their licence, are testimony
+<span class="varspell" title="enough">anough</span>. Seeing therefore those who now <span class="varspell" title="possess">possesse</span> the <span class="varspell" title="employment">imployment</span>, by all
+evident signs wish themselves well <span class="varspell" title="rid">ridd</span> of it, and that no man of
+worth, none that is not a plain unthrift of his own hours is ever
+likely to succeed them, except he mean to put himself to the salary of
+a <span class="varspell" title="Press">Presse</span>-corrector, we may easily foresee what kind of licencers we are
+to expect hereafter, either ignorant, imperious, and <span class="varspell" title="remiss">remisse</span>, or basely
+pecuniary. This is what I had to <span class="varspell" title="show">shew</span>, wherein this order cannot
+conduce to that end, whereof it bears the intention.
+</p>
+<p>
+I lastly proceed from the no good it can do, to the manifest hurt it
+causes, in being first the greatest discouragement and affront, that
+can be <span class="varspell" title="offered">offer'd</span> to learning and to learned men.  It was the complaint and lamentation of <span class="varspell" title="Prelates">Prelats</span>, upon every least
+breath of a motion to remove <a href="" id="pluralities" class="annotBtn">pluralities</a>, and distribute more
+equally Church <span class="varspell" title="revenues">revennu's</span>, that then all learning would be for ever
+<span class="varspell" title="dashed">dasht</span> and <span class="varspell" title="discouraged">discourag'd</span>. But as for that opinion, I never found cause
+to think that the tenth part of learning stood or fell with the
+Clergy: nor could I ever but hold it for a sordid and unworthy
+speech of any Churchman who had a <a href="" id="competency" class="annotBtn">competency </a>left him. If therefore ye
+be loath to dishearten utterly and discontent, not the mercenary
+crew of false pretenders to learning, but the free and ingenuous
+sort of such as evidently were born to study, and love <span class="varspell" title="learning">lerning</span> for
+it self, not for lucre, or any other end, but the service of God and of
+truth, and perhaps that lasting fame and perpetuity of praise which
+God and good men have consented shall be the reward of those whose
+<span class="varspell" title="published">publisht</span> <span class="varspell" title="labors">labours</span> advance the good of mankind, then know, that so
+far to distrust the <span class="varspell" title="judgment">judgement</span> <abbr title="and">&amp;</abbr> the honesty of one who hath but a
+common repute in learning, and never yet offended, as not to count him
+fit to print his mind without a tutor and examiner, lest he should
+drop a <span class="varspell" title="schism">scism</span>, or something of corruption, is the greatest displeasure
+and indignity to a free and knowing spirit that can be put upon him.  What advantage is it to be a man over it is to be a boy at school, if we have only <span class="varspell" title="escaped">scapt</span> the <a href="" id="ferular" class="annotBtn">ferular</a>, to come under the <a href="" id="fescu" class="annotBtn"><span class="varspell" title="fescue">fescu</span></a> of an <span class="mi">Imprimatur</span>? if serious and <span class="varspell" title="elaborate">elaborat</span> writings, as if they were no more <span class="varspell" title="than">then</span> the <span class="varspell" title="theme">theam</span> of a Grammar lad under his Pedagogue must not be
+<span class="varspell" title="uttered">utter'd</span> without the cursory eyes of a temporizing and extemporizing
+licencer.  He who is not trusted with his own actions, his drift not
+being known to be <span class="varspell" title="evil">evill</span>, and standing to the hazard of law and penalty,
+has no great argument to think himself reputed in the Commonwealth
+<span class="varspell" title="wherein">wherin</span> he was born, for other <span class="varspell" title="than">then</span> a fool or a <span class="varspell" title="foreigner">foreiner</span>. When a
+man writes to the world, he summons up all his reason and deliberation
+to assist him; he searches, <span class="varspell" title="meditates">meditats</span>, is industrious, and likely
+consults and <span class="varspell" title="confers">conferrs</span> with his judicious friends; after all which
+done he takes himself to be <span class="varspell" title="informed">inform'd</span> in what he writes, as well as any
+that writ before him; if in this the most <span class="varspell" title="consummate">consummat</span> act of his
+fidelity and <span class="varspell" title="ripeness">ripenesse</span>, no years, no industry, no former proof of his
+abilities can bring him to that state of maturity, as not to be
+still mistrusted and suspected, <span class="varspell" title="unless">unlesse</span> he carry all his <span class="varspell" title="considerate">considerat</span>
+diligence, all his midnight watchings, and expence of <a href="" id="pallas" class="annotBtn"><span class="mi">Palladian</span> <span class="varspell" title="oil">oyl</span></a>, to
+the hasty view of an <span class="varspell" title="unleisured">unleasur'd</span> licencer, perhaps much his younger,
+perhaps far his <span class="varspell" title="inferior">inferiour</span> in <span class="varspell" title="judgment">judgement</span>, perhaps one who never knew the
+<span class="varspell" title="labor">labour</span> of book-writing, and if he be not <span class="varspell" title="repulsed">repulst</span>, or slighted, must
+appear in Print like a <a href="" id="punie" class="annotBtn"><span class="varspell" title="puny">punie</span></a> with his guardian, and his <span class="varspell" title="censor's">censors</span> hand
+on the back of his title to be his <span class="varspell" title="bail">bayl</span> and surety, that he is no idiot,
+or seducer, it cannot be but a <span class="varspell" title="dishonor">dishonour</span> and derogation to the author,
+to the book, to the <span class="varspell" title="privilege">priviledge</span> and dignity of Learning.  And what if the author shall be one so copious of <span class="varspell" title="fancy">fancie</span>, as to have many things well worth the adding, come into his mind after licencing, while the book is yet under the <span class="varspell" title="Press">Presse</span>, which not seldom
+<span class="varspell" title="happens">happ'ns</span> to the best and diligentest writers; and that perhaps a
+dozen times in one book. The Printer dares not go beyond his
+<span class="varspell" title="licensed">licenc't</span> copy; so often then must the author trudge to his
+<span class="varspell" title="leave">leav</span>-giver, that those his new insertions may be <span class="varspell" title="viewed">viewd</span>; and many a
+jaunt will be made, ere that licencer, for it must be the same man,
+can either be found, or found at leisure; mean while either the <span class="varspell" title="Press">Presse</span>
+must stand still, which is no small damage, or the author loose his
+accuratest thoughts, <abbr title="and">&amp;</abbr> send the book forth <span class="varspell" title="worse">wors</span> <span class="varspell" title="than">then</span> he had made
+it, which to a diligent writer is the greatest melancholy and vexation
+that can befall.  And how can a man teach with <span class="varspell" title="authority">autority</span>, which is the life of
+teaching, how can he be a Doctor in his book as he ought to be, or
+else had better be silent, whenas all he teaches, all he delivers,
+is but under the tuition, under the correction of his <a href="" id="patriarchal" class="annotBtn">patriarchal</a>
+licencer to blot or alter what precisely accords not with the
+hidebound humor which he calls his <span class="varspell" title="judgment">judgement</span>. When every acute reader
+upon the first sight of a <span class="varspell" title="pedantic">pedantick</span> licence, will be ready with these
+like words to ding the book a <a href="" id="coit" class="annotBtn"><span class="varspell" title="coit's">coits</span></a> distance from him, I hate a
+pupil teacher, I endure not an <span class="varspell" title="instructor">instructer</span> that comes to me under the
+wardship of an overseeing fist. I know nothing of the licencer, but
+that I have his own hand here for his arrogance; who shall warrant
+me his <span class="varspell" title="judgment">judgement</span>? The State Sir, replies the <a href="" id="stationer" class="annotBtn">Stationer</a>, but has a
+quick <a href="" id="return" class="annotBtn">return</a>, The State shall be my <span class="varspell" title="governors">governours</span>, but not my <span class="varspell" title="critics">criticks</span>;
+they may be <span class="varspell" title="mistaken">mistak'n</span> in the choice of a licencer, as easily as this
+licencer may be <span class="varspell" title="mistaken">mistak'n</span> in an author: This is some common <span class="varspell" title="stuff">stuffe</span>:
+and he might <span class="varspell" title="add">adde</span> from Sir <span class="mi">Francis Bacon</span>, That <a href="" id="bacon" class="annotBtn"><span class="mi">such <span class="varspell" title="authorized">authoriz'd</span> books
+are but the language of the times</span></a>. For though a licencer should <span class="varspell" title="happen">happ'n</span>
+to be judicious more <span class="varspell" title="than">then</span> ordnary, which will be a great jeopardy
+of the next succession, yet his very office and his commission <span class="varspell" title="enjoins">enjoyns</span>
+him to let <span class="varspell" title="pass">passe</span> nothing but what is vulgarly <span class="varspell" title="received">receiv'd</span> already.  Nay, which is more lamentable, if the work of any deceased author,
+though never so famous in his life time, and even to this day, come to
+their hands for licence to be Printed, or Reprinted, if there be found
+in his book one sentence of a <a href="" id="ventrous" class="annotBtn"><span class="varspell" title="venturous">ventrous</span></a> edge, <span class="varspell" title="uttered">utter'd</span> in the height of
+zeal, and who knows whether it might not be the <span class="varspell" title="dictate">dictat</span> of a divine
+Spirit, yet not suiting with every low decrepit humor of their own,
+though it were <a href="" id="knox" class="annotBtn"><span class="mi">Knox</span></a> himself, the Reformer of a Kingdom that spake it,
+they will not pardon him <a href="" id="dash" class="annotBtn">their dash</a>: the sense of that great man shall
+to all posterity be lost, for the <span class="varspell" title="fearfulness">fearfulnesse</span> or the presumptuous
+<span class="varspell" title="rashness">rashnesse</span> of a perfunctory licencer. And to what an author this
+violence hath <span class="varspell" title="been">bin</span> lately done, and in <a href="" id="coke" class="annotBtn">what book of greatest consequence</a>
+to be faithfully <span class="varspell" title="published">publisht</span>, I could now instance, but shall forbear
+till a more convenient season.  Yet if these things be not resented seriously and timely by them who
+have the remedy in their power, but that such <a href="" id="moulds" class="annotBtn">iron <span class="varspell" title="molds">moulds</span></a> as these
+shall have <span class="varspell" title="authority">autority</span> to <span class="varspell" title="gnaw">knaw</span> out the choicest <a href="" id="periods" class="annotBtn">periods</a> of exquisitest
+books, and to commit such a treacherous fraud against the orphan
+remainders of worthiest men after death, the more sorrow will belong
+to that <span class="varspell" title="hapless">haples</span> race of men, whose misfortune it is to have
+understanding. Henceforth let no man care to learn, or care to be more
+<span class="varspell" title="than">then</span> worldly wise; for certainly in higher matters to be ignorant
+and <span class="varspell" title="slothful">slothfull</span>, to be a common <span class="varspell" title="steadfast">stedfast</span> dunce will be the only
+pleasant life, and only in request.
+</p>
+
+<p>
+And as it is a particular disesteem of every knowing person alive,
+and most injurious to the <span class="varspell" title="written">writt'n</span> <span class="varspell" title="labors">labours</span> and monuments of the dead,
+so to me it seems an undervaluing and vilifying of the whole Nation. I
+cannot set so light by all the invention, the art, the wit, the
+grave and solid <span class="varspell" title="judgment">judgement</span> which is in England, as that it can be
+comprehended in any twenty capacities how good soever, much <span class="varspell" title="less">lesse</span>
+that it should not <span class="varspell" title="pass">passe</span> except their superintendence be over it,
+except it be sifted and <span class="varspell" title="strained">strain'd</span> with their strainers, that it
+should be <span class="varspell" title="uncurrent">uncurrant</span> without their <span class="varspell" title="manual">manuall</span> stamp. Truth and
+understanding are not such wares as to be <a href="" id="monopoly" class="annotBtn"><span class="varspell" title="monopolized">monopoliz'd</span></a> and traded in by
+<a href="" id="tickets" class="annotBtn">tickets and statutes</a>, and standards. We must not think to make a <a href="" id="staple" class="annotBtn">staple
+commodity</a> of all the knowledge in the Land, to mark and licence it
+like our broad <span class="varspell" title="cloth">cloath</span>, and our <span class="varspell" title="wool">wooll</span> packs. What is it but a servitude like
+that <span class="varspell" title="imposed">impos'd</span> by the <a href="" id="philistines" class="annotBtn"><span class="varspell" title="Philistines">Philistims</span></a>, not to be <span class="varspell" title="allowed">allow'd</span> the <span class="varspell" title="sharpening">sharpning</span> of
+our own axes and coulters, but we must repair from all quarters to
+twenty licencing forges.   Had any one <span class="varspell" title="written">writt'n</span> and <span class="varspell" title="divulged">divulg'd</span> erroneous
+things <abbr title="and">&amp;</abbr> scandalous to honest life, misusing and forfeiting the
+esteem had of his reason among men, if after conviction this only
+censure were <span class="varspell" title="adjudged">adjudg'd</span> him, that he should never henceforth write, but
+what were first <span class="varspell" title="examined">examin'd</span> by an appointed officer, whose hand should be
+<span class="varspell" title="annexed">annext</span> to <span class="varspell" title="pass">passe</span> his credit for him, that now he might be safely read,
+it could not be apprehended <span class="varspell" title="less">lesse</span> <span class="varspell" title="than">then</span> a <span class="varspell" title="disgraceful">disgracefull</span> punishment. Whence
+to include the whole Nation, and those that never yet thus offended,
+under such a diffident and suspectfull prohibition, may plainly be
+understood what a disparagement it is. So much the more, when  <a href="" id="debtors" class="annotBtn">
+<span class="varspell" title="debtors">dettors</span> and delinquents</a> may walk abroad without a keeper, but
+unoffensive books must not <span class="varspell" title="stir">stirre</span> forth without a visible <span class="varspell" title="jailor">jaylor</span> in
+<span class="varspell" title="their">thir</span> title.  Nor is it to the common people <span class="varspell" title="less">lesse</span> <span class="varspell" title="than">then</span> a reproach; for if we be so
+jealous over them, as that we dare not trust them with an English
+pamphlet, what <span class="varspell" title="do">doe</span> we but censure them for a giddy, <span class="varspell" title="vicious">
+vitious</span>, and
+ungrounded people; in such a sick and weak estate of faith and
+discretion, as to be able to take nothing down but through the <a href="" id="pipe" class="annotBtn">pipe</a> of
+a licencer. That this is care or love of them, we cannot pretend,
+whenas in those Popish places where the Laity are most hated and
+<span class="varspell" title="despised">dispis'd</span> the same <span class="varspell" title="strictness">strictnes</span> is <span class="varspell" title="used">us'd</span> over them. Wisdom we cannot call
+it, because it stops but one breach of licence, nor that neither;
+whenas those corruptions which it seeks to prevent, break in faster
+at other <span class="varspell" title="doors">dores</span> which cannot be shut.
+</p>
+
+<p>
+And in conclusion it reflects to the disrepute of our Ministers
+also, of whose <span class="varspell" title="labors">labours</span> we should hope better, and of the <span class="varspell" title="proficiency">proficiencie</span>
+which <span class="varspell" title="their">thir</span> flock reaps by them, <span class="varspell" title="than">then</span> that after all this light of the
+Gospel which is, and is to be, and all this <span class="varspell" title="continual">continuall</span> preaching,
+they should be still frequented with such an <span class="varspell" title="unprincipled">unprincipl'd</span>, <span class="varspell" title="unedified">unedify'd</span>,
+and <a href="" id="laick" class="annotBtn"><span class="varspell" title="laic">laick</span> rabble</a>, as that the <span class="varspell" title="whiff">whiffe</span> of every new pamphlet should
+stagger them out of their catechism, and Christian walking. This may
+have much reason to discourage the Ministers when such a low <a href="" id="conceit" class="annotBtn">conceit</a>
+is had of all their exhortations, and the benefiting of their hearers,
+as that they are not thought fit to be <span class="varspell" title="turned">turn'd</span> loose to three sheets of
+paper without a licencer, that all the Sermons, all the Lectures
+<span class="varspell" title="preached">preacht</span>, printed, vented in such numbers, and such volumes, as have
+now wellnigh made all other books unsalable, should not be armor
+<span class="varspell" title="enough">anough</span> against one single <a href="" id="enchiridion" class="annotBtn"><span class="mi">enchiridion</span></a>, without <a href="" id="angelo" class="annotBtn">the castle of <abbr title="Saint">St.</abbr>
+<span class="mi">Angelo</span></a> of an <span class="mi">Imprimatur</span>.
+</p>
+
+<p>
+And lest <span class="varspell" title="some">som</span> should <span class="varspell" title="persuade">perswade</span> ye, Lords and Commons, that these
+arguments of <span class="varspell" title="learned">lerned</span> <span class="varspell" title="men's">mens</span> discouragement at this your order, are
+<span class="varspell" title="mere">meer</span> flourishes, and not <span class="varspell" title="real">reall</span>, I could recount what I have seen and
+heard in other Countries, where this kind of inquisition tyrannizes;
+when I have sat among their <span class="varspell" title="learned">lerned</span> men, for that honor I had, and
+<span class="varspell" title="been">bin</span> counted happy to be born in such a place of <span class="mi">Philosophic</span>
+freedom, as they <span class="varspell" title="supposed">suppos'd</span> England was, while <span class="varspell" title="themselves">themselvs</span> did nothing
+but bemoan the <span class="varspell" title="servile">servil</span> condition into which <span class="varspell" title="learning">lerning</span> amongst them
+was brought; that this was it which had <span class="varspell" title="damped">dampt</span> the glory of Italian
+wits; that nothing had <span class="varspell" title="been">bin</span> there <span class="varspell" title="written">writt'n</span> now these many years but
+flattery and <a href="" id="fustian" class="annotBtn">fustian</a>. There it was that I found and visited the famous
+<a href="" id="galileo" class="annotBtn"><span class="mi">Galileo</span></a> grown old, a <span class="varspell" title="prisoner">prisner</span> to the Inquisition, for thinking in
+Astronomy otherwise <span class="varspell" title="than">then</span> the <a href="" id="licencers" class="annotBtn">Franciscan and Dominican licencers</a>
+thought.  And though I knew that England then was groaning loudest under the
+<span class="varspell" title="Prelatical">Prelaticall</span> <span class="varspell" title="yoke">yoak</span>, <span class="varspell" title="nevertheless">neverthelesse</span> I took it as a pledge of future
+<span class="varspell" title="happiness">happines</span>, that other Nations were so <span class="varspell" title="persuaded">perswaded</span> of her liberty. Yet
+was it beyond my hope that those Worthies were then breathing in her
+air, who should be her leaders to such a deliverance, as shall never
+be <span class="varspell" title="forgotten">forgott'n</span> by any revolution of time that this world hath to finish.
+When that was once begun, it was as little in my fear, that what words
+of complaint I heard among <span class="varspell" title="learned">lerned</span> men of other parts <span class="varspell" title="uttered">utter'd</span>
+against the Inquisition, the same I should hear by as <span class="varspell" title="learned">lerned</span> men at
+home <span class="varspell" title="uttered">utterd</span> <a href="" id="parlament" class="annotBtn">in time of <span class="varspell" title="Parliament">Parlament</span></a> against an order of licencing;
+and that so generally, that when I had <span class="varspell" title="disclosed">disclos'd</span> my self a companion of
+their discontent, I might say, if without envy, that he whom an honest
+<span class="mi">qu&aelig;storship</span> had <span class="varspell" title="endeared">indear'd</span> to the <span class="mi">Sicilians</span>, was not more by them
+<span class="varspell" title="importuned">importun'd</span> against <a href="" id="verres" class="annotBtn"><span class="mi">Verres</span></a>, <span class="varspell" title="than">then</span> the <span class="varspell" title="favorable">favourable</span> opinion which I had
+among many who <span class="varspell" title="honor">honour</span> ye, and are known and respected by ye, loaded me
+with entreaties and <span class="varspell" title="persuasions">perswasions</span>, that I would not despair to lay
+together that which just reason should bring into my mind, toward
+the removal of an undeserved thraldom upon <span class="varspell" title="learning">lerning</span>. That this is
+not therefore <a href="" id="fancie" class="annotBtn">the <span class="varspell" title="disburdening">disburdning</span> of a particular <span class="varspell" title="fancy">fancie</span></a>, but the common
+grievance of all those who had <span class="varspell" title="prepared">prepar'd</span> their minds and studies
+above the vulgar pitch to advance truth in others, and from others
+to entertain it, thus much may <span class="varspell" title="satisfy">satisfie</span>.  And in their name I shall for neither friend nor foe conceal what
+the <span class="varspell" title="general">generall</span> murmur is; that if it come to inquisitioning again, and
+licencing, and that we are so timorous of our <span class="varspell" title="selves">selvs</span>, and so suspicious
+of all men, as to fear each book, and the shaking of every leaf, before
+we know what the contents are, if some who but of late were little
+better <span class="varspell" title="than">then</span> <span class="varspell" title="silenced">silenc't</span> from preaching, shall come now to silence us
+from reading, except what they please, it cannot be <span class="varspell" title="guessed">guest</span> what is
+intended by <span class="varspell" title="some">som</span> but a second tyranny over learning: and will soon put
+it out of <span class="varspell" title="controversy">controversie</span> that <a href="" id="bishops" class="annotBtn">Bishops and Presbyters</a> are the same to us
+both name and thing. That those <span class="varspell" title="evils">evills</span> of Prelaty which before from
+<a href="" id="sees" class="annotBtn">five or six and twenty Sees</a> were <span class="varspell" title="distributively">distributivly</span> <span class="varspell" title="charged">charg'd</span> upon the whole
+people, will now light wholly upon learning, is not obscure to us:
+whenas now the Pastor of a small unlearned Parish, on the sudden
+shall be exalted Archbishop over a large <span class="varspell" title="diocese">dioces</span> of books, and yet not
+remove, but keep his other cure too, a <a href="" id="mystical" class="annotBtn"><span class="varspell" title="mystical">mysticall</span></a> pluralist. He <a href="" id="down" class="annotBtn">who
+but of late <span class="varspell" title="cried">cry'd</span> down</a> the sole ordination of every novice <span class="varspell" title="Bachelor">Batchelor</span> of
+Art, and <span class="varspell" title="denied">deny'd</span> sole jurisdiction over the simplest Parishioner, shall
+now at home in his <span class="varspell" title="private">privat</span> chair assume both these over worthiest
+and excellentest books and ablest authors that write them.  This is not, <span class="varspell" title="Ye">Yee</span> <a href="" id="covnants" class="annotBtn"><span class="varspell" title="Covenants">Covnants</span></a> and <a href="" id="protestations" class="annotBtn">Protestations</a> that we have made, this is not to put down Prelaty, this is but to <a href="" id="chop" class="annotBtn">chop</a> an Episcopacy;
+this is but to translate the <a href="" id="palace" class="annotBtn">Palace <span class="mi">Metropolitan</span></a> from one kind of
+dominion into another, this is but an old <span class="varspell" title="canonical">canonicall</span> sleight of
+<span class="mi">commuting</span> our penance. To startle thus betimes at a <span class="varspell" title="mere">meer</span> <span class="varspell" title="unlicensed">unlicenc't</span>
+pamphlet will after a while be afraid of every <a href="" id="conventicle" class="annotBtn">conventicle</a>, and a
+while after will make a conventicle of every Christian meeting. But
+I am certain that a State <span class="varspell" title="governed">govern'd</span> by the rules of justice and
+fortitude, or a Church built and founded upon the rock of faith and
+true knowledge, cannot be so pusillanimous. While things are yet not
+constituted in Religion, that freedom of writing should be
+<span class="varspell" title="restrained">restrain'd</span> by a discipline imitated from the <span class="varspell" title="Prelates">Prelats</span>, and <span class="varspell" title="learned">learnt</span> by
+them from the Inquisition to shut us up all again into the <span class="varspell" title="breast">brest</span>
+of a licencer, must needs give cause of doubt and discouragement to
+all learned and religious men.  Who cannot but discern the <span class="varspell" title="fineness">finenes</span> of this politic drift, and who
+are the contrivers; that while Bishops were to be baited down, then
+all Presses might be open; it was the <span class="varspell" title="people's">peoples</span> birthright and
+<span class="varspell" title="privilege">priviledge</span> in time of <span class="varspell" title="Parliament">Parlament</span>, it was the breaking forth of light.
+But now the Bishops abrogated and voided out of the Church, as if our
+Reformation sought no more, but to make room for others into their
+seats under another name, the <span class="varspell" title="Episcopal">Episcopall</span> arts begin to bud again, <a href="" id="oyle" class="annotBtn">the
+cruse of truth must run no more <span class="varspell" title="oil">oyle</span></a>, liberty of Printing must be
+<span class="varspell" title="enthralled">enthrall'd</span> again under a <span class="varspell" title="Prelatical">Prelaticall</span> commission of twenty, the
+privilege of the people <span class="varspell" title="nullified">nullify'd</span>, and which is <span class="varspell" title="worse">wors</span>, the freedom of
+learning must groan again, and to her old fetters; all this the
+<span class="varspell" title="Parliament">Parlament</span> yet sitting. Although their own late arguments and defences
+against the <span class="varspell" title="Prelates">Prelats</span> might remember them that this obstructing
+violence meets for the most part with an event utterly opposite to the
+end which it drives at: instead of suppressing <a name="sectsandschisms">sects</a> and schisms, it
+raises them and invests them with a reputation: <span class="mi">The punishing of wits
+<span class="varspell" title="enhances">enhaunces</span> their <span class="varspell" title="authority">autority</span></span>, saith the <a href="" id="spark" class="annotBtn">Vicount <abbr title="Saint">St.</abbr> <span class="mi">Albans</span></a>, <span class="mi">and a
+<span class="varspell" title="forbidden">forbidd'n</span> writing is thought to be a certain spark of truth that flies
+up in the faces of them who <span class="varspell" title="seek">seeke</span> to tread it out</span>. This order
+therefore may prove a nursing mother to sects, but I shall easily
+<span class="varspell" title="show">shew</span> how it will be a step-dame to Truth: and first by <span class="varspell" title="disenabling">disinabling</span> us
+to the maintenance of what is known already.
+</p>
+
+<p>
+Well knows he who uses to consider, that our faith and knowledge
+thrives by exercise, as well as our limbs and complexion. Truth is
+<span class="varspell" title="compared">compar'd</span> in Scripture to <a href="" id="scripture" class="annotBtn">a streaming fountain</a>; if her waters flow
+not in a <span class="varspell" title="perpetual">perpetuall</span> progression, they <span class="varspell" title="sicken">sick'n</span> into a muddy pool of conformity
+and tradition. A man may be a <span class="varspell" title="heretic">heretick</span> in the truth; and if he
+<span class="varspell" title="believe">beleeve</span> things only because his Pastor <span class="varspell" title="says">sayes</span> so, or the <a href="" id="assembly" class="annotBtn">Assembly</a> so
+<span class="varspell" title="determines">determins</span>, without knowing other reason, though his belief be true,
+yet the very truth he holds, becomes his <span class="varspell" title="heresy">heresie</span>.  There is not any burden that <span class="varspell" title="some">som</span> would gladlier post off to another, <span class="varspell" title="than">then</span> the charge and care of their Religion. There be, who knows not
+that there be of Protestants and professors who live and <span class="varspell" title="die">dye</span> in as
+<a href="" id="arrant" class="annotBtn">arrant</a> an <a href="" id="implicit" class="annotBtn">implicit faith</a>, as any lay Papist of <a href="" id="loretto" class="annotBtn">Loretto</a>. A wealthy
+man addicted to his pleasure and to his profits, finds Religion to be
+a <span class="varspell" title="traffic">traffick</span> so <span class="varspell" title="entangled">entangl'd</span>, and of so many piddling accounts, that of
+<a href="" id="mysteries" class="annotBtn">all mysteries</a> he cannot skill to keep a stock going upon that trade.
+What should he <span class="varspell" title="do">doe</span>? fain he would have the name to be religious, fain
+he would bear up with his <span class="varspell" title="neighbors">neighbours</span> in that. What does he
+therefore, but <span class="varspell" title="resolves">resolvs</span> to give over <span class="varspell" title="toiling">toyling</span>, and to find himself out
+<span class="varspell" title="some">som</span> <a href="" id="factor" class="annotBtn">factor</a>, to whose care and credit he may commit the whole managing
+of his religious affairs; <span class="varspell" title="some">som</span> Divine of note and estimation that must
+be. To him he adheres, resigns the whole ware-house of his religion,
+with all the locks and <span class="varspell" title="keys">keyes</span> into his custody; and indeed makes the
+very person of that man his religion; esteems his associating with him
+a sufficient evidence and commendatory of his own piety. So that a man
+may say his religion is now no more within himself, but is <span class="varspell" title="become">becom</span> a
+<a href="" id="movable" class="annotBtn"><span class="varspell" title="dividual">dividuall</span> movable</a>, and goes and comes <span class="varspell" title="near">neer</span> him, according as that
+good man frequents the house. He entertains him, gives him gifts,
+feasts him, lodges him; his religion comes home at night, <span class="varspell" title="prays">praies</span>, is
+liberally <span class="varspell" title="supped">supt</span>, and sumptuously laid to sleep, rises, is saluted,
+and after the <a href="" id="malmsey" class="annotBtn">malmsey</a>, or some well <span class="varspell" title="spiced">spic't</span> <span class="varspell" title="brewage">bruage</span>, and better
+breakfasted <span class="varspell" title="than">then</span> he whose morning appetite would have gladly fed on
+<a href="" id="betheny" class="annotBtn">green figs</a> between <span class="mi">Betheny</span> and <span class="mi"><span class="varspell" title="Jerusalem">Ierusalem</span></span>, his Religion walks abroad at
+eight, and <span class="varspell" title="leaves">leavs</span> his kind entertainer in the shop trading all day
+without his religion.
+</p>
+
+<p>
+Another sort there be who when they hear that all things shall be
+<span class="varspell" title="ordered">order'd</span>, all things regulated and <span class="varspell" title="settled">setl'd</span>, nothing <span class="varspell" title="written">writt'n</span> but what
+passes through the custom-house of certain <a href="" id="publicans" class="annotBtn">Publicans</a> that have the
+<a href="" id="ton" class="annotBtn"><span class="varspell" title="tunnaging">tunaging</span> and the poundaging</a> of all free <span class="varspell" title="spoken">spok'n</span> truth, will <span class="varspell" title="straight">strait</span>
+give <span class="varspell" title="themselves">themselvs</span> up into your hands, <span class="varspell" title="make them">mak'em</span> <abbr title="and">&amp;</abbr> <span class="varspell" title="cu them">cut'em</span> out what
+religion ye please; there be delights, there be recreations and
+jolly pastimes that will fetch the day about from sun to sun, and rock
+the tedious year as in a delightfull dream. What need they torture
+their heads with that which others have <span class="varspell" title="taken">tak'n</span> so strictly, and so
+unalterably into their own <span class="varspell" title="purveying">pourveying</span>. These are the fruits which a
+dull ease and cessation of our knowledge will bring forth among the people.
+How goodly, and how to be <span class="varspell" title="wished">wisht</span> were such an obedient unanimity as
+this, what a fine conformity would it starch us all into? <span class="varspell" title="doubtless">doubtles</span>
+a stanch and solid <span class="varspell" title="piece">peece</span> of frame-work, as any January could freeze
+together.
+</p>
+
+<p>
+Nor much better will be the consequence <span class="varspell" title="even">ev'n</span> among the clergy
+<span class="varspell" title="themselves">themselvs</span>; it is no new thing never heard of before, for a
+<a href="" id="parochial" class="annotBtn"><span class="mi"><span class="varspell" title="parochial">parochiall</span></span></a> Minister, who has his reward, and is at his <a href="" id="hercules" class="annotBtn"><span class="mi">Hercules</span> pillars</a>
+in a warm benefice, to be easily inclinable, if he have nothing else
+that may rouse up his studies, to finish his circuit in an English
+concordance and a <a href="" id="folio" class="annotBtn"><span class="mi">topic folio</span></a>, the gatherings and savings of a sober
+<span class="varspell" title="graduateship">graduatship</span>, a <a href="" id="harmony" class="annotBtn"><span class="mi">Harmony</span></a> and a <a href="" id="catena" class="annotBtn"><span class="mi">Catena</span></a>, treading the constant round of
+certain common <span class="varspell" title="doctrinal ">doctrinall</span> heads, attended with their uses, motives,
+marks and means, out of which as out of an alphabet or <a href="" id="sol" class="annotBtn">sol fa</a> by
+forming and transforming, <span class="varspell" title="joining">joyning</span> and <span class="varspell" title="disjoining">dis-joyning</span> variously a little
+book-craft, and two hours meditation might furnish him unspeakably to
+the performance of more <span class="varspell" title="than">then</span> a weekly charge of sermoning: not to
+<span class="varspell" title="reckon">reck'n</span> up the <span class="varspell" title="infinite">infinit</span> helps of <a href="" id="inter" class="annotBtn">interlinearies, breviaries,
+<span class="mi">synopses</span>, and other loitering gear</a>. But as for the multitude of
+Sermons ready printed and <span class="varspell" title="piled">pil'd</span> up, on every text that is not
+difficult, our London trading <a href="" id="thomas" class="annotBtn"><abbr title="Saint">St.</abbr> <span class="mi">Thomas</span> in his vestry</a>, and <span class="varspell" title="add">adde</span> to
+boot <abbr title="Saint">St.</abbr> <span class="mi">Martin</span>, and <abbr title="Saint">St.</abbr> <span class="mi">Hugh</span>, have not within their <span class="varspell" title="hallowed">hallow'd</span> limits more vendible ware of all sorts ready made: so that penury he never
+need fear of Pulpit provision, having where so plenteously to
+refresh his <a href="" id="magazin" class="annotBtn"><span class="varspell" title="magazine">magazin</span></a>. But if his rear and flanks be not <a href="" id="impaled" class="annotBtn"><span class="varspell" title="impaled">impal'd</span></a>, if
+his back <span class="varspell" title="door">dore</span> be not <span class="varspell" title="secured">secur'd</span> by the rigid licencer, but that a bold
+book may now and then issue forth, and give the assault to some of
+his old collections in their trenches, it will concern him then to
+keep waking, to stand in watch, to set good guards and <span class="varspell" title="sentinels">sentinells</span> about
+his <span class="varspell" title="received">receiv'd</span> opinions, to walk the round and counter-round with his
+fellow inspectors, fearing lest any of his flock be <span class="varspell" title="seduced">seduc't</span>, who
+also then would be better instructed, better <span class="varspell" title="exercised">exercis'd</span> and
+<span class="varspell" title="disciplined">disciplin'd</span>. And God send that the fear of this diligence which
+must then be <span class="varspell" title="used">us'd</span>, <span class="varspell" title="do">doe</span> not make us affect the <span class="varspell" title="laziness">lazines</span> of a licencing
+Church.
+</p>
+
+<p>
+For if we be sure we are in the right, and <span class="varspell" title="do">doe</span> not hold the truth
+guiltily, which becomes not, if we our selves condemn not our own
+weak and frivolous teaching, and the people for an untaught and
+irreligious gadding rout, what can be more fair, <span class="varspell" title="than">then</span> when a man
+judicious, learned, and of a conscience, for aught we know, as good as
+theirs that taught us what we know, shall not privily from house to
+house, which is more dangerous, but openly by writing publish to the
+world what his opinion is, what his reasons, and wherefore that
+which is now thought cannot be sound. <a href="" id="christus" class="annotBtn">Christ <span class="varspell" title="urged">urg'd</span> it</a> as wherewith
+to <span class="varspell" title="justify">justifie</span> himself, that he <span class="varspell" title="preached">preacht</span> in <span class="varspell" title="public">publick</span>; yet writing is more
+<span class="varspell" title="public">publick</span> <span class="varspell" title="than">then</span> preaching; and more <span class="varspell" title="easy">easie</span> to refutation, if need be,
+there being so many whose <span class="varspell" title="business">businesse</span> and profession <span class="varspell" title="merely">meerly</span> it is, to be
+the champions of Truth; which if they neglect, what can be imputed but
+their sloth, or unability?
+</p>
+
+<p>
+Thus much we are <span class="varspell" title="hindered">hinder'd</span> and <a href="" id="disinured" class="annotBtn"><span class="varspell" title="disinured">dis-inur'd</span></a> by this <span class="varspell" title="course">cours</span> of licencing
+toward the true knowledge of what we seem to know. For how much it
+hurts and hinders the licencers themselves in the calling of their
+<span class="varspell" title="Ministry">Ministery</span>, more <span class="varspell" title="than">then</span> any secular employment, if they will discharge
+that office as they ought, so that of necessity they must neglect
+either the one duty or the other, I insist not, because it is a
+particular, but leave it to their own conscience, how they will decide
+it there.
+</p>
+
+<p>
+There is yet behind of what I <span class="varspell" title="purposed">purpos'd</span> to lay open, the incredible
+<span class="varspell" title="loss">losse</span>, and detriment that this plot of licencing puts us to, more <span class="varspell" title="than">then</span>
+if <span class="varspell" title="some">som</span> enemy at sea should stop up all our <span class="varspell" title="havens">hav'ns</span> and ports, and
+creeks, it hinders and retards the importation of our richest
+<span class="varspell" title="Merchandise">Marchandize</span>, Truth: nay it was first <span class="varspell" title="established">establisht</span> and put in
+practice by Antichristian malice and mystery on set purpose to
+extinguish, if it were possible, the light of Reformation, and to
+settle <span class="varspell" title="falsehood">falshood</span>; little differing from that <span class="varspell" title="policy">policie</span> wherewith the Turk
+upholds his <a href="" id="koran" class="annotBtn"><span class="mi">Alcoran</span></a>, by the prohibition of Printing. 'Tis not
+<span class="varspell" title="denied">deny'd</span>, but gladly <span class="varspell" title="confessed">confest</span>, we are to send our thanks and vows to
+<span class="varspell" title="heaven">heav'n</span> louder <span class="varspell" title="than">then</span> most of Nations, for that great measure of truth
+which we enjoy, especially in those main points between us and the
+Pope, with his <span class="varspell" title="appurtenances">appertinences</span> the <span class="varspell" title="Prelates">Prelats</span>: but he who thinks we are to
+<a href="" id="but" class="annotBtn">pitch our tent here</a>, and have <span class="varspell" title="attained">attain'd</span> the utmost prospect of
+reformation, that the <a href="" id="darkly" class="annotBtn"><span class="varspell" title="mortal">mortall</span> <span class="varspell" title="glass">glasse</span></a> wherein we contemplate, can <span class="varspell" title="show">shew</span>
+us, till we come to <span class="mi">beatific</span> vision, that man by this very opinion
+declares, that he is yet <span class="varspell" title="far">farre</span> short of Truth.
+</p>
+
+<p>
+Truth indeed came once into the world with <a href="" id="perfecti" class="annotBtn">her divine Master</a>, and
+was a perfect shape most glorious to look on: but when he ascended,
+and his Apostles after Him were laid asleep, then <span class="varspell" title="straight">strait</span> arose a
+wicked race of deceivers, who as that story goes of the <a href="" id="hewed" class="annotBtn"><span class="mi"><span class="varspell" title="Egyptian">&AElig;gyptian</span>
+Typhon</span></a> with his conspirators, how they dealt with the good <span class="mi">Osiris</span>,
+took the virgin Truth, <span class="varspell" title="hewed">hewd</span> her lovely form into a thousand <span class="varspell" title="pieces">peeces</span>,
+and <span class="varspell" title="scattered">scatter'd</span> them to the four winds. From that time ever since, the
+sad friends of Truth, such as durst appear, imitating the <span class="varspell" title="careful">carefull</span>
+search that <span class="mi">Isis</span> made for the <span class="varspell" title="mangled">mangl'd</span> body of <span class="mi">Osiris</span>, went up and down
+gathering up limb by limb still as they could find them. We have
+not yet found them all, Lords and Commons, nor ever shall <span class="varspell" title="do">doe</span>, till her
+Masters second <span class="varspell" title="coming">comming</span>; he shall bring together every joynt and
+member, and shall mould them into an immortall feature of lovelines
+and perfection. Suffer not these licencing prohibitions to stand at
+every place of opportunity forbidding and disturbing them that
+continue seeking, that continue to do our obsequies to the torn body
+of our <span class="varspell" title="martyred">martyr'd</span> Saint.  We boast our light; but if we look not wisely on the Sun it self, it smites us into <span class="varspell" title="darkness">darknes</span>. Who can discern those planets that are oft
+<a href="" id="combust" class="annotBtn"><span class="mi">Combust</span></a>, and those stars of brightest magnitude that rise and set with
+the Sun, <span class="varspell" title="until">untill</span> the opposite motion of their orbs bring them to such
+a place in the firmament, where they may be seen <span class="varspell" title="evening">evning</span> or morning.
+The light which we have <span class="varspell" title="gained">gain'd</span>, was <span class="varspell" title="given">giv'n</span> us, not to be ever staring
+on, but by it to discover onward things more remote from our
+knowledge. It is not the unfrocking of a Priest, the <span class="varspell" title="unmitering">unmitring</span> of a
+Bishop, and the removing him from off the <span class="mi">Presbyterian</span> shoulders that
+will make us a happy Nation, no, if other things as great in the
+Church, and in the rule of life both <span class="varspell" title="economical">economicall</span> and <span class="varspell" title="political">politicall</span> be
+not <span class="varspell" title="looked">lookt</span> into and <span class="varspell" title="reformed">reform'd</span>, we have <span class="varspell" title="looked">lookt</span> so long upon the blaze
+that <a href="" id="zwingli" class="annotBtn"><span class="mi"><span class="varspell" title="Zwingli">Zuinglius</span></span></a> and <a href="" id="calvin" class="annotBtn"><span class="mi">Calvin</span></a> hath <span class="varspell" title="beaconed">beacon'd</span> up to us, that we are stark
+blind. There be who perpetually complain of schisms and sects, and make it such a calamity that any man dissents from their maxims.
+'Tis their own pride and ignorance which causes the disturbing, who
+neither will hear with meeknes, nor can convince, yet all must be
+<span class="varspell" title="suppressed">suppresst</span> which is not found in their <a href="" id="syntagma" class="annotBtn"><span class="mi">Syntagma</span></a>. They are the
+troublers, they are the dividers of unity, who neglect and permit
+not others to unite those <span class="varspell" title="dissevered">dissever'd</span> <span class="varspell" title="pieces">peeces</span> which are yet wanting to
+the body of Truth. To be still searching what we know not, by what we
+know, still closing up truth to truth as we find it (for all her
+body is <span class="mi">homogeneal</span>, and <span class="varspell" title="proportional">proportionall</span>), this is the <a href="" id="golden" class="annotBtn">golden rule</a> in
+<span class="mi">Theology</span> as well as in <span class="varspell" title="Arithmetic">Arithmetick</span>, and makes up the best harmony in a
+Church; not the <span class="varspell" title="forced">forc't</span> and outward union of cold, and <span class="varspell" title="neutral">neutrall</span>, and
+inwardly divided minds.
+</p>
+
+<p>
+Lords and Commons of England, consider what Nation it is whereof
+ye are, and whereof ye are the <span class="varspell" title="governors">governours</span>: a Nation not slow and
+dull, but of a quick, ingenious, and piercing spirit, acute to
+invent, <span class="varspell" title="subtle">suttle</span> and sinewy to <span class="varspell" title="discourse">discours</span>, not beneath the reach of any
+point the highest that human capacity can soar to. Therefore the
+studies of learning in her deepest Sciences have <span class="varspell" title="been">bin</span> so ancient, and
+so eminent among us, that Writers of good antiquity, and ablest
+<span class="varspell" title="judgment">judgement</span> have <span class="varspell" title="been">bin</span> <span class="varspell" title="persuaded">perswaded</span> that <a href="" id="pythagoras" class="annotBtn"><span class="varspell" title="even">ev'n</span> the school of <span class="mi">Pythagoras</span></a>, and
+the <a href="" id="persian" class="annotBtn"><span class="mi">Persian</span> wisdom </a>took beginning from the old Philosophy of this
+<span class="varspell" title="Island">Iland</span>. And that wise and <span class="varspell" title="civil">civill</span> Roman, <a href="" id="agricola" class="annotBtn"><span class="mi">Julius Agricola</span></a>, who <span class="varspell" title="governed">govern'd</span>
+once here for <span class="mi"><span class="varspell" title="Caesar">C&aelig;sar</span></span>, <span class="varspell" title="preferred">preferr'd</span> the <span class="varspell" title="natural">naturall</span> wits of Britain, before the
+<span class="varspell" title="labored">labour'd</span> studies of the French. Nor is it for nothing that the grave
+and frugal <a href="" id="trans" class="annotBtn"><span class="mi">Transylvanian</span></a> sends out yearly from as <span class="varspell" title="far">farre</span> as the
+<span class="varspell" title="mountainous">mountanous</span> borders of <span class="mi">Russia</span>, and beyond <a href="" id="herc" class="annotBtn">the <span class="mi"><span class="varspell" title="Hyrcanian">Hercynian</span></span> <span class="varspell" title="wilderness">wildernes</span></a>,
+not their youth, but their <span class="varspell" title="stayed">stay'd</span> men, to learn our language, and our
+<span class="mi">theologic</span> arts.  Yet that which is above all this, the <span class="varspell" title="favor">favour</span> and the love of <span class="varspell" title="heaven">heav'n</span> we have great argument to think in a peculiar manner propitious and
+<a href="" id="propending" class="annotBtn">propending </a>towards us. Why else was this Nation <span class="varspell" title="chosen">chos'n</span> before any
+other, that out of her as out of <span class="mi">Sion</span> should be <span class="varspell" title="proclaimed">proclam'd</span> and
+sounded forth the first tidings and trumpet of Reformation to all
+<span class="mi"><span class="varspell" title="Europe">Europ</span></span>. And had it not <span class="varspell" title="been">bin</span> the <span class="varspell" title="obstinate">obstinat</span> <span class="varspell" title="perverseness">perversenes</span> of our <span class="varspell" title="Prelates">Prelats</span>
+against the divine and admirable spirit of <a href="" id="wyclif" class="annotBtn"><span class="mi"><span class="varspell" title="Wycliff">Wicklef</span></span></a>, to <span class="varspell" title="supress">suppresse</span> him
+as a schismatic and <span class="mi">innovator</span>, perhaps neither the <span class="mi">Bohemian Husse</span> and
+<span class="mi"><span class="varspell" title="Jerome">Jerom</span></span>, no nor the name of <span class="mi">Luther</span>, or of <span class="mi">Calvin</span> had <span class="varspell" title="been">bin</span> ever known: the glory of reforming all our <span class="varspell" title="neighbors">neighbours</span> had <span class="varspell" title="been">bin</span> <span class="varspell" title="completely">compleatly</span> ours.
+But now, as our <span class="varspell" title="obdurate">obdurat</span> Clergy have with violence <span class="varspell" title="demeaned">demean'd</span> the
+matter, we are become hitherto the latest and backwardest <span class="varspell" title="Scholars">Schollers</span>, of
+whom God <span class="varspell" title="offered">offer'd</span> to have made us the teachers. Now once again by all
+concurrence of signs, and by the <span class="varspell" title="general">generall</span> instinct of holy and devout
+men, as they daily and solemnly <span class="varspell" title="express">expresse</span> their thoughts, God is
+decreeing to begin some new and great period in his Church, <span class="varspell" title="even">ev'n</span> to
+the reforming of Reformation it self: what does he then but reveal
+Himself to his servants, and as his manner is, first to his
+English-men; I say as his manner is, first to us, though we mark not
+the method of his counsels, and are unworthy.  Behold now this vast City: a <a href="" id="city" class="annotBtn">City of refuge</a>, the mansion house of liberty, <span class="varspell" title="encompassed">encompast</span> and surrounded with his protection; the shop of
+<span class="varspell" title="war">warre</span> hath not there more anvils and hammers waking, to fashion out
+the <a href="" id="plates" class="annotBtn">plates</a> and instruments of armed Justice in defence of
+<span class="varspell" title="beleaguered">beleaguer'd</span> Truth, <span class="varspell" title="than">then</span> there be pens and heads there, sitting by
+their studious lamps, musing, searching, revolving new notions and
+<span class="varspell" title="ideas">idea's</span> wherewith to present, as with their homage and their fealty the
+approaching Reformation: others as fast reading, trying all things,
+assenting to the force of reason and convincement. What could a man
+require more from a Nation so pliant and so prone to seek after
+knowledge. What wants there to such a towardly and pregnant <span class="varspell" title="soil">soile</span>,
+but wise and <span class="varspell" title="faithful">faithfull</span> <span class="varspell" title="laborers">labourers</span>, to make a knowing people, a Nation of
+Prophets, of Sages, and of Worthies. We <span class="varspell" title="reckon">reck'n</span> more <span class="varspell" title="than">then</span> five months
+yet to harvest; there need not be five weeks, had we but eyes to
+lift up, <a href="" id="fields" class="annotBtn">the fields are white already</a>.  Where there is much desire to learn, there of necessity will be much arguing, much writing, many opinions; for opinion in good men is but
+knowledge in the making. Under these fantastic terrors of sect and
+schism, we wrong the earnest and zealous thirst after knowledge and
+understanding which God hath <span class="varspell" title="stirred">stirr'd</span> up in this city. What some lament
+of, we rather should <span class="varspell" title="rejoice">rejoyce</span> at, should rather praise this pious
+<span class="varspell" title="forwardness">forwardnes</span> among men, to reassume the ill deputed care of their
+Religion into their own hands again. A little generous prudence, <a href="" id="for" class="annotBtn">a
+little forbearance of one another</a>, and <span class="varspell" title="some">som</span> grain of charity might win
+all these diligences to <span class="varspell" title="join">joyn</span>, and unite into one <span class="varspell" title="general">generall</span> and brotherly
+search after Truth; could we but <span class="varspell" title="forgo">forgoe</span> this <span class="varspell" title="Prelatical">Prelaticall</span> tradition of
+crowding free consciences and Christian liberties into canons and
+precepts of men. I doubt not, if some great and worthy stranger should
+come among us, wise to discern the <span class="varspell" title="mold">mould</span> and temper of a people, and
+how to govern it, observing the high hopes and aims, the diligent
+alacrity of our extended thoughts and reasonings in the pursuance of
+truth and freedom, but that he would cry out as <a href="" id="pyrrhus" class="annotBtn"><span class="mi"><span class="varspell" title="Pyrrhus">Pirrhus</span></span></a> did,
+admiring the Roman docility and courage, if such were my <span class="mi">Epirots</span>, I
+would not despair the greatest design that could be attempted to make
+a Church or Kingdom happy.  Yet these are the men <span class="varspell" title="cried">cry'd</span> out against for <span class="varspell" title="schismatics">schismaticks</span> and
+sectaries; as if, while the Temple of the Lord was building, some
+cutting, some squaring the marble, others hewing the cedars, there
+should be a sort of <span class="varspell" title="irrational">irrationall</span> men who could not consider there must
+be many schisms and many dissections made in the quarry and in the
+timber, ere the <a href="" id="irrat" class="annotBtn">house of God</a> can be built. And when every stone is
+laid artfully together, it cannot be united into a continuity, it
+can but be contiguous in this world; neither can every <span class="varspell" title="piece">peece</span> of the
+building be of one form; nay rather the perfection consists in this,
+that out of many <span class="varspell" title="moderate">moderat</span> varieties and brotherly dissimilitudes that
+are not vastly <span class="varspell" title="disproportional">disproportionall</span> arises the goodly and the <span class="varspell" title="graceful">gracefull</span>
+symmetry that commends the whole pile and structure.  Let us therefore be more <span class="varspell" title="considerate">considerat</span> builders, more wise in
+<span class="varspell" title="spititual">spirituall</span> architecture, when great reformation is expected. For now
+the time seems come, wherein <span class="mi">Moses</span> the great Prophet may sit in <span class="varspell" title="heaven">heav'n</span>
+<span class="varspell" title="rejoicing">rejoycing</span> to see that memorable and glorious wish of his <span class="varspell" title="fulfilled">fulfill'd</span>,
+when not only our <span class="varspell" title="seventy">sev'nty</span> Elders, <a href="" id="prophets" class="annotBtn">but all the <span class="varspell" title="Lord's">Lords</span> people are
+become Prophets</a>. No marvell then though some men, and some good men too
+perhaps, but young in <span class="varspell" title="goodness">goodnesse</span>, as <span class="mi">Joshua</span> then was, envy them. They
+fret, and out of their own <span class="varspell" title="weakness">weaknes</span> are in agony, lest these divisions
+and subdivisions will <span class="varspell" title="undo">undoe</span> us. The <span class="varspell" title="adversary">adversarie</span> again applauds, and waits
+the hour, when they have <span class="varspell" title="branched">brancht</span> themselves out, saith he, small
+<span class="varspell" title="enough">anough</span> into parties and partitions, then will be our time. Fool! he
+sees not <a href="" id="root" class="annotBtn">the firm root</a>, out of which we all grow, though into
+branches: nor will be ware <span class="varspell" title="until">untill</span> he see our small divided <a href="" id="maniples" class="annotBtn">maniples</a>
+cutting through at every angle of his ill united and unweildy brigade.
+And that we are to hope better of all these supposed sects and
+schisms, and that we shall not need that solicitude honest perhaps
+though over timorous of them that vex in this behalf, but shall
+laugh in the end, at those malicious applauders of our differences, I
+have these reasons to <span class="varspell" title="persuade">perswade</span> me.
+</p>
+<p>
+First, when a City shall be as it were <a href="" id="block" class="annotBtn"><span class="varspell" title="besieged">besieg'd</span> and <span class="varspell" title="blocked">blockt</span> about</a>,
+her navigable river infested, <span class="varspell" title="inroads">inrodes</span> and incursions round, defiance
+and <span class="varspell" title="battle">battell</span> oft <span class="varspell" title="rumored">rumour'd</span> to be marching up <span class="varspell" title="even">ev'n</span> to her walls, and suburb
+trenches, that then the people, or the greater part, more <span class="varspell" title="than">then</span> at
+other times, wholly <span class="varspell" title="taken">tak'n</span> up with the study of highest and most
+important matters to be <span class="varspell" title="reformed">reform'd</span>, should be disputing, reasoning,
+reading, inventing, discoursing, <span class="varspell" title="even">ev'n</span> to a rarity, and admiration,
+things not before <span class="varspell" title="discoursed">discourst</span> or <span class="varspell" title="written">writt'n</span> of, argues first a singular
+good will, <span class="varspell" title="contentedness">contentednesse</span> and confidence in your prudent foresight, and
+safe government, Lords and Commons; and from thence derives it self
+to a gallant bravery and well grounded contempt of their enemies, as
+if there were no small number of as great spirits among us, as his
+was, who when Rome was nigh <a href="" id="han" class="annotBtn"><span class="varspell" title="besieged">besieg'd</span> by <span class="mi">Hanibal</span></a>, being in the City, bought that <span class="varspell" title="piece">peece</span> of ground at no cheap rate, whereon <span class="mi">Hanibal</span> himself
+<span class="varspell" title="encamped">encampt</span> his own regiment.  Next it is a lively and <span class="varspell" title="cheerful">cherfull</span> presage of our happy <span class="varspell" title="success">successe</span> and
+victory. For as in a body, when the blood is fresh, the spirits pure
+and vigorous, not only to vital, but to <span class="varspell" title="rational">rationall</span> faculties, and those
+in the acutest, and the pertest operations of wit and <span class="varspell" title="subtlety">suttlety</span>, it
+argues in what good plight and constitution the body is, so when the
+<span class="varspell" title="cheerfulness">cherfulnesse</span> of the people is so sprightly up, as that it has not only
+wherewith to guard well its own freedom and safety, but to spare,
+and to bestow upon the solidest and sublimest points of <span class="varspell" title="controversy">controversie</span>,
+and new invention, it <span class="varspell" title="betokens">betok'ns</span> us not degenerated, nor drooping to a
+<span class="varspell" title="fatal">fatall</span> decay, but casting off the old and <span class="varspell" title="wrinkled">wrincl'd</span> skin of corruption
+to outlive these pangs and wax young again, <span class="varspell" title="entering">entring</span> the glorious waies
+of Truth and prosperous <span class="varspell" title="virtue">vertue</span> <span class="varspell" title="destined">destin'd</span> to become great and
+<span class="varspell" title="honorable">honourable</span> in these latter ages. Methinks I see in my mind a noble and
+puissant Nation rousing herself like a strong man after sleep, and
+shaking her <a href="" id="nation" class="annotBtn">invincible locks</a>: Methinks I see her as an Eagle <a href="" id="mu" class="annotBtn">muing</a> her
+mighty youth, and kindling her <span class="varspell" title="undazzled">undazl'd</span> eyes at the full midday beam;
+<a href="" id="purge" class="annotBtn">purging and unscaling her long abused sight</a> at the fountain it self
+of <span class="varspell" title="heavenly">heav'nly</span> radiance; while the whole noise of timorous and flocking
+birds, with those also that love the twilight, flutter about, <span class="varspell" title="amazed">amaz'd</span>
+at what she means, and in their envious gabble would <span class="varspell" title="prognosticate">prognosticat</span> a
+year of sects and schisms.
+</p>
+
+<p>
+What would ye <span class="varspell" title="do">doe</span> then, should ye <span class="varspell" title="suppress">suppresse</span> all this <span class="varspell" title="flowery">flowry</span> crop of
+knowledge and new light sprung up and yet springing daily in this
+City, should ye set an <span class="mi">Oligarchy</span> of twenty <a href="" id="ingross" class="annotBtn"><span class="varspell" title="engrossers">ingrossers</span></a> over it, to
+bring a <span class="varspell" title="famine">famin</span> upon our minds again, when we shall know nothing but
+what is <span class="varspell" title="measured">measur'd</span> to us by their bushel? <span class="varspell" title="Believe">Beleeve</span> it, Lords and Commons,
+they who <span class="varspell" title="counsel">counsell</span> ye to such a suppressing, <span class="varspell" title="do">doe</span> as good as bid ye
+<span class="varspell" title="suppress">suppresse</span> your selves; and I will soon <span class="varspell" title="show">shew</span> how. If it be <span class="varspell" title="desired">desir'd</span> to
+know the <span class="varspell" title="immediate">immediat</span> cause of all this free writing and free speaking,
+there cannot be <span class="varspell" title="assigned">assign'd</span> a truer <span class="varspell" title="than">then</span> your own mild, and free, and
+human government; it is the liberty, Lords and Commons, which your
+own valorous and happy counsels have <span class="varspell" title="purchased">purchast</span> us, liberty which is
+the nurse of all great wits; this is that which hath <span class="varspell" title="rarified">rarify'd</span> and
+<span class="varspell" title="enlightened">enlighten'd</span> our spirits like the influence of <span class="varspell" title="heaven">heav'n</span>; this is that
+which hath <span class="varspell" title="enfranchised">enfranchis'd</span>, <span class="varspell" title="enlarged">enlarg'd</span> and lifted up our apprehensions
+degrees above themselves.  Ye cannot make us now <span class="varspell" title="less">lesse</span> capable, <span class="varspell" title="less">lesse</span> knowing, <span class="varspell" title="less">lesse</span> eagarly pursuing of the truth, <span class="varspell" title="unless">unlesse</span> ye first make your selves, that made us
+so, <span class="varspell" title="less">lesse</span> the lovers, <span class="varspell" title="less">lesse</span> the founders of our true liberty. We can
+grow ignorant again, brutish, <span class="varspell" title="formal">formall</span>, and slavish, as ye found us;
+but you then must first become that which ye cannot be, oppressive,
+arbitrary, and tyrannous, as they were from whom ye have <span class="varspell" title="freed">free'd us</span>. That
+our hearts are now more capacious, our thoughts more erected to the
+search and expectation of greatest and exactest things, is the issue
+of your <span class="varspell" title="own">owne</span> <span class="varspell" title="virtue">vertu</span> propagated in us; ye cannot <span class="varspell" title="suppress">suppresse</span> that <span class="varspell" title="unless">unlesse</span>
+ye reinforce an <a href="" id="father" class="annotBtn">abrogated and <span class="varspell" title="merciless">mercilesse</span> law</a>, that fathers may dispatch
+at will their own children. And who shall then stick closest to ye,
+and excite others? not he who takes up armes for <a href="" id="dane" class="annotBtn">cote and conduct</a>,
+and his four nobles of Danegelt. Although I dispraise not the
+defence of just immunities, yet love my peace better, if that were
+all. Give me the liberty to know, to utter, and to argue freely
+according to conscience, above all liberties.
+</p>
+
+<p>
+What would be best <span class="varspell" title="advised">advis'd</span> then, if it be found so hurtfull and so
+<span class="varspell" title="unequal">unequall</span> to <span class="varspell" title="suppress">suppresse</span> opinions for the <span class="varspell" title="newness">newnes</span>, or the <span class="varspell" title="unsuitableness">unsutablenes</span>
+to a customary acceptance, will not be my task to say; I only shall
+repeat what I have <span class="varspell" title="learned">learnt</span> from one of your own <span class="varspell" title="honorable">honourable</span> number, a
+right noble and pious Lord, who had he not <span class="varspell" title="sacrificed">sacrific'd</span> his life and
+fortunes to the Church and Commonwealth, we had not now <span class="varspell" title="missed">mist</span> and
+<span class="varspell" title="bewailed">bewayl'd</span> a worthy and undoubted patron of this argument. Ye know
+him I am sure; yet I for <span class="varspell" title="honor's">honours</span> sake, and may it be <span class="varspell" title="eternal">eternall</span> to him,
+shall name him, <a href="" id="brook" class="annotBtn">the Lord <span class="mi">Brook</span></a>. He writing of Episcopacy, and by the
+way treating of sects and schisms, left Ye his vote, or rather now the
+last words of his dying charge, which I know will ever be of dear
+and <span class="varspell" title="honored">honour'd</span> regard with Ye, so full of <span class="varspell" title="meekness">meeknes</span> and breathing
+charity, that next to his last testament, who <span class="varspell" title="bequeathed">bequeath'd</span> love and
+peace to his Disciples, I cannot call to mind where I have read or
+heard words more mild and <span class="varspell" title="peaceful">peacefull</span>. He there exhorts us to hear with
+patience and humility those, however they be <span class="varspell" title="miscalled">miscall'd</span>, that desire to
+live purely, in such a use of <span class="varspell" title="God's">Gods</span> Ordinances, as the best guidance
+of their conscience gives them, and to tolerat them, though in some
+disconformity to our selves. The book itself will tell us more at
+large being <span class="varspell" title="published">publisht</span> to the world, and dedicated to the <span class="varspell" title="Parliament">Parlament</span>
+by him who both for his life and for his death deserves, that what
+advice he left be not laid by without <span class="varspell" title="perusal">perusall</span>.
+</p>
+
+<p>
+And now the time in <span class="varspell" title="special">speciall</span> is, by <span class="varspell" title="privilege">priviledge</span> to write and speak what
+may help to the <span class="varspell" title="further">furder</span> discussing of matters in agitation. <a href="" id="janus" class="annotBtn">The temple
+of <span class="mi">Janus</span></a> with his two <span class="mi">controversal</span> faces might now not
+unsignificantly be set open. And though all the <a href="" id="winds" class="annotBtn"><span class="varspell" title="winds">windes</span> of <span class="varspell" title="doctrine">doctrin</span></a> were
+let loose to play upon the earth, so Truth be in the field, we do
+injuriously, by licencing and prohibiting to misdoubt her strength.
+Let her and <span class="varspell" title="Falsehood">Falshood</span> grapple; who ever knew Truth put to the <span class="varspell" title="worse">wors</span>,
+in a free and open encounter. Her confuting is the best and surest
+suppressing. He who hears what praying there is for light and
+clearer knowledge to be sent down among us, would think of other
+matters to be constituted beyond <a href="" id="dis" class="annotBtn">the discipline of <span class="mi">Geneva</span></a>, <span class="varspell" title="framed">fram'd</span>
+and <span class="varspell" title="fabricked">fabric't</span> already to our hands. Yet when the new light which we beg
+for shines in upon us, there be who envy, and oppose, if it come not
+first in at their casements. What a collusion is this, whenas we are
+exhorted by the wise man to use diligence, <a href="" id="wisdom" class="annotBtn"><span class="mi">to seek for wisdom as for
+<span class="varspell" title="hidden">hidd'n</span> treasures</span></a> early and late, that another order shall <span class="varspell" title="enjoin">enjoyn</span> us to
+know nothing but by statute. When a man hath <span class="varspell" title="been">bin</span> <span class="varspell" title="laboring">labouring</span> the
+hardest <span class="varspell" title="labor">labour</span> in the deep mines of knowledge, hath <span class="varspell" title="furnished">furnisht</span> out
+his findings in all their equipage, drawn forth his reasons as it were
+<a href="" id="battle" class="annotBtn">a <span class="varspell" title="battle">battell</span> <span class="varspell" title="ranged">raung'd</span></a>, <span class="varspell" title="scattered">scatter'd</span> and defeated all objections in his way,
+calls out his adversary into the plain, offers him the advantage of
+wind and sun, if he please; only that he may try the matter by dint of
+argument, for his opponents then to <span class="varspell" title="skulk">sculk</span>, to lay ambushments, to keep
+a narrow bridge of licencing where the challenger should <span class="varspell" title="pass">passe</span>,
+though it be <span class="varspell" title="valor">valour</span> <span class="varspell" title="enough">anough</span> in <a href="" id="souldiership" class="annotBtn">souldiership</a>, is but <span class="varspell" title="weakness">weaknes</span> and
+cowardice in the wars of Truth.  For who knows not that Truth is strong next to the Almighty; she needs no policies, nor stratagems, nor licencings to make her
+victorious, those are the shifts and the defences that error uses
+against her power: give her but room, <abbr title="and">&amp;</abbr> do not bind her when she
+sleeps, for then she speaks not true, as the old <a href="" id="proteus" class="annotBtn"><span class="mi">Proteus</span></a> did, who
+<a href="" id="caught" class="annotBtn">spake oracles</a> only when he was caught <abbr title="and">&amp;</abbr> bound, but then rather she
+turns herself into all shapes, except her own, and perhaps tunes her
+voice according to the time, <a href="" id="ahab" class="annotBtn">as <span class="mi">Micaiah</span> did before <span class="mi">Ahab</span></a>, <span class="varspell" title="until">untill</span> she
+be <a href="" id="ad" class="annotBtn"><span class="varspell" title="adjured">adjur'd</span> into her own <span class="varspell" title="likeness">likenes</span></a>. Yet is it not impossible that she
+may have more shapes <span class="varspell" title="than">then</span> one.  What else is all that rank of things
+indifferent, wherein Truth may be on this side, or on the other,
+without being unlike her self. What but a vain shadow else is the
+abolition of <span class="mi"><a href="" id="frank" class="annotBtn">those ordinances</a>, that hand writing <span class="varspell" title="nailed">nayl'd</span> to the
+<span class="varspell" title="cross">crosse</span></span>, what great purchase is <a href="" id="paul" class="annotBtn">this Christian liberty</a> which <span class="mi">Paul</span> so
+often boasts of. His doctrine is, that he who eats or eats not,
+regards a day, or regards it not, <a href="" id="bob" class="annotBtn">may <span class="varspell" title="do">doe</span> either</a> to the Lord. How many
+other things might be tolerated in peace, and left to conscience,
+had we but charity, and were it not the chief strong hold of our
+<span class="varspell" title="hypocrisy">hypocrisie</span> to be ever judging one another.  I fear yet this iron yoke of outward conformity hath left a slavish print upon our necks; the ghost of <a href="" id="ghost" class="annotBtn">a <span class="varspell" title="linen">linnen</span> decency</a> yet haunts us. We stumble and are impatient at the least dividing of one
+visible congregation from another, though it be not in <span class="varspell" title="fundamentals">fundamentalls</span>;
+and through our <span class="varspell" title="forwardness">forwardnes</span> to <span class="varspell" title="suppress">suppresse</span>, and our <span class="varspell" title="backwardness">backwardnes</span> to
+recover any <span class="varspell" title="enthralled">enthrall'd</span> <span class="varspell" title="piece">peece</span> of truth out of the <span class="varspell" title="grip">gripe</span> of <a name="custom">custom</a>, we
+care not to keep truth separated from truth, which is the fiercest
+rent and disunion of all. We <span class="varspell" title="do">doe</span> not see that while we still affect by
+all means a rigid <span class="varspell" title="external">externall</span> formality, we may as soon fall again into a
+<span class="varspell" title="gross">grosse</span> conforming stupidity, a stark and dead congealment of <a href="" id="wood" class="annotBtn"><span class="mi">wood and
+hay and stubble</span></a> <span class="varspell" title="forced">forc't</span> and frozen together, which is more to the
+sudden degenerating of a Church <span class="varspell" title="than">then</span> many <a href="" id="sub" class="annotBtn"><span class="mi">subdichotomies</span></a> of petty
+schisms.  Not that I can think well of every light separation, or that all
+in a Church is to be expected <span class="mi">gold and silver and <span class="varspell" title="precious">pretious</span> stones:</span>
+it is not possible for man to <a href="" id="tares" class="annotBtn">sever the wheat from the tares</a>, the
+good fish from the other <span class="varspell" title="fry">frie</span>; that must be the <span class="varspell" title="Angels'">Angels</span> <span class="varspell" title="Ministry">Ministery</span> at the
+end of <span class="varspell" title="moratl">mortall</span> things. Yet if all cannot be of one mind, as who looks
+they should be? this <span class="varspell" title="doubtless">doubtles</span> is more <span class="varspell" title="wholesome">wholsome</span>, more prudent, and
+more Christian that many be tolerated, rather <span class="varspell" title="than">then</span> all <span class="varspell" title="compelled">compell'd</span>. I
+mean not tolerated Popery, and open superstition, which as it
+<span class="varspell" title="extirpates">extirpats</span> all religions and <span class="varspell" title="civil">civill</span> supremacies, so it self should be
+<span class="varspell" title="extirpate">extirpat</span>, provided first that all charitable and <span class="varspell" title="compassionate">compassionat</span>
+means be <span class="varspell" title="used">us'd</span> to win and regain the weak and the misled: that also
+which is impious or evil absolutely either against faith or <span class="varspell" title="manners">maners</span> no
+law can possibly permit, that intends not to unlaw it self: but those
+neighboring differences, or rather indifferences, are what I speak
+of, whether in some point of doctrine or of discipline, which though they may be many, yet need not interrupt <span class="mi">the unity of Spirit</span>, if we could but find among us <a href="" id="bond" class="annotBtn"><span class="mi">the bond of peace</span>. </a> In the mean while if any one would write, and bring his <span class="varspell" title="helpful">helpfull</span> hand to the slow-moving Reformation which we <span class="varspell" title="labor">labour</span> under, if Truth have
+<span class="varspell" title="spoken">spok'n</span> to him before others, or but <span class="varspell" title="seemed">seem'd</span> at least to speak, who hath
+so bejesuited us that we should trouble that man with asking licence
+to <span class="varspell" title="do">doe</span> so worthy a deed? and not consider this, that if it come to
+prohibiting, there is not ought more likely to be prohibited <span class="varspell" title="than">then</span>
+truth it self; whose first appearance to our eyes <span class="varspell" title="bleared">blear'd</span> and <span class="varspell" title="dimmed">dimm'd</span>
+with prejudice and <a name="custom2">custom</a>, is more unsightly and unplausible <span class="varspell" title="than">then</span> many
+errors, <span class="varspell" title="even">ev'n</span> as the person is of many a great man slight and
+contemptible to see to. And what <span class="varspell" title="do">doe</span> they tell us vainly of new
+opinions, when this very opinion of theirs, that none must be heard,
+but whom they like, is the worst and newest opinion of all others; and
+is the chief cause why sects and schisms <span class="varspell" title="do">doe</span> so much abound, and true
+knowledge is kept at distance from us; besides yet a greater danger
+which is in it.  For when God <a href="" id="shake" class="annotBtn">shakes a <span class="varspell" title="Kingdom">Kingdome</span></a> with strong and <span class="varspell" title="healthful">healthfull</span> commotions
+to a <span class="varspell" title="general">generall</span> reforming, 'tis not untrue that many sectaries and false
+teachers are then busiest in seducing; but yet more true it is, that
+God then raises to his own work men of rare abilities, and more <span class="varspell" title="than">then</span>
+common industry not only to look back and revise what hath <span class="varspell" title="been">bin</span>
+taught heretofore, but to gain <span class="varspell" title="further">furder</span> and <span class="varspell" title="go">goe</span> on, some new
+<span class="varspell" title="enlightened">enlighten'd</span> steps in the discovery of truth. For such is the order
+of <span class="varspell" title="God's">Gods</span> <span class="varspell" title="enlightening">enlightning</span> his Church, to dispense and deal out by
+degrees his beam, so as our earthly eyes may best sustain it.  Neither is God appointed and <span class="varspell" title="confined">confin'd</span>, where and out of what place these his chosen shall be first heard to speak; for he sees not as man sees, <a href="" id="choose" class="annotBtn">chooses not as man chooses</a>, lest we should devote our selves again to set places, and assemblies, and outward callings of men; planting our faith one while in the old Convocation house, and another
+while in the <a href="" id="chapel" class="annotBtn"><span class="varspell" title="Chapel">Chapell</span> at Westminster</a>; when all the faith and religion
+that shall be there <span class="varspell" title="canonized">canoniz'd</span>, is not sufficient without plain
+convincement, and the charity of patient instruction to supple the
+least bruise of conscience, to <span class="varspell" title="edify">edifie</span> the meanest Christian, who
+desires to walk in the Spirit, and not in the letter of human trust,
+for all the number of voices that can be there made; no though
+<a href="" id="harry" class="annotBtn"><span class="mi">Harry</span> the 7</a>. himself there, with all his leige tombs about him, should
+lend them voices from the dead, to swell their number.  And if the men be erroneous who appear to be the leading <span class="varspell" title="schismatics">schismaticks</span>, what witholds us but our sloth, our self-will, and distrust in the right cause, that we <span class="varspell" title="do">doe</span> not give them gentle meeting
+and gentle dismissions, that we debate not and <span class="varspell" title="examine">examin</span> the matter
+<span class="varspell" title="thoroughly">throughly</span> with <span class="varspell" title="liberal">liberall</span> and frequent audience; if not for their sakes,
+yet for our own? seeing no man who hath tasted learning, but will
+<span class="varspell" title="confess">confesse</span> the many <span class="varspell" title="ways">waies</span> of profiting by those who not contented with
+stale <span class="varspell" title="receipts">receits</span> are able to manage, and set forth new positions to
+the world. And were they but as the dust and cinders of our feet, so
+long as in that notion they may yet serve to polish and brighten the
+<span class="varspell" title="armory">armoury</span> of Truth, <span class="varspell" title="even">ev'n</span> for that respect they were not utterly to be
+cast away. But if they be of those whom God hath fitted for the
+<span class="varspell" title="special">speciall</span> use of these times with eminent and ample gifts, and those
+perhaps neither among the Priests, nor among the <a href="" id="perhaps" class="annotBtn">Pharisees</a>, and we in
+the hast of a precipitant zeal shall make no distinction, but resolve
+to stop their mouths, because we fear they come with new and dangerous
+opinions, as we commonly forejudge them ere we understand them, no
+<span class="varspell" title="less">lesse</span> <span class="varspell" title="than">then</span> woe to us, while thinking thus to defend the Gospel, we are
+found the persecutors.
+</p>
+
+<p>
+There have <span class="varspell" title="been">bin</span> not a few since the beginning of this <span class="varspell" title="Parliament">Parlament</span>,
+both of the Presbytery and others who by their <span class="varspell" title="unlicensed">unlicen't</span> books to
+the contempt of an <span class="mi">Imprimatur</span> <a href="" id="ice" class="annotBtn">first broke that triple ice</a> clung about
+our hearts, and taught the people to see day: I hope that none of
+those were the <span class="varspell" title="persuaders">perswaders</span> to renew upon us this bondage which they
+themselves have wrought so much good by contemning. But if neither the
+check that <span class="mi">Moses</span> gave to young <span class="mi">Joshua</span>, nor the countermand which <a href="" id="counter" class="annotBtn">our
+<span class="varspell" title="Savior">Saviour</span> gave to young <span class="mi">John</span></a>, who was so ready to prohibit those whom he
+thought <span class="varspell" title="unlicensed">unlicenc't</span>, be not <span class="varspell" title="enough">anough</span> to admonish our <a href="" id="elders" class="annotBtn">Elders </a>how
+unacceptable to God their testy mood of prohibiting is, if neither
+their own remembrance what <span class="varspell" title="evil">evill</span> hath abounded in the Church by this
+<a href="" id="lett" class="annotBtn"><span class="varspell" title="let">lett</span></a> of licencing, and what good they themselves have begun by
+transgressing it, be not <span class="varspell" title="enough">anough</span>, but that they will <span class="varspell" title="persuade">perswade</span>, and
+execute the most <a href="" id="dom" class="annotBtn"><span class="mi">Dominican</span></a> part of the Inquisition over us, and are
+already with one foot in the stirrup so active at suppressing, it
+would be no <span class="varspell" title="unequal">unequall</span> distribution in the first place to <span class="varspell" title="suppress">suppresse</span> the
+suppressors themselves; whom the change of their condition hath puft
+up, more <span class="varspell" title="than">then</span> their late experience of harder times hath made wise.
+</p>
+
+<p>
+And as for regulating the <span class="varspell" title="Press">Presse</span>, let no man think to have the <span class="varspell" title="honor">honour</span>
+of advising ye better <span class="varspell" title="than">then</span> your selves have done in that Order
+<span class="varspell" title="published">publisht</span> next before this, that no book be Printed, <span class="varspell" title="unless">unlesse</span> the
+<span class="varspell" title="Printer's">Printers</span> and the <span class="varspell" title="Author's">Authors</span> name, or at least the <span class="varspell" title="Printer's">Printers</span> be
+<span class="varspell" title="registered">register'd</span>. Those which otherwise come forth, if they be found
+mischievous and libellous, the fire and the executioner will be the
+timeliest and the most <span class="varspell" title="effectual">effectuall</span> remedy, that <span class="varspell" title="man's">mans</span> prevention can use.
+For this <span class="mi">authentic</span> Spanish policy of licencing books, if I have said
+aught, will prove the most <span class="varspell" title="unlicensed">unlicenc't</span> book it self within a short
+while; and was the <span class="varspell" title="immediate">immediat</span> image of a <a href="" id="star" class="annotBtn">Star-chamber decree</a> to that
+purpose made in those very times when that Court did the rest of those
+her pious works, for which she is now <span class="varspell" title="fallen">fall'n</span> from the <span class="varspell" title="Stars">Starres</span> with
+<span class="mi">Lucifer</span>. Whereby ye may <span class="varspell" title="guess">guesse</span> what <span class="varspell" title="kind">kinde</span> of State prudence, what love
+of the people, what care of Religion, or good manners there was at
+the contriving, although with singular <span class="varspell" title="hypocrisy">hypocrisie</span> it pretended to
+bind books to their good <span class="varspell" title="behavior">behaviour</span>. And how it got the upper hand of
+your precedent Order so well constituted before, if we may <span class="varspell" title="believe">beleeve</span>
+those men whose profession gives them cause to <span class="varspell" title="inquire">enquire</span> most, it may be
+doubted there was in it the fraud of some old <span class="mi">patentees</span> and
+<span class="mi">monopolizers</span> in the trade of book-selling; who under pretence of the
+poor in their Company not to be defrauded, and the just retaining of
+each man his <span class="varspell" title="several">severall</span> <a href="" id="copy2" class="annotBtn">copy</a>, which God forbid should be gainsaid,
+brought <a href="" id="colors" class="annotBtn"><span class="varspell" title="diverse">divers</span> glosing <span class="varspell" title="colors">colours</span></a> to the House, which were indeed but
+<span class="varspell" title="colors">colours</span>, and serving to no end except it be to exercise a
+superiority over their <span class="varspell" title="neighbors">neighbours</span>, men who <span class="varspell" title="do">doe</span> not therefore <span class="varspell" title="labor">labour</span>
+in an honest profession to which learning is <span class="varspell" title="indebted">indetted</span>, that they
+should be made other mens <span class="varspell" title="vassals">vassalls</span>. Another end is thought was <span class="varspell" title="aimed">aym'd</span>
+at by some of them in <a href="" id="end" class="annotBtn">procuring by petition this Order</a>, that having
+power in their hands, malignant books might the easier scape abroad,
+as the event <span class="varspell" title="shows">shews</span>.  But of these <a href="" id="sophisms" class="annotBtn"><span class="mi">Sophisms</span> and <span class="mi">Elenchs</span></a> of <span class="varspell" title="merchandise">marchandize</span> I skill not: This I know, that errors in a good government and in a bad are equally almost incident; for what Magistrate may not be <span class="varspell" title="misinformed">mis-inform'd</span>, and much the
+sooner, if liberty of Printing be <span class="varspell" title="reduced">reduc't</span> into the power of a few; but
+to <span class="varspell" title="redress">redresse</span> willingly and speedily what hath <span class="varspell" title="been">bin</span> <span class="varspell" title="erred">err'd</span>, and in highest
+<span class="varspell" title="authority">autority</span> to esteem a plain <a href="" id="and" class="annotBtn">advertisement</a> more <span class="varspell" title="than">then</span> others have done a
+sumptuous bribe, is a <span class="varspell" title="virtue">vertue</span> (<span class="varspell" title="honored">honour'd</span> Lords and Commons) answerable
+to Your highest actions, and whereof none can <span class="varspell" title="participate">participat</span> but greatest
+and wisest men.
+</p>
+<br />
+<div class="title">The End.</div>
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+</body> 
+</html> 

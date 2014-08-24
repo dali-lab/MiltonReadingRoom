@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>The Doctrine & Discipline of Divorce: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+	<a href=""><img id="search" src="../../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">The Doctrine & Discipline of Divorce</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+		<a href="../../contents/text.shtml#prose">Prose</a> > <a href="">The Doctrine & Discipline of Divorce: Introduction</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+	<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="../introduction/text.shtml"><b>Introduction</b></a>
+				</li>
+				<li id="notLast" class="newGroup">
+					<a href="../titlepage/text.shtml">Title Page</a>
+				</li>
+				<li id="notLast" >
+					<a href="../parliament/text.shtml">To The Parliament</a>
+				</li>
+				<li id="notLast">
+					<a href="../book_1/text.shtml">Book 1</a>
+				</li>
+				<li>
+					<a href="../book_2/text.shtml">Book 2</a>
+				</li>
+				
+			</ul>	
+		</div>
+	
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+<p class="poemTitle">Introduction</p>
+<p>
+The <span class="booktitle">Doctrine and Discipline of Divorce</span> (<span class="booktitle">DDD</span>) first appeared in August 1643 as a tract addressed to both Parliament and the Westminster Assembly of Divines.  Parliament at that time was in the early throes of assuming a position of political supremacy destined shortly to blossom into direct military hostilities against the crown, that is, civil war.  The Puritan party in Parliament, with Milton's polemical help (<span class="booktitle">Of Reformation</span> [1641], <span class="booktitle">The Reason of Church Government</span> [1642], <span class="booktitle">An Apology for Smectymnuus</span> [1642]), had succeeded in abolishing episcopacy, the form of church government inherited from the pre-reformation Roman Catholic Church and challenging Charles I's "personal rule" (rule without calling Parliament).   Reform was the watchword of the day.  To most Puritans, including Milton, reform meant restoring institutions to the way they were before they were "corrupted" by the medieval Catholic Church.</p>
+<p class="next">
+The top item on the reformers' agenda was the church--how would it be structured? how much difference in organization and liturgy would it tolerate? what role, if any, would canon law play in a fully reformed Church of England?  In large part, Milton offered the <span class="booktitle">DDD</span> as a specific proposal for church reform; he recommended that the new church abandon canon law on marriage since marriage was no longer considered a church sacrament.  In Ernest Sirluck's cogent summary, Milton proposed to match and then exceed the reforms typical of most European Protestant states: </p>
+
+<blockquote>Milton's demand went very much further.  It was for the recognition of divorce <span lang="la">a vinculo</span> with the right of remarriage for both parties; the liberalization of grounds, particularly to include incompatibility; and the removal of divorce from public jurisdiction, whether ecclesiastical or civil, to private.  (<span class="booktitle">Complete Prose Works of John Milton</span> Volume 1. Edited by Don M. Wolfe [New Haven: Yale University Press, 1953, 146. Hereafter cited as <span class="booktitle">Yale Prose</span>)</blockquote>
+<p class="next">
+Milton believed that the work of church reform was largely a process of restoring the dignity and liberties men (this is gender specific) once enjoyed but had lost to the tyrannies of prelacy, custom, and ignorance:</p>
+
+<blockquote>Yee have now, doubtlesse by the savour and appointment of God, yee have now in your hands a great and populous Nation to Reform; from what corruption, what blindnes in Religion yee know well; in what degenerat and fal'n spirit from the apprehension of native liberty, and true manlines. ("To Parlament")
+</blockquote>
+<p class="next">
+One might well argue that Milton's entire effort in his political tracts is epitomized by his concern for restoring manly dignity to Englishmen.  In <span class="booktitle">Tetrachordon</span> (1645) he wrote:  
+</p>
+<blockquote>For nothing now-a-days is more degenerately forgotten, than the true dignity of Man, almost in every respect, but especially in this prime institution of Matrimony, wherin his native pre-eminence ought most to shine. </blockquote>
+<p class="next">
+When he alleges that the "dignity of man" has suffered greater neglect in his day than any other single thing-- including, presumably many of Milton's other favorite things like scripture, learning, reason, and ancient liberties-- he probably did not mean to exaggerate; he meant that all the evil and corruption of medieval religion and politics can be epitomized as a general threat to manliness.  He had been anxious about the degraded estate of manly dignity for many years before 1644, and in venues other than marital relations.  In <span class="booktitle">Reason of Church Government</span> Milton's most frequent charge against prelacy is that, reform it however you choose, it will inevitably lead the country back to popish slavery; his second most frequent (and related) allegation is that prelacy un-mans men.  As an ecclesiastical system it promotes servility among otherwise manly Christians (<span class="booktitle">Yale Prose</span> 1.844, 850); it makes merchandise of men's souls and bodies (849); and prompts abjection and self-loathing (843) among Christian men for whom a proper sense of self-esteem is not only healthy but soteriologically necessary (842).  Prelates, announces Milton, are "man-haters" (851); and here he does not point his finger at particular prelates, he means that prelates are structurally constituted to be man-haters; he means man-hating is integral to being a bishop.  I would avoid noting how much this sounds like a popular modern charge against feminists if Milton did not himself go out of his way to gender this accusation against prelates.  Milton personifies prelacy as a whore, "making merchandise" of men's souls and bodies, inasmuch as men's souls and bodies are what literally is signified by the feminine personification of the church prelatical -- that is, the Great Whore.</p>
+<p class="next">
+To Milton, canon law was just another weapon used by the "Great Whore" against men, and since the English church continued to enforce such laws governing marriage and divorce, she was the whore's accomplice.  Milton wants to restore manly dignity to the practice of marriage, first by restoring the power of divorce exclusively to husbands, and second by insisting that marriage is principally a kind of friendship much like the manly friendships described by Socrates in the <span class="booktitle">Symposium</span> and Aristotle in the <span class="booktitle">Nicomachean Ethics</span>--a kind of enlightened heteroerotic pederasty.  Milton's zeal against canon law is the same as his zeal against bishops--the goal is to restore manliness to English Christianity.  This is why he has no patience with the widespread <a href="../book_2/text.shtml#wivesonly" target="main">European Protestant notion </a>that divorce should be allowed to wives as a protection from abusive husbands.  Milton wants to liberalize divorce, but for men, not for women.</p>
+<p class="next">
+Milton's personal circumstances only increased his zeal for the restoration of manly dignity.  In his address "To Parlament" Milton acknowledges the role played by <a href="../parliament/text.shtml#selfconcern" target="main">"self-concernment"</a> in his efforts.  Most of the details of Milton's first marriage, to Mary Powell, will always be matter for speculation, but even the limited facts established by biographers and historians indicate that Milton had a strong personal stake in divorce reform.  Having settled into a schoolmaster's life at the age of thirty-two, Milton acquired a wife rather suddenly and, to those around him, unexpectedly in June 1642.  He travelled to Forest Hill near Oxford presumably to dun Richard Powell in person for late payment of interest on a &pound;300 obligation Milton had inherited from his father.  Whether or not Milton fell in love is unknown, but he returned to London having settled the financial matter and married to Powell's eldest daughter.  He was thirty-three; she was seventeen.  After six or eight weeks of married life, Mary received her husband's permission for an extended visit to her father's home; she promised to return in late September.  Just before that date, the first blood of the civil war was shed (<a href="../../bibliography/n-q/text.shtml#parker" target="main">Parker [1996]</a> 230); King Charles I was now openly at war with the militia Parliament had authorized the previous spring.  Richard Powell (like Milton's lawyer brother Christopher) was an ardent Royalist.  No doubt he hoped to restore his fortunes by pinning his hopes on the King.  Mary Milton did not return to London until 1645.</p>
+<p class="next">
+Milton could, under existing canon law, have obtained a formally legal separation <span lang="la">a meno et thoro</span>, as it was called--from bed and board.  She had deserted him and that was sufficient grounds.   This would not, however, dissolve the marriage, and neither John nor Mary would be free to re-marry.  For divorce and re-marriage, Milton would have to argue (and prevail in court) that the marriage had never been valid because it was never consummated, that he was impotent or Mary frigid, or that she had been previously betrothed to another.  All these options involved terrible embarrassment to one's manly dignity.  Such were the rules under canon law, virtually the same rules that obtained in the pre-reformation church.</p>
+<p class="next">
+Milton grounded his arguments against canon law much as he did those against prelacy--on his interpretation of scripture.  But the scripture-based case for freedom for men to divorce and re-marry, unlike that against bishops, ran into two huge obstacles:  <a href="http://bible.gospelcom.net/bible?language=English&amp;version=KJV&amp;passage=Matthew+5" target="main">Matthew 5:</a> 31-32 and <a href="http://bible.gospelcom.net/bible?language=English&amp;version=KJV&amp;passage=Matthew+19" target="main">Matthew 19:</a> 8-9.  Milton had to argue that the apparently <a href="../book_2/text.shtml#plainwords" target="main">"plain words"</a> Jesus spoke on these occasions do not mean what they seem to on first glance.  He argued that the ancient Hebrew rules for divorce (<a href="http://bible.gospelcom.net/bible?language=English&amp;version=KJV&amp;passage=Deuteronomy+24" target="main">Deuteronomy 24:</a>1-2) were perfectly consistent with the purposes for which God instituted marriage (<a href="http://bible.gospelcom.net/bible?language=English&amp;version=KJV&amp;passage=Genesis+2" target="main">Genesis 2:</a>18), that women were first created and marriage instituted for men, to remedy male loneliness.  If a wife fails to remedy male loneliness, especially if she aggravates it, any man should be free to divorce her and take another with or without her consent, and no <a href="../book_2/text.shtml#earthlypower" target="main">"civil or earthly power"</a> may hinder him.  Milton argues that such male-centered rules would benefit "both sexes."  He believes hindering a man's prerogatives in these matters is irrational, unnatural, and uncharitable.  Since Jesus could not have intended to introduce irrational, <a href="../book_2/text.shtml#unnatural" target="main">unnatural, or uncharitable restrictions</a> on manly liberty, Milton argues, Jesus's words must not mean what they have usually been taken to mean; therefore Jesus must be exaggerating in order to rebuke the Pharisees. </p>
+<p class="next">
+Milton's radical position on divorce involved a fairly radical position on hermeneutics, too.  The Bible cannot be interpreted, he implies, to teach anything or require any behavior that does not meet a rather strict standard for rationality, charity, and naturalness.  Many regarded this as putting natural law and reason above the word of God.  Presbyterian reaction to the <span class="booktitle">DDD</span> and Milton's subsequent tracts on divorce (<span class="booktitle">The Judgment of Martin Bucer</span> [1644] and  <span class="booktitle">Tetrachordon</span> [1645]) was overwhelmingly negative.  Many Presbyterian divines supported the anonymous <span class="booktitle">An Answer to a book intituled, The doctrine and discipline of divorce</span> (1644) that offended Milton so much and elicited from him the abusive response called <span class="booktitle">Colasterion</span> (1645).  Milton's break with the Presbyterian party dates from the years of these debates about divorce, debates the Presbyterian leaders in Parliament and Assembly dearly wished to avoid or suppress. (See also Sharon Achinstein's useful <a href="chronology.html" target="main">chronology of the marriage debates in the Westminster Assembly and Parliament in 1644</a>.)</p>
+<p class="next">
+The copytext for this edition of <span class="booktitle">The Doctrine and Discipline of Divorce</span> is a copy of the 1644 (second, expanded, and revised) edition owned by Rauner Library at Dartmouth College (Val. 824/M64/P8).  What few textual problems this edition presents have been noted  as they occur.</p>
+
+</div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+</body> 
+</html> 

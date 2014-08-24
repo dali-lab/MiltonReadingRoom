@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Sylvarum Liber: Ad Joannem Ro&uuml;sium</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+			<a href=""><img id="search" src="../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+		
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Sylvarum Liber</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+				<a href="../contents/text.shtml#poems1673"><i>Poems</i> (1673)</a> > <a href="">Sylvarum Liber: Ad Joannem Ro&uuml;sium</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin</a>
+					</li>
+					<li id="notLast">
+						<a href="" id="English">English</a>
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						Texts
+					</li>
+					<li id="notLast">
+						<a href="../effigy/text.shtml">In Effigei Ejus</a>
+					</li>
+					<li id="notLast">
+						<a href="../rouse/text.shtml"><b>Ad Joannem Ro&uuml;sium</b></a>
+			
+					</li>
+					<li id="notLast" class="newGroup">
+						<a href="../elegiarum/elegy_1/text.shtml">Elegiarum (1645)</a>
+					</li>
+					<li>
+						<a href="../sylvarum/anno_16/text.shtml">Sylvarum Liber (1645)</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content"> 
+
+
+<p class="poemTitle">Jan. 23 1646<br />
+Ad <span class="mi">Joannem Rousium</span> Oxoniensis Academi&aelig; Bibliothecarium</p>
+<br />
+
+<div class="verse_latin">
+<p>
+<span class="margument">De libro po&euml;matum amisso, quem ille sibi denu&ograve; mitti postulabat, ut cum aliis nostris in Bibliotheca publica reponeret, Ode.</span>
+</p>
+
+<br />
+<p class="poemTitle"><span class="mi">Strophe</span> I.</p>
+<br />
+<p class="first">
+<span class="varspell" title="Gemelle"><span class="minitial">G</span>emelle</span> cultu simplici gaudens liber,<br /> 
+Fronde licet gemin&acirc;,<br /> 
+Munditi&eacute;que nitens non operos&acirc;,<br /> 
+Quam manus attulit<br /> 
+Juvenilis olim,<span class="line" id="line5"> [ 5 ]</span><br /> 
+Sedula tamen haud nimii Poet&aelig;;<br /> 
+Dum vagus Ausonias nunc per umbras<br /> 
+Nunc Britannica per vireta lusit<br /> 
+Insons populi, barbit&oacute;que devius<br /> 
+Indulsit patrio, mox itidem pectine Daunio<span class="line" id="line10"> [ 10 ]</span><br /> 
+Longinquum intonuit melos<br /> 
+Vicinis, &amp; humum vix tetigit pede;</p>
+
+<p class="poemTitle">
+<span class="mi">Antistrophe</span>.
+</p>
+<br /> 
+<p>
+Quis te, parve liber, quis te fratribus<br /> 
+Subduxit reliquis dolo?<br /> 
+Cum tu missus ab urbe,<span class="line" id="line15"> [ 15 ]</span><br /> 
+Docto jugiter obsecrante amico,<br /> 
+Illustre tendebas iter<br /> 
+Thamesis ad incunabula<br /> 
+C&aelig;rulei patris,<br /> 
+Fontes ubi limpidi<span class="line" id="line20"> [ 20 ]</span><br /> 
+Aonidum, thyasusque sacer<br /> 
+Orbi notus per immensos<br /> 
+Temporum lapsus redeunte c&oelig;lo,<br /> 
+Celeberque futurus in &aelig;vum;
+</p>
+
+<br /> 
+<p class="poemTitle">
+<span class="mi">Strophe</span> 2.
+</p>
+<br /> 
+<p>
+Mod&ograve; quis deus, aut editus deo<span class="line" id="line25"> [ 25 ]</span><br /> 
+Pristinam gentis miseratus indolem<br /> 
+(Si satis noxas luimus priore<br /> 
+Mollique luxu degener otium)<br /> 
+Tollat nefandos civium tumultus,<br /> 
+Almaque revocet studia sanctus<span class="line" id="line30"> [ 30 ]</span><br /> 
+Et relegatas sine sede Musas<br /> 
+Jam pen&egrave; totis finibus Angligen&ucirc;m;<br /> 
+Immundasque volucres<br /> 
+Unguibus immanentes<br /> 
+Figat Apollonie&acirc; pharetr&acirc;,<span class="line" id="line35"> [ 35 ]</span><br /> 
+Phin&eacute;amque abigat pestem procul amne Pegas&eacute;o.
+</p>
+ 
+<br /> 
+<p class="poemTitle">
+<span class="mi">Antistrophe</span>.
+</p>
+<br /> 
+<p>
+Quin tu, libelle, nuntii licet mal&acirc;<br /> 
+Fide, vel oscitanti&acirc;<br /> 
+Semel erraveris agmine fratrum,<br /> 
+Seu quis te teneat specus,<span class="line" id="line40"> [ 40 ]</span><br /> 
+Seu qua te latebra, forsan unde vili<br /> 
+Callo ter&eacute;ris institoris insulsi,<br /> 
+L&aelig;tare felix, en iterum tibi<br /> 
+Spes nova fulget posse profundam<br /> 
+Fugere Lethen, vehique Superam<span class="line" id="line45"> [ 45 ]</span><br /> 
+In Jovis aulam remige penn&acirc;;
+</p>
+
+<br /> 
+<p class="poemTitle">
+<span class="mi">Strophe</span> 3.
+</p>
+<br /> 
+<p>
+Nam te Ro&uuml;sius sui<br /> 
+Optat pecul&icirc;, numer&oacute;que justo<br /> 
+Sibi polliticum queritur abesse,<br /> 
+Rogatque venias ille cujus inclyta<span class="line" id="line50"> [ 50 ]</span><br /> 
+Sunt data vir&ucirc;m monumenta cur&aelig;:<br /> 
+T&eacute;que adytis etiam sacris<br /> 
+Voluit reponi quibus &amp; ipse pr&aelig;sidet<br /> 
+&AElig;ternorum operum custos fidelis,<br /> 
+Qu&aelig;storque gaz&aelig; nobilioris,<span class="line" id="line55"> [ 55 ]</span><br /> 
+Qu&agrave;m cui pr&aelig;fuit I&ouml;n<br /> 
+Clarus Erechtheides<br /> 
+Opulenta dei per templa parentis<br /> 
+Fulvosque tripodas, donaque Delphica<br /> 
+I&ouml;n Act&aelig;&acirc; genitus Cre&uuml;s&acirc;.<span class="line" id="line60"> [ 60 ]</span>
+</p>
+ 
+<br /> 
+<p class="poemTitle">
+<span class="mi">Antistrophe</span>.
+</p>
+<br /> 
+<p>
+Ergo tu visere lucos<br /> 
+Musarum ibis am&oelig;nos,<br /> 
+Diamque Ph&oelig;bi rursus ibis in domum<br /> 
+Oxoni&acirc; quam valle colit<br /> 
+Delo posthabit&acirc;,<span class="line" id="line65"> [ 65 ]</span><br /> 
+Bifid&oacute;que Parnassi jugo:<br /> 
+Ibis honestus,<br /> 
+Postquam egregiam tu quoque sortem<br /> 
+Nactus abis, dextri prece sollicitatus amici.<br /> 
+Illic leg&eacute;ris inter alta nomina<span class="line" id="line70"> [ 70 ]</span><br /> 
+Authorum, Grai&aelig; simul &amp; Latin&aelig;<br /> 
+Antiqua gentis lumina, &amp; verum decus.
+</p>
+
+<br /> 
+<p class="poemTitle">
+<span class="mi">Epodos</span>.
+</p>
+<br /> 
+<p>
+Vos tandem haud vacui mei labores,<br /> 
+Quicquid hoc sterile fudit ingenium,<br /> 
+Jam ser&ograve; placidam sperare jubeo<span class="line" id="line70"> [ 70 ]</span><br /> 
+Perfunctam invidi&acirc; requiem, sedesque beatas<br /> 
+Quas bonus Hermes<br /> 
+Et tutela dabit solers Ro&uuml;si,<br /> 
+Qu&ograve; neque lingua procax vulgi penetrabit, atque long&egrave;<br /> 
+Turba legentum prava facesset;<span class="line" id="line75"> [ 75 ]</span><br /> 
+At ultimi nepotes,<br /> 
+Et cordatior &aelig;tas<br /> 
+Judicia rebus &aelig;quiora forsitan<br /> 
+Adhibebit integro sinu.<br /> 
+Tum livore sepulto,<span class="line" id="line80"> [ 80 ]</span><br /> 
+Si quid meremur sana posteritas sciet<br /> 
+Ro&uuml;sio favente.
+</p>
+
+
+<br /> 
+<p>
+Ode tribus constat Strophis totid&eacute;mque Antistrophis un&acirc; demum epodo clausis, quas, tametsi omnes nec versuum numero, nec certis ubique colis exact&egrave; respondeant, ita tamen secuimus, commod&egrave; legendi potius, qu&agrave;m ad antiquos concinendi modos rationem spectantes.  Alioquin hoc genus recti&ugrave;s fortasse dici monostrophicum debuerat.  Metra partim sunt <a href="" id="schesin" class="annotBtn">&kappa;&alpha;&tau;&alpha; &nbsp; &sigma;&chi;&epsilon;&sigma;&iota;&nu;</a>, partim &alpha;&pi;&omicron;&lambda;&epsilon;&lambda;&upsilon;&mu;&epsilon;&nu;&alpha;.  Phaleucias qu&aelig; sunt, spond&aelig;um tertio loco bis admittunt, quod idem in secundo loco Catullus ad libitum fecit.
+</p>
+
+
+</div>
+</div>
+
+<div id="alternateContent">
+<p class="poemTitle"><span class="mi">Jan.</span> 23 1646<br />
+To <span class="mi">John Rouse</span> Oxford University Librarian</p>
+<br />
+
+<br />
+<div class="verse_latin">
+<p>
+<span class="margument">On a lost volume of my poems which he asked me to send him a second time that he might place it with my other works in the <a href="" id="public" class="annotBtn">public library</a>, an Ode.</span>
+</p>
+
+<br />
+<p class="poemTitle"><span class="mi">Strophe</span> I</p>
+<br />
+<p class="first">
+<span class="varspell" title="Two-fold"><span class="minitial">T</span>wo-fold</span> <a href="" id="twofold" class="annotBtn">book rejoicing in a single dress</a>, yet with a double paging, and bright with an unstudied elegance which in time past a youthful hand imparted &mdash; a diligent hand but hardly that of a <a href="" id="seasoned" class="annotBtn">seasoned poet</a> &mdash; while the wandering author  dallied now through the <a href="" id="ausonian" class="annotBtn">Ausonian shades</a>, now over the British greenswards, ignorant of his people and <a href="" id="aloof" class="annotBtn">aloof</a> while he gave himself up to his native lute, and so anon with <a href="" id="daunian" class="annotBtn">Daunian quill</a> sounded his foreign strain to those about him, and scarce touched the ground with his foot.</p>
+
+<p class="poemTitle">
+<span class="mi">Antistrophe</span>
+</p><br />
+<p>
+Little book, who slyly stole you from your remaining fellows, when at my learned friend's continued requests you were proceeding upon your illustrious journey, sent from the city to the cradle of Thames, <a href="" id="father" class="annotBtn">Cerulean father</a>, where are the limpid fountains of the Muses, and where the sacred Bacchic dance is known to the world, and will for ever be famous while the heaven revolves through the endless lapse of time?
+</p>
+ 
+<p class="poemTitle">
+<span class="mi">Strophe</span> 2
+</p><br />
+<p>
+Now what god or demigod, pitying the pristine genius of our race &mdash; if we have sufficiently atoned for our earlier faults and our ease, degenerate to the point of unmanly sloth &mdash; will put down <a href="" id="strife" class="annotBtn">this accursed strife</a> among our citizens; and what divinity will call back sacred studies and the Muses now driven homeless from almost all the land of England; who with Apollo's quiver will transfix the unclean birds now threatening us with their talons; and who will drive the <a href="" id="pest" class="annotBtn">pest of Phineus</a> far away from the river of Pegasus?
+</p>
+ 
+<p class="poemTitle">
+<span class="mi">Antistrophe</span>
+</p><br />
+<p>
+But, little book, though by the bad faith or carelessness of my messenger you have wandered from the company of your brothers, whether some den or lurking-place now confines you, where perhaps you are rubbed by the vile callous hand of a stupid huckster, yet be happy and rejoice; lo! new hope may shine again for you to escape from the depths of Lethe and be lifted on rowing wing to the heavenly courts of Jupiter.
+</p>
+ 
+<p class="poemTitle">
+<span class="mi">Strophe</span> 3
+</p><br />
+<p>
+Rejoice, for Rouse, to whose care are entrusted the noble memorials of men, wishes you to be among his treasures; he complains that you are lacking from the full number promised him, and asks that you be sent. He wishes to place even you in the sacred inner chambers over which he himself presides, a faithful guardian of works eternal, a custodian of nobler treasures than the golden tripods and Delphic offerings over which <a href="" id="ion" class="annotBtn">Ion</a>, illustrious son of Erectheus, had charge in the rich temple of his divine father &mdash; Ion, born of Actaean Creusa.
+</p>
+ 
+<p class="poemTitle">
+<span class="mi">Antistrophe</span>
+</p><br />
+<p>
+Therefore you shall go to view the pleasant groves of the Muses; you shall go again to the divine home of Phoebus where he dwells in the vale of Oxford, a home which he prefers to Delos and the cloven peak of Parnassus. Honored shall you go, since a distinguished lot is yours, and you are solicited by my propitious friend. There you shall be read among the exalted names of authors who were the ancient lights and true glory of the Greek and Latin peoples.
+</p>
+ 
+<p class="poemTitle">
+<span class="mi">Epode</span>
+</p><br />
+<p>
+You, then, my labors, whatever my poor talents have brought forth, were hardly in vain. And now at last I bid you hope for placid rest, when envy shall have spent itself, for the blessed abodes which good Hermes and the watchful care of Rouse shall give you, where the coarse tongue of the vulgar shall never penetrate, and whence the crowd of uncouth readers shall ever be far off. But perhaps our remote descendants and an age of greater wisdom and purer heart will render fairer judgment on all things; then, thanks to Rouse, with envy in the tomb, a sane posterity will know if any merit is mine.
+</p>
+</div><br />
+<div class="prose_latin" title="rouse|">
+
+<p class="next">
+The ode consists of three <a href="" id="strophe" class="annotBtn">strophes</a> and as many antistrophes, closed at the end with an <a href="" id="epode" class="annotBtn">epode</a>. While the strophes do not precisely correspond in the number of verses, or everywhere tally in the response of colon to colon, nevertheless I have divided them as above with an eye to propriety of reading rather than to observance of the ancient rules of versification. Yet in other respects this type of poem ought perhaps more correctly to have been called monostrophic. The verses are in part <a href="" id="schesin" class="annotBtn">&kappa;&alpha;&tau;&alpha; schesin &sigma;&chi;&epsilon;&sigma;&iota;&nu;</a>, in part &alpha;&pi;&omicron;&lambda;&epsilon;&lambda;&upsilon;&mu;&epsilon;&nu;&alpha;. There are two <a href="" id="spondee" class="annotBtn">Phalaeceans</a> that admit a spondee in the third foot, a form that Catullus freely used in the second foot.
+</p>
+
+</div>
+
+
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

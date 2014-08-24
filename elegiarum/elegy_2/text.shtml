@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Elegiarum: Elegia secunda</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Elegiarum</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Elegiarum: Elegia secunda</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin</a>
+					</li>
+					<li id="notLast">
+						<a href="" id="English">English</a>
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						Texts
+					</li>
+					<li id="notLast">
+						<a href="../elegy_1/text.shtml">Elegia prima</a>,
+						<a href="../elegy_2/text.shtml"><b> secunda</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../elegy_3/text.shtml">Elegia tertia</a>,
+						<a href="../elegy_4/text.shtml"> quarta</a>
+					</li>
+					<li id="notLast">
+						<a href="../elegy_5/text.shtml">Elegia quinta</a>,
+						<a href="../elegy_6/text.shtml"> sexta</a>
+					</li>
+					<li id="notLast">
+						<a href="../elegy_7/text.shtml">Elegia septima</a>
+					</li>
+					<li id="notLast">
+						<a href="../mente/text.shtml">Haec ego mente</a>
+					</li>
+					<li id="notLast" class="newGroup">
+						<a href="../plot/text.shtml">In Proditionem Bombardicam</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem/text.shtml">In eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem2/text.shtml">In eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem3/text.shtml">In eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../gunpowder/text.shtml">In Inventorem Bombardae</a>
+					</li>
+					<li id="notLast" class="newGroup">
+						<a href="../leonoram/text.shtml">Ad Leonoram</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem4/text.shtml">Ad eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem5/text.shtml">Ad eandem</a>
+					</li>
+					<li class="newGroup">
+						<a href="../../apologus/text.shtml">Additions in <i>Poems</i> (1673)</a>
+					</li>			
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">Elegia secunda,</a> Anno &aelig;tatis 17.<br />
+ <span class="mi">In obitum Pr&aelig;conis Academici Cantabrigiensis.</span></p>
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Te"><span>T</span>e</span>, qui conspicuus baculo fulgente solebas<br />
+<span class="mindent">Palladium toties ore ciere gregem,</span>
+</p>
+
+<p>
+Ultima pr&aelig;conum pr&aelig;conem te quoque s&aelig;va<br />
+<span class="mindent">Mors rapit, officio nec favet ipsa suo.</span>
+</p>
+
+<p>
+Candidiora licet fuerint tibi tempora plumis<span class="line" id="line5"> [ 5 ]</span><br />
+<span class="mindent">Sub quibus accipimus delituisse Jovem,</span>
+</p>
+
+<p>
+O dignus tamen H&aelig;monio juvenescere succo,<br />
+<span class="mindent">Dignus in &AElig;sonios vivere posse dies,</span>
+</p>
+
+<p>
+Dignus quem Stygiis medic&acirc; revocaret ab undis<br />
+<span class="mindent">Arte Coronides, s&aelig;pe rogante dea.</span><span class="line" id="line10"> [ 10 ]</span>
+</p>
+
+<p>
+Tu si jussus eras acies accire togatas,<br />
+<span class="mindent">Et celer a Ph&oelig;bo nuntius ire tuo</span>
+</p>
+
+<p>
+Talis in Iliac&acirc; stabat Cyllenius aula<br />
+<span class="mindent">Alipes, &aelig;there&acirc; missus ab arce Patris.</span>
+</p>
+
+<p>
+Talis &amp; Eurybates ante ora furentis Achillei<span class="line" id="line15"> [ 15 ]</span><br />
+<span class="mindent">Rettulit Atrid&aelig; jussa severa ducis.</span>
+</p>
+
+<p>
+Magna sepulchrorum regina, satelles Averni<br />
+<span class="mindent">S&aelig;va nimis Musis, Palladi s&aelig;va nimis,</span>
+</p>
+
+<p>
+Quin illos rapias qui pondus inutile terr&aelig;,<br />
+<span class="mindent">Turba quidem est telis ista petenda tuis.</span><span class="line" id="line20"> [ 20 ]</span>
+</p>
+
+<p>
+Vestibus hunc igitur pullis Academia luge,<br />
+<span class="mindent">Et madeant lachrymis nigra feretra tuis.</span>
+</p>
+
+<p>
+Fundat &amp; ipsa modos querebunda Elege&iuml;a tristes,<br />
+<span class="mindent">Personet &amp; totis n&aelig;nia m&oelig;sta scholis.</span>
+</p>
+
+
+</div>
+</div>
+
+<div id="alternateContent">
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">The Second Elegy</a><br />At the Age of Seventeen<br />
+On the Death of the Beadle of the University of Cambridge
+</p>
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="You"><span>Y</span>ou</span>, conspicuous with your shining staff, were wont so often to summon the <a href="" id="palladian" class="annotBtn">Palladian band</a>; but, beadle as you were, fell Death, the last of all beadles, has seized you, and shows no favor even to his own office. Although your temples were whiter than the downy feathers under which we have heard that <a href="" id="swan" class="annotBtn">Jove disguised himself</a>, still  you were worthy to renew your youth with a <a href="" id="haemonian" class="annotBtn">Haemonian potion</a>, worthy like Aeson to relive your early days, worthy that <a href="" id="coronis" class="annotBtn">Coronis's son</a>, at the insistent prayer of a goddess, should with his healing art recall you from the waves of Styx. Whenever you were sent by <a href="" id="apollo" class="annotBtn">your Apollo</a> to go as a swift messenger to summon the gowned ranks, you stood like <a href="" id="cyllenius" class="annotBtn">wing-footed Cyllenius</a> in the Trojan halls, sent from the ethereal citadel of his father; or stood like <a href="" id="eurybates" class="annotBtn">Eurybates</a>, when before the face of angry Achilles he announced the stern commands of his lord, the son of Atreus.  O great <a href="" id="queen" class="annotBtn">queen of sepulchres</a>, attendant of <a href="" id="avernus" class="annotBtn">Avernus</a>, too cruel to the Muses, too cruel to Pallas, why not seize those who are useless burdens to this earth? At that crowd should you aim your shafts. Therefore, Academia, mourn in sable raiments for this man, and let his dark bier be wet with your tears. Let plaintive Elegy herself pour forth  sad measures, and let a melancholy dirge sound through all the schools. </p>
+
+</div>
+
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

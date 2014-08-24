@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Sylvarum Liber: Ad Salsillum</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Sylvarum Liber</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Sylvarum Liber: Ad Salsillum</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin and Greek</a>
+					</li>
+					<li id="notLast">
+						<a href="" id="English">English</a>
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						Texts
+					</li>
+					<li id="notLast">
+						<a href="../anno_16/text.shtml">Anno &aelig;tatis 16</a>
+					</li>
+					<li id="notLast">
+						<a href="../novembris/text.shtml">In Quintus<br> Novembris</a>
+					</li>
+					<li id="notLast">
+						<a href="../ely/text.shtml">Anno &aelig;tatis 17</a>
+					</li>
+					<li id="notLast">
+						<a href="../naturam/text.shtml">Naturam non pati senium</a>
+					</li>
+					<li id="notLast">
+						<a href="../idea/text.shtml">De Idea Platonica</a>
+					</li>
+					<li id="notLast">
+						<a href="../patrem/text.shtml">Ad Patrem</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_114/text.shtml">Psalm 114</a>
+					</li>
+					<li id="notLast">
+						<a href="../philosophus/text.shtml">Philosophus<br> ad regem</a>
+					</li>
+					<li id="notLast">
+						<a href="../salsillum/text.shtml"><b>Ad Salsillum</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../mansus/text.shtml">Mansus</a>
+					</li>
+					<li class="newGroup">
+						<a href="../../effigy/text.shtml">Additions in <i>Poems</i> (1673)</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">Ad Salsillum</a> poetam Romanum<br />
+&aelig;grotantem.<br /><br />
+SCAZONTES</p>
+
+
+<div class="verse_latin">
+
+<p class="first">
+<span>O</span> Musa gressum qu&aelig; volens trahis claudum,<br />
+Vulcanioque tarda gaudes incessu,<br />
+Nec sentis illud in loco minus gratum,<br />
+Qu&agrave;m c&ugrave;m decentes flava D&euml;iope suras<br />
+Alternat aureum ante Junonis lectum.<span class="line" id="line5"> [ 5 ]</span><br />
+Adesdum &amp; h&aelig;c s'is verba pauca Salsillo<br />
+Refer, camoena nostra cui tantum est cordi,<br />
+Quamque ille magnis pr&aelig;tulit immerit&ograve; divis.<br />
+H&aelig;c ergo alumnus ille Londini Milto,<br />
+Diebus hisce qui suum linquens nidum<span class="line" id="line10"> [ 10 ]</span><br />
+Polique tractum, (pessimus ubi ventorum,<br />
+Insanientis impotensque pulmonis<br />
+Pernix anhela sub Jove exercet flabra)<br />
+Venit feraces Itali soli ad glebas,<br />
+Visum superb&acirc; cognitas urbes fam&acirc;<span class="line" id="line15"> [ 15 ]</span><br />
+Virosque doct&aelig;que indolem juventutis,<br />
+Tibi optat idem hic fausta multa Salsille,<br />
+Habitumque fesso corpori penit&ugrave;s sanum;<br />
+Cui nunc profunda bilis infestat renes,<br />
+Pr&aelig;cordiisque fixa damnos&ugrave;m spirat.<span class="line" id="line20"> [ 20 ]</span><br />
+Nec id pepercit impia qu&ograve;d tu Romano<br />
+Tam cultus ore Lesbium condis melos.<br />
+O dulce div&ucirc;m munus, Osalus Hebes<br />
+Germana! Tuque Ph&oelig;be morborum terror<br />
+Pythone c&aelig;so, sive tu magis P&aelig;an<span class="line" id="line25"> [ 25 ]</span><br />
+Libenter audis, hic tuns sacerdos est.<br />
+Querceta Fauni, vosque rore vinoso<br />
+Colles benigni, mitis Euandri sedes,<br />
+Siquid salubre vallibus frondet vestris,<br />
+Levamen &aelig;gro ferte certatim vati.<span class="line" id="line30"> [ 30 ]</span><br />
+Sic ille charis redditus rurs&ugrave;m Musis<br />
+Vicina dulci prata mulcebit cantu.<br />
+Ipse inter atros emirabitur Iucos<br />
+Numa, ubi beatum degit otium &aelig;ternum, <br />
+Suam reclivis semper &AElig;geriam spectans.<br />
+Tumidusque &amp; ipse Tibris hinc delinitus<span class="line" id="line35"> [ 35 ]</span><br />
+Spei favebit annu&aelig; colonorum:<br />
+Nec in sepulchris ibit obsessum reges<br />
+Nimi&ugrave;m sinistro laxus irruens loro:<br />
+Sed fr&aelig;na melius temperabit undarum,<span class="line" id="line40"> [ 40 ]</span><br />
+Adusque curvi salsa regna Portumni.</p>
+</div>
+</div>
+
+<div id="alternateContent">
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">To Salzilli</a>, A Roman Poet, When He Was Ill<br /><br />
+<a href="" id="scazons" class="annotBtn">SCAZONS</a>
+</p>
+
+<div class="verse_latin">
+
+<p class="first">
+<span>O</span> Muse, who prefers go a halting pace, and rejoices in the <a href="" id="gait" class="annotBtn">limping gait of Vulcan</a>, and thinks that not less pleasing in its place than fair <a href="" id="deiopea" class="annotBtn">D&euml;iopea</a>, when in the dance her graceful feet move before the golden couch of Juno, come now, I pray, bear these few words to Salzilli, who thinks so well of my poetry that quite undeservedly <a href="" id="prefers" class="annotBtn">he prefers it</a> to that of the great divines. These things, therefore, Milton, a native of London, wishes you; he who <a href="" id="left" class="annotBtn">lately left</a> his own nest and that region of the sky where the worst of the winds, with raging lungs, swift and unbridled, drives the gusty blasts beneath the heavens, he who has come to the fruitful fields of Italy to see its cities, famous with proud renown, its men, and the genius of its learned youth; this same Milton wishes you, Salzilli, many favors and complete good health for your ailing body, whose reins are now infested with excessive bile, which, deep-seated, spreads disease through your vitals. The accursed bile did not spare you this for all the <a href="" id="lesbian" class="annotBtn">Lesbian strain</a> that you elegantly pour from your Roman lips. O sweet gift of the gods! Health, <a href="" id="hebe" class="annotBtn">Hebe's sister</a>! And you Phoebus &mdash; or <a href="" id="paean" class="annotBtn">Paean</a> if that name better suits you &mdash; the terror of diseases after <a href="" id="python" class="annotBtn">the death of Python</a>, this man is your own priest. Oak-groves of <a href="" id="faunus" class="annotBtn">Faunus</a>, and you hills rich with vinous dew, seats of gentle <a href="" id="evander" class="annotBtn">Evander</a>, if any healing plant puts forth leaves in your valleys, let each strive to be the first to bring comfort to the sick poet. Thus restored again to his beloved Muses, he will delight the neighboring plains with sweet song. <a href="" id="numa" class="annotBtn">Numa</a> himself shall wonder, where amid the dark groves he spends his blessed eternity of leisure, as he reclines with gaze forever fixed on his Egeria. Swollen Tiber himself, charmed by the song, will favor the annual hope of the husbandmen; nor will he rush on unchecked with too loose a rein on the left and overwhelm even the kings in their sepulchres; he will better control the course of his waters as far as the salt realms of <a href="" id="portunus" class="annotBtn">curving Portumnus</a>. 
+</p>
+
+</div>
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

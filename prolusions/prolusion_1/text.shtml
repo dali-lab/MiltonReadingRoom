@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Prolusions: Prolusion 1</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+		
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Prolusions</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#prose">Prose</a> > <a href="">Prolusions: Prolusion 1</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+	
+			<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="../intro/text.shtml">Introduction</a>
+				</li>
+				<li>
+					<a href="../prolusion_1/text.shtml"><b>Prolusion 1</b></a>
+				</li>
+				
+			</ul>	
+	</div>
+			
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+
+<div class="title"><h2 class="msubhead">Prolusion 1</h2> <h3>Delivered in the College<br />
+Whether Day or Night is the More Excellent</h3></div>
+<br />
+<div class="prose">
+
+<p class="first">
+<span class="varspell" title="If"><span>I</span>t</span> is a frequent maxim of the most eminent masters of rhetoric, as you know well, Members of the University, that in every style of oration, whether demonstrative, deliberative, or judicial, the speaker must begin by winning the good will of his audience; without it he cannot make any impression upon them, nor
+succeed as he would wish in his cause. If this be so (and, to tell the truth, I know
+that the learned are all agreed in regarding it as an established axiom), how unfortunate
+I am and to what a pass am I brought this day. At the very outset of my
+oration I fear I shall have to say something contrary to all the rules of oratory
+and be forced to depart from the first and chief duty of an orator. For how can
+I hope for your good-will, when in all this great assembly I encounter none but
+hostile glances, so that my task seems to be to placate the implacable? So
+provocative of animosity, even in the home of learning, is the rivalry of those
+who pursue different studies or whose opinions differ concerning studies they
+pursue in common. However, I care not if "<a href="" id="polydamas" class="annotBtn">Polydamas and the women of Troy</a>
+prefer Labeo to me;&mdash;a trifle this."</p>
+<p>
+Yet to prevent complete despair, I see here and there, if I do not mistake,
+some who without a word show clearly by their looks how well they wish me.
+The approval of these, <a href="" id="few" class="annotBtn">few though they be</a>, is more precious to me than that of
+the countless hosts of the ignorant, who lack all intelligence, reasoning power,
+and sound judgment, and who pride themselves on the ridiculous effervescing
+froth of their verbiage. Stripped of their covering of patches borrowed from
+newfangled authors, they will prove to have no more in them than a serpent's
+slough, and once they have come to the end of their stock of phrases and platitudes
+you will find them unable to utter so much as a syllable, as dumb as the <a href="" id="frogs" class="annotBtn">frogs of Seriphus</a>. How difficult even <a href="" id="heraclitus" class="annotBtn">Heraclitus</a> would find it, were he still alive, to keep a straight face at the sight of <a href="" id="speechifiers" class="annotBtn">these speechifiers</a> (if I may call them
+so without offence), first grandly spouting their lines in the tragic part of Euripides's
+Orestes, or as the mad Hercules in his dying agony, and then, their slender
+stock of phrases exhausted and their glory all gone, drawing in their horns
+and crawling off like snails.
+</p>
+
+<p>
+But to return to the point, from which I have wandered a little. If there is
+anyone who has refused peace on any terms and declared war <i>&agrave; mort</i> against
+me, I will for once stoop to beg and entreat him to lay aside his animosity for a
+moment and show himself an unbiased judge in this debate, and not to allow
+the speaker's fault (if such there be) to prejudice the best and most deserving of
+causes. If you consider that I have spoken with too much sharpness and bitterness,
+I confess, that I have done so intentionally, for I wish the beginning of my
+speech to resemble the first gleam of dawn, which presages the fairest day when
+overcast.
+</p>
+
+<p>
+The question whether Day or Night is preferable is no common theme of
+discussion, and it is now my duty, the <a href="" id="meted" class="annotBtn">task meted out to me this morning</a>, to
+probe the subject thoroughly and radically, though it might seem better suited
+to a poetical exercise than to a contest of rhetoric.
+</p>
+
+<p>
+Did I say that Night had declared war on Day? What should this portend?
+What means this daring enterprise? Are the <a href="" id="titans" class="annotBtn">Titans</a> waging anew their ancient
+war, and renewing the battle of Phlegra's plain? Has Earth brought forth new
+<a href="" id="stature" class="annotBtn">offspring of portentous stature</a> to flout the gods of heaven? Or has <a href="" id="typhoeus" class="annotBtn">Typhoeus</a>
+forced his way from beneath the bulk of Etna piled upon him? Or last, has <a href="" id="briareus" class="annotBtn">Briareus</a>
+eluded Cerberus and escaped from his fetters of adamant? What can it
+possibly be that has now thrice roused the hopes of the gods of hell to rule the
+empire of the heavens? Does Night so scorn the thunderbolt of Jove? Cares she
+nothing for the matchless might of <a href="" id="pallas" class="annotBtn">Pallas</a>, which wrought such havoc in days
+of old among the Earth-born brothers? Has she forgotten <a href="" id="bacchustriumph" class="annotBtn">Bacchus's triumph</a>
+over the shattered band of Giants, renowned through all the space of heaven? No, none of these. Full well she remembers, to her grief, how of those brothers
+most were slain by Jove, and the survivors driven in headlong flight even to the
+furthest corners of the underworld. Not for war, but for something far other,
+does she now anxiously prepare. Her thoughts now turn to complaints and accusations,
+and, womanlike, after a brave fight with tooth and nail, she proceeds
+to argument or rather abuse, to try, I suppose, whether her hands or her tongue
+are the better weapon. But I will soon show how unadvised, how arrogant, and
+how ill-founded is her claim to supremacy, compared with Day's, And indeed I
+see Day herself, awakened by the crowing of the cock, hastening hither more
+swiftly than is her wont, to hear her own praise.
+</p>
+
+<p>
+Now since it is generally agreed that to be of noble lineage and to trace one's
+descent back to kings or gods of old is an essential qualification for honors and
+dignity, It behooves us to inquire, first, which of the two is of nobler birth, secondly,
+which can trace back her descent the furthest, and thirdly, which is of the
+greater service to mankind?
+</p>
+
+<p>
+I find it stated by the most ancient authorities on mythology that Demogorgon, the ancestor of all the gods (whom I suppose to be identical with the Chaos of the ancients), was the father of Earth, among his many children. Night
+was the child of Earth, by an unknown father (though <a href="" id="hesiod" class="annotBtn">Hesiod</a> gives a slightly
+different pedigree and calls Night the child of Chaos, in the line "From Chaos
+sprang Erebus and black Night"). Whatever her parentage, when she had
+reached marriageable age, the shepherd Phanes asked her to wife. Her mother
+consented, but she herself opposed the match, refusing to contract an alliance
+with a man she did not know and had never seen, and one moreover whose style
+of life was so different from her own. Annoyed at the rebuff, and with his love
+turned to hatred, Phanes in his indignation pursued this dusky daughter of
+Earth through all the length and breadth of the world to slay her. She now
+feared his enmity as much as she had previously scorned his love. Therefore
+she did not feel secure enough even among the most distant peoples or in the
+most remote places, nor even in the very bosom of her mother, but fled for
+refuge, secretly and by stealth, to the incestuous embrace of her brother Erebus.
+Thus she found at once a release from her pressing fears and a husband who
+was certainly very like herself. From this pretty pair Ether and Day are said to
+have sprung, according to Hesiod, whom I have already quoted:
+</p>
+
+<blockquote>
+From Night again sprang Ether and the Day
+Whom she conceived and bore by Erebus' embrace.
+</blockquote>
+
+<p>
+But the more cultured Muses and Philosophy herself, the neighbor of the gods,
+forbid us to place entire confidence in the poets who have given the gods their
+forms, especially the Greek poets; and no one should regard it as a reproach to
+them that in a question of such importance they hardly seem sufficiently reliable
+authorities. For if any of them has departed from the truth to some slight
+extent, the blame should not be laid upon their genius, which is most divine, but
+upon the perverse and blind ignorance of the age, which at that time was all-pervading,
+They have attained an ample meed of honor and of glory by gathering
+together in one place and forming into organized communities men who
+previously roamed like beasts at random through the forests and mountains,
+and by being the first to teach, by their divine inspiration, all the sciences which
+are known today, arraying them in the charming cloak of fable; and their best
+title to everlasting fame (and that no mean one) is that they have left to their
+successors the full development of that knowledge of the arts which they so
+happily began.
+</p>
+
+<p>
+Do not then, whoever you are, hastily accuse me of arrogance, in shattering
+or altering the statements of all the ancient poets, without any authority to support
+me. For I am not taking upon myself to do that, but am only attempting to
+bring them to the test of reason, and thereby to examine whether they can bear
+the scrutiny of strict truth.
+</p>
+
+<p>
+First, then, the story that makes Night the child of Earth is a learned and elegant
+allegory of antiquity; for what is it that makes night envelop the world but
+the dense and solid earth, coming between the sun's light and our horizon?
+Then, as to the statements of the mythologists, calling Night sometimes fatherless,
+sometimes motherless, these too are pleasing fictions, if we understand
+them to signify that she was a bastard or a changeling, or else that her parents
+refused for very shame to acknowledge so infamous and ignoble a child, But
+why they should believe that Phanes endowed as he was with a wondrous and
+superhuman beauty, was so much in love with Night, a mere mulatto or silhouette,
+as even to wish to marry her, seems a problem hopelessly difficult to solve,
+unless the phenomenal scarcity of females at that time left him no choice.
+</p>
+
+<p>
+But now let us come to close quarters with our subject. The ancients interpret
+Phanes as the sun or the day, and in relating that he at first sought Night in
+marriage and then pursued her to avenge his rejection, they mean only to signify
+the alternation of day and night, But why should they have thought it necessary,
+in order to show this, to represent Phanes as a suitor for the hand of
+Night, when their perpetual alternation and mutual repulsion, as it were, could
+be indicated far better by the figure of an innate and unremitting hatred? For it
+is well known that light and darkness have been divided from one another by an
+implacable hatred from the very beginning of time, It is in fact my opinion that
+Night got her Greek name of <i>euphrone</i> for the very reason that she showed caution and good sense in refusing to bind herself in wedlock to Phanes; for if
+she had once submitted to his embrace she would doubtless have been destroyed
+by his beams and by his unendurable radiance, and either annhilated
+altogether or utterly consumed by fire; <a href="" id="semele" class="annotBtn">like Semele</a>, who, legend says, perished
+by fire against the will of her lover Jove. For this reason, with a proper regard
+for her security, she preferred Erebus to Phanes. With reference to this, <a href="" id="martial" class="annotBtn">Martial</a>
+aptly and wittily says, "Worst of husbands, worst of wives, I wonder not that you
+agree so well."
+</p>
+ 
+<p>
+It is I think proper to mention with what a handsome family, how like their
+mother she presented her husband&mdash;namely Misery, Envy, Fear, Deceit, Fraud,
+Obstinacy Poverty, Want, Hunger, Fretfulness, sickness, Old Age, Pallor, Darkness, Sleep, Death and Charon, her last child; so that the proverb <a href="" id="badcrow" class="annotBtn"><i>from a bad crow a bad egg</i></a> is exactly applicable to this case.
+</p>
+
+<p>
+There are however, some who maintain that Night also bore Ether and
+Day to her husband Erebus, But who in his senses would not howl down
+and turn
+out the advocate of such a theory, as he would anyone who seriously propounded <a href="" id="democritus" class="annotBtn">Democritus's notions</a> or the fairytales of childhood? Is it indeed probable on the face of it that black and gloomy Night should be the mother of
+a child so comely, so sweet, so universally beloved and desired? Such a child, as
+soon as conceived, would have caused her mother's death by her birth before due time, would have driven her father Erebus in to headlong flight, and forced old Charon to hide his dazzled eyes beneath the waters of the Styx
+and flee to
+seek what refuge he might in the rea1ms below, as fast as his oars and his sails could
+carry him. No, so far from being born in Hades, Day has never even shown her
+face there, nor can she find entrance even through a chink or cranny, except in defiance of Fate's decree, Nay, I dare rather declare that Day is older than Night, and that when the world had but newly emerged from Chaos, Day shed
+her wide-spreading rays over it, before ever the turn of Night had come&mdash;unless indeed we are so perverse as to call by the name of Night that foul and murky darkeness, or regard it as identical with <a href="" id="demogorgon" class="annotBtn">Demogorgon</a>.
+</p>
+
+<p>
+Therefore I hold that Day is the eldest daughter of Heaven, or rather of his son, begotten by him, it is said, to be the comfort of the race of men and the terror of the infernal gods, for fear lest Night should rule unopposed, lest Ghosts and Furies and all that loathsome brood of monsters, unchecked by any barrier between Earth and Hades, should leave the pit of Hell and make their way even
+to the upper world, and lest wretched Man enveloped and surrounded by
+murky darkness, should suffer even in this life the tortures of the damned.
+</p>
+
+<p>
+So far, Members of the University, I have endeavored to drag from their
+deep and dark hiding
+places the obscure children of Night; you will immediately 
+perceive how worthy they are of their parentage&mdash;especially if I should first devote the best of my small powers
+ to the praise of Day, though Day herself must far transcend the 
+eloquence of all who sing her praise.
+</p>
+
+<p>
+In the first place, there is assuredly no need to describe to you how welcome and how desirable Day is to every living thing. Even the birds cannot hide their delight, but leave their nests at the peep of dawn and noise it abroad from the treetops in their sweetest song, or darting upwards as near as they may to the sun, take their flight to welcome the returning day. First of all these the wakeful cock acclaims the sun's coming, and like a herald bids mankind shake off the bonds of sleep, and rise and run with joy to greet the new-born day. The kids skip in the meadows, and beasts of every kind leap and gambol with delight. The sad heliotrope, who all night long has gazed toward the east, awaiting her beloved Sun, now smiles and beams at her lover's approach. The marigold too and rose, to add their share to the joy of all, open their petals and shed abroad their perfume, which they have kept for the Sun alone, and would not give to Night, shutting themselves up within their little leaves at fall of evening. And all the other flowers raise their heads, drooping and weighed down with dew, and offer themselves to the Sun, mutely begging him to kiss away the tear-drops which his absence brought. The Earth too decks herself in lovelier robes to honor the Sun's coming, and the clouds, arrayed in garb of every hue, attend the rising god in festive train and long procession. And last, that nothing may be lacking to proclaim his praise, the Persians and the Libyans give him divine honors; the Rhodians too have dedicated to his glory that far-famed Colossus of astounding size, created by the miraculous art of <a href="" id="chares" class="annotBtn">Chares of Lindus</a>; to the Sun, too, we are 
+told, the American  Indians even to this day make sacrifice with incense and with every kind of ritual.
+You yourselves, Members of the University, must bear witness how delightful, how welcome, how long-awaited is the light of morning, since it recalls you to the cultured Muses from whom cruel Night parted you still unsatisfied and athirst.
+ Saturn, hurled down to Hades from highest heaven, bears witness how gladly he would return to the light of day from that 
+dread gloom, would Jove but grant the boon.
+ Lastly, it is manifest that Pluto himself far preferred light to his own kingdom of darkness, since he so often 
+strove to gain the realm of heaven. Thus Orpheus says with truth and with poetic skill in his Hymn to Dawn&mdash;"Then of a truth do mortal men rejoice, nor is there one who flees thy face which shines above, when thou dost shake
+sleep from their eyes. Every man is glad and every creeping thing, all the tribes of beast and bird, and all the many creatures of the deep."
+</p>
+
+<p>
+Nor is this to be wondered at, when we reflect that Day serves for use as well
+as pleasure, and is alone fitted to further the business of life; for who would have
+the hardihood to sail the wide and boundless seas, without a hope that Day
+would dawn? He would cross the ocean even as the ghosts cross Lethe and
+Acheron, beset on every hand by fearsome darkness. Every man would then
+pass his life in his own mean hovel, hardly daring even to creep outside, so that
+the dissolution of human society must needs follow. To no purpose would
+Apelles have pictured Venus rising from the waves, in vain would Zeuxis
+have painted Helen, if dark, dense night hid from our eyes these wondrous
+sights. In vain too would the earth bring forth in abundance vines twining in
+many a winding trail, in vain nobly towering trees; in vain would she deck
+herself anew with buds and blossoms, as with stars, striving to imitate the
+heaven above. Then indeed that noblest of the senses, sight, would lose its use
+to every creature; yes, and the light of the world's eye being quenched, all
+things would fade and perish utterly; nor would the men who dwelt upon the
+darkened earth long survive this tragedy, since nothing would be left to support
+their life, nor any means of staying the lapse of all things into the primeval
+Chaos.
+</p>
+
+<p>
+One might continue on this strain with unabating flow, but Day herself in
+modesty would not permit the full recital, but would hasten her downward
+course toward the sunset to check her advocate's extravagances. My day is now
+indeed already drawing to its close, and will soon give place to night, to prevent
+your saying in jest that this is the longest day though the season is midwinter.
+This alone I ask, that by your leave I may add a few words which I cannot well
+omit.
+</p>
+
+<p>
+With good reason, then, have the poets declared that Night springs from
+Hell, since by no means whatever could so many grievous ills descend upon
+mankind from any other quarter. For when night falls all things grow foul and
+vile, no difference can then be seen between a Helen and a Canidia, a precious
+jewel and a common stone (but that some gems have power to outshine
+the darkness). Then too the loveliest spots strike horror to the heart, a horror
+gathering force from a silence deep and sad. All creatures lingering in the fields,
+be they man or beast hasten to house or lair for refuge; then, hiding their heads
+beneath their coverings, they shut their eyes against the dread aspect of Night.
+None may be seen abroad save thieves and rogues who fear the light, who,
+breathing murder and rapine, lie in wait to rob honest folk of their goods and wander forth by night alone, lest day betray them. For Day lays bare all crimes,
+nor ever suffers wrongdoing to pollute her light. None will you meet save
+ghosts and specters, and fearsome goblins who follow in Night's train from the
+realms below; it is their boast that all night long they rule the earth and share it
+with mankind. To this end, I think, night sharpens our hearing, that our ears
+may catch the sooner and our hearts perceive with greater dread the groans of
+specters, the screeching of owls and nightbirds, and the roaring of lions that
+prowl in search of prey. Hence clearly is revealed that man's deceit who says
+that night brings respite from their fears to men and lulls every care to rest.
+How false and vain is this opinion they know well from their own bitter experience who have ever felt the pangs of guilty consciences; they are beset by
+Sphinxes aand Harpies, Gorgons and Chimaeras, who hunt their victims down
+wIth flammg torches in their hands; those poor wretches too know it full well
+who have no friend to help or succor them, none to assuage their grief with
+words of comfort, but must pour out their useless plaints to senseless stones,
+longing and praying for the dawn of day. For this reason did that choicest poet
+Ovid rightly call Night the mighty foster-mother of cares.
+</p>
+
+<p>
+Some indeed say that it is above all by night that our bodies, broken and
+worn out by the labors of the day, are revived and restored. But this is the merciful ordinance of God, for which we owe no gratitude to Night. But even were
+it so, sleep is not a thing so precious that Night deserves honor for the bestowal
+of it. For when we betake ourselves to sleep, we do in truth but confess ourselves
+poor and feeble creatures, whose puny frames cannot endure even a little
+while without repose. And, to be sure, what is sleep but the image and
+semblance of death? Hence in Homer Sleep and Death are twins, conceived together
+and born at a single birth.
+</p>
+
+<p>
+Lastly, it is thanks to the sun that the moon and the other stars display their
+fires by night, for they have no light to radiate but such as they borrow from the
+sun. Who then but a son  of darkness, a robber a gamester or one whose wont it
+is to spend his niights in the company of harlots and snore away his days&mdash;who,
+I ask, but such a fellow would have undertaken to defend a cause so odious and
+discreditable? I wonder that he dare so much as look upon this sun, or share
+with other men, without a qualm, that light which he is slandering so ungratefully.
+He deserves to share the fate of Python, slain by the stroke of the sun's
+hostile rays. He deserves to pass a long and loathsome life imprisoned in Cimmerian
+darkness. He deserves, above all, to see sleep overcoming his hearers
+even as he speaks,so that his best eloquence affects them no more than an idle dream, till, drowsy himself, he is cheated into taking his hearers' nods and
+snores for nods of approval and murmurs of praise as he ends his speech.
+</p>
+
+<p>
+But I see the black brows of Night, and note the advance of darkness; I must
+withdraw, lest Night overtake me unawares. I beg you then, my hearers, since
+Night is but the passing and the death of Day, not to give death the preference
+over life, but graciously to honor my cause with your votes; so may the Muses
+prosper your studies, and Dawn, the friend of the Muses, hear your prayers; and
+may the Sun, who sees and hears all things, hearken to all in this assembly who
+honor and support his cause. I have done.
+</p>
+
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

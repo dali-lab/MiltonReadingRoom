@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>L'Allegro: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+
+    <div id="header">
+		<div class="align-block">
+			<span id="milton">The John Milton Reading Room</span></br>
+			<span id="poemBanner">L'Allegro</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">L'Allegro: Introduction</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+		<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="intro.shtml"><b>Introduction</b></a>
+				</li>
+				<li>
+					<a href="text.shtml">Text</a>
+				</li>
+				
+			</ul>	
+		</div>
+	
+
+<div id="container">
+
+<div id="content">
+
+<p class="poemTitle">Introduction</p>
+
+<p>It is nearly impossible to understand and appreciate John Milton's <span class="booktitle">L'Allegro</span> without also having read its companion piece, <span class="booktitle">Il Penseroso</span>.  Whereas l'allegro is "the happy person" who spends an idealized day in the country and a festive evening in the city, il penseroso is "the thoughtful person" whose night is filled with meditative walking in the woods and hours of study in a "lonely Towr."  First published in <a href="http://wwwlib.umi.com/eebo/image/60223/22" target="main">1645</a>, the two poems complement each other structurally and contain images which are in specific dialogue with one another.</p><p class="next">
+
+In 1983, Gerard H. Cox wrote that "it is obvious that <span class="booktitle">L'Allegro</span> and <span class="booktitle">Il Penseroso</span> are companion poems, but precisely how and why they are related remains an open question" (<a href="../bibliography/c-e/text.shtml#gerard_cox" target="main">Cox</a> 45).  Over the years, scholars have suggested a wide range of connections between the two.  To some, the poems represent a battle between Day and Night/Mirth and Melancholy (<a href="../bibliography/t-z/text.shtml#tillyard_setting" target="main">Tillyard</a> 1); to others, opposing paths (of pleasure and wisdom) toward complete union with God (<a href="../bibliography/c-e/text.shtml#gerard_cox" target="main">Cox</a> 58); and to still others, Milton's own struggle to become a "whole" man and a truly great poet (<a href="../bibliography/t-z/text.shtml#zacharias" target="main">Zacharias</a> 6).  Roy Flannagan even suggests that L'Allegro is the light-hearted Charles Diodati and Il Penseroso is the studious Milton (<a href="../bibliography/f-h/text.shtml#Flannagan" target="main">Flannagan</a> 65).  Certainly, there is evidence of this in Milton's letter to his dear friend when he writes:</p>
+
+<blockquote>it is in my favor that your habit of studying permits you to pause frequently, visit friends, write much, and sometimes make a journey.  But my temperament allows no delay, no rest, no anxiety &mdash; or at least thought &mdash; about scarcely anything to distract me, until I attain my object and complete some great period, as it were, of my studies. (<a href="../bibliography/f-h/text.shtml#Flannagan" target="main">Flannagan</a> 1051)</blockquote>
+<p class="next">
+Almost every critic agrees, however, that  "[w]hat one poem twists, the other untwists" in an unending cycle of what might be called "dissonant companionship" (<a href="../bibliography/f-h/text.shtml#finch" target="main">Finch and Bowen</a> 18).  Abandoning Latin for simple  English in these twinned poems, Milton borrows greatly from such English poets as Christopher Marlowe and Ben Jonson, and he looks directly to Edmund Spenser's <a href="http://www.luminarium.org/renascence-editions/fqintro.html" target="main"><span class="booktitle">Faerie Queene</span></a> and William Shakespeare's <a href="http://shakespeare.mit.edu/Shakespeare/midsummer/index.html" target="main"><span class="booktitle">A Midsummer Night's Dream</span></a> for pastoral descriptions of hobgoblins and fairies.  The pair of poems should be read aloud in order  fully to appreciate their complementary sounds; <span class="booktitle">L'Allegro</span>'s lilting pitch and images of crowing roosters and singing larks deeply contrasts with <span class="booktitle">Il Penseroso's</span> somber tone and "Belmans drousie charm."</p>
+<p class="next">
+The copytext for this edition of <span class="booktitle">L'Allegro</span> is a copy of Milton's 1645 <span class="booktitle">Poems</span> owned by Rauner Library at Dartmouth College (Hickmott 172).<br />  <span class="author">Jennifer Hickey</span></p>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Sylvarum Liber: Ad Patrem</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		
+		<script src="../../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Sylvarum Liber</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Sylvarum Liber: Ad Patrem</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin</a>
+					</li>
+					<li id="notLast">
+						<a href="" id="English">English</a>
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						Texts
+					</li>
+					<li id="notLast">
+						<a href="../anno_16/text.shtml">Anno &aelig;tatis 16</a>
+					</li>
+					<li id="notLast">
+						<a href="../novembris/text.shtml">In Quintus <br>Novembris</a>
+					</li>
+					<li id="notLast">
+						<a href="../ely/text.shtml">Anno &aelig;tatis 17</a>
+					</li>
+					<li id="notLast">
+						<a href="../naturam/text.shtml">Naturam non pati senium</a>
+					</li>
+					<li id="notLast">
+						<a href="../idea/text.shtml">De Idea Platonica</a>
+					</li>
+					<li id="notLast">
+						<a href="../patrem/text.shtml"><b>Ad Patrem</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_114/text.shtml">Psalm 114</a>
+					</li>
+					<li id="notLast">
+						<a href="../philosophus/text.shtml">Philosophus ad <br>regem</a>
+					</li>
+					<li id="notLast">
+						<a href="../salsillum/text.shtml">Ad Salsillum</a>
+					</li>
+					<li id="notLast">
+						<a href="../mansus/text.shtml">Mansus</a>
+					</li>
+					<li class="newGroup">
+						<a href="../../effigy/text.shtml">Additions in <i>Poems</i> (1673)</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn"><span class="mi">Ad Patrem.</span></a></p>
+
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Nunc"><span>N</span>unc</span> mea Pierios cupiam per pectora fontes<br />
+Irriguas torquere vias, totumque per ora<br />
+Volvere laxatum gemino de vertice rivum;<br />
+Ut tenues oblita sonos audacibus alis<br />
+Surgat in officium venerandi Musa parentis.<span class="line" id="line5"> [ 5 ]</span><br />
+Hoc utcunque tibi gratum pater optime carmen<br />
+Exiguum meditatur opus, nec novimus ipsi<br />
+Apti&ugrave;s &agrave; nobis qu&aelig; possint munera donis<br />
+Respondere tuis, quamvis nec maxima possint<br />
+Respondere tuis, nedum ut par gratia donis<span class="line" id="line10"> [ 10 ]</span><br />
+Ess queat, vacuis qu&aelig; redditur arida verbis.<br />
+Sed tamen h&aelig;c nostros ostendit pagina census,<br />
+Et quod habemus opum chart&acirc; numeravimus ist&acirc;<br />
+Qu&aelig; mihi sunt null&aelig;, nisi quas dedit aurea Clio<br />
+Quas mihi semoto somni peperere sub antro,<span class="line" id="line15"> [ 15 ]</span><br />
+Et nemoris laureta sacri Parnassides umbr&aelig;.
+</p>
+
+<p>
+<span class="mindent">Nec tu vatis opus divinum despice carmen,</span><br />
+Quo nihil &aelig;thereos ortus, &amp; semina c&aelig;li,<br />
+Nil magis humanam commendat origine mentem,<br />
+Sancta Prometh&eacute;&aelig; retinens vestigia flamm&aelig;.<span class="line" id="line20"> [ 20 ]</span><br />
+Carmen amant superi, tremebundaque Tartara carmen<br />
+Ima ciere valet, divosque ligare profundos,<br />
+Et triplici duros Manes adamante coercet.<br />
+Carmine sepositi retegunt arcana futuri<br />
+Ph&oelig;bades, &amp; tremul&aelig; pallentes ora Sibyll&aelig;;<span class="line" id="line25"> [ 25 ]</span><br />
+Carmina sacrificus sollennes pangit ad aras<br />
+Aurea seu sternit motantem cornua taurum;<br />
+Seu c&ugrave;m fata sagax fumantibus abdita fibris<br />
+Consulit, &amp; tepidis Parcam scrutatur in extis.<br />
+Nos etiam patrium tunc cum repetemus Olympum,<span class="line" id="line30"><br />
+&AElig;tern&aelig;que mor&aelig; stabunt immobilis &aelig;vi, [ 30 ]</span><br />
+Ibimus auratis per c&aelig;li templa coronis,<br />
+Dulcia suaviloquo sociantes carmina plectro,<br />
+Astra quibus, geminique poli convexa sonabunt.<br />
+Spiritus &amp; rapidos qui circinat igneus orbes.<span class="line" id="line35"> [ 35 ]</span><br />
+Nunc quoque sydereis intercinit ipse choreis<br />
+Immortale melos, &amp; inenarrabile carmen;<br />
+Torrida dum rutilus compescit sibila serpens,<br />
+Demissoque ferox gladio mansuescit Orion;<br />
+Stellarum nec sentit onus Maurusius Atlas.<span class="line" id="line40"> [ 40 ]</span><br /><br />
+Carmina regales epulas ornare solebant,
+Cum nondum luxus, vast&aelig;que immensa vorago<br />
+Nota gul&aelig;, &amp; modico spumabat coena Ly&aelig;o.<br />
+Tum de more sedens festa ad convivia vates<br />
+&AElig;scule&acirc; intonsos redimitus ab arbore crines,<span class="line" id="line45"> [ 45 ]</span><br />
+Heroumque actus, imitandaque gesta canebat,<br />
+Et chaos, &amp; positi lat&egrave; fundamina mundi,<br />
+Reptantesque Deos, &amp; alentes numina glandes,<br />
+Et nondum &AElig;tn&aelig;o qu&aelig;situm fulmen ab antro.<br />
+Denique quid vocis modulamen inane juvabit,<span class="line" id="line50"> [ 50 ]</span><br />
+Verborum sensusque vacans, numerique loquacis?<br />
+Silvestres decet iste choros, non Orphea cantus,<br />
+Qui tenuit fluvios &amp; quercubus addidit aures<br />
+Carmine, non cithar&acirc; simulachraque functa canendo<br />
+Compulit in lacrymas; habet has &agrave; carmine laudes.</span><span class="line" id="line55"> [ 55 ]</span>
+</p>
+
+<p>
+<span class="mindent">Nec tu perge precor sacras contemnere Musas,<br />
+Nec vanas inopesque puta, quarum ipse peritus<br />
+Munere, mille sonos numeros componis ad aptos,<br />
+Millibus &amp; vocem modulis variare canoram<br />
+Doctus, Arionii merit&ograve; sis nominis h&aelig;res.<span class="line" id="line60"> [ 60 ]</span><br />
+Nunc tibi quid mirum, si me genuisse po&euml;tam<br />
+Contigerit, charo si tam prop&egrave; sanguine juncti<br />
+Cognatas artes, studiumque affine sequamur:<br />
+Ipse volens Ph&oelig;bus se dispertire duobus,<br />
+Altera dona mihi, dedit altera dona parenti,<span class="line" id="line65"> [ 65 ]</span><br />
+Dividuumque Deum genitorque puerque tenemus.
+</p>
+
+<p>
+<span class="mindent">Tu tamen ut simules teneras odisse cam&oelig;nas,</span><br />
+Non odisse reor, neque enim, pater, ire jubebas<br />
+Qu&agrave; via lata patet, qu&agrave; pronior area lucri,<br />
+Certaque condendi fulget spes aurea nummi:<span class="line" id="line70"> [ 70 ]</span><br />
+Nec rapis ad leges, mal&egrave; custoditaque gentis<br />
+Jura, nec insulsis damnas clamoribus aures.<br />
+Sed magis excultam cupiens ditescere mentem,<br />
+Me procul urbano strepitu, secessibus altis<br />
+Abductum Aoni&aelig; jucunda per otia rip&aelig;<span class="line" id="line75"> [ 75 ]</span><br />
+Ph&oelig;b&aelig;o lateri comitem sinis ire beatum.<br />
+Officium chari taceo commune parentis, <br />
+Me poscunt majora, tuo pater optime sumptu<br />
+C&ugrave;m mihi Romule&aelig; patuit facundia lingu&aelig;,<br />
+Et Latii veneres, &amp; qu&aelig; Jovis ora decebant<span class="line" id="line80"> [ 80 ]</span><br />
+Grandia maniloquis elata vocabula Graiis,<br />
+Addere suasisti quos jactat Gallia flores,<br />
+Et quam degeneri novus Italus ore loquelam<br />
+Fundit, Barbaricos testatus voce tumultus,<br />
+Qu&aelig;que Pal&aelig;stinus loquitur mysteria vate.<span class="line" id="line85"> [ 85 ]</span><br />
+Denique quicquid habet c&aelig;lum, subjectaque c&oelig;lo<br />
+Terra parens, terr&aelig;que &amp; c&oelig;lo interfluus aer,<br />
+Quicquid &amp; unda tegit, pontique agitabile marmor,<br />
+Per te nosse licet, per te, si nosse libebit.<br />
+Dimot&agrave;que venit spectanda scientia nube,<span class="line" id="line90"> [ 90 ]</span><br />
+Nudaque conspicuos inclinat ad oscula vultus,<br />
+Ni fugisse velim, ni sit lib&acirc;sse molestum.
+</p>
+
+<p>
+<span class="mindent">I nunc, confer opes quisquis malesanus avitas</span><br />
+Austriaci gazas, Per&uuml;anaque regna pr&aelig;optas.<br />
+Qu&aelig; potuit majora pater tribuisse, vel ipse<span class="line" id="line95"> [ 95 ]</span><br />
+Jupiter, excepto, don&acirc;sset ut omnia, c&oelig;lo?<br />
+Non potiora dedit, quamvis &amp; tuta fuissent,<br />
+Publica qui juveni commisit lumina nato<br />
+Atque Hyperionios currus, &amp; fr&aelig;na diei,<br />
+Et circ&ugrave;m undantem radiat&acirc; luce tiaram.<span class="line" id="line100"> [ 100 ]</span><br />
+Ergo ego jam doct&aelig; pars quamlibet ima caterv&aelig;<br />
+Victrices hederas inter, laurosque sedebo, <br />
+Jamque nec obscurus populos miscebor inerti,<br />
+Vitabuntque oculos vestigia nostra profanos.<br />
+Este procul vigiles cur&aelig;, procul este querel&aelig;,<span class="line" id="line105"> [ 105 ]</span><br />
+Invidi&aelig;que acies transverso tortilis hirquo,<br />
+S&aelig;va nec anguiferos extende Calumnia rictus;<br />
+In me triste nihil f&aelig;dissima turba potestis,<br />
+Nec vestri sum juris ego; securaque tutus<br />
+Pectora, vipereo gradiar sublimis ab ictu.<span class="line" id="line110"> [ 110 ]</span>
+</p>
+
+<p>
+<span class="mindent">At tibi, chare pater, postquam non &aelig;qua merenti</span><br />
+Posse referre datur, nec dona rependere factis,<br />
+Sit memor&acirc;sse satis, repetitaque munera grato<br />
+Percensere animo, sid&aelig;que reponere menti.
+</p>
+
+<p>
+<span class="mindent">Et vos, O nostri, juvenilia carmina, lusus,</span><span class="line" id="line115"> [ 115 ]</span><br />
+Si modo perpetuos sperare audebitis annos,<br />
+Et domini superesse rogo, lucemque tueri,<br />
+Nec spisso rapient oblivia nigra sub Orco,<br />
+Forsitan has laudes, decantatumque parentis<br />
+Nomen, ad exemplum, sero servabitis &aelig;vo.<span class="line" id="line120"> [ 120 ]</span>
+</p>
+
+</div>
+</div>
+
+<div id="alternateContent">
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">To His Father</a>
+</p>
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Now"><span>N</span>ow</span> I wish that the <a href="" id="fountains" class="annotBtn">Pierian fountains</a> might pour their inspiring waters through my breast, and the stream that flows from <a href="" id="peaks" class="annotBtn">the twin peaks</a> roll all its flood upon my lips, so that my Muse, unmindful of her trivial strains, might rise on adventurous wing to do honor to my revered father. I know not, dearest father, how this trifling song that I am meditating will please you, yet I know not what offerings from me can better repay your gifts, though not even the greatest can repay them, nor can any gratitude expressed by the vain return of empty words be equal to the obligation. Nevertheless this page displays my resources, and all my wealth is set forth on this paper; but I have nothing save what <a href="" id="clio" class="annotBtn">golden Clio</a> has given me, what dreams have brought me in the distant caves of sleep, and what the laurel copses of the sacred wood and the shades of Parnassus bestowed.</p>
+<p>
+Scorn not the poet's song, a work divine, which more than anything else reveals our ethereal origin and heavenly race. Nothing so dignifies the human mind as its origin, and it possesses yet some sacred traces of <a href="" id="prometheus" class="annotBtn">Promethean fire</a>. The gods love song, song that has power to <a href="" id="tartarus" class="annotBtn">move the trembling depths of Tartarus</a>, to bind the nether gods, and restrain the cruel shades with triple adamant. The <a href="" id="priestesses" class="annotBtn">priestesses of Apollo</a> and the pale trembling Sibyl disclose in song the secrets of the distant future. The sacrificing priest composes verses before the festal altars, whether he slays the bull that tosses its gilded horns, or sagely consults the destinies hidden in the reeking flesh, and reads fate in the entrails still warm with life. When I too return to my native Olympus, and when the changeless ages of eternity stretch forever before me, I shall go through the temples of heaven crowned with gold, accompanying my sweet songs with the gentle beat of the plectrum, wherewith the stars and the arch of heaven shall resound. Even now that fiery spirit himself who encircles the swift orbs sings with the starry choirs in an immmortal melody, an ineffable song, while <a href="" id="serpent" class="annotBtn">the glittering serpent</a> checks his angry hissing, and <a href="" id="orion" class="annotBtn">fierce Orion</a> with lowered sword grows gentle, and <a href="" id="atlas" class="annotBtn">Maurusian Atlas</a> no longer feels the burden of the stars.
+</p>
+<p>
+Poems were wont to grace the banquets of kings, when as yet luxury and the bottomless pit of gluttony were unknown, when at dinner <a href="" id="bacchus" class="annotBtn">Lyaeus</a> flowed in moderation. Then, according to custom, the bard, seated at the festal board, his unshorn locks wreathed with a garland from the oak, used to sing the feats of <a href="" id="heroes" class="annotBtn">heroes and their emulable deeds</a>, sang <a href="" id="chaos" class="annotBtn">of chaos</a> and the broadly-laid foundations of the world, of <a href="" id="creeping" class="annotBtn">the creeping gods that fed upon acorns</a>, and of <a href="" id="thunderbolt" class="annotBtn">the thunderbolt</a> not yet brought from the cavern of Aetna. And finally, what will the empty modulation of the voice avail, void of words and sense, and of eloquent numbers? That song will do for the sylvan choirs, but not for <a href="" id="orpheus" class="annotBtn">Orpheus</a>, who with song and not with lute held back the rivers, and gave ears to the oaks, and moved the shades of the dead to tears; these praises he has from song.
+</p>
+<p>
+Do not, I pray, persist in contemning the sacred Muses; think them not vain and poor, by whose gift <a href="" id="yourself" class="annotBtn">you yourself are skilled</a> in setting a thousand sounds to fitting numbers, and are trained to vary the singing voice through a thousand modulations, you who by merit should be heir to the name of <a href="" id="arion" class="annotBtn">Arion</a>. Now, if it has happened that I have been born a poet, why is it strange to you that we, so closely joined by the loving bond of blood, should pursue related arts and kindred ways of life? Phoebus, wishing to divide himself in two, gave some gifts to me, others to my father; and we, father and son, possess the divided god.
+</p>
+<p>
+Although you pretend to hate the gentle Muses, I believe you do not hate them, for you did not bid me go, father, where the broad way lies open, where the field of gain is easier, and where the certain hope of laying up money shines golden; neither do you drag me to the bar, to the laws of the nation so ill observed, nor do you condemn my ears to silly clamorings. But, wishing my already nurtured mind to grow more rich, you permit me in deep retreats, far from the city's uproar, to pass my pleasant leisure by the Aonian stream, and to walk as a happy companion by Apollo's side.
+</p>
+<p>
+I pass in silence over the common kindness of a loving parent; greater matters call me. When at your cost, dear father, I had become fluent in the tongue of Romulus, and had mastered the graces of Latin, and the lofty words of the magniloquent Greeks, which became the lips of Jove himself; you then persuaded me to add to these <a href="" id="french" class="annotBtn">the flowers that Gallia boasts</a>, and the language which the modern Italian pours from <a href="" id="mouth" class="annotBtn">his degenerate mouth</a> &mdash; a witness by his speech of the barbarian tumults &mdash; and the mysteries which <a href="" id="prophet" class="annotBtn">the prophet of Palestine</a> utters. Finally, whatever is contained in the heavens, in mother Earth beneath, and in the air that flows between earth and heaven, whatever is hidden by the waves and the restless surface of the sea &mdash; this through your kindness I may learn, through your means, if I care to learn. From the parted cloud appears science, and naked bends her lovely face to my kisses, unless I wish to flee, and if it be not dangerous to taste.
+</p>
+<p>
+Go now, gather wealth, fool, whoever you are, that prefer the ancient treasures of Austria, and of the Peruvian realms. But what more than learning could my father have given, or Jove himself had he given all but heaven? He who committed to <a href="" id="son" class="annotBtn">his young son</a> the common lights, the chariot of Hyperion, the reins of day, and the tiara radiant with light, gave not more potent gifts, even had they been safe. Therefore, since I am one, though the humblest, of the learned company, I shall sit among the victor's ivy and laurels, and no longer obscurely mingle with the dull rabble; my footsteps will avoid the gaze of profane eyes. Away sleepless cares, away complaints, and the wry glance of envy with sidelong goatish leer. Fierce Calumny, open not your serpent's jaws. O most detestable band, you can cause me no unhappiness; I am not under your law. Safe may I walk, my breast secure, high above your viper stroke.
+</p>
+<p>
+But as for you, dear father, since it is not granted me to make a just return for your deserts, nor to recompense your gifts with my deeds, let it suffice that I remember, and with gratitude count over, your repeated gifts, and treasure them in a faithful mind.
+</p>
+<p>
+You too, my youthful verses, my pastime, if only you dare hope for endless years &mdash; dare think to survive your master's pyre and look upon the light &mdash; and if dark oblivion does not drag you down to crowded Orcus, perchance you will treasure these praises and a father's name rehearsed in song as an example to a distant age.
+</p>
+
+</div>
+
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

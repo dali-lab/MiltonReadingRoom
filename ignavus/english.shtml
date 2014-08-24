@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+ 
+<!--Copyright 2003, all rights reserved-->
+
+<title>Milton: The Indolent Ruler</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">The Indolent Ruler
+</a>
+</p>
+<br /><br />
+<div class="verse_latin">
+
+<p class="first">
+Indolence dishonors the renowned ruler<br />
+Who commands the many concerns of the people.<br />
+While the warrior son of <a href="" id="daunus" class="annotBtn">old Daunus</a> lay on purple<br />
+Sheets, bold <a href="" id="euryalus" class="annotBtn">Euryalus</a> and nimble Nisus<br />
+Artfully entered the Volscian camp<span class="line" id="line5"> [ 5 ]</span><br />
+Of the torpid Rutilians at midnight.<br />
+Thus made fools, they arose crying in discord . . .
+</p>
+
+</div>
+</body>
+</html>

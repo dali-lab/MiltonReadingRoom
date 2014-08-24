@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Il Penseroso: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner">Il Penseroso</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Il Penseroso: Introduction</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+	<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="intro.shtml"><b>Introduction</b></a>
+				</li>
+				<li>
+					<a href="text.shtml">Text</a>
+				</li>
+				
+			</ul>	
+	</div>
+	
+
+<div id="container">
+
+<div id="content">
+
+<p class="poemTitle">Introduction</p>
+
+<p>It is nearly impossible to understand and appreciate  Milton's <span class="booktitle">Il Penseroso</span> without also having read its companion piece, <span class="booktitle">L'Allegro</span>.  In 1991 <a href="../bibliography/f-h/text.shtml#finch" target="main">Casey Finch and Peter Bowen</a> wrote that the poems are "unavoidably locked in a condition of textual self-consciousness where, no matter how hard each tries to extricate itself from the embrace of the other, neither can stop thinking and dreaming about its companion" (5).</p>  
+
+<p class="next">Many critics have speculated that Milton prefers the pensive melancholy celebrated in <span class="booktitle">Il Penseroso</span> because it represents the ascetic life of study, as opposed to <span class="booktitle">L'Allegro</span>'s emphasis on a dionysian, pleasure-seeking lifestyle.   Milton appears to make this preference explicit  in his sixth Elegy, written to Charles Diodati, when he tells his friend that Apollo, "Bacchus, Ceres, and Venus all approve" of "light Elegy" and assist poets in such compositions, but poets whose ambitions reach higher to the epic and heroic modes must eschew the dionysiac lifestyle for a more ascetic practice: </p>
+
+<blockquote>But they who Demigods and Heroes praise<br />
+And feats perform'd in Jove's more youthful days,<br /> 
+Who now the counsels of high heav'n explore,<br /> 
+Now shades, that echo the Cerberean roar,<br /> 
+Simply let these, like him of Samos live <br />
+Let herbs to them a bloodless banquet give; <br />
+In beechen goblets let their bev'rage shine, <br />
+Cool from the chrystal spring, their sober wine! <br />
+Their youth should pass, in innocence, secure<br />
+From stain licentious, and in manners pure, <br />
+Pure as the priest's, when robed in white he stands<br />
+The fresh lustration ready in his hands. <a href="../elegiarum/elegy_6/text.shtml#line55" target="main">("Elegy 6" 55-66)</a></blockquote>
+<p class="next">
+The poet who seeks to attain the highest level of creative expression must embrace the divine, which can only be accomplished by following the path set out in <span class="booktitle">Il Penseroso</span>.  In 1971, <a href="../bibliography/l-m/text.shtml#miller_pmla" target="main">David Miller</a> described this concept of the latter poem's superiority to its companion:  "The delights of <span class="booktitle">L'Allegro</span> are real and valued, but like the glories of Greece they cannot stand against the ecstasy of Christian contemplation. Partial truth is inferior to complete truth.  It is <span class="booktitle">Il Penseroso</span> who represents the proper Christian pattern" (7).</p><p class="next">
+
+Milton's invocation of the goddess Melancholy reminds one of his salutation to Mirth in <span class="booktitle">L'Allegro</span>, and sets up the parallel structure of the two poems.  It also suggests a very specific body of sources, such as Robert Burton's comprehensive <span class="booktitle">Anatomy of Melancholy</span>, John Fletcher's song "Melancholy," and Shakespeare's <a href="http://shakespeare.mit.edu/Shakespeare/hamlet/hamlet.2.2.html#306" target="main"><span class="booktitle">Hamlet</span> 2.2.309</a>.  The concept of "melancholia," however, has its origins in ancient Greece with Hippocrates and his "humours theory" of the body, which was later revised by Aristotle and Galen.  Lawrence Babb discovered two forms of melancholy in his study of <span class="booktitle">Il Penseroso</span>: "black" and "golden tinged with purple."  While black melancholy was responsible for severe depression, the Aristotlian gold melancholy "was the concern, not of physicians, but of poets.  And its products were not despondency amid madness, but the highest of man's artistic achievements" (<a href="../bibliography/l-m/text.shtml#miller_pmla" target="main">Miller</a> 32). Milton's choice of "Penseroso" in the title, over "Melancolico" or "Afflitto," indicates his emphasis on the positive and spiritual aspects of Melancholy (<a href="../bibliography/f-h/text.shtml#variorum" target="main">Hughes, <span class="booktitle">Variorum</span></a> 237).</p>
+<p class="next">
+In her book <a href="../bibliography/r-s/text.shtml#Schiesari" target="main"><span class="booktitle">The Gendering of Melancholia</span></a>, Juliana Schiesari writes that "the very nature of the melancholic was to be that of a self split against itself" (8).  It is significant, then, that <span class="booktitle">Il Penseroso</span> has a companion.  While some critics argue that the two poems refer equally to Milton (<a href="../bibliography/f-h/text.shtml#hughes" target="main">Hughes, <span class="booktitle">Variorum</span></a> 245), others believe that <span class="booktitle">L'Allegro</span> was about his friend, Charles Diodati, while <span class="booktitle">Il Penseroso</span> was autobiographical in nature.  If this was the case, then Milton may have consciously adopted part of Spenser's theory of friendship in writing the poem &mdash; namely, the idea that friends "express different aspects of the same principle, [as] shown by the frequent citing of one of them to prove the other" (<a href="../bibliography/r-s/text.shtml#smith1" target="main">Smith</a> 43).   <span class="booktitle">Il Penseroso</span>'s initial banishment of Mirth &mdash; as well as <span class="booktitle">L'Allegro</span>'s exile of Melancholy &mdash; demonstrates this principle at work. </p>
+<p class="next">
+The copytext for this edition of <span class="booktitle">Il Penseroso</span> is a copy of Milton's 1645 <span class="booktitle">Poems</span> owned by Rauner Library at Dartmouth College (Hickmot 172).<br /> <span class="author">Katherine Lynch</span></p>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

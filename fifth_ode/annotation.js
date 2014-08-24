@@ -1,0 +1,5 @@
+var annotList = {"intro":"<span class=\"annotation\"><i>Introduction.</i>  Except for this elegant rendering into English of Horace\'s fifth ode, all the other additions to Milton\'s <span class=\"booktitle\">Poems</span> in 1673 were sonnets and Psalm translations. We do not know the date this was composed, but it appeared in <a href=\"http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:109657:36\" target=\"main\"><span class=\"booktitle\">Poems</span> (1673)</a> following sonnet 23 (XIX).</span>",
+"headnote":"<span class=\"annotation\"><i>Headnote.</i>  The grave accent over the \"e\" is broken in <a href=\"http://wwwlib.umi.com/eebo/image/60223/36\" target=\"main\">1673</a> and \"miseros\" is followed by two periods.</span>",
+"vacant":"<span class=\"annotation\"><i>vacant.</i>  Available, single.</span>",
+"weeds":"<span class=\"annotation\"><i>weeds.</i> Clothes.</span>",
+"neptune":"<span class=\"annotation\"><i>God of Sea.</i>  Neptune.</p></div></body> </html> </span>"}

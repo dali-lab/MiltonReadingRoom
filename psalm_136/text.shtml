@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Psalm 136</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+			<a href=""><img id="search" src="../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Psalm Translations</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+				<a href="../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Psalm Translations: Psalm 136</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						From <i>Poems</i> (1645)
+					</li>
+					<li id="notLast">
+						<a href="../paraphrase_114/text.shtml">Paraphrase on Psalm 114</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_136/text.shtml"><b>Psalm 136</b></a>
+						
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						From <i>Poems</i> (1673)
+					</li>
+					<li id="notLast">
+						<a href="../psalms/psalm_1/text.shtml">Psalm 1</a>,
+						<a href="../psalms/psalm_2/text.shtml"> 2</a>
+					</li>
+					
+					<li id="notLast">
+						<a href="../psalms/psalm_3/text.shtml">Psalm 3</a>,
+						<a href="../psalms/psalm_4/text.shtml"> 4</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalms/psalm_5/text.shtml">Psalm 5</a>,
+						<a href="../psalms/psalm_6/text.shtml"> 6</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalms/psalm_7/text.shtml">Psalm 7</a>,
+						<a href="../psalms/psalm_8/text.shtml"> 8</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalms/psalm_80/text.shtml">Psalm 80</a>,
+						<a href="../psalms/psalm_81/text.shtml"> 81</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalms/psalm_82/text.shtml">Psalm 82</a>,
+						<a href="../psalms/psalm_83/text.shtml"> 83</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalms/psalm_84/text.shtml">Psalm 84</a>,
+						<a href="../psalms/psalm_85/text.shtml"> 85</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalms/psalm_86/text.shtml">Psalm 86</a>,
+						<a href="../psalms/psalm_87/text.shtml"> 87</a>
+					</li>
+					<li>
+						<a href="../psalms/psalm_88/text.shtml">Psalm 88</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+
+<p class="poemTitle">Psalm 136</p>
+
+<div class="verse">
+
+<p class="first">
+<span class="varspell" title="Let"><span>L</span>et</span> us with a <span class="varspell" title="gladsome">gladsom</span> mind<br />
+Praise the Lord, for he is kind,<br />
+For his mercies ay endure,<br />
+<span class="mhalfindent">Ever <span class="varspell" title="faithful">faithfull</span>, ever sure.</span>
+</p>
+
+<p>
+Let us blaze his Name abroad,<span class="line" id="line5"> [ 5 ]</span><br />
+For of gods he is the God;<br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+
+<p>
+O let us his praises tell,<br />
+That doth the <span class="varspell" title="wrathful">wrathfull</span> tyrants quell.<span class="line" id="line10"> [ 10 ]</span><br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+<p>
+That with his miracles doth make<br />
+Amazed <span class="varspell" title="Heaven">Heav'n</span> and Earth to shake.<br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span><span class="line" id="line15"> [ 15 ]</span>
+</p>
+
+
+<p>
+That by his wisdom did create<br />
+The painted <span class="varspell" title="Heavens">Heav'ns</span> so full of state.<br />
+<span class="mhalfindent">For his, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span><span class="line" id="line20"> [ 20 ]</span>
+</p>
+
+<p>
+That did the solid Earth ordain<br />
+To rise above the <span class="varspell" title="watery">watry</span> plain.<br />
+<span class="mhalfindent">For his,  <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+<p>
+That by his all-commanding might,<span class="line" id="line25"> [ 25 ]</span><br />
+Did fill the new-made world with light.<br />
+<span class="mhalfindent">For his,  <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+<p>
+And <span class="varspell" title="caused">caus'd</span> the Golden-tressed Sun,<br />
+All the day long his <span class="varspell" title="course">cours</span> to run.<span class="line" id="line30"> [ 30 ]</span><br />
+<span class="mhalfindent">For his,  <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+
+
+<p>
+The horned Moon to shine by night,<br />
+Amongst her spangled sisters bright.<br />
+<span class="mhalfindent">For his,  <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span><span class="line" id="line35"> [ 35 ]</span>
+</p>
+
+<p>
+He with his thunder-clasping hand,<br />
+Smote the first-born of <span class="mi">Egypt</span> Land.<br />
+<span class="mhalfindent">For his,  <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span><span class="line" id="line40"> [ 40 ]</span>
+</p>
+
+<p>
+And in despite of <span class="mi"><span class="varspell" title="Pharaoh">Pharao</span></span> fell,<br />
+He brought from thence his <span class="mi">Israel.</span><br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+<p>
+The ruddy waves he cleft in twain,<span class="line" id="line45"> [ 45 ]</span><br />
+Of the <span class="mi"><span class="varspell" title="Erythraean">Erythr&aelig;an</span></span> main.<br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+<p>
+The floods stood still like Walls of <a name="glass">Glass</a>,<br />
+While the Hebrew Bands did pass.<span class="line" id="line50"> [ 50 ]</span><br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+<p>
+But full soon they did devour<br />
+The Tawny King with all his power.<br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span><span class="line" id="line55"> [ 55 ]</span>
+</p>
+
+<p>
+His chosen people he did bless<br />
+In the <span class="varspell" title="wasteful">wastfull</span> <span class="" title="wilderness">Wildernes</span>.<br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span><span class="line" id="line60"> [ 60 ]</span>
+</p>
+
+<p>
+In bloody <span class="varspell" title="battle">battail</span> he brought down<br />
+Kings of prowess and renown.<br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+<p>
+He <span class="varspell" title="foiled">foild</span> bold <span class="mi">Seon</span> and his host,<span class="line" id="line65"> [ 65 ]</span><br />
+That <span class="varspell" title="ruled">rul'd</span> the <span class="mi">Amorrean</span> coast.<br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+<p>
+And large-<span class="varspell" title="limbed">lim'd</span> <span class="mi">Og</span> he did subdue,<br />
+With all his over hardy crew.<span class="line" id="line70"> [ 70 ]</span><br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+
+
+<p>
+And to his Servant <span class="mi">Israel,</span><br />
+He gave their Land <span class="varspell" title="tehrein">therin</span> to dwell.<br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span><span class="line" id="line75"> [ 75 ]</span>
+</p>
+
+
+<p>
+He hath with a piteous eye<br />
+Beheld us in our misery.<br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span><span class="line" id="line80"> [ 80 ]</span>
+</p>
+
+
+<p>
+And freed us from the slavery<br />
+Of the invading <span class="varspell" title="enemy">enimy</span>.<br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+
+<p>
+All living creatures he doth feed,<span class="line" id="line85"> [ 85 ]</span><br />
+And with full hand supplies their need.<br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+
+<p>
+Let us therfore warble forth<br />
+His mighty Majesty and worth.<span class="line" id="line90"> [ 90 ]</span><br />
+<span class="mhalfindent">For, <span class="mi"><span class="varspell" title="etcetera">&amp;c.</span></span></span>
+</p>
+
+
+<p>
+That his mansion hath on high<br />
+Above the reach of <span class="varspell" title="mortal">mortall</span> ey.<br />
+<span class="mhalfindent">For his mercies ay endure,</span><span class="line" id="line95"> [ 95 ]</span><br />
+<span class="mhalfindent">Ever <span class="varspell" title="faithful">faithfull</span>, ever sure.</span>
+</p>
+
+
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+</body> 
+
+</html> 
+
+

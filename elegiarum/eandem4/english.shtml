@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<!--Copyright 2003-2010, all rights reserved-->
+
+<title>Milton: To the Same</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title">
+<a href="" id="intro" class="annotBtn"><span class="mi">To the Same</span></a>
+</p>
+<br />
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Another"><span class="minitial">A</span>nother</span> <a href="" id="leonora" class="annotBtn">Leonora</a> captivated the poet Torquato, who for frenzied love of her went mad.  Ah, poor wretch!  How much more happily had he been lost in your lifetime and for love of you, Leonora!  He would have heard you singing with <a href="" id="Pierian" class="annotBtn">Pierian</a> voice as the golden strings of <a href="" id="lyre" class="annotBtn">your mother's lyre</a> moved in harmony.  Though he had rolled his eyes more fiercely than <a href="" id="pentheus" class="annotBtn">Dircean Pentheus</a>, or all insensible had raved, yet you by your voice could have composed his senses wandering in their blind whirl; and, inspiring his distempered heart with peace, you could have restored him to himself with your soul-moving song.
+</p>
+
+</div>
+</body>
+</html>

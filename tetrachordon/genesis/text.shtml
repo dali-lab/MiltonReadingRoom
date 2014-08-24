@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Tetrachordon: Genesis Places</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Tetrachordon</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#prose">Prose</a> > <a href="">Tetrachordon: Genesis Places</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="../title/text.shtml">Title</a>
+					</li>
+					<li id="notLast">
+						<a href="../parl/text.shtml">To Parliament</a>
+					</li>
+					<li id="notLast">
+						<a href="../genesis/text.shtml"><b>Genesis Places</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../deut/text.shtml">Deuteronomy Places</a>
+					</li>
+					<li id="notLast">
+						<a href="../matt/text.shtml">Matthew Places</a>
+					</li>
+					<li>
+						<a href="../corin/text.shtml">1 Corinthians Places</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content" class="lengthyWork"> 
+<center><h3><i>TETRACHORDON,</i></h3><p>
+
+<h3>Expositions upon the foure chiefe
+ places in</br>
+Scripture 
+which treat of Mariage, or</br>
+nullities in  Mariage.</h3> </center> 
+<p>
+
+<center>Gen. 1. 27.</center>
+<i>So God created Man in his owne image, in the image of God created he him; male and female created he them. </i></br>
+28. <i> And God blessed them, and God said unto them be fruitfull, &amp;c.</i></p>
+
+<center>Gen 2. 18.</center> 
+<i>And the Lord God said, It is not good that Man should be alone, I will make him a helpe meet for him.</i></br>
+ 23.  <i>And Adam said, This is now bone of my bones, and flesh of my flesh; she shall be called Woman, because she was taken out of Man.</i> </br>
+24. <i> Therefore shall a man leave his father and his mother, and shall cleave unto his Wife, and they shall be one flesh.</i></p>
+
+<p><center>Gen. 1. 27.</center>
+<i>So God created Man in his own image.</i>]  To be inform'd aright in the whole History of Mariage, that we may know for certain, not by a forc't yoke, but by an impartial definition, what Mariage is, and what is not Mariage; it will undoubtedly be safest, fairest, and most with our obedience, to enquire, as our Saviours direction is, how it was in the beginning. And that we begin so high as Man created after Gods owne Image, there want not earnest causes.  For nothing now adayes is more degenerately forgott'n, then the true dignity of man, almost in every respect, but especially in this prime institution of Matrimony, wherein his native pre-eminence ought most to shine.  Although if we consider that just and naturall privileges men neither can rightly seek, nor dare fully claime, unless they be ally'd to inward goodnesse, and stedfast knowledge, and that the want of this quells them to a servile sense of their own conscious unworthinesse, it may save the wondring why in this age many are so opposite both to human and to Christian liberty, either while they understand not, or envy others that do; contenting, or rather priding themselves in a specious humility and strictnesse bred out of low ignorance, that never yet conceiv'd the freedome of the Gospel; and is therefore by the Apostle to the Colossians rankt with no better company, then Will-worship and the meer <a href="" id="shew" class="annotBtn">shew of wisdome</a>.  And how injurious herein they are, if not to themselves, yet to their neighbours, and not to them only, but to the all-wise and bounteous grace offer'd us in our redemption, will orderly  appear.</p>
+<p>
+[<i>In the Image of God created he him.</i> ]  It is enough determin'd, that <a name="Image">this</a> <a href="" id="Image" class="annotBtn">Image of God</a> wherin Man was created, is meant Wisdom, Purity, Justice, and rule over all creatures.  All which being lost in <i>Adam</i>, was recover'd with gain by the merits of Christ.  For albeit our first parent had lordship over sea, and land, and aire, yet there was a law without him, as a guard set over him.  But Christ having cancell'd the hand writing of ordinances which was against us, <i>Coloss.</i> 2.14. and interpreted the fulfilling of all through charity, hath in that respect set us over law, in the free custody of his love, and left us victorious under the guidance of his living Spirit, not under the dead letter; to follow that which most edifies, most aides and furders a religious life, makes us holiest and likest to his immortall Image, not that which makes us most conformable and captive to civill and subordinat precepts; whereof the strictest observance may oftimes prove the destruction not only of many innocent persons and families, but of whole Nations.  Although indeed no ordinance human or from heav'n can binde against the good of man; so that to keep them strictly against that end, is all one with to breake them.  Men of most renowned vertu have sometimes by transgressing, most truly kept the law; and wisest Magistrates have permitted and dispenc't it; while they lookt not peevishly at the letter, but with a greater spirit at the good of mankind, if alwayes not writt'n in the characters of law, yet engrav'n in the heart of man by a divine impression.  This Heathens could see, as the well-read in story can recount of <i>Solon</i> and <i>Epaminondas</i>, whom <i>Cicero</i> in his <a href="" id="Invention" class="annotBtn">first booke of <i>invention</i></a> nobly defends.  <i>All law</i>, saith he<i>, we ought to referr to the common good, and interpret by that, not by the  scrowl of letters.  No man observes law for laws sake, but for the good of them for whom it was made.</i> The rest might serv well to lecture these times, deluded through <a href="" id="belly" class="annotBtn">belly-doctrines</a> into a devout slavery.  The Scripture also affords us <a href="" id="David" class="annotBtn"><i>David</i> in the shew-bread</a>, <a href="" id="Hezekiah" class="annotBtn"><i>Hezechiah</i> in the passeover</a> sound and safe transgressors of the literall command, which also dispenc'd not seldom with it self; and taught us on what just occasions to doe so: until our Saviour, for whom that great and God-like work was reserv'd, redeem'd us to a state above prescriptions, by dissolving the whole law into charity.  And have we not the soul to understand this, and must we against this glory of Gods transcendent love towards us be still the servants of a literall indightment? </p>
+
+<p>[<i>	Created he him. </i>]  It might be doubted why he saith, <i>In the Image of God created he <a name="himnotthem">him</i></a>, not them, as well as <i>male and female </i>them; especially since that Image might be common to them both, but <i>male and female</i> could not, however the Jewes fable, and please themselvs with the accidentall concurrence of <i>Plato's</i> wit, as if Man at first had bin created <a href="" id="Hermaphrodite" class="annotBtn"><i>Hermaphrodite:</i></a> but then it must have bin male and female created he him.  So had the <a name="imageofgod">Image</a> of God bin equally common to them both, it had no doubt bin said, In the Image of God created he them.  But <i>St. Paul</i> ends the controversie, by explaining that the woman is not primarily and immediatly the image of God, but in reference to the man. <i>The head of the woman</i>, saith he, 1 <i>Cor.</i> 11. <i>is the man: he the image and glory of God, she the glory of the man:</i> he not for her, but she for him.  Therefore his precept is, <i>Wives be subject to your husbands as is fit in the Lord, Coloss.</i> 3. 18. <i>In every thing, Eph.</i> 5. 24.  Nevertheless man is not to hold her as a servant, but receives her into a part of that empire which God proclaims him to, though not equally, yet largely, as his own image and glory: for it is no small glory to him, that a creature so like him, should be made subject to him.  Not but that particular exceptions may have place, if she exceed her husband in prudence and dexterity, and he contentedly yeeld; for then a superior and more naturall law comes in, that the wiser should govern the lesse wise, whether male or female.  But that which far more easily and obediently follows from this verse, is that, seeing woman was purposely made for man, and he her head, it cannot stand before the breath of this divine utterance, that man the portraiture of God, joyning to himself for his intended good and solace an inferiour sexe, should so becom her thrall, whose wilfulnes or inability to be a wife frustrates the occasionall end of her creation, but that he may acquitt himself to freedom by his naturall birth-right, and that indeleble character of priority which God crown'd him with.  If it be urg'd that sin hath lost him this, the answer is not far to seek, that from her the sin first proceeded, which keeps her justly in the same proportion still beneath.  She is not to gain by being first in the transgression, that man should furder loose to her, because already he hath lost by her means.  Oft it happens that in this matter he is without fault; so that his punishment herein is causeles: and God hath the praise in our speeches of him, to sort his punishment in the same kind with the offence.  Suppose he err'd; it is not the intent of God or man, to hunt an error so to the death with a revenge beyond all measure and proportion.  But if  we argue thus, this affliction is befaln him for his sin, therefore he must bear it, without seeking the only remedy; first it will be false that all affliction comes for sin, as in the case of <i>Job</i>, and of the man born blind, <i>Joh.</i> 9.3. was evident: next by that reason, all miseries comming for sin, we must let them all lye upon us like the vermin of an Indian <a href="" id="Catharist" class="annotBtn"><i>Catharist</i></a>, which his fond religion forbids him to molest.  Were it a particular punishment inflicted through the anger of God upon a person, or upon a land, no law hinders us in that regard, no law but bidds us remove it if we can: much more if it be a dangerous temptation withall; much more yet, if it be certainly a temptation, and not certainly a punishment, though a pain.  As for what they say we must bear with patience, to bear with patience, and to seek effectuall remedies, implies no contradiction.  It may no lesse be for our disobedience, our unfaithfulnes, and other sins against God, that wives becom adulterous to the bed; and questionles we ought to take the affliction as patiently as christian prudence would wish; yet hereby is not lost the right of divorcing for adultery. No you say, because our Saviour excepted that only. But why, if he were so bent to punish our sins, and try our patience in binding on us a disastrous mariage, why did he except adultery?  Certainly to have bin bound from divorce in that case also had bin as plentifull a punishment to our sins, and not too little work for the patientest.  Nay, perhaps they will say it was too great a sufferance, and with as slight a reason, for no wise man but would sooner pardon the act of adultery once and again committed by a person worth pity and forgivenes, then to lead a wearisom life of unloving &amp; unquiet conversation with one who neither affects nor is affected, much lesse with one who exercises all bitternes, and would commit adultery too, but for envy lest the persecuted condition should thereby get the benefit of his freedom.  'Tis plain therefore, that God enjoyns not this supposed strictnes of not divorcing either to punish us, or to try our patience.</p> 
+	<p>Moreover, if man be the image of God, which consists in holines, and woman ought in the same respect to be the image and companion of man, in such wise to be lov'd as the Church is belov'd of Christ, and if, as God is the head of Christ, and Christ the head of man, so man is the head of woman; I cannot see by this golden dependance of headship and subjection, but that Piety and Religion is the main tye of Christian Matrimony: so as if there be found between the pair a notorious disparity either of wickedness or heresie, the Husband by all manner of right is disingag'd from a creature, not made and inflicted on him to the vexation of his righteousness; the wife also, as her subjection is terminated in the Lord, being her self the redeem'd of Christ, is not still bound to be the vassall of him, who is the bond-slave of Satan: she being now neither the image nor the glory of such a person, nor made for him, nor left in bondage to him; but hath recurs to the wing of charity, and protection of the Church, unless there be a hope on either side; yet such a hope must be meant, as may be a rationall hope, and not an endless servitude.  Of which hereafter.</p>
+<p>
+But usually it is objected, that if it be thus, then there can be no true mariage between misbeleevers and irreligious persons?  I might answer, let them see to that who are such; the Church hath no commission to judge those without, 1 <i>Cor.</i> 5.  But this they will say perhaps, is but penuriously to resolv a doubt. I  answer therefore, that where they are both irreligious, the mariage may be yet true enough to them in a civill relation.  For there are left som remains of Gods image in man, as he is meerly man; which reason God gives against the shedding of mans bloud, <i>Gen.</i> 9. as being made in God's image, without expression whether he were a good man or a bad, to  
+exempt the slayer from punishment.  So that in those mariages where the parties are alike void of Religion, the wife owes a civill homage and subjection, the husband owes a civill loyalty.  But where the yoke is mis-yok't, heretick with faithfull, godly with ungodly, to the grievance and manifest endangering  of a brother or sister, reasons of a higher strain than matrimoniall bear sway; unlesse the Gospel instead of freeing us, debase it self to make us bondmen, and suffer evill to controule good.</p>
+<p>
+[<i>Male and female created he them</i>. ]  This contains another end of matching man and woman, being the right and lawfulnes of the mariage-bed; though much inferior to the former end of her being his image and helpe in religious society.  And who of weakest insight may not see that this creating of them male and female, cannot in any order of reason, or Christianity, be of such moment against the better and higher purposes of their creation, as to enthrall husband or wife to duties or to sufferings, unworthy and unbeseeming the image of God in them?  Now when as not only men, but good men, doe stand upon their right, their estimation, their dignity, in all other actions and deportments with warrant anough and good conscience, as having the image of God in them, it will not be difficult to determin what is unworthy and unseemly for a man to do or suffer in wedlock; and the like proportionally may be found for woman: if we love not to stand disputing below the principles of humanity.  He that said, <i>Male and female created he them,</i> immediatly before that said also in the same verse, <i>In the image of God created he him,</i> and redoubl'd it, that our thoughts might not be so full of dregs as to urge this poor consideration of <i>male and female</i>, without remembring the noblenes of that former repetition; lest when God sends a wise eye to examin our triviall glosses, they be found extremly to creep upon the ground: especially since they confesse that what here concerns mariage is but a brief touch, only preparative to the institution which follows more expressely in the next Chapter: and that Christ so took it, as desiring to be briefest with them who came to tempt him, account shall be given in due place.</p>
+<p>
+V. 28.  <i>And God blessed them, and God said unto them, be fruitfull and multiply, and replenish the earth, &amp;c.</i></p>
+<p>
+This declares another end of Matrimony, the propagation of mankind: and is again repeated to <i>Noah</i> and his sons.  Many things might be noted on this place not ordinary, nor unworth the noting; but I undertook not a generall Comment.  Hence therefore we see the desire of children is honest and pious; if we be not lesse zealous in our Christianity, then <i>Plato</i> was in his heathenism; who in the sixt <i>of his Laws,</i> counts off-spring therefore desirable, that we may leav in our stead sons of our sons, continuall servants of God: a religious and prudent desire, if people knew as well what were requir'd to breeding as to begetting; which desire perhaps was a cause why the Jews hardly could endure a barren wedlock: and <i>Philo</i> in his book of speciall Laws, esteems him only worth pardon that sends not barrennes away.  <i>Carvilius</i> the first recorded in Rome to have sought divorce, had it granted him for the barrennes of his wife, upon his oath that he maried to the end he might have children; as <i>Dionysius</i> and <i>Gellius</i> are authors.  But to dismisse a wife only for barrennes, is hard: and yet in some the desire of children is so great and so just, yea sometime so necessary, that to condemn such a one to a childles age, the fault apparently not being in him, might seem perhaps more strict then needed.  Sometimes inheritances, crowns, and dignities are so interested and annext in their common peace and good to such or such lineall descent, that it may prove a great moment both in the affairs of men and of religion, to consider throughly what might be don herein, notwithstanding the waywardness of our School Doctors. </p>
+</p>
+<center>Gen. 2. 18.</center></br>
+<i>And the Lord said, It is not good that man should be  alone; I will make him a help meet for him.</i></br>
+V. 23.  <i>And Adam said, &amp;c. </i> Ver. 24.<i>  Therefore  shall a man leave, &amp;c.</i></p>
+
+<p>
+THis second  Chapter is granted to be a <a name="commentary">Commentary</a> on  the first, and these verses granted to be an exposition  of that former verse, <i>Male and female created he them</i>, and yet when this male and female is by the  explicite words of God himselfe heer declar'd to be not  meant other then a fit help, and meet society; some  who would ingrosse to themselves the whole trade of  interpreting, will not suffer the cleer text of God to  doe the office of explaining it self. 
+</p>
+<p>
+[<i>And the Lord God said, It is <a name="notgood">not good</a></i>. ]  A man  would think that the consideration of who spake,  should raise up the attention of our minds to enquire  better, and obey the purpos of so great a Speaker:  for as we order the busines of Mariage, that which  he heer speaks is all made vain; and in the decision of  matrimony, or not matrimony, nothing at all  regarded.  Our presumption hath utterly chang'd the  state and condition of this ordinance: God ordain'd it  in love and helpfulnes to be indissoluble, and we in  outward act and formality to be a forc'd bondage; so  that being subject to a thousand errors in the best  men, if it prove a blessing to any, it is of meer  accident, as mans law hath handl'd it, and not of  institution.</p>
+
+<p>
+[<i>It is not good for man to be alone. </i>]  Hitherto all things that have bin nam'd, were approv'd of God to be very good: lonelines is the first thing which Gods eye nam'd not good: whether it be a thing, or the want of somthing, I labour not; let it be their tendance, who have the art to be industriously idle.  And here <i>alone</i> is meant alone without woman;  otherwise <i>Adam</i> had the company of God himself, and  Angels to convers with; all creatures to delight him  seriously, or to make him sport.  God could have  created him out of the same mould a thousand  friends and brother <i>Adams</i> to have bin his  consorts; yet for all this till <i>Eve</i> was giv'n him, God  reckon'd him to be alone. 
+</p>
+<p>
+[<i>It is not good.</i> ]  God heer presents himself like to a man deliberating; both to shew us that the matter is of high consequence, and that he intended to found it according to naturall reason, not impulsive  command; but that the duty should arise from the  reason of it, not the reason be swallow'd up in a  reasonlesse duty.  <i>Not good</i>, was as much to <i>Adam</i>  before his fall, as not pleasing, not expedient; but  since the comming of sin into the world, to him who  hath not receiv'd the continence, it is not only not  expedient to be alone, but plainly sinfull.  And  therfore he who wilfully abstains from mariage, not  being supernaturally gifted, and he who by making  the yoke of mariage unjust and intolerable, causes  men to abhorr it, are both in a diabolicall sin, equall to  that of Antichrist who forbids to marry.  For what  difference at all whether he abstain men from  marying, or restrain them in a mariage hapning  totally discommodious, distastful, dishonest and  pernicious to him without the appearance of his fault?  For God does not heer precisely say, I make a  female to this male, as he did briefly before; but expounding himselfe heer on purpos, he saith, because it is not good for man to be alone, I make him therefore a meet help.  God supplies the privation of not good, with the  perfect gift of a reall and positive good; it is mans  pervers cooking who hath turn'd this bounty of God  into a Scorpion, either by weak and shallow constructions, or by proud arrogance and cruelty to them who neither in their purposes nor in their  actions have offended against the due honour of  wedlock.</p>
+<p>
+Now wheras the Apostle speaking in the Spirit, I <i>Cor.</i> 7. pronounces quite contrary to this word of God, <i>It is good for a man not to touch a woman</i>, and God cannot contradict himself, it instructs us that his  commands and words, especially such as bear the manifest title of som good to man, are not to be so  strictly wrung, as to command without regard to the  most naturall and miserable necessities of mankind.  Therfore the Apostle adds a limitation in the 26 v. of that chap. for the present necessity it is  good; which he gives us doubtlesse as a pattern how to  reconcile other places by the generall rule of charity. </p>
+<p>
+[<i>For man to be alone.</i> ]  <a name="austin">Som</a> would have the sense  heerof to be in respect of procreation only: and  <a href="" id="Austin" class="annotBtn"><i>Austin</i></a> contests that manly friendship in all other  regards had been a more becomming solace for <i>Adam</i>,  then to spend so many secret years in an empty  world with one woman. But our Writers deservedly  reject this crabbed opinion; and defend that there is  a peculiar comfort in the maried state besides the <a href="" id="genial" class="annotBtn">genial</a> bed, which no other society affords.  No mortall  nature can endure either in the actions of Religion,  or study of wisdome, without somtime slackning the  cords of intense thought and labour: which lest we  should think faulty, God himself conceals us not his  own recreations before the world was built; <i>I was</i>,  saith the <a name="wisdom">eternal wisdome</a>, <a href="" id="delight" class="annotBtn"><i>dayly his delight, playing  alwayes before him</i></a>.  And to him indeed wisdom is as a  high towr of pleasure, but to us a steep hill, and we  toyling ever about the bottom: he executes with ease  the exploits of his omnipotence, as easie as with us it  is to will: but no worthy enterprise can be don by  us without continuall plodding and wearisomnes to  our faint and sensitive abilities.  We cannot therefore  always be contemplative, or pragmaticall abroad, but  have need of som delightfull intermissions, wherin  the enlarg'd soul may leav off a while her severe  schooling; and like a glad youth in wandring vacancy,  may keep her hollidaies to joy and harmles pastime:  which as she cannot well doe without company, so in  no company so well as where the different sexe in  most resembling unlikenes, and most unlike  resemblance, cannot but please best, and be pleas'd  in the aptitude of that variety.  Wherof lest we  should be too timorous, in the aw that our flat sages would form us and dresse us, wisest <i>Salomon</i> among  <a href="" id="gravest" class="annotBtn">his gravest Proverbs</a> countenances a kinde of ravishment and erring fondnes in the  entertainment of wedded leisures; and in the Song of  Songs, which is generally beleev'd, even in the jolliest  expressions to figure the spousals of the Church with  Christ, sings of a thousand raptures between those  two lovely ones farre on the hither side of carnall  enjoyment.  By these instances, and more which  might be brought, we may imagine how indulgently  God provided against mans lonelines; that he  approv'd it not, as by himself declar'd not good; that  he approv'd the remedy therof, as of his own  ordaining, consequently good; and as he ordain'd it,  so doubtles proportionably to our faln estate he  gives it; els were his ordinance at least in vain, and  we for all his gift still empty handed.  Nay, such an  unbounteous giver we should make him, as in the  fables <i>Jupiter</i> was to <i>Ixion</i>, giving him <i>a cloud</i> instead  of <i>Juno</i>, giving him a monstrous issue by her, the  breed of <i>Centaures</i>, a neglected and unlov'd race, the  fruits of a delusive mariage; and lastly, giving him  her with a damnation to that wheele in hell, from a life  thrown into the midst of temptations and disorders.   But God is no deceitfull giver, to bestow that on us for  a remedy of lonelines, which if it bring not a  sociable mind as well as a conjunctive body, leavs us  no lesse alone then before; and if it bring a minde perpetually avers and disagreeable, betraies us to a  wors condition then the most deserted lonelines.   God cannot in the justice of his own promise and  institution so unexpectedly mock us, by forcing that  upon us as the remedy of solitude, which wraps us in  a misery worse than any wildernes, as the Spirit of  God himself judges, Prov. 19. especially knowing that  the best and wisest men amidst the sincere and most  cordiall designes of their heart, doe dayly erre in  choosing.  We may conclude therfore seeing orthodoxall Expositors confesse to our hands, that by lonelines is not only meant the want of copulation, and that man is not lesse alone by turning in a body to him, unlesse there be within it a minde answerable, that it is a work more worthy the care and  consultation of God to provide for the worthiest part  of man which is his minde, and not unnaturally to set  it beneath the formalities and respects of the body,  to make it a servant of its owne vassall, I say we may  conclude that such a mariage, wherin the minde is so  disgrac't and vilify'd below the bodies interest, and  can have no just or tolerable contentment, is not of  Gods institution, and therfore no mariage.  Nay in  concluding this, I say we conclude no more then what  the common Expositors themselves give us, both in  that which I have recited, and much more hereafter.   But the truth is, they give us in such a manner as  they who leav their own mature positions like the  eggs of an Ostrich in the dust; I do but lay them in  the sun; their own pregnancies hatch the truth; and  I am taxt of novelties and strange producements,  while they, like that inconsiderat bird, know not  that these are their own naturall breed.</p>
+<p>
+[<i>I will make him a help-meet for him. </i>]  Heer the  heavnly instituter, as if he labour'd, not to be  mistak'n by the supercilious hypocrisie of those that  love to maister their brethren, and to make us sure  that he gave us not now a servil yoke, but an  amiable knot, contents not himself to say, I will make  him a wife, but resolving to give us first the meaning  before the name  of a wife, saith graciously, <i>I will  make him a help meet for him.</i>  And heer again, as  before, I do not require more full and fair deductions  then the whole consent of our Divines usually raise  from this text, that in matrimony there must be first  a mutuall help to piety, next to civill fellowship of Love  and amity, then to generation, so to houshold  affairs, lastly the remedy of incontinence.  And  commonly they reck'n them in such order, as leavs  generation and incontinence to be last consider'd.   This I amaze me at, that though all the superior and  nobler ends both of mariage and of the maried  persons be absolutely frustrat, the matrimony stirs  not, looses no hold, remains as rooted as the center:  but if the body bring but in a complaint of frigidity,  by that cold application only, this adamantine <i>Alpe</i> of  wedlock has leav to dissolve; which els all the  machinations of religious or civill reason at the suit of  a distressed mind, either for divine worship or  humane conversation violated, cannot unfasten.  What  courts of concupiscence are these, wherin fleshly  appetite is heard before right reason, lust before  love or devotion?  They may be pious Christians  together, they may be loving and friendly, they may  be helpfull to each other in the family, but they  cannot couple; that shall divorce them though either  party would not.  They can neither serv God  together, nor one be at peace with the other, nor be  good in the family one to other, but live as they  were dead, or live as they were deadly enemies in a  cage together; tis all one, they can couple, they shall  not divorce till death, no though this sentence be  their death. What is this, besides tyranny, but to  turn nature upside down, to make both religion, and  the minde of man wait upon the slavish errands of the  body, and not the body to follow either the sanctity,  or the soveranty of the mind unspeakably  wrong'd, and with all equity complaining?  what is  this but to abuse the sacred and <a name="mysterious">misterious</a> bed of  mariage to be the compulsive stie of an ingratefull  and malignant lust, stirr'd up only from a carnall  acrimony, without either love or peace, or regard to  any other thing holy or human.  This I admire how  possibly it should inhabit thus long in the sense of so  many disputing <i>Theologians</i>, unlesse it be the lowest  lees of a canonicall infection liver-grown to their  sides; which perhaps will never uncling, without the  strong abstersive of some heroick magistrat, whose  mind equall to his high office dares lead him both to  know and do without their frivolous case-putting.   For certain he shall have God and this institution  plainly on his side. And if it be true both in divinity  and law, that consent alone, though copulation  never follow, makes a mariage, how can they  dissolv it for the want of that which made it not,  and not dissolv it for that not continuing which  made it, and should preserve it in love and reason,  and difference it from a brute conjugality?</p>
+<p>
+[<i>Meet for him</i>.]  The originall heer is more  expressive then other languages word for word can  render it; but all agree effectuall conformity of  disposition and affection to be heerby signify'd;  which God as it were, not satisfy'd with the naming of  a help, goes on describing <i>another self, a second self,  a very self it self</i>.  Yet now there is nothing in the life  of man, through our misconstruction, made more  uncertain, more hazardous and full of chance then  this divine blessing with such favorable significance  heer conferr'd upon us, which if we do but erre in our  choice, the most unblamable error that can be, erre  but one minute, one moment after those mighty  syllables pronounc't which take upon them to joyn  heavn and hell together unpardnably till death  pardon, this divine blessing that lookt but now with  such a human smile upon us, and spoke such gentle  reason, strait vanishes like a fair skie, and brings on  such a scene of cloud and tempest, as turns all to  shipwrack without havn or shoar, but to a  ransomles captivity.  And then they tell us it is our  sin; but let them be told again, that sin through the  mercy of God hath not made such wast upon us, as  to make utterly void to our use any temporall benefit,  much less any so much availing to a peacefull and  sanctify'd life, meerly for a most incident error  which no warines can certainly shun.  And  wherfore servs our happy redemption, and the  liberty we have in Christ, but to deliver us from  calamitous yokes, not to be liv'd under without the  endangerment of our souls, and to restore us in som  competent measure to a right in every good thing  both of this life, and the other.  Thus we see how  treatably and distinctly God hath heer taught us  what the prime ends of mariage are, mutuall solace  and help.  That we are now, upon the most  irreprehensible mistake in choosing, defeated and  defrauded of all this originall benignity, was begun  first through the snare of Antichristian canons long  since obtruded upon the Church of Rome, and not  yet scourd off by reformation, out of a lingring  vain-glory that abides among us to make fair shews  in formall ordinances, and to enjoyn continence &amp;  bearing of crosses in such a garb as no Scripture  binds us, under the thickest arrows of temptation,  where we need not stand.  Now we shall see with  what acknowledgment and assent <i>Adam</i> receiv'd this  new associat, which God brought him.</p>
+<p>
+V. 23. <i> And Adam said this is now bone of my  bones, and flesh of my flesh, she shall be  called Woman, because she was tak'n out of Man.</i></p>
+<p>
+That there was a neerer alliance between <i>Adam</i> and <i>Eve</i>, then could be ever after between man and  wife, is visible to any.  For no other woman was ever moulded out of her husbands rib, but of meer  strangers for the most part they com to have that  consanguinity which they have by wedlock.  And if we look neerly upon the matter, though mariage be most agreeable to holines, to purity and justice, yet is it not a naturall, but a civill and ordain'd relation. For if it were in nature, no law or crime could  disannull it, to make a wife, or husband, otherwise  then still a wife or husband, but only death; as  nothing but that can make a father no father, or a son no son.  But divorce for adultery or desertion, as all our Churches agree but England, not only  separats, but nullifies, and extinguishes the relation it self of matrimony, so that they are no more man  and wife; otherwise the innocent party could not  marry else-where, without the guilt of adultery;   next, were it meerly naturall why was it heer  ordain'd more then the rest of morall law to man in  his originall rectitude, in whose breast all that was naturall or morall was engrav'n without externall  constitutions and edicts.  <i>Adam</i> therfore in these  words does not establish an indissoluble bond of  mariage in the carnall ligaments of flesh and bones, for if he did, it would belong only to himself in the literall sense; every one of us being neerer in flesh of  flesh, and bone of bones to our parents then to a  wife; they therfore were not to be left for her in that respect.  But <i>Adam</i>, who had the wisdom giv'n him  to know all creatures, and to name them according to their properties, no doubt but had the gift to discern perfectly, that which concern'd him much more; and  to apprehend at first sight the true fitnes of that consort which God provided him.  And therfore  spake in reference to those words which God  pronounc't before; as if he had said, this is she by whose meet help and society I shall no more be alone; this is she who was made my image, ev'n as I the  Image of God; not so much in body, as in unity of  mind and heart.  And he might as easily know what  were the words of God, as he knew so readily what  had bin don with his rib, while he slept so  soundly.  He might well know, if God took a rib out of  his inside, to form of it a double good to him, he  would far sooner disjoyn it from his outside, to  prevent a treble mischief to him: and far sooner cut it quite off from all relation for his undoubted ease, then nail it into his body again, to stick for ever there a thorn in his heart.  When as nature teaches us to divide any limb from the body to the saving of his fellows, though it be the maiming and deformity of the whole; how much more is it her doctrin to sever by incision, not a true limb so much, though that be lawfull, but an adherent, a sore, the gangrene of a  limb, to the recovery of a whole man.  But if in these words we shall make <i>Adam</i> to erect a new  establishment of mariage in the meer flesh, which  God so lately had instituted, and founded in the  sweet and mild familiarity of love and solace, and mutuall fitnes, what do we but use the mouth of our generall parent, the first time it opens, to an arrogant  opposition, and correcting of Gods wiser ordinance. These words therfore cannot import any thing new  in mariage, but either that which belongs to <i>Adam</i>  only, or to us in reference only to the instituting words of God which made a meet help against lonelines.  <i>Adam</i> spake like <i>Adam</i> the words of flesh and bones, the shell and rinde of matrimony; but God spake like God, of love and solace and meet help, the soul both of <i>Adams</i> words and of matrimony.</p>
+<p>
+V. 24. <i>Therefore shall a man leav his father and his mother, and shall cleav unto his wife; and they shall be one flesh.</i></p>
+<p>
+This verse, as our common heed expounds it, is the great knot tier, which hath undon by tying, and by tangling, millions of guiltles consciences: this is that greisly Porter, who having drawn men and wisest men by suttle allurement within the train of an unhappy matrimony, claps the dungeon gate upon them, as irrecoverable as the grave.  But if we view him well, and hear him with not too hasty and prejudicant ears, we shall finde no such terror in him. For first, it is not heer said absolutely without all reason he shall cleave to his wife, be it to his weal or  to his destruction as it happens, but he shall do this upon the premises and considerations of that meet  help and society before mention'd,  <i>Therfore he shall cleave to his wife</i>, no otherwise a wife then a fit help. He is not bid to leave the dear cohabitation of his father, mother, brothers and sisters, to link himself inseparably with the meer carcas of a Mariage,  perhaps an enemy.  This joyning particle <i>Therefore</i> is  in all equity, nay in all necessity of construction to  comprehend first and most principally what God  spake concerning the inward essence of Mariage in  his institution, that we may learn how far to attend what <i>Adam</i> spake of the outward materials therof in  his approbation.  For if we shall bind these words of <i>Adam</i>  only to a corporall meaning, and that the force of this injunction upon all us his sons to live  individually with any woman which hath befaln us in the most mistak'n wedlock, shall consist not in those morall and relative causes of <i>Eves</i> creation, but in the meer anatomy of a rib, and that <i>Adams</i> insight  concerning wedlock reacht no furder, we shall make him as very an idiot as the <a href="" id="Socinians" class="annotBtn">Socinians</a> make him;  which would not be reverently don of us.  Let us be content to allow our great forefather so much  wisdom, as to take the instituting words of God along with him into this sentence, which if they be well  minded, will assure us that flesh and ribs are but of a  weak and dead efficacy to keep Mariage united  where there is no other fitnes.  The rib of Mariage, to all since <i>Adam</i>, is a relation much rather then a bone; the nerves and sinews therof are love and  meet help, they knit not every couple that maries, and where they knit they seldom break, but where they break, which for the most part is where they never truly joyn'd, to such at  the same instant both flesh and rib cease to be in  common; so that heer they argue nothing to the  continuance of a false or violated Mariage, but must be led back  to receive their meaning from those institutive words of God which give them all the life and vigour they have. </p>
+<p>
+[<i>Therfore shall a man leave his father, &amp;c.</i> ]  What 
+ 
+to a man's thinking more plain by this appointment, 
+ 
+that the fatherly power should give place to conjugal 
+ 
+prorogative?  Yet it is generally held by reformed  
+writers against the Papist, that though in persons at 
+ 
+discretion the Marriage in it self be never so fit, 
+ 
+though it be fully accomplisht with benediction,  
+board and bed, yet the father not consenting, his  
+main Will without dispute shall dissolve all.  And this 
+ 
+they affirm only from collective reason, not any  
+direct law; for that in <i>Exod.</i> 22. 17. which is most 
+ 
+particular, speaks that a father may refuse to marry 
+ 
+his daughter to one who hath deflour'd her, not that 
+ 
+he may take her away from one who hath soberly  
+married her.  Yet because the general honour due to 
+ 
+parents is great, they hold he may, and perhaps hold 
+ 
+not amiss.  But again, when the question is of harsh 
+ 
+and rugged parents, who defer to bestow their  
+children seasonably, they agree jointly that the  
+Church or Magistrate may bestow them, though  
+without the Father's consent: and for this they have 
+ 
+no express authority in Scripture.  So that they may 
+ 
+see by their own handling of this very place, that it 
+ 
+is not the stubborn letter must govern us, but the  
+divine and softning breath of charity which turns  
+and winds the dictate of every positive command,  
+and shapes it to the good of mankind.  Shall the  
+outward accessory of a Father's will wanting, rend  
+the fittest and most affectionate Marriage in twain, 
+ 
+after all nuptial consummations; and shall not the  
+want of love and the privation of all civil and  
+religious concord, which is the inward essence of  
+Wedloc, do as much to part those who were never  
+truly wedded?  Shall a Father have this power to  
+vindicate his own wilful honour and authority to the 
+ 
+utter breach of a most dearly-united Marriage, and  
+shall not a man in his own power have the  
+permission to free his Soul, his Life, and all his  
+comfort of life from the disaster of a no-marriage? 
+  
+Shall fatherhood, which is but man, for his own  
+pleasure dissolve matrimony; and shall not  
+matrimony, which is God's Ordinance, for its own  
+honour and better conservation, dissolve it self,  
+when it is wrong, and not fitted to any of the chief 
+ 
+ends which it owes us? </br><img
+src="../../resources/dot_clear.gif" width="1" height="1" hspace="8">
+
+
+<i>	And they shall be one flesh.</i> ]  These words also  
+infer that there ought to be an individualty in  
+Marriage; but without all question presuppose the  
+joining causes.  Not a rule yet that we have met with, 
+ 
+so universal in this whole institution, but hath  
+admitted limitations and conditions according to  
+human necessity.  The very foundation of  
+Matrimony, though God laid it deliberately,<i> that it 
+is  
+not good for man to be alone,</i> holds not always, if the 
+ 
+Apostle can secure us.  Soon after we are bid leave 
+ 
+Father and Mother, and <i>Cleave to a Wife,</i> but must  
+understand the Father's consent withal, else not.   
+Cleave to a Wife, but let her be a wife, let her be 
+a  
+meet help, a solace, not a nothing, not an adversary, 
+ 
+not a desertrice; can any law or command be so  
+unreasonable as to make men cleave to calamity, to  
+ruin, to perdition?  In like manner here, <i>They shall 
+ 
+be one flesh</i>; but let the causes hold, and be made  
+really good, which only have the possibility to make 
+ 
+them one flesh.  We know that flesh can neither join, 
+ 
+nor keep together two bodies of it self; what is it 
+then  
+must make them one flesh, but likeness, but fitness 
+ 
+of mind and disposition, which may breed the Spirit 
+ 
+of concord, and union between them?  If that be not 
+ 
+in the nature of either, and that there has bin a  
+remediless mistake, as vain we go about to compel  
+them into one flesh, as if we undertook to weave a  
+garment of dry sand.  It were more easy to compel  
+the vegetable and nutritive power of nature to  
+assimilations and mixtures which are not alterable  
+each by other; or force the concoctive stomach to  
+turn that into flesh which is so totally unlike that 
+ 
+substance as not to be wrought on.  For as the unity 
+ 
+of mind is nearer and greater than the union of  
+bodies, so doubtless is the dissimilitude greater and 
+ 
+more dividual, as that which makes between bodies  
+all difference and distinction.  Especially whenas  
+besides the singular and substantial differences of 
+ 
+every Soul, there is an intimate quality of good or 
+ 
+evil, through the whole Progeny of <i>Adam,</i> which like 
+ 
+a radical heat, or mortal chillness, joins them, or 
+ 
+disjoins them irresistibly.  In whom therfore either 
+ 
+the will, or the faculty is found to have never join'd, 
+ 
+or now not to continue so, 'tis not to say, they shall 
+ 
+be one flesh, for they cannot be one flesh.  God  
+commands not impossibilities; and all the  
+Ecclesiastical glue, that Liturgy or Laymen can  
+compound, is not able to soder us two such  
+incongruous Natures into the one flesh of a true  
+beseeming Marriage.  Why did <i>Moses</i> then set down  
+their uniting into one flesh?  And I again ask, why 
+ 
+the Gospel so oft repeats the eating of our Saviour's 
+ 
+flesh, the drinking of his blood?  <i>That we are one  
+body with him, the members of his body, flesh of his 
+ 
+flesh, and bone of his bone, Ephes.</i> 5.  Yet lest we 
+ 
+should be Capernaitans, as we are told there, that  
+the flesh profiteth nothing; so we are told here, if 
+we  
+be not as deaf as Adders, that this union of the flesh 
+ 
+proceeds from the union of a fit help and solace.  We 
+ 
+know that there was never a more spiritual mystery  
+than this Gospel taught us under the terms of body  
+and flesh; yet nothing less intended than that we  
+should stick there.  What a stupidness then is it, that 
+ 
+in Marriage, which is the nearest resemblance of our 
+ 
+union with Christ, we should deject our selves to  
+such a sluggish and underfoot Philosophy, as to  
+esteem the validity of Marriage meerly by the flesh, 
+ 
+though never so broken and disjointed from love and 
+ 
+peace, which only can give a human qualification to 
+ 
+that act of the flesh, and distinguish it from bestial. 
+  
+The Text therfore uses this phrase, that<i> they shall 
+be  
+one flesh,</i> to justify and make legitimate the rites 
+of  
+Marriage-bed; which was not unneedful, if for all this 
+ 
+warrant they were suspected of pollution by some  
+sects of Philosophy, and Religions of old, and latelier 
+ 
+among the Papists, and other Heretics elder than  
+they.  Some think there is a <a name="mysterious2">high mystery</a> in those  
+words, from that which <i>Paul</i> saith of them, <i>Ephes.</i> 5. 
+ 
+<i>This is a great mystery, but I speak of Christ and the 
+ 
+Church</i>: and thence they would conclude Marriage to  
+be inseparable.  For me I dispute not now whether  
+Matrimony be a mystery or no; if it be of Christ and 
+ 
+his Church, certainly it is not meant of every  
+ungodly and miswedded Marriage, but then only  
+mysterious, when it is a holy, happy, and peaceful  
+match.  But when a Saint is join'd with a Reprobate, 
+ 
+or both alike wicked with wicked, fool with fool, a 
+he- 
+drunkard with a she; when the bed hath bin nothing  
+else for twenty years or more, but an old haunt of  
+lust and malice mixt together, no love, no goodness, 
+ 
+no loyalty, but counterplotting, and secret wishing 
+ 
+one another's dissolution; this is to me the greatest 
+ 
+mystery in the world, if such a Marriage as this can 
+ 
+be the mystery of aught, unless it be the mystery of 
+ 
+iniquity: According to that which <i>Par&aelig;us</i> cites 
+out of  
+<i>Chrysostom,</i> that a bad Wife is a help for the Devil, 
+ 
+and that like may be said of a bad Husband.  Since  
+therfore none but a fit and pious Matrimony can  
+signify the union of Christ and his Church, there  
+cannot hence be any hindrance of divorce to that  
+Wedloc wherin there can be no good mystery.   
+Rather it might to a Christian Conscience be matter 
+ 
+finding it self so much less satisfy'd than before, 
+in  
+the continuance of an unhappy yoke, wherin there  
+can be no representation either of Christ, or of his 
+ 
+Church. </br><img
+src="../../resources/dot_clear.gif" width="1" height="1" hspace="8">
+
+
+	Thus having enquir'd the Institution how it was  
+in the beginning, both from the I Chap. of <i>Gen.</i> where 
+ 
+it was only mention'd in part, and from the second, 
+ 
+where it was plainly and evidently instituted; and  
+having attended each clause and word necessary  
+with a diligence not drousy, we shall now fix with  
+some advantage, and by a short view backward  
+gather up the ground we have gone, and sum up the  
+strength we have, into one argumentative Head, with 
+ 
+that <i>organic</i> force that <i>logic</i> proffers us.  All Arts 
+ 
+acknowledge that then only we know certainly, when  
+we can define; for Definition is that which refines 
+the  
+pure essence of things from the circumstance.  If  
+therfore we can attain in this our Controversy to  
+define exactly what Marriage is, we shall soon learn 
+ 
+when there is a nullity therof, and when a divorce. </br><img
+src="../../resources/dot_clear.gif" width="1" height="1" hspace="8">
+
+
+	The part therfore of this Chapter which hath bin  
+here treated, doth orderly and readily resolve it self 
+ 
+into a definition of Marriage, and a consectary from 
+ 
+thence.  To the definition these words chiefly  
+contribute; <i>It is not good, &amp;c.  I will make, &amp;c.</i> 
+ where  
+the consectary begins this connexion, Therfore  
+informs us, <i>Therfore shall a Man, &amp;c.</i>  Definition 
+is  
+decreed by Logicians to consist only of causes  
+constituting the essence of a thing.  What is not  
+therfore among the causes constituting Marriage,  
+must not stay in the definition.  Those causes are  
+concluded to be <i>matter,</i> and, as the Artist calls it, 
+ 
+<i>Form.</i>  But inasmuch as the same thing may be a  
+cause more ways than one, and that in relations and 
+ 
+institutions which have no corporal subsistence, but 
+ 
+only a respective being, the <i>Form</i> by which the thing 
+ 
+is what it is, is oft so slender and undistinguishable, 
+ 
+that it would soon confuse, were it not sustain'd by 
+ 
+the efficient and final causes, which concur to make 
+ 
+up the form invalid otherwise of it self, it will be 
+ 
+needful to take in all the four Causes into the  
+definition.  First therfore the material cause of  
+Matrimony is Man and Woman; the Author and  
+Efficient, God and their consent; the internal <i>Form</i> 
+ 
+and Soul of this relation, is conjugal love arising 
+from  
+a mutual fitness to the final causes of Wedloc, help 
+ 
+and society in religious, civil and domestic  
+conversation, which includes as an inferior end the 
+ 
+fulfilling of natural desire, and specifical increase; 
+ 
+these are the final causes both moving the <i>efficient,</i> 
+ 
+and perfecting the <i>form.</i>  And although copulation be 
+ 
+consider'd among the ends of Marriage, yet the act  
+therof in a right esteem can no longer be  
+matrimonial, than it is an effect of conjugal love. 
+  
+When love finds it self utterly unmatcht, and justly 
+ 
+vanishes, nay rather cannot but vanish, the fleshly 
+ 
+act indeed may continue, but not holy, not pure, not 
+ 
+beseeming the sacred bond of Marriage; being at best 
+ 
+but an animal excretion, but more truly worse and  
+more ignoble than that mute kindliness among the  
+herds and flocks: in that proceeding as it ought from 
+ 
+intellective principles, it participates of nothing 
+ 
+rational, but that which the field and the fold equals. 
+  
+For in human actions the soul is the agent, the body 
+ 
+in a manner passive.  If then the body do out of  
+sensitive force, what the soul complies not with, how 
+ 
+can Man, and not rather something beneath Man, be  
+thought the doer? </br><img
+src="../../resources/dot_clear.gif" width="1" height="1" hspace="8">
+
+
+	But to proceed in the pursuit of an accurate  
+definition, it will avail us something, and whet our 
+ 
+thoughts, to examine what fabric hereof others have 
+ 
+already rear'd.  <i>Par&aelig;us</i> on <i>Gen.</i> defines Marriage 
+to  
+be <i>an indissoluble conjunction of one Man and one  
+Woman to an individual and intimate conversation,  
+and mutual benevolence, &amp;c.</i>  Wherin is to be markt 
+ 
+his placing of intimate conversation before bodily  
+benevolence; for bodily is meant, though indeed  
+benevolence rather founds will than body.  Why then 
+ 
+shall divorce be granted for want of bodily  
+performance, and not for want of fitness to intimate 
+ 
+conversation, whenas corporal benevolence cannot  
+in any human fashion be without this?  Thus his  
+definition places the ends of Marriage in one order, 
+ 
+and esteems them in another.  His <i>Tautology</i> also of 
+ 
+indissoluble and individual is not to be imitated;  
+especially since neither indissoluble nor individual 
+ 
+hath aught to do in the exact definition, being but 
+a  
+consectary flowing from thence, as appears by plain 
+ 
+Scripture,<i> Therfore shall a Man leave, &amp;c.</i>  For 
+ 
+Marriage is not true Marriage by being individual,  
+but therfore individual, if it be true Marriage.  No 
+ 
+argument but causes enter the definition; a  
+Consectary is but the effect of those causes.  Besides, 
+ 
+that Marriage is indissoluble, is not <i>Catholickly</i> true; 
+ 
+we know it dissoluble for Adultery, and for Desertion 
+ 
+by the verdict of all Reformed Churches.  Dr. <i>Ames</i>  
+defines it <i>an individual conjunction of one man and 
+ 
+one woman, to communion of body and mutual  
+society of life</i>: But this perverts the Order of God, 
+ 
+who in the institution places meet help and society 
+of  
+life before communion of body.  And vulgar  
+estimation undervalues beyond comparison all  
+society of life and communion of mind beneath the  
+communion of body; granting no divorce, but to the  
+want, or miscommunicating of that <i>Hemingius,</i> an  
+approved Author, <i>Melanchton's</i> Scholar, and who,  
+next to <i>Bucer</i> and <i>Erasmus,</i> writes of Divorce most  
+like a Divine, thus comprises, <i>Marriage is a  
+conjunction of one man and one woman lawfully  
+consenting, into one flesh, for mutual help's sake, 
+ 
+ordain'd of God.</i>  And in his explantion stands  
+punctually upon the conditions of consent, that it be 
+ 
+not in any main matter deluded, as being the life of 
+ 
+Wedloc, and no true Marriage without a true consent. 
+  
+<i>Into one flesh</i> he expounds into one mind, as well as 
+ 
+one body, and makes it the formal cause: Herein only 
+ 
+missing, while he puts the effect into his definition 
+ 
+instead of the cause which the Text affords him.  For 
+ 
+<i>one flesh</i> is not the formal essence of Wedloc, but one 
+ 
+end, or one effect of <i>a meet help</i>: The end oft-times 
+ 
+being the effect and fruit of the form, as Logic  
+teaches: Else many aged and holy Matrimonies, and  
+more eminently that of <i>Joseph</i> and <i>Mary,</i> would be no 
+ 
+true Marriage.  And that maxim generally receiv'd,  
+would be false, that <i>consent alone, tho' copulation 
+ 
+never follow, makes the Marriage.</i>  Therfore to  
+consent lawfully into one flesh, is not the formal  
+cause of Matrimony, but only one of the effects.  The 
+ 
+Civil Lawyers, and first <i>Justinian</i> or <i>Tribonian</i> defines 
+ 
+Matrimony <i>a conjunction of man and woman  
+containing individual accustom of life.</i>  Wherin first, 
+ 
+individual is not so bad as indissoluble put in by  
+others: And altho' much cavil might be made in the  
+distinguishing between indivisible and individual, yet 
+ 
+the one taken for possible, the other for actual,  
+neither the one nor the other can belong to the  
+essence of Marriage; especially when a Civilian  
+defines, by which Law Marriage is actually divorc'd 
+ 
+for many causes, and with good leave, by mutual  
+consent.  Therfore where <i>conjunction</i> is said, they  
+who comment the <i>Institutes,</i> agree that conjunction  
+of mind is by the Law meant, not necessarily  
+conjunction of body.  That Law then had good reason 
+ 
+attending to its own definition, that divorce should 
+ 
+be granted for the breaking of that conjunction  
+which it holds necessary, sooner than for the want of 
+ 
+that conjunction which it holds not necessary.  And 
+ 
+wheras <i>Tuningus</i> a famous Lawyer excuses individual  
+as the purpose of Marriage, not always the success, 
+it  
+suffices not.  Purpose is not able to constitute the 
+ 
+essence of a thing.  Nature her self, the universal 
+ 
+Mother, intends nothing but her own perfection and  
+preservation; yet is not the more indissoluble for  
+that.  The <i>Pandects</i> out of <i>Modestinus,</i> tho' not define, 
+ 
+yet well describe Marriage, <i>the conjunction of male 
+ 
+and female, the society of all life, the communion of 
+ 
+divine and human right</i>: which <i>Bucer</i> also imitates on 
+ 
+the fifth to the <i>Ephesians.</i>  But it seems rather to 
+ 
+comprehend the several ends of Marriage than to  
+contain the more constituting cause that makes it  
+what it is. </br><img
+src="../../resources/dot_clear.gif" width="1" height="1" hspace="8">
+
+
+	That I therfore among others (for who sings not  
+<i>Hylas</i>) may give as well as take matter to be judg'd 
+ 
+on, it will be look'd I should produce another  
+definition than these which have not stood the trial. 
+  
+Thus then I suppose that Marriage by the natural  
+and plain order of God's institution in the Text may 
+ 
+be more demonstratively and essentially defin'd.   
+<i>Marriage is a divine institution, joining man and  
+woman in a love fitly dispos'd to the helps and  
+comforts of domestic life.  A divine institution.</i>  This 
+ 
+contains the prime efficient cause of Marriage: as for 
+ 
+consent of Parents and Guardians, if seems rather a 
+ 
+concurrence than a cause; for as many that marry  
+are in their own power as not; and where they are  
+not their own, yet are they not subjected beyond  
+reason.  Now tho' efficient causes are not requisite 
+in  
+a definition, yet divine institution hath such  
+influence upon the <i>Form,</i> and is so a conserving  
+cause of it, that without it the <i>Form</i> is not sufficient 
+ 
+to distinguish matrimony from other conjunctions of 
+ 
+male and female, which are not to be counted  
+Marriage.  <i>Joining man and woman in a love, &amp;c.</i> 
+ This  
+brings in the parties consent; until which be, the  
+Marriage hath no true being.  When I say <i>consent,</i> I 
+ 
+mean not error, for error is not properly consent:  
+And why should not consent be here understood  
+with equity and good to either part, as in all other 
+ 
+friendly Covenants, and not be strain'd and cruelly 
+ 
+urg'd to the mischief and destruction of both?   
+Neither do I mean that singular act of consent which 
+ 
+made the contract, for that may remain, and yet the 
+ 
+Marriage not true nor lawful; and that may cease,  
+and yet the Marriage both true and lawful, to their 
+ 
+sin that break it.  So that either as no efficient at 
+all,  
+or but a transitory, it comes not into the definition. 
+  
+That consent I mean which is a love fitly dispos'd to 
+ 
+mutual help and comfort of life: this is that happy 
+ 
+<i>Form</i> of Marriage naturally arising from the very  
+heart of divine institution in the Text, in all the 
+ 
+former definitions either obscurely, and under  
+mistaken terms exprest, or not at all.  This gives  
+Marriage all her due, all her benefits, all her being, 
+ 
+all her distinct and proper being.  This makes a  
+Marriage not a bondage, a blessing not a curse, a gift 
+ 
+of God not a snare.  Unless there be a love, and that 
+ 
+love born of fitness, how can it last? unless it last, 
+ 
+how can the best and sweetest purposes of Marriage  
+be attain'd, and they not attain'd, which are the chief 
+ 
+ends, and with a lawful love constitute the formal  
+cause it self of Marriage?  How can the essence therof 
+ 
+subsist?  How can it be indeed what it goes for?   
+Conclude therfore by all the power of Reason, that  
+where this essence of Marriage is not, there can be 
+ 
+no true Marriage; and the Parties, either one of them 
+ 
+or both, are free, and without fault, rather by a  
+Nullity than by a Divorce, may betake them to a  
+second choice, if their present condition be not  
+tolerable to them.  If any shall ask, why domestic in 
+ 
+the definition?  I answer, that because both in the 
+ 
+Scriptures, and in the gravest Poets and  
+Philosophers, I find the properties and excellencies 
+of  
+a wife set out only from <i>domestic</i> vertues; if they  
+extend further, it diffuses them into the notion of 
+ 
+some more common duty than matrimonial. </br><img
+src="../../resources/dot_clear.gif" width="1" height="1" hspace="8">
+
+
+	Thus far of the definition; the <i>Consectary</i> which  
+flows from thence, and altogether depends theron, is 
+ 
+manifestly brought in by this connexive particle  
+<i>Therfore</i>; and branches it self into a double  
+consequence; First individual Society,<i> therfore shall 
+ 
+a man leave father and mother</i>: Secondly, conjugal  
+benevolence, <i>and they shall bee one flesh.</i>  Which, as 
+ 
+was shewn, is not without cause here mention'd, to  
+prevent and to abolish the suspect of pollution in  
+that natural and undefiled act.  These consequences therfore cannot either in Religion, Law, or Reason be bound, and posted upon Mankind to his sorrow and misery, but receive what force they have from the meetness of help and solace, which is the <i>formal</i> cause and end of that definition that sustains them. And altho' it be not for the Majesty of Scripture to humble her self in artificial <i>theorems,</i> and Definitions, and <i>Corollaries,</i> like a professor in the Schools, but looks to be <i>analys'd,</i> and interpreted by the logical industry of her Disciples and Followers, and to be reduc'd by them as oft as need is, into those <i>Sciential</i> rules, which are the implements of instruction; yet <i>Moses,</i> as if foreseeing the miserable work that man's ignorance and pusillanimity would make in this matrimonious business, and endeavouring his utmost to prevent it, condescends in this place to such a methodical and school-like way of defining, and consequencing, as in no place of the whole Law more. 
+	Thus we have seen, and if we be not contentious, may know what was Marriage in the beginning, to which in the Gospel we are referr'd; and what from hence to judge of Nullity, or Divorce.  Here I esteem the work done; in this field the controversy decided; but because other places of Scripture seem to look aversly upon this our decision, altho' indeed they keep all harmony with it, and because it is a better work to reconcile the seeming diversities of Scripture, than the real dissensions of nearest friends, I shall assay in three following Discourses to perform that Office.
+
+</font>
+
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

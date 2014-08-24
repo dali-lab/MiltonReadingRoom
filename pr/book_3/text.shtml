@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Paradise Regain'd: Book 3</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+		
+			<div id="headerPR">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Paradise Regain'd</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="">Paradise Regain'd: Book 3</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="../title/text.shtml">Title Page</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_1/text.shtml">Book 1</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_2/text.shtml">Book 2</a>
+					</li >
+					<li id="notLast">
+						<a href="../book_3/text.shtml"><b>Book 3</b></a>
+					</li>
+					<li>
+						<a href="../book_4/text.shtml">Book 4</a>
+					</li>
+				</ul>
+			</div>
+			
+<div id="container">
+
+<div id="content" class="lengthyWork">
+<div class="title">                     
+
+<h1 class="mhead">Paradise Regain'd</h1>
+
+<h2 class="msubhead">The Third Book</h2>
+</div>
+
+<div class="verse_epic">
+<p class="first">
+
+
+<span class="varspell" title="So"><span class="minitial">S</span>o</span> spake the Son of God, and Satan stood<br />
+A while as mute confounded what to say,<br />
+What to reply, confuted and <span class="varspell" title="convinced">convinc't</span><br />
+Of his weak arguing and fallacious drift;<br />
+
+At length collecting all his Serpent wiles,<span class="line" id="line5"> [ 5 ]</span><br />
+With soothing words <span class="varspell" title="renewed">renew'd</span>, him thus accosts.
+</p>
+<p>
+I see thou <span class="varspell" title="knowest">know'st</span> what is of use to know,<br />
+What best to say canst say, to do canst do;<br />
+Thy actions to thy words accord, thy words<br />
+
+To thy large heart give utterance due, thy heart<span class="line" id="line10"> [ 10 ]</span><br />
+<span class="varspell" title="Contains">Conteins</span> of good, wise, just, the perfect shape.<br />
+Should Kings and Nations from thy mouth consult,<br />
+Thy Counsel would be as the Oracle<br />
+<a href="" id="urim" class="annotBtn"><span class="mi">Urim</span> and <span class="mi">Thummim</span></a>, those oraculous gems<br />
+
+On Aaron's breast, or tongue of Seers old<span class="line" id="line15"> [ 15 ]</span><br />
+Infallible; or wert thou sought to deeds<br />
+That might require <span class="varspell" title="the">th'</span> array of war, thy skill<br />
+Of conduct would be such, that all the world<br />
+Could not sustain thy Prowess, or subsist<br />
+
+In <span class="varspell" title="battle">battel</span>, though against thy few in arms.<span class="line" id="line20"> [ 20 ]</span><br />
+These God-like <span class="varspell" title="Virtues">Vertues</span> wherefore dost thou hide?<br />
+Affecting private life, or more obscure<br />
+In savage Wilderness, wherefore deprive<br />
+All Earth her wonder at thy acts, thy self<br />
+
+The fame and glory, glory the reward<span class="line" id="line25"> [ 25 ]</span><br />
+That sole excites to high attempts the flame<br />
+Of most erected Spirits, most <span class="varspell" title="tempered">temper'd</span> pure<br />
+<span class="varspell" title="Ethereal">&AElig;thereal</span>, who all pleasures else despise,<br />
+All treasures and all gain esteem as dross,<br />
+
+And dignities and powers, all but <a href="" id="cicero" class="annotBtn">the highest?</a><span class="line" id="line30"> [ 30 ]</span><br />
+<a href="" id="thirty" class="annotBtn">Thy years</a> are ripe, and over-ripe, the Son<br />
+Of <span class="mi">Macedonian Philip</span> had <span class="varspell" title="ere">e're</span> these<br />
+<a href="" id="son" class="annotBtn">Won <span class="mi">Asia</span></a> and the Throne of <span class="mi">Cyrus</span> held<br />
+At his dispose, young <span class="mi">Scipio</span> had brought down<br />
+
+The <span class="mi">Carthaginian</span> pride, young <span class="mi">Pompey</span> <span class="varspell" title="quelled">quell'd</span><span class="line" id="line35"> [ 35 ]</span><br />
+The <span class="mi">Pontic</span> king and in triumph had rode.<br />
+Yet years, and to ripe years judgment mature,<br />
+Quench not the thirst of glory, but augment.<br />
+Great <span class="mi">Julius</span>, whom now all the world admires<br />
+
+The more he grew in years, the more <span class="varspell" title="inflamed">inflam'd</span><span class="line" id="line40"> [ 40 ]</span><br />
+With glory, wept that he had <span class="varspell" title="lived">liv'd</span> so long<br />
+Inglorious: but thou yet art not too late.
+</p>
+<p>
+To whom our <span class="varspell" title="Savior">Saviour</span> calmly thus <span class="varspell" title="replied">reply'd</span>.<br />
+Thou neither dost <span class="varspell" title="persuade">perswade</span> me to seek wealth<br />
+
+For <span class="varspell" title="Empire's">Empires</span> sake, nor Empire to affect<span class="line" id="line45"> [ 45 ]</span><br />
+For <span class="varspell" title="glory's">glories</span> sake by all thy argument.<br />
+For what is glory but the blaze of fame,<br />
+The <span class="varspell" title="people's">peoples</span> praise, if always praise <span class="varspell" title="unmixed">unmixt</span>?<br />
+And what the people but a herd <span class="varspell" title="confused">confus'd</span>,<br />
+
+A miscellaneous rabble, who <span class="varspell" title="extoll">extol</span><span class="line" id="line50"> [ 50 ]</span><br />
+Things vulgar, <span class="varspell" title="and">&amp;</span> well <span class="varspell" title="weighed">weigh'd</span>, scarce worth the praise,<br />
+They praise and they admire they know not what;<br />
+And know not whom, but as one leads the other;<br />
+And what delight to be by such <span class="varspell" title="extolled">extoll'd</span>,<br />
+
+To live upon <span class="varspell" title="their">thir</span> tongues and be <span class="varspell" title="their">thir</span> talk,<span class="line" id="line55"> [ 55 ]</span><br />
+Of whom to be <span class="varspell" title="dispraised">disprais'd</span> were no small praise?<br />
+His lot who dares be singularly good.<br />
+<span class="varspell" title="The">Th'</span> intelligent among them and the wise<br />
+Are few, and glory scarce of few is <span class="varspell" title="raised">rais'd</span>.<br />
+
+This is true glory and renown, when God<span class="line" id="line60"> [ 60 ]</span><br />
+Looking on the Earth, with approbation marks<br />
+The just man, and <a href="" id="divulge" class="annotBtn">divulges</a> him through Heaven<br />
+To all his Angels, who with true applause<br />
+Recount his praises; thus he did to <span class="mi">Job</span>,<br />
+
+When to extend his fame through Heaven <span class="varspell" title="and">&amp;</span> Earth,<span class="line" id="line65"> [ 65 ]</span><br />
+As thou to thy reproach <span class="varspell" title="mayest">mayst</span> well remember,<br />
+He <span class="varspell" title="asked">ask'd</span> thee, <a href="" id="hast" class="annotBtn">hast thou seen my servant <span class="mi">Job</span>?</a><br />
+Famous he was in Heaven, on Earth less known;<br />
+Where glory is false glory, attributed<br />
+
+To things not glorious, men not worthy of fame.<span class="line" id="line70"> [ 70 ]</span><br />
+They err who count it glorious to subdue<br />
+By Conquest far and wide, to over-run<br />
+Large Countries, and in field great <span class="varspell" title="Battles">Battels</span> win,<br />
+Great Cities by assault: what do these <a href="" id="Worthies" class="annotBtn">Worthies</a>,<br />
+
+But rob and spoil, burn, slaughter, and enslave<span class="line" id="line75"> [ 75 ]</span><br />
+Peaceable Nations, <span class="varspell" title="neighboring">neighbouring</span> or remote,<br />
+Made Captive, yet deserving freedom more<br />
+<span class="varspell" title="Than">Then</span> those <span class="varspell" title="their">thir</span> <span class="varspell" title="Conqueror">Conquerours</span>, who leave behind<br />
+Nothing but ruin <span class="varspell" title="wheresoever">wheresoe're</span> they rove,<br />
+
+And all the flourishing works of peace destroy,<span class="line" id="line80"> [ 80 ]</span><br />
+Then swell with pride, and must be <span class="varspell" title="titled">titl'd</span> Gods,<br />
+Great Benefactors of mankind, Deliverers,<br />
+<span class="varspell" title="Worshipped">Worship't</span> with Temple, Priest, and Sacrifice;<br />
+One is the <a href="" id="divine" class="annotBtn">Son of <span class="mi">Jove</span></a>, of <span class="mi">Mars</span> the other,<br />
+
+Till <span class="varspell" title="Conqueror">Conquerour</span> Death discover them scarce men,<span class="line" id="line85"> [ 85 ]</span><br />
+<span class="varspell" title="Rolling">Rowling</span> in brutish <a href="" id="vice" class="annotBtn">vices</a>, and <span class="varspell" title="deformed">deform'd</span>,<br />
+Violent or shameful death <span class="varspell" title="their">thir</span> due reward.<br />
+But if there be in glory aught of good,<br />
+It may by means far different be <span class="varspell" title="attained">attain'd</span><br />
+
+Without ambition, war, or violence;<span class="line" id="line90"> [ 90 ]</span><br />
+By deeds of peace, by wisdom eminent,<br />
+By patience, temperance; I mention still<br />
+Him whom thy wrongs with Saintly patience <span class="varspell" title="borne">born</span>,<br />
+Made famous in a Land and times obscure;<br />
+
+Who names not now with <span class="varspell" title="honor">honour</span> patient <span class="mi">Job</span>?<span class="line" id="line95"> [ 95 ]</span><br />
+Poor <a href="" id="unjust" class="annotBtn"><span class="mi">Socrates</span></a>, (who next more memorable?)<br />
+By what he taught and <span class="varspell" title="suffered">suffer'd</span> for so doing,<br />
+For <span class="varspell" title="truth's">truths</span> sake suffering death unjust, lives now<br />
+Equal in fame to proudest <span class="varspell" title="Conquerors">Conquerours</span>.<br />
+
+Yet if for fame and glory aught be done,<span class="line" id="line100"> [ 100 ]</span><br />
+Aught <span class="varspell" title="suffered">suffer'd</span>; if <a href="" id="african" class="annotBtn">young <span class="mi">African</span></a> for fame<br />
+His wasted Country freed from <span class="mi">Punic</span> rage,<br />
+The deed becomes <span class="varspell" title="unpraised">unprais'd</span>, the man at least,<br />
+And loses, though but verbal, his reward.<br />
+
+Shall I seek glory then, as vain men seek<span class="line" id="line105"> [ 105 ]</span><br />
+Oft not <span class="varspell" title="deserved">deserv'd</span>?  <a href="" id="ihis" class="annotBtn">I seek not mine, but his</a><br />
+Who sent me, and thereby witness whence I am.
+</p>
+<p>
+To whom the Tempter murmuring thus <span class="varspell" title="replied">reply'd</span>.<br />
+Think not so slight of glory: therein least<br />
+
+Resembling thy great Father: <a href="" id="seeks" class="annotBtn">he seeks glory</a>,<span class="line" id="line110"> [ 110 ]</span><br />
+And for his glory all things made, all things<br />
+Orders and governs, nor content in Heaven<br />
+By all his Angels <span class="varspell" title="glorified">glorifi'd</span>, requires<br />
+Glory from men, from all men good or bad,<br />
+
+Wise or unwise, no difference, no exemption;<span class="line" id="line115"> [ 115 ]</span><br />
+Above all Sacrifice, or <span class="varspell" title="hallowed">hallow'd</span> gift<br />
+Glory he requires, and glory he receives<br />
+Promiscuous from all Nations, Jew, or Greek,<br />
+Or <a href="" id="barb" class="annotBtn">Barbarous</a>, nor exception hath <span class="varspell" title="declared">declar'd</span>;<br />
+
+From us his foes <span class="varspell" title="pronounced">pronounc't</span> glory he exacts.<span class="line" id="line120"> [ 120 ]</span>
+</p>
+<p>
+To whom our <span class="varspell" title="Savior">Saviour</span> fervently <span class="varspell" title="replied">reply'd</span>.<br />
+And reason; since his word all things <span class="varspell" title="produced">produc'd</span>,<br />
+Though chiefly not for glory as prime end,<br />
+But to show forth his goodness, and impart<br />
+
+His good communicable to every soul<span class="line" id="line125"> [ 125 ]</span><br />
+Freely; of whom what could he less expect<br />
+<span class="varspell" title="Than">Then</span> glory and benediction, that is thanks,<br />
+The slightest, easiest, readiest <span class="varspell" title="recompense">recompence</span><br />
+From them who could return him nothing else,<br />
+
+And not returning that would likeliest render<span class="line" id="line130"> [ 130 ]</span><br />
+Contempt instead, <span class="varspell" title="dishonor">dishonour</span>, obloquy?<br />
+Hard recompense, <span class="varspell" title="unsuitable">unsutable</span> return<br />
+For so much good, so much beneficence.<br />
+But why should man seek glory? who of his own<br />
+
+Hath nothing, and to whom nothing belongs<span class="line" id="line135"> [ 135 ]</span><br />
+But condemnation, ignominy, and shame?<br />
+Who for so many benefits <span class="varspell" title="received">receiv'd</span><br />
+<span class="varspell" title="Turned">Turn'd</span> <a href="" id="recreant" class="annotBtn">recreant</a> to God, <a href="" id="ingrate" class="annotBtn">ingrate</a> and false,<br />
+And so of all true good himself <span class="varspell" title="despoiled">despoil'd</span>,<br />
+
+Yet, sacrilegious, to himself would take<span class="line" id="line140"> [ 140 ]</span><br />
+That which to God alone of right belongs;<br />
+Yet so much bounty is in God, such grace,<br />
+That who advance his glory, not <span class="varspell" title="their">thir</span> own,<br />
+Them he himself to glory will advance.
+</p>
+<p>
+So spake the Son of God; and here again<span class="line" id="line145"> [ 145 ]</span><br />
+Satan had not to answer, but stood struck<br />
+With guilt of his own sin, for he himself<br />
+Insatiable of glory had lost all,<br />
+Yet of another Plea bethought him soon.
+</p>
+<p>
+Of glory as thou wilt, said he, so deem,<span class="line" id="line150"> [ 150 ]</span><br />
+Worth or not worth the seeking, let it pass:<br />
+But to a Kingdom thou art born, <span class="varspell" title="ordained">ordain'd</span><br />
+To sit upon thy Father <span class="mi">David's</span> Throne;<br />
+<a href="" id="mom" class="annotBtn">By <span class="varspell" title="Mother's">Mothers</span> side</a> thy Father, though thy right<br />
+
+Be now in powerful hands, that will not part<span class="line" id="line155"> [ 155 ]</span><br />
+Easily from possession won with arms;<br />
+<span class="mi"><span class="varspell" title="Judaea">Jud&aelig;a</span></span> now and all the <span class="varspell" title="promised">promis'd</span> land<br />
+<span class="varspell" title="Reduced">Reduc't</span> a Province under <a href="" id="Roman" class="annotBtn">Roman</a> yoke,<br />
+<a href="" id="juda" class="annotBtn">Obeys <span class="mi">Tiberius</span></a>; nor is always <span class="varspell" title="ruled">rul'd</span><br />
+
+With temperate sway; oft have they violated<span class="line" id="line160"> [ 160 ]</span><br />
+<a href="" id="temple" class="annotBtn">The Temple</a>, oft the Law with foul affronts,<br />
+Abominations rather, as did once<br />
+<span class="mi">Antiochus</span>: and <span class="varspell" title="thinkest"> think'st</span> thou to regain<br />
+Thy right by sitting still or thus retiring?<br />
+
+So did not <a href="" id="macca" class="annotBtn"><span class="varspell" title="Maccabeus">Machabeus</span></a>: he indeed<span class="line" id="line165"> [ 165 ]</span><br />
+<span class="varspell" title="Retired">Retir'd</span> unto the Desert, but with arms;<br />
+And <span class="varspell" title="over">o're</span> a mighty King so oft <span class="varspell" title="prevailed">prevail'd</span><br />
+That by strong hand his Family <span class="varspell" title="obtained">obtain'd</span>,<br />
+Though Priests, the Crown, and <span class="mi">David's</span> Throne <span class="varspell" title="usurped">usurp'd</span>,<br />
+
+With <span class="mi">Modin</span> and her Suburbs once content.<span class="line" id="line170"> [ 170 ]</span><br />
+If Kingdom move thee not, let move thee Zeal,<br />
+And Duty; Zeal and Duty are not slow;<br />
+But on <a href="" id="forelock" class="annotBtn"><span class="varspell" title="Occasion's">Occasions</span> forelock</a> watchful wait.<br />
+They themselves rather are occasion best,<br />
+
+<a href="" id="line175" class="annotBtn">Zeal</a> of thy <span class="varspell" title="Father's">Fathers</span> house, Duty to free<span class="line" id="line175"> [ 175 ]</span><br />
+Thy Country from her Heathen servitude;<br />
+So shalt thou best fullfil, best <span class="varspell" title="verify">verifie</span><br />
+The Prophets old, who sung thy endless <span class="varspell" title="reign">raign</span>,<br />
+The happier <span class="varspell" title="reign">raign</span> the sooner it begins,<br />
+
+<span class="varspell" title="Reign">Raign</span> then; what canst thou better do the while?<span class="line" id="line180"> [ 180 ]</span>
+</p>
+<p>
+To whom our <span class="varspell" title="Savior">Saviour</span> answer thus <span class="varspell" title="returned">return'd</span>.<br />
+All things are best <span class="varspell" title="fulfilled">fulfil'd</span> in their <a href="" id="line182" class="annotBtn">due time</a>,<br />
+And time there is for all things, Truth hath said:<br />
+If of my <span class="varspell" title="reign">raign</span> <a href="" id="Prophetic" class="annotBtn">Prophetic</a> Writ hath told,<br />
+
+That it shall <a href="" id="line185" class="annotBtn">never end</a>, so when begin<span class="line" id="line185"> [ 185 ]</span><br />
+The Father in his purpose hath decreed,<br />
+He in whose hand all <a href="" id="line187" class="annotBtn">times and seasons</a> <span class="varspell" title="roll">roul</span>.<br />
+What if he hath decreed that I shall first<br />
+Be <span class="varspell" title="tried">try'd</span> in humble state, and things adverse,<br />
+
+By tribulations, injuries, insults,<span class="line" id="line190"> [ 190 ]</span><br />
+Contempts, and scorns, and snares, and violence;<br />
+Suffering, abstaining, quietly expecting<br />
+Without distrust or doubt, that he may know<br />
+What I can suffer, how obey?  who best<br />
+
+Can suffer, best can do; <a href="" id="muc" class="annotBtn">best reign</a>, who first<span class="line" id="line195"> [ 195 ]</span><br />
+Well hath <span class="varspell" title="obeyed">obey'd</span>; just <span class="varspell" title="trial">tryal</span> <span class="varspell" title="ere">e're</span> I merit<br />
+My exaltation without change or end.<br />
+But what concerns it thee when I begin<br />
+My everlasting Kingdom?  Why art thou<br />
+
+<span class="varspell" title="Solicitous">Sollicitous</span>,  what moves thy inquisition?<span class="line" id="line200"> [ 200 ]</span><br />
+<span class="varspell" title="Knowest">Know'st</span> thou not that my rising is thy fall,<br />
+And my promotion will be thy destruction?
+</p>
+<p>
+To whom the Tempter, <a href="" id="inly" class="annotBtn">inly <span class="varspell" title="racked">rackt</span></a> <span class="varspell" title="replied">reply'd</span>.<br />
+Let that come when it comes; all hope is lost<br />
+
+Of my reception into grace; what worse?<span class="line" id="line205"> [ 205 ]</span><br />
+For where no hope is left, is left no fear;<br />
+If there be worse, the expectation more<br />
+Of worse torments me <span class="varspell" title="than">then</span> the feeling can.<br />
+I would be at the worst; worst is my Port,<br />
+
+My <span class="varspell" title="harbor">harbour</span> and my ultimate repose,<span class="line" id="line210"> [ 210 ]</span><br />
+The end I would attain, my final good.<br />
+My error was my error, and my crime<br />
+My crime; whatever for itself <span class="varspell" title="condemned">condemn'd</span>,<br />
+And will alike be <span class="varspell" title="punished">punish'd</span>; whether thou<br />
+
+<span class="varspell" title="Reign">Raign</span> or <span class="varspell" title="reign">raign</span> not; though to that gentle brow<span class="line" id="line215"> [ 215 ]</span><br />
+Willingly I could fly, and hope thy <span class="varspell" title="reign">raign</span>,<br />
+From that <a href="" id="placid" class="annotBtn">placid aspect and meek regard</a>,<br />
+Rather <span class="varspell" title="than">then</span> aggravate my evil state,<br />
+Would stand between me and thy <span class="varspell" title="Father's">Fathers</span> ire,<br />
+
+(Whose ire I dread more <span class="varspell" title="than">then</span> the fire of Hell)<span class="line" id="line220"> [ 220 ]</span><br />
+A shelter and a kind of shading cool<br />
+Interposition, as a <span class="varspell" title="summer's">summers</span> cloud.<br />
+If I then to the worst that can be <span class="varspell" title="haste">hast</span>,<br />
+Why move thy feet so slow to what is best,<br />
+
+Happiest both to thy self and all the world,<span class="line" id="line225"> [ 225 ]</span><br />
+That thou who worthiest art <span class="varspell" title="shouldest">should'st</span> be <span class="varspell" title="their">thir</span> King?<br />
+Perhaps thou <span class="varspell" title="lingerest">linger'st</span> in deep thoughts <span class="varspell" title="detained">detain'd</span><br />
+Of the enterprize so hazardous and high;<br />
+No wonder, for though in thee be united<br />
+
+What of perfection can in man be found,<span class="line" id="line230"> [ 230 ]</span><br />
+Or human nature can receive, consider<br />
+Thy life hath yet been private, most part spent<br />
+At home, scarce <span class="varspell" title="viewed">view'd</span> the <span class="mi"><span class="varspell" title="Galilean">Gallilean</span></span> Towns,<br />
+And <a href="" id="line234" class="annotBtn">once a year <span class="mi">Jerusalem</span></a>, few days<br />
+
+Short sojourn; and what thence <span class="varspell" title="couldest">could'st</span> thou observe?<span class="line" id="line235"> [ 235 ]</span><br />
+The world thou hast not seen, much less her glory,<br />
+Empires, and Monarchs, and <span class="varspell" title="their">thir</span> radiant Courts,<br />
+Best school of best experience, quickest <a href="" id="sight" class="annotBtn">in sight</a><br />
+In all things that to greatest actions lead.<br />
+
+The wisest, <span class="varspell" title="unexperienced">unexperienc't</span>, will be ever<span class="line" id="line240"> [ 240 ]</span><br />
+Timorous and <span class="varspell" title="loath">loth</span>, with novice modesty,<br />
+(As <a href="" id="line242" class="annotBtn">he who seeking Asses found a Kingdom</a>)<br />
+Irresolute, unhardy, <span class="varspell" title="unadventurous">unadventrous</span>:<br />
+But I will bring thee where thou soon shalt quit<br />
+
+Those <a href="" id="rudiments" class="annotBtn">rudiments</a>, and see before thine eyes<span class="line" id="line245"> [ 245 ]</span><br />
+The <a href="" id="line246" class="annotBtn">Monarchies of the Earth</a>, <span class="varspell" title="their">thir</span> pomp and state,<br />
+Sufficient introduction to inform<br />
+Thee, of thy self so apt, in regal Arts,<br />
+And regal Mysteries; that thou <span class="varspell" title="mayest">may'st</span> know<br />
+
+How best their opposition to withstand.<span class="line" id="line250"> [ 250 ]</span>
+</p>
+<p>
+<a name="niphates">With</a> that (such power was <span class="varspell" title="given">giv'n</span> him then) he took<br />
+The Son of God up to <a href="" id="line252" class="annotBtn">a Mountain high</a>.<br />
+It was a Mountain at whose verdant feet<br />
+A <span class="varspell" title="spacious">spatious</span> plain <span class="varspell" title="outstretched">outstretch't</span> in circuit wide<br />
+
+Lay pleasant; from his side <a href="" id="line255" class="annotBtn">two rivers</a> <span class="varspell" title="flowed">flow'd</span>,<span class="line" id="line255"> [ 255 ]</span><br />
+<span class="varspell" title="The">Th'</span> one winding, <span class="varspell" title="the">th'</span> other <span class="varspell" title="straight">strait</span>, and left between<br />
+Fair <a href="" id="line257" class="annotBtn">Champain</a> with less rivers <span class="varspell" title="interveined">interveind</span>,<br />
+Then meeting <span class="varspell" title="joined">joyn'd</span> <span class="varspell" title="their">thir</span> tribute to the Sea:<br />
+<span class="varspell" title="Fertile">Fertil</span> of corn the <a href="" id="line259" class="annotBtn">glebe</a>, of <span class="varspell" title="oil">oyl</span> and wine,<br />
+
+With herds the pastures <span class="varspell" title="thronged">throng'd</span>, with flocks the hills,<span class="line" id="line260"> [ 260 ]</span><br />
+Huge Cities and high <span class="varspell" title="towered"> towr'd</span>, that well might seem<br />
+The seats of mightiest Monarchs, and so large<br />
+The Prospect was, that here and there was room<br />
+For barren desert fountainless and dry.<br />
+
+To this high mountain top the Tempter brought<span class="line" id="line265"> [ 265 ]</span><br />
+Our <span class="varspell" title="Savior">Saviour</span>, and new <a href="" id="train" class="annotBtn">train of words</a> began.
+</p>
+<p>
+Well have we speeded, and <span class="varspell" title="over">o're</span> hill and dale,<br />
+Forest and field, and flood, <a name="templesandtowres">Temples and Towers</a><br />
+Cut shorter many a league;  here thou <span class="varspell" title="beholdest">behold'st</span><br />
+
+<span class="mi">Assyria</span> and her <span class="varspell" title="Empire's">Empires</span> <span class="varspell" title="ancient">antient</span> bounds,<span class="line" id="line270"> [ 270 ]</span><br />
+<a href="" id="line271" class="annotBtn"><span class="mi">Araxes</span></a> and the <span class="mi">Caspian</span> lake, thence on<br />
+As far as <span class="mi">Indus</span> East, <span class="mi">Euphrates</span> West,<br />
+And oft beyond; to South the <span class="mi">Persian</span> Bay,<br />
+And inaccessible the <span class="mi">Arabian</span> <a href="" id="drouth" class="annotBtn">drouth</a>:<br />
+
+Here <a href="" id="line275" class="annotBtn"><span class="mi">Ninevee</span></a>, of length within her wall<span class="line" id="line275"> [ 275 ]</span><br />
+Several days journey, built by <span class="mi">Ninus</span> old,<br />
+Of that first golden Monarchy the seat,<br />
+And seat of <a href="" id="Salmanassar" class="annotBtn"><span class="mi">Salmanassar</span></a>, whose success<br />
+<span class="mi">Israel</span> in long captivity still mourns;<br />
+
+There <a href="" id="Babylon" class="annotBtn"><span class="mi">Babylon</span></a> the wonder of all tongues,<span class="line" id="line280"> [ 280 ]</span><br />
+As <span class="varspell" title="ancient">antient</span>, but rebuilt by <a href="" id="line281" class="annotBtn">him who twice</a><br />
+<span class="mi">Judah</span> and all thy Father <span class="mi">David's</span> house<br />
+Led captive, and <span class="mi">Jerusalem</span> laid waste,<br />
+Till <a href="" id="Cyrus" class="annotBtn"><span class="mi">Cyrus</span></a> set them free; <a href="" id="Persepolis" class="annotBtn"><span class="mi">Persepolis</span></a><br />
+
+His city there thou seest, and <a href="" id="Bactra" class="annotBtn"><span class="mi">Bactra</span></a> there;<span class="line" id="line285"> [ 285 ]</span><br />
+<span class="mi">Ecbatana</span> her structure vast there <span class="varspell" title="shows">shews</span>,<br />
+And <a href="" id="Hecatompylos" class="annotBtn"><span class="mi">Hecatompylos</span></a> her <span class="varspell" title="hundred">hunderd</span> gates,<br />
+There <a href="" id="Susa" class="annotBtn"><span class="mi">Susa</span></a> by <span class="mi">Choaspes</span>, amber stream,<br />
+The <a href="" id="drink" class="annotBtn">drink of none but Kings</a>; of later fame<br />
+
+Built by <a href="" id="Emathian" class="annotBtn"><span class="mi">Emathian</span></a>, or by <span class="mi">Parthian</span> hands,<span class="line" id="line290"> [ 290 ]</span><br />
+The great <a href="" id="line289" class="annotBtn"><span class="mi">Seleucia</span></a>, <span class="mi">Nisibis</span>, and there<br />
+<span class="mi">Artaxata</span>, <span class="mi">Teredon</span>, <span class="mi">Tesiphon</span>,<br />
+Turning with <span class="varspell" title="easy">easie</span> eye thou <span class="varspell" title="mayest">may'st</span> behold.<br />
+All these the <span class="mi">Parthian</span>, now some Ages past,<br />
+
+By great <a href="" id="Arsaces" class="annotBtn"><span class="mi">Arsaces</span></a> led, who founded first<span class="line" id="line295"> [ 295 ]</span><br />
+That Empire, under his dominion holds<br />
+From the luxurious Kings of <span class="mi">Antioch</span> won.<br />
+And just in time thou <span class="varspell" title="comest">com'st</span> to have a view<br />
+Of his great power; for now the <span class="mi">Parthian</span> king<br />
+
+In <span class="mi">Ctesiphon</span> hath <span class="varspell" title="gathered">gather'd</span> all his Host<span class="line" id="line300"> [ 300 ]</span><br />
+Against the <span class="mi">Scythian</span>, whose incursions wild<br />
+Have wasted <span class="mi">Sogdiana</span>; to her aid<br />
+He marches now in <span class="varspell" title="haste">hast</span>;  see, though from far,<br />
+His thousands, in what martial equipage<br />
+
+They issue forth, Steel Bows, and Shafts their arms,<span class="line" id="line305"> [ 305 ]</span><br />
+Of equal dread in flight, or in pursuit;<br />
+All Horsemen, in which fight they most excel;<br />
+See how in warlike muster they appear,<br />
+In <a href="" id="line309" class="annotBtn">Rhombs</a> and wedges, and half-moons, and wings.
+</p>
+<p>
+He <span class="varspell" title="looked">look't</span> and saw what numbers numberless<span class="line" id="line310"> [ 310 ]</span><br />
+The City gates out <span class="varspell" title="poured">powr'd</span>, light armed Troops<br />
+In coats of Mail and military pride;<br />
+In Mail <span class="varspell" title="their">thir</span> horses clad, yet fleet and strong,<br />
+<span class="varspell" title="Prancing">Prauncing</span> their riders bore, the flower and choice<br />
+
+Of many Provinces from bound to bound;<span class="line" id="line315"> [ 315 ]</span><br />
+From <a href="" id="line316" class="annotBtn"><span class="mi">Arachosia</span></a>, from <a href="" id="Candaor" class="annotBtn"><span class="mi">Candaor</span></a> East,<br />
+And <span class="mi">Margiana</span> to the <span class="mi">Hyrcanian</span> cliffs<br />
+Of <span class="mi">Caucasus</span>, and dark <span class="mi">Iberian</span> dales,<br />
+From <span class="mi">Atropatia</span> and the <span class="varspell" title="neighboring">neighbouring</span> plains<br />
+
+Of <span class="mi">Adiabene</span>, <span class="mi">Media</span>, and the South<span class="line" id="line320"> [ 320 ]</span><br />
+Of <span class="mi">Susiana</span>, to <span class="mi">Balsara's</span> <span class="varspell" title="haven">hav'n</span>.<br />
+He saw them in <span class="varspell" title="their">thir</span> forms of <span class="varspell" title="battle">battell</span> <span class="varspell" title="ranged">rang'd</span>,<br />
+How quick they <span class="varspell" title="wheeled">wheel'd</span>, and flying behind them shot<br />
+Sharp sleet of <a href="" id="line323" class="annotBtn"><span class="varspell" title="arrowy">arrowie</span> showers</a> against the face<br />
+
+Of <span class="varspell" title="their">thir</span> pursuers, and overcame by flight;<span class="line" id="line325"> [ 325 ]</span><br />
+The field all iron cast a gleaming brown,<br />
+Nor wanted clouds of foot, nor on each <a href="" id="line327" class="annotBtn">horn</a>,<br />
+<a href="" id="line328" class="annotBtn">Cuirassiers</a> all in steel for standing fight;<br />
+Chariots or Elephants <a href="" id="line329" class="annotBtn"><span class="varspell" title="endorsed">endorst</span> with Towers</a><br />
+
+Of Archers, nor of <span class="varspell" title="laboring">labouring</span> <a href="" id="line330" class="annotBtn"><span class="varspell" title="Pioneers">Pioners</span></a><span class="line" id="line330"> [ 330 ]</span><br />
+A multitude with Spades and Axes <span class="varspell" title="armed">arm'd</span><br />
+To lay hills plain, fell woods, or valleys fill,<br />
+Or where plain was raise hill, or <span class="varspell" title="overlay">over-lay</span><br />
+With bridges rivers proud, as with a yoke;<br />
+
+Mules after these, Camels and Dromedaries,<span class="line" id="line335"> [ 335 ]</span><br />
+And <span class="varspell" title="Wagons">Waggons</span> fraught with Utensils of war.<br />
+Such forces met not, nor so wide a camp,<br />
+When <a href="" id="line338" class="annotBtn"><span class="mi">Agrican</span></a> with all his Northern powers<br />
+<span class="varspell" title="Besieged">Besieg'd</span> <span class="mi">Albracca</span>, as Romances tell;<br />
+
+The City of <span class="mi">Gallaphrone</span>, from thence to win<span class="line" id="line340"> [ 340 ]</span><br />
+The fairest of her Sex <span class="mi">Angelica</span><br />
+His daughter, sought by many Prowest Knights,<br />
+Both <span class="mi">Paynim</span>, and the Peers of <span class="mi"><span class="varspell" title="Charlemagne">Charlemane</span></span>.<br />
+Such and so numerous was <span class="varspell" title="their">thir</span> <span class="varspell" title="Chivalry">Chivalrie</span>;<br />
+
+At sight whereof the Fiend yet more <span class="varspell" title="presumed">presum'd</span>,<span class="line" id="line345"> [ 345 ]</span><br />
+And to our <span class="varspell" title="Savior">Saviour</span> thus his words <span class="varspell" title="renewed">renew'd</span>.
+</p>
+<p>
+That thou <span class="varspell" title="mayest">may'st</span> know I seek not to engage<br />
+Thy <span class="varspell" title="Virtue">Vertue</span>, and not every way secure<br />
+On no slight grounds thy safety; hear, and mark<br />
+
+To what end I have brought thee hither and <span class="varspell" title="shown">shewn</span><span class="line" id="line350"> [ 350 ]</span><br />
+All this fair sight; thy Kingdom though foretold<br />
+By Prophet or by Angel, unless thou<br />
+<span class="varspell" title="Endeavor">Endeavour</span>, as thy Father <span class="mi">David</span> did,<br />
+Thou never shalt obtain; prediction still<br />
+
+In all things, and all men, supposes means,<span class="line" id="line355"> [ 355 ]</span><br />
+Without means <span class="varspell" title="used">us'd</span>, what it predicts revokes.<br />
+But say thou <span class="varspell" title="wert">wer't</span> <span class="varspell" title="possessed">possess'd</span> of <span class="mi">David's</span> Throne<br />
+By free consent of all, none <a href="" id="line358" class="annotBtn">opposite</a>,<br />
+<a href="" id="Samaritan" class="annotBtn"><span class="mi">Samaritan</span></a> or <span class="mi">Jew</span>; how <span class="varspell" title="couldest">could'st</span> thou hope<br />
+
+Long to enjoy it quiet and secure,<span class="line" id="line360"> [ 360 ]</span><br />
+Between two such enclosing enemies<br />
+<span class="mi">Roman</span> and <span class="mi">Parthian</span>?  Therefore <a name="choice">one</a> of these<br />
+Thou must make sure thy own, the <span class="mi">Parthian</span> first,<br />
+<a href="" id="line366" class="annotBtn">By my advice</a>, as nearer and of late<br />
+
+Found able by invasion to annoy<span class="line" id="line365"> [ 365 ]</span><br />
+Thy country, and captive lead away her Kings<br />
+<span class="mi">Antigonus</span>, and old <span class="mi">Hyrcanus</span> bound,<br />
+Maugre the <span class="mi">Roman</span>: it shall be my task<br />
+To render thee the <span class="mi">Parthian</span> at dispose;<br />
+
+<span class="varspell" title="Choose">Chuse</span> which thou wilt, by conquest or by league.<span class="line" id="line370"> [ 370 ]</span><br />
+By him thou shalt regain, without him not,<br />
+That which alone can truly reinstall thee<br />
+In <span class="mi">David's</span> royal <a href="" id="seat" class="annotBtn">seat</a>, his true <span class="varspell" title="Successor">Successour</span>,<br />
+<a href="" id="deliverance" class="annotBtn">Deliverance of thy brethren</a>, those <a href="" id="line374" class="annotBtn">ten Tribes</a><br />
+
+Whose <span class="varspell" title="offspring">off-spring</span> in his Territory yet serve<span class="line" id="line375"> [ 375 ]</span><br />
+In <a href="" id="Habor" class="annotBtn"><span class="mi">Habor</span></a>, and among the <span class="mi">Medes</span> <span class="varspell" title="dispersed">dispers't</span>,<br />
+Ten Sons of <span class="mi">Jacob</span>, <a href="" id="joseph" class="annotBtn">two of <span class="mi">Joseph</span></a> lost<br />
+Thus long from <span class="mi">Israel</span>; serving as of old<br />
+<span class="varspell" title="Their">Thir</span> Fathers in the land of <span class="mi">Egypt</span> <span class="varspell" title="served">serv'd</span>,<br />
+
+This offer sets before thee to deliver.<span class="line" id="line380"> [ 380 ]</span><br />
+These if from servitude thou shalt restore<br />
+To <span class="varspell" title="their">thir</span> inheritance, then, nor till then,<br />
+Thou on the Throne of <span class="mi">David</span> in full glory,<br />
+<a href="" id="line384" class="annotBtn">From <span class="mi">Egypt</span> to <span class="mi">Euphrates</span></a> and beyond<br />
+
+Shalt <span class="varspell" title="reign">raign</span>, and <span class="mi">Rome</span> or <span class="mi"><span class="varspell" title="Caesar">C&aelig;sar</span></span> not need fear.<span class="line" id="line385"> [ 385 ]</span>
+</p>
+<p>
+To whom our <span class="varspell" title="Savior">Saviour</span> <span class="varspell" title="answered">answer'd</span> thus <span class="varspell" title="unmoved">unmov'd</span>.<br />
+Much ostentation vain of <a href="" id="line387" class="annotBtn">fleshly arm</a>,<br />
+And <a href="" id="fragile" class="annotBtn">fragile arms</a>, much instrument of war<br />
+Long in preparing, soon to nothing brought,<br />
+
+Before mine eyes thou hast set; and in my ear<span class="line" id="line390"> [ 390 ]</span><br />
+Vented much policy, and projects deep<br />
+Of enemies, of aids, <span class="varspell" title="battles">battels</span> and leagues,<br />
+Plausible to the world, to me worth naught.<br />
+Means I must use thou <span class="varspell" title="sayest">say'st</span>, prediction else<br />
+
+Will unpredict and fail me of the Throne:<span class="line" id="line395"> [ 395 ]</span><br />
+<a href="" id="line397" class="annotBtn">My time</a> I told thee (and that time for thee<br />
+Were better farthest off) is not yet come;<br />
+When that comes think not thou to find me slack<br />
+On my part aught <span class="varspell" title="endeavoring">endeavouring</span>, or to need<br />
+
+Thy politic maxims, or that cumbersome<span class="line" id="line400"> [ 400 ]</span><br />
+Luggage of war there <span class="varspell" title="shown">shewn</span> me, argument<br />
+Of human weakness rather <span class="varspell" title="than">then</span> of strength.<br />
+My brethren, as thou <span class="varspell" title="callest">call'st</span> them, those Ten Tribes<br />
+I must deliver, if I mean to <span class="varspell" title="reign">raign</span><br />
+
+<span class="mi">David's</span> true heir, and his full Scepter sway<span class="line" id="line405"> [ 405 ]</span><br />
+To just extent over all <span class="mi">Israel's</span> Sons;<br />
+But whence to thee this zeal,  where was it then<br />
+For <span class="mi">Israel</span>, or for <span class="mi">David</span>, or his Throne,<br />
+When thou <span class="varspell" title="stoodest">stood'st</span> up his Tempter to the pride<br />
+
+Of <a href="" id="line412" class="annotBtn"><span class="varspell" title="numbering">numbring</span> <span class="mi">Israel</span></a>, which cost the lives<span class="line" id="line410"> [ 410 ]</span><br />
+Of threescore and ten thousand <span class="mi">Israelites</span><br />
+By three <span class="varspell" title="day's">days</span> Pestilence?  Such was thy zeal<br />
+To <span class="mi">Israel</span> then, the same that now to me.<br />
+As for those <a name="liberty">captive</a> Tribes, themselves were they<br />
+
+Who wrought their own captivity, fell off<span class="line" id="line415"> [ 415 ]</span><br />
+From God to <a href="" id="line417" class="annotBtn">worship Calves</a>, the Deities<br />
+Of <span class="mi">Egypt</span>, <a href="" id="baal" class="annotBtn"><span class="mi">Baal</span></a> next and <span class="mi">Ashtaroth</span>,<br />
+And all the Idolatries of Heathen round,<br />
+Besides <span class="varspell" title="their">thir</span> other worse <span class="varspell" title="than">then</span> heathenish crimes;<br />
+
+Nor in the land of their captivity<span class="line" id="line420"> [ 420 ]</span><br />
+Humbled themselves, or penitent besought<br />
+The God of <span class="varspell" title="their">thir</span> <span class="varspell" title="forefathers">fore-fathers</span>; but so <span class="varspell" title="died">dy'd</span><br />
+Impenitent, and <a href="" id="race" class="annotBtn">left a race behind</a><br />
+Like to themselves, distinguishable scarce<br />
+
+From <span class="varspell" title="Gentiles">Gentils</span> but by Circumcision vain,<span class="line" id="line425"> [ 425 ]</span><br />
+And God with Idols in their worship <span class="varspell" title="joined">joyn'd</span>.<br />
+Should I of these the liberty regard,<br />
+Who freed, as to their <span class="varspell" title="ancient">antient</span> Patrimony,<br />
+<span class="varspell" title="Unhumbled">Unhumbl'd</span>, unrepentant, <span class="varspell" title="unreformed">unreform'd</span>,<br />
+
+Headlong would follow; and to <span class="varspell" title="their">thir</span> Gods perhaps<span class="line" id="line430"> [ 430 ]</span><br />
+Of <span class="mi">Bethel</span> and of <span class="mi">Dan</span>?  No, let them serve<br />
+<span class="varspell" title="Their">Thir</span> enemies, who serve Idols with God.<br />
+Yet he at length, time to himself best known,<br />
+<span class="varspell" title="Remembering">Remembring</span> <span class="mi">Abraham</span>, by some <span class="varspell" title="wondrous">wond'rous</span> call<br />
+
+May bring them back repentant and sincere,<span class="line" id="line435"> [ 435 ]</span><br />
+And at their passing cleave the <span class="mi">Assyrian</span> flood,<br />
+While to their native land with joy they <span class="varspell" title="haste">hast</span>,<br />
+As the <a href="" id="cleft" class="annotBtn">Red Sea and <span class="mi">Jordan</span> once he cleft</a>,<br />
+When to the <span class="varspell" title="promised">promis'd</span> land <span class="varspell" title="their">thir</span> Fathers <span class="varspell" title="passed">pass'd</span>;<br />
+
+To his due time and providence I leave them.<span class="line" id="line440"> [ 440 ]</span>
+</p>
+<p>
+So spake <span class="mi">Israel's</span> true King, and to the Fiend<br />
+Made answer meet, that made void all his wiles.<br />
+So fares it when with truth <span class="varspell" title="falsehood">falshood</span> contends.</p>
+</div>
+
+<br /><br />
+
+<div class="title">
+<span class="mi">The End of the Third Book.</span>
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+</body> 
+</html> 

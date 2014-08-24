@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Sylvarum Liber: Mansus</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Sylvarum Liber</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Sylvarum Liber: Mansus</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin</a>
+					</li>
+					<li id="notLast">
+						<a href="" id="English">English</a>
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						Texts
+					</li>
+					<li id="notLast">
+						<a href="../anno_16/text.shtml">Anno &aelig;tatis 16</a>
+					</li>
+					<li id="notLast">
+						<a href="../novembris/text.shtml">In Quintus <br>Novembris</a>
+					</li>
+					<li id="notLast">
+						<a href="../ely/text.shtml">Anno &aelig;tatis 17</a>
+					</li>
+					<li id="notLast">
+						<a href="../naturam/text.shtml">Naturam non pati senium</a>
+					</li>
+					<li id="notLast">
+						<a href="../idea/text.shtml">De Idea Platonica</a>
+					</li>
+					<li id="notLast">
+						<a href="../patrem/text.shtml">Ad Patrem</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_114/text.shtml">Psalm 114</a>
+					</li>
+					<li id="notLast">
+						<a href="../philosophus/text.shtml">Philosophus ad <br>regem</a>
+					</li>
+					<li id="notLast">
+						<a href="../salsillum/text.shtml">Ad Salsillum</a>
+					</li>
+					<li id="notLast">
+						<a href="../mansus/text.shtml"><b>Mansus</b></a>
+					</li>
+					<li class="newGroup">
+						<a href="../../effigy/text.shtml">Additions in <i>Poems</i> (1673)</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">Mansus</a></p>
+
+
+<div class="verse_latin">
+<p>
+<span class="margument">Joannes Baptista Mansus Marchio Villensis vir ingenii laude, tum literarum studio, nec non &amp; bellic&acirc; virtute apud Italos clarus in primis est.  Ad quem Torquati Tassi dialogus extat de Amiciti&acirc; scriptus; erat enim Tassi amicissimus; ab quo etiam inter Campani&aelig; principes celebratur, in illo poemate cui titulus</span> <span class="booktitle"><span class="reversem">Gerusalemme conquistata</span></span>, lib. 20.
+</p>
+
+<blockquote>
+Fra cavalier magnanimi, &egrave; cortesi <br />
+Risplende il Manso &mdash;
+</blockquote>
+<p>
+<span class="margument">Is authoruem Neapoli commorantem summ&acirc; benevolenti&acirc; prosecutus est, multaque ei detulit humanitatus officia.  Ad hunc itaque hospes ille antequam ab e&acirc; urbe discederet, ut ne ingratum se ostenderet, hoc carmen misit.</span>
+</p>
+<br>
+
+
+
+<p class="first">
+
+<span class="varspell" title="Haec"><span>H</span>&aelig;c</span> quoque Manse tu&aelig; meditantur carmina laudi<br />
+Pierides, tibi Manse choro notissime Ph&oelig;bi,<br />
+Quandoquidem ille alium haud &aelig;quo est dignatus honore<br />
+Post Galli cineres, &amp; Mec&aelig;natis Hetrusci.<br />
+Tu quoque si nostr&aelig; tant&ugrave;m valet aura Camoen&aelig;,<span class="line" id="line5"> [ 5 ]</span><br />
+Victrices hederas inter, laurosque sedebis.<br />
+Te pridem magno felix concordia Tasso<br />
+Junxit, &amp; &aelig;ternis inscripsit nomina chartis.<br />
+Mox tibi dulciloquum non inscia Musa Marinum<br />
+Tradidit, ille tuum dici se gaudet alumnum,<span class="line" id="line10"> [ 10 ]</span><br />
+Dum canit Assyrios div&ucirc;m prolixus amores;<br />
+Mollis &amp; Ausonias stupesecit carmine nymphas.<br />
+Ille itidem moriens tibi solis debita vates<br />
+Ossa tibi soli, supremaque vota reliquit.<br />
+Nec manes pietas tua chara fefellit amici,<span class="line" id="line15"> [ 15 ]</span><br />
+Vidimus arridentem operoso ex &aelig;re poetam,<br />
+Nec fatis hoc visum est in utrumque, &amp; nec pia cessant<br />
+Officia in tumulo, cupis integros rapere Orco,<br />
+Qu&agrave; potes, atque avidas Parcarum eludere leges:<br />
+Amborum genus, &amp; vari&acirc; sub sorte peractam<span class="line" id="line20"> [ 20 ]</span><br />
+Describis vitam, moresque, &amp; dona Minerv&aelig;;<br />
+&AElig;mulus illius Mycalen qui natus ad altam<br />
+Rettulit &AElig;olii vitam facundus Homeri.<br />
+Erg ego te Cli&ucirc;s &amp; magni nomine Ph&oelig;bi<br />
+Manse pater, jubeo longum salvere per &aelig;vum<span class="line" id="line25"> [ 25 ]</span><br />
+Miffus Hyperboreo juvenis peregrinus ab axe.<br />
+Nec tu longinquam bonus aspernabere Musam,<br />
+Qu&aelig; nuper gelid&acirc; vix enutrita sub Arcto<br />
+Imprudens Italas ausa est volitare per urbes.<br />
+Nos etiam in nostro modulantes flumine cygnos<span class="line" id="line30"> [ 30 ]</span><br />
+Credimus obscuras noctis sensisse per umbras,<br />
+Qu&agrave; Thamesis lat&egrave; puris argenteus urnis<br />
+Oceani glaucos perfundit gurgite crines.<br />
+Quin &amp; in has quondam pervenit Tityrus oras.<br />
+Sed neque nos genus incultum, nec inutile Ph&oelig;bo,<span class="line" id="line35"> [ 35 ]</span><br />
+Qu&agrave; plaga septeno mundi sulcata Trione<br />
+Brumalem patitur long&acirc; sub nocte Bo&ouml;ten.<br />
+Nos etiam colimus Ph&oelig;bum, nos munera Ph&oelig;bo<br />
+Flaventes spicas, &amp; lutea mala canistris,<br />
+Halantemque crocum (perhibet nisi vana vetustas)<span class="line" id="line40"> [ 40 ]</span><br />
+Misimus, &amp; lectas Druidum de gente choreas.<br />
+(Gens Gruides antiqua sacris operata deorum<br />
+Heroum laudes imitandaque gesta canebant)<br />
+Hinc quoties festo cingunt altaria cantu<br />
+Delo in herbos&acirc; Grai&aelig; de more puell&aelig;<span class="line" id="line45"> [ 45 ]</span><br />
+Carminibus l&aelig;tis memorant Corine&iuml;da Loxo,<br />
+Fatidicamque Upin, cum flavicom&acirc; Heca&euml;rge<br />
+Nuda Caledonio variatas pectora fuco.<br />
+Fortunate senex, ergo quacunque per orbem<br />
+Torquati decus, &amp; nomen celebrabitur ingens,<span class="line" id="line50"> [ 50 ]</span><br />
+Claraque perpetui succrescet fama Marini,<br />
+Tu quoque in ora frequens venies plausumque virorum<br />
+Et parili carpes iter immortale volatu.<br />
+Dicetur tum sponte tuos habitasse penates<br />
+Cynthius, &amp; famulas venisse ad limina Musas:<span class="line" id="line55"> [ 55 ]</span><br />
+At non sponte domum tamen idem, &amp; regis adivit<br />
+Rura Pheretiad&aelig; c&aelig;lo fugitivus Apollo;<br />
+Ille licet magnum Alciden susceperat hospes;<br />
+Tant&ugrave;m ubi clamosos placuit vitare bubulcos,<br />
+Nobile mansueti cessit Chironis in antrum<span class="line" id="line60"> [ 60 ]</span><br />
+Irriguos inter saltus frondosaque tecta<br />
+Peneium prope rivum: ibi s&aelig;pe sub ilice nigr&acirc;<br />
+Ad cithar&aelig; strepitum bland&acirc; prece victus amici<br />
+Exilii duros lenibat voe labores.<br />
+Tum neque ripa suo, barathro nec fixa sub imo,<span class="line" id="line65"> [ 65 ]</span><br />
+Saxa stetere loco, nutat Trachinia rupes,<br />
+Nec sentit solitas, immania pondera, silvas,<br />
+Emot&aelig;que suis properant de collibus orni,<br />
+Mulcenturque novo maculosi carmine lynces.<br />
+Diis dilecte senex, te Jupiter &aelig;quus oportet<span class="line" id="line70"> [ 70 ]</span><br />
+Nascentem, &amp; miti lustrarit lumine Ph&oelig;bus,<br />
+Atlantisque nepos; neque enim nisi charus ab ortu<br />
+Diis superis poterit magno favisse poet&aelig;.<br />
+Hinc long&aelig;va tibi lento sub flore senectus<br />
+Vernat, &amp; &AElig;sonios lucratur vivida fusos,<span class="line" id="line75"> [ 75 ]</span><br />
+Nondum deciduos servans tibi frontis honores,<br />
+Ingeniumque vigens, &amp; adultum mentis acumen.<br />
+O mihi si mea sors talem concedat amicum<br />
+Ph&oelig;b&aelig;os decor&acirc;sse viros qui tam bene norit,<br />
+Si quando indigenas revocabo in carmina reges,<span class="line" id="line80"> [ 80 ]</span><br />
+Arturumque etiam sub terris bella moventem;<br />
+Aut dicam invict&aelig; sociali f&oelig;dere mens&aelig;,<br />
+Magnanimos Heroas, &amp; (O modo spiritus <a href="" id="adsit" class="annotBtn">ad sit</a>)<br />
+Frangam Saxonicas Britonum sub Marte phalanges.<br />
+Tandem ubi non tacit&aelig; permensus tempora vit&aelig;,<span class="line" id="line85"> [ 85 ]</span><br />
+Annorumque satur cineri sua jura relinquam,<br />
+Ille mihi lecto madids astaret ocellis,<br />
+Astanti sat erit si dicam sim tibi cur&aelig;;<br />
+Ille meos artus liventi morte solutos<br />
+Curaret parv&acirc; componi molliter urn&acirc;.<span class="line" id="line90"> [ 90 ]</span><br />
+Forsitan &amp; nostros ducat d marmore vultus,<br />
+Nectens aut Paphi&acirc; myrti aut Parnasside lauri<br />
+Fronde comas, at ego secur&acirc; pace quiescam.<br />
+Tum quoque, si qua sides, si pr&aelig;mia certa bonorum,<br />
+Ipse ego c&aelig;licol&ucirc;m semotus in &aelig;thera div&ucirc;m,<span class="line" id="line95"> [ 95 ]</span><br />
+Qu&ograve; labor &amp; mens pura vehunt, atque ignea virtus<br />
+Secreti h&aelig;c aliqu&acirc; mundi de parte videbo<br />
+(Quantum fata sinunt) &amp; tot&acirc; mente seren&ugrave;m<br />
+Ridens purpureo suffundar lumine vultus<br />
+Et simul &aelig;thereo plandam mihi l&aelig;tus Olympo.<span class="line" id="line100"> [ 100 ]</span>
+</p>
+</div>
+</div>
+
+<div id="alternateContent">
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">Manso</a>
+</p>
+<div class="verse_latin">
+
+<p>
+<span class="margument"><a href="" id="manso" class="annotBtn">Giovanni Battista Manso</a>, Marquis of Villa, is a man in the first rank of renown among the Italians by reason not merely of his genius in literary pursuits, but also of his military valor. There is extant a dialogue on friendship addressed to him by <a href="" id="manso" class="annotBtn">Torquato Tasso</a>, whose devoted friend he was, and by whom he is also celebrated among the nobles of Campania in that poem entitled</span> <span class="booktitle"><span class="reversem">Gerusalemme Conquistata</span></span>, book 20:</p>
+<blockquote>
+ Fra cavalier magnanimi &egrave; cortesi<br />
+ Risplende il Manso . . .
+</blockquote> 
+<p>
+<span class="margument"><a href="" id="honored" class="annotBtn">Manso honored the present author</a> during his stay in Naples with the greatest kindness, and did him many acts of courtesy. Therefore, that he might not seem ungrateful, his guest before he left the city, sent him this poem.</span>
+</p>
+<br>
+<p class="first">
+<span class="varspell" title="These"><span>T</span>hese</span> verses too, Manso, the <a href="" id="pierides" class="annotBtn">Pierides</a> intend for your praise, for you, Manso, already so well-known to Phoebus's choir, seeing that he has deemed scarce another worthy of equal honor since the deaths of <a href="" id="gallus" class="annotBtn">Gallus and Etruscan Maecenas</a>. If the breath of my Muse as much avails, you too shall sit among the victor's ivy and laurels. Happy friendship once joined you with <a href="" id="tasso" class="annotBtn">great Tasso</a>, and inscribed your names on everlasting pages. Afterward the knowing Muse delivered to you sweet-tongued <a href="" id="marino" class="annotBtn">Marino</a>, who rejoiced to be called your foster-son, while he sang at great length the Assyrian loves of the gods, and gently stupefied the <a href="" id="ausonian" class="annotBtn">Ausonian nymphs</a> with song. So this poet when dying left to you alone his doomed bones, to you alone his latest wishes. Nor has your loving piety deceived the shade of your friend, for we see the poet smiling from the wrought bronze. But in the case of neither poet did this seem enough; your pious offices did not cease at the tomb, for, wishing to snatch them unharmed from Orcus, and, as far as you could, to cheat the greedy laws of the Fates, you described the ancestry of both, their lives harassed by varying fortune, their characters, and their gifts from <a href="" id="minerva" class="annotBtn">Minerva</a>. You were emulous of him, the <a href="" id="mycale" class="annotBtn">eloquent one born on high Mycale</a>, who related the life of Aeolian Homer. Therefore, father Manso, in the name of <a href="" id="clio" class="annotBtn">Clio</a> and of mighty Phoebus, I, a youthful traveler sent from beneath the Hyperborean heaven, wish you good health through a long life. You are kind and will not spurn a foreign Muse, which, but sparely nourished under the frozen Bear, of late has indiscreetly ventured to fly through the cities of Italy. Methinks through the dusky shades of night I too have heard the swans singing in our own river, where silvery Thames with clear urns lets her gleaming locks flow wide in the waters of ocean. Indeed <a href="" id="tityrus" class="annotBtn">Tityrus</a> once came to these shores. But we, a race that through long nights endures the wintry Bo&ouml;tes in that region of the world that is furrowed by the <a href="" id="triones" class="annotBtn">sevenfold Triones</a>, we are not untaught and useless to Phoebus. We even worship Phoebus, and &mdash; unless age renders void the tale &mdash; we have sent him gifts, yellowing ears, rosy apples in baskets, crocuses breathing fragrance, and troops of maidens chosen from the <a href="" id="druid" class="annotBtn">Druid race</a>. The Druids, an ancient people skilled in the rites of the gods, used to sing the praises of heroes and their emulable deeds. Hence as often as they circle the altars in festive song, as is their wont, the Greek maidens on grassy Delos in joyful verses commemorate <a href="" id="loxo" class="annotBtn">Corinedian Loxo</a>, prophetic Upis, with yellow-haired Heca&euml;rge, their bare breasts stained with <a href="" id="paint" class="annotBtn">Caledonian paint</a>. Therefore, <a href="" id="senex" class="annotBtn">fortunate old man</a>, wherever Torquato's glory and great name shall be celebrated throughout the world, wherever the brilliant fame of enduring <a href="" id="marino2" class="annotBtn">Marino</a> waxes, your praises too will frequently be on men's lips, and flying by their side you shall enjoy their immortal flight. Then will it be said that <a href="" id="cynthius" class="annotBtn">Cynthius</a> of his own accord has dwelt in your house, and the attendant Muses come as handmaids to your threshold; yet it was not of his own free will that the same Apollo came, a fugitive from heaven, to the farm of <a href="" id="pherae" class="annotBtn">King Pheretiades</a>, even though that host had received <a href="" id="alcides" class="annotBtn">great Alcides</a>. When he wished as much as possible to avoid the noisy plowmen, he retired to the wellknown cave of gentle <a href="" id="chiron" class="annotBtn">Chiron</a> amid well-watered pastures and leafy shelters beside the river Peneus. There, won by his friend's flattering desire, he used often under the dark <a href="" id="ilex" class="annotBtn">ilex</a> to lighten the hard labors of exile with a song to the sound of the cithern. Then neither the banks nor the rocks in the lowest chasm beneath stood fixed in their places; the <a href="" id="trachinian" class="annotBtn">Trachinian cliff</a> tottered, nor longer felt the usual weight of its forests; the mountain ash-trees, uprooted, hastened from their hills; and the spotted lynxes were soothed by the new song. Aged man, beloved of the gods, Jupiter must have been friendly to you at birth; Phoebus and the grandson of Atlas must have shone with kindly light; for no one, unless he were dear to the gods above from his birth, could have befriended a great poet. Hence your old age blooms with lingering flowers, and, still full of life, has the benefit of the Aesonian spindles, keeping the honors of your brow still unshed, your genius flourishing, and the keenness of your mind in its prime. If ever I recall in song my native kings, and <a href="" id="arthur" class="annotBtn">Arthur</a> setting wars in motion even beneath the earth; if ever I tell of the high-souled heroes in the virtuous friendship of the <a href="" id="table" class="annotBtn">invincible Table</a>; and &mdash; let the spirit be present to aid me &mdash; if ever I break the Saxon phalanxes with British war; then may my lot grant me such a friend, one who knows so well how to honor the sons of Phoebus. At last when I had measured the span of a life not mute, and, full of years, should leave to ashes their due, with tear-stained eyes he would stand by my bed; and as he stood there I need only say: "Let me be under thy care." He would provide that my limbs, relaxed in livid death, be gently gathered in a little urn. Perchance he would also draw my features from marble, binding the locks on my brow with <a href="" id="myrtle" class="annotBtn">Paphian myrtle</a> or with laurel of Parnassus, and I should rest in peace secure. Then, if there be any faith, and if there be sure rewards for the righteous, I myself, removed to the ethereal realms of the heaven-dwelling gods, whither labor, a pure mind, and ardent courage convey us, even I shall see these things from some part of that secret world &mdash; as the Fates permit &mdash; and with mind all serene, my smiling face suffused with a <a href="" id="purpureus" class="annotBtn">rosy light</a>, I shall joyfully clap my hands on ethereal Olympus. 
+</p>
+
+</div>
+</div>
+
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+</body> 
+</html> 

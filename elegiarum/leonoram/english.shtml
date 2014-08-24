@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<!--Copyright 2008-2010, all rights reserved-->
+
+<title>Milton: To Leonora Singing in Rome</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">To Leonora Singing in Rome</a>
+</p>
+<br />
+
+<div class="verse_latin">
+
+<p class="first">
+
+Each man &mdash; so the nations believe &mdash; is given a guardian angel with protective wings.  Why marvel then, Leonora, if you have even a greater privilege?  After all, the sound of your voice declares the presence of God.  God &mdash; or at least the <a href="" id="thirdmind" class="annotBtn">third mind</a> &mdash; having left heaven, hides in your throat and slowly accustoms people to immortal sounds.  If God is in all things and is everywhere, he still speaks only through you, while he remains silent in everyone else.</p>
+</div>
+</body>
+</html>
+

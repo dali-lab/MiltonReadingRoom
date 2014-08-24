@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Sonnets: 12</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Sonnets</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1673"><i>Poems</i> (1673)</a> > <a href="">Sonnets: 12</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						From <i>Poems</i> (1645)
+					</li>
+					<li id="notLast">
+						<a href="../sonnet_1/text.shtml">1</a>, 
+						<a href="../sonnet_2/text.shtml">2</a>,
+						<a href="../sonnet_3/text.shtml">3</a>,
+						<a href="../canzone/text.shtml">Canzone</a>
+					</li>	
+					<li id="notLast">
+						<a href="../sonnet_4/text.shtml">4</a>, 
+						<a href="../sonnet_5/text.shtml">5</a>,
+						<a href="../sonnet_6/text.shtml">6</a>,
+						<a href="../sonnet_7/text.shtml">7</a>
+					</li>
+					<li id="notLast">
+						<a href="../sonnet_8/text.shtml">8</a>, 
+						<a href="../sonnet_9/text.shtml">9</a>,
+						<a href="../sonnet_10/text.shtml">10</a>
+					</li>
+					<li id="notLast" class="navHeader">
+						From <i>Poems</i> (1673)
+					</li>
+					<li id="notLast">
+						<a href="../sonnet_11/text.shtml">11</a>, 
+						<a href="../sonnet_12/text.shtml"><b>12</b></a>,
+						<a href="../sonnet_13/text.shtml">13</a>,
+						<a href="../sonnet_14/text.shtml">14</a>
+					</li>
+					<li id="notLast">
+						<a href="../sonnet_18/text.shtml">18</a>, 
+						<a href="../sonnet_19/text.shtml">19</a>,
+						<a href="../sonnet_20/text.shtml">20</a>,
+						<a href="../sonnet_21/text.shtml">21</a>
+					</li>
+					<li id="notLast">
+						<a href="../sonnet_23/text.shtml">23</a>
+					</li>
+					<li id="notLast" class="navHeader">
+						Uncollected Sonnets
+					</li>
+					<li id="notLast">
+						<a href="../sonnet_15/text.shtml">15</a>, 
+						<a href="../sonnet_16/text.shtml">16</a>,
+						<a href="../sonnet_17/text.shtml">17</a>,
+						<a href="../sonnet_22/text.shtml">22</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">Sonnet 12<br />On the Same</a></p>
+
+<div class="verse">
+<p>
+I did but prompt the age to quit their <a href="" id="cloggs" class="annotBtn"><span class="varspell" title="clogs">cloggs</span></a><br />
+<span class="mindent">By the <a href="" id="knownrules" class="annotBtn">known rules</a> of <span class="varspell" title="ancient">antient</span> libertie,</span><br />
+<span class="mindent">When <span class="varspell" title="straight">strait</span> a barbarous noise environs me</span><br />
+<span class="mindent"> Of <span class="varspell" title="Owls">Owles</span> and <span class="varspell" title="Cuckoos">Cuckoes</span>, Asses, Apes and <span class="varspell" title="Dogs">Doggs</span>.</span>
+</p>
+<p>
+As when those Hinds that were <a href="" id="frogs" class="annotBtn"><span class="varspell" title="transformed">transform'd</span> to <span class="varspell" title="Frogs">Froggs</span></a><span class="line" id="line5"> [ 5 ]</span><br />
+<span class="mindent"><span class="varspell" title="Railed">Raild</span> at <span class="mi">Latona's</span> twin-born <span class="varspell" title="progeny">progenie</span></span><br />
+<span class="mindent">Which after held the Sun and Moon <a href="" id="infee" class="annotBtn">in fee</a>.</span><br />
+<span class="mindent">But this is got by <a href="" id="pearls" class="annotBtn">casting Pearl to <span class="varspell" title="Hogs">Hoggs</span></a>;</span>
+</p>
+<p>
+That <span class="varspell" title="bawl">bawle</span> for freedom in their <span class="varspell" title="senseless">senceless</span> mood,<br />
+<span class="mindent"><a href="" id="variant1" class="annotBtn">And</a> still revolt when <a href="" id="free" class="annotBtn">truth would set them free</a>.</span><span class="line" id="line10"> [ 10 ]</span><br />
+<span class="mindent"><a href="" id="licence" class="annotBtn">Licence</a> they mean when they cry <span class="varspell" title="liberty">libertie</span>;</span>
+</p>
+<p>
+For who loves that, must first be wise and good;<br />
+<span class="mindent">But from that mark how far they <span class="varspell" title="rove">roave</span> we see</span><br />
+<span class="mindent">For all this <span class="varspell" title="waste">wast</span> of wealth, and loss of blood.</span>
+</p>
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+</body> 
+</html> 

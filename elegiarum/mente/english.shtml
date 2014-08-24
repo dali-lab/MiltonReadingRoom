@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<!--Copyright 2003-2011, all rights reserved-->
+
+<title>Milton: haec ego mente</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title">
+<a href="" id="intro" class="annotBtn">[A Postscript on the Elegies]</a>
+</p>
+<br />
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="These"><span class="minitial">T</span>hese</span> lines are the worthless reminders of my flippancy, which I once composed in low and vile foolishness.  Mischievous error seduced me and led me to it; also my youth&mdash;a vicious teacher.  Until <a href="" id="shady" class="annotBtn">the shady Academy</a> offered its Socratic streams, and taught me how to loosen the yoke I had been wearing.  From then on the flames were quenched.  My heart is now frozen, surrounded by ice, so that even Cupid fears his arrows might freeze, and Venus fears the strength of a Diomedes.</p>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Paradise Lost: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oranienbaum' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../../miltonNav.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+		
+	</head>
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+
+			<div id="headerPL">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span><br><span id="poemBanner">Paradise Lost</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="">Paradise Lost: Introduction</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="../intro/text.shtml"><b>Introduction</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../note/text.shtml">Front Matter</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_1/text.shtml">Book 1</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_2/text.shtml">Book 2</a>
+					</li >
+					<li id="notLast">
+						<a href="../book_3/text.shtml">Book 3</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_4/text.shtml">Book 4</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_5/text.shtml">Book 5</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_6/text.shtml">Book 6</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_7/text.shtml">Book 7</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_8/text.shtml">Book 8</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_9/text.shtml">Book 9</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_10/text.shtml">Book 10</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_11/text.shtml">Book 11</a>
+					</li>
+					<li>
+						<a href="../book_12/text.shtml">Book 12</a>
+					</li>
+				</ul>
+			</div>
+			
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+<div class="editorial">
+
+<a id="top" name="top"></a><h3 class="subsubhead">Introduction Topics:  <a href="#genre">[Genre]</a> <a href="#god">[God]</a>  <a href="#marriage">[Marriage] </a><a href="#son">[The Son]</a><a href="#knowledge">[Knowledge]</a> <a href="#cosmology">[Cosmology]</a><a href="#publication">[Publication History]</a></h3>
+
+
+<a id="genre" name="genre"></a><h3 class="subsubhead">"Answerable Style": The Genre of <cite>Paradise Lost</cite></h3>
+<p class="firstNoCaps">
+In his <a href="../../bibliography/l-m/text.shtml#clive_lewis" target="main"><cite>Preface to Paradise Lost</cite></a>, C. S. Lewis wrote, "Every poem can be considered in two ways &mdash; as what the poet has to say, and as a thing which he makes. From the one point of view it is an expression of opinions and emotions; from the other, it is an organization of words which exists to produce a particular kind of patterned experience in the readers" (2). Genre, therefore, is important not only as a mode of framing a story, but also as a model that produces expectations in readers. In Book 2 of <cite>The Reason of Church Government</cite>, Milton declares his desire to write a great work that will serve to glorify England as earlier poets had glorified their native lands and cultures: "what the greatest and choycest wits of Athens, Rome, or modern Italy, and those Hebrews of old did for their country, I in my proportion with this over and above of being a Christian, might doe for mine" (<a href="../../reason/book_2/text.shtml#choycest" target="main"><cite>RCG</cite> 2</a>). He declares his intention to write in English rather than another language such as Latin, and then ponders what genre to adopt: epic, tragic, or lyric (<a href="../../reason/book_2/text.shtml#Time" target="main"><cite>RCG</cite> 2</a>). These three genres of poetry have existed since ancient Greece, and by Milton's time they carried with them a set of connotations and expectations that most educated people recognized. Milton's concern about which genre to choose, therefore, was not simply a matter of seeking the perfect medium for his story, but the anxiety of a writer seeking to place himself within a centuries-old poetic tradition.
+</p>
+<p>
+In deciding to write an epic, Milton consciously places himself in the tradition of prior epic writers, such as the ancients Homer and Virgil, and the Medieval and Renaissance poets Dante, Tasso, Ariosto, and Spenser. By doing this, he raises specific sets of expectations both for himself and for readers. Formally, <cite>Paradise Lost</cite> contains many classical and Renaissance epic conceits: it begins<em> in medias res</em>; it concerns heavenly and earthly beings and the interactions between them; it uses conventions such as epic similes, catalogues of people and places, and invocations to a muse; and it contains themes common to epics, such as war, nationalism, empire, and stories of origin.
+</p>
+<p>
+Milton's range of variations on epic conventions contribute to <cite>Paradise Lost</cite>'s stunning effects. Unlike classics such as the <cite>Iliad</cite> and the <cite>Aeneid</cite>, <cite>Paradise Lost</cite> has no easily identified hero. The most Achilles-like character in the poem is Satan, whom Milton surrounds with "epic matter and motivations, epic genre conventions, and constant allusions to specific passages in famous heroic poems" (Barbara Lewalski, <a href="../../bibliography/l-m/text.shtml#barbara_lewalski" target="main"><cite>Paradise Lost and the Rhetoric of Literary Forms</cite></a> 55). Critics and writers such as William Blake and Percy Bysshe Shelley believed Satan to be the hero of <cite>Paradise Lost</cite>. Yet the problems inherent in viewing Satan as a hero have led modern critics to reject this idea. As Lewalski writes, "by measuring Satan against the heroic standards, we become conscious of the inadequacy and fragility of all the heroic virtues celebrated in literature, of the susceptibility of them all to demonic perversion" (78). 
+</p>
+<p>
+Another possibility for the hero of <cite>Paradise Lost</cite> is the Son of God, but although he is an important force in the poem, the story is not ultimately about him. The most likely possibility, therefore, is Adam. Adam resembles Aeneas in many respects: he is the father of a new race, responsible for founding civilization on earth. But unlike Aeneas, Adam's primary heroic act is not heroic at all: it is the first act of disobedience. The heroism celebrated in Book 9 as "Patience and Heroic Martyrdom" stands in stark contrast to traditional epic heroism (<a href="../book_9/text.shtml#line30" target="main"><cite >PL</cite> 31-2</a>). Is Adam's disobedience an indictment of traditional heroism? If the quiet Adam is the true hero of <cite>Paradise Lost</cite>, and Satan with all his heroic oratory is not, then Milton is simultaneously entering into a dialogue with previous works about the nature of heroism, reconfiguring the old model, and effectively redefining notions of heroism for his seventeenth-century English Protestant audience. 
+</p>
+
+<p>
+The hero is not the only epic tradition to be reconfigured in <cite>Paradise Lost</cite>; the poem also plays on readers' expectations about epic form. Although it most resembles an epic, <cite>Paradise Lost</cite> contains elements of many other genres: there are elements of lyric poetry, including the pastoral mode, as in the descriptions of Paradise, the conversations between the unfallen Adam and Eve, and their joyful prayers to God in the Garden (<a href="../book_4/text.shtml#line585" target="main"><cite>PL</cite> 4.589-735</a>). There is an aubade (<a href="../book_5/text.shtml#line135" target="main"><cite>PL</cite> 5.136-208</a>), a type of symposium (Raphael's visit, <cite>PL</cite> 5-8), and examples of georgic verse (<a href="../book_4/text.shtml#line615" target="main"><cite>PL</cite> 4.618-33</a>, <a href="../book_5/text.shtml#line205" target="main">5.209-19</a>, <a href="../book_9/text.shtml#line205" target="main">9.205-225</a>). There are also elements of tragedy, as in Book 9 when Milton, preparing his readers for the fall, writes, "I now must change / Those Notes to Tragic," and continues throughout the book to employ tragic conventions, as when he apostrophizes Eve (<a href="../book_9/text.shtml#line400" target="main"><cite>PL</cite> 9.404-411</a>) and describes the earth's response to the eating of the fruit (<a href="../book_9/text.shtml#line780" target="main"><cite>PL</cite> 9.782-4</a> and <a href="../book_9/text.shtml#line1000" target="main">9.1000-4</a>). Throughout the poem Milton makes use of soliloquy, another tragic convention. And even the ten-book structure of the 1667 edition, according to John Leonard, "might owe something to English tragedy, forming five dramatic acts of two books each" (<a href="../../bibliography/l-m/text.shtml#john_leonard" target="main">Introduction to <cite>PL</cite></a> xi). In fact, Milton's first attempts to write the story of man's fall took the form of a tragedy that he later rejected in favor of epic. Scott Elledge writes that Milton favored tragedy because of its "affective and curative powers," which are no less present in <cite>Paradise Lost</cite> than in his more formal tragedy, <cite>Samson Agonistes</cite> (<a href="../../bibliography/c-e/text.shtml#scott_elledge" target="main">Introduction to <cite>PL</cite> </a>xxvi). As Barbara Lewalski writes, the incorporation of multiple genres into the poem invites us "to identify certain patterns and certain poems as subtexts for portions of Milton's poem, and then to attend to the completion or transformation of those allusive patterns as the poem proceeds" (20). 
+</p>
+<p>
+<em>Cordelia Zukerman and Thomas H. Luxon</em>
+</p>
+
+<p class="firstNoCaps">
+<a href="#top"><i>Return to the list of topics</i></a>
+</p>
+<br />
+
+<a id="god" name="god"></a><h3 class="subsubhead">"Things invisible to mortal sight": Milton's God</h3>
+<p class="firstNoCaps">
+Unlike the gods and goddesses of classical epics, whose desires and disagreements often mirror those of humans, Milton's God is invisible and omnipresent, a being who cannot be considered an individual so much as an existence. Milton's underlying claim in <cite>Paradise Lost</cite> is that he has been inspired by his heavenly muse with knowledge of things unknowable to fallen humans. His dilemma of how to describe God to the reader resembles the archangel Raphael's dilemma of how to "relate / To human sense th'invisible exploits" of the angels in Heaven (<a href="../book_5/text.shtml#line560" target="main"><cite>PL</cite> 5.564-5</a>). Like Raphael, Milton solves the problem by expressing the infinite in terms of the tangible by portraying God as if he were an individual, when he is really something much greater. Therefore, although Milton credits God with speech and with enough form that the Son can sit "on his right," everything relating to God in <cite>Paradise Lost</cite> should be understood as a kind of metaphor, a device used to place the divine in human terms (<a href="../book_3/text.shtml#line60" target="main"><cite>PL</cite> 3.62</a>).
+</p>
+
+	<p>
+Perhaps because of the contradictions inherent in the attribution of human characteristics to a divine being, Milton's portrayal of God has been a frequent subject of debate among scholars and critics. Milton presents God as a harsh and uncompromising judge over his subjects, hardly the figure one would expect a poet to present whose goal is to "justifie the wayes of God to men" (<a href="../book_1/text.shtml#line25" target="main"><cite>PL</cite> 1.26</a>). C. S. Lewis explains the aversion that readers often feel towards Milton's God by blaming the modern reader: "Many of those who say they dislike Milton's God only mean that they dislike God: infinite sovereignty, by its very nature, includes wrath also" (126). But Milton seems to be doing more than merely portraying the Christian God; he is, according to William Empson, "struggling to make his God appear less wicked than the traditional Christian one" (<a href="../../bibliography/c-e/text.shtml#william_empson" target="main"><cite>Milton's God</cite></a> 11). Perhaps this is why Milton's God often appears on the defensive, explaining again and again that his foreknowledge of the fall has nothing to do with fate: Adam and Eve fall of their own free will, not because God in any way decreed it (see <a href="../book_3/text.shtml" target="main">Argument to Book 3</a>, <a href="../book_3/text.shtml#line80" target="main">3.80-210</a>, and <a href="../book_10/text.shtml#line1" target="main">10.1-62</a>). This defensive tone is hardly becoming in an omnipotent deity, yet Milton needs to use it in order to justify God; hence the endless potential for contradiction in Milton's presentation of God (and those of many seventeenth-century writers as well). 
+</p>
+
+	<p>
+Empson and other critics also bring into question God's justice. The Romantic poet Percy Bysshe Shelley writes that Milton "alleged no superiority of moral virtue to his God over his Devil" (<a href="../../bibliography/r-s/text.shtml#percy_shelley" target="main"><cite>A Defense of Poetry</cite></a> 527). Empson agrees, writing that God's "apparently arbitrary harshness is intended to test us with baffling moral problems" (Empson 103), such as why a hierarchy is necessary in Heaven at all, or why God would establish a complex arrangement of demonic and angelic guards to prevent an adversary from traveling from Hell to Eden, only to call them off "as soon as [they] look like succeeding" (112). One can explain these problems by recalling that God does not simply want absolute obedience in his subjects, he wants the obedience of free beings. In his own words, "Not free, what proof could they have givn sincere / Of true allegiance, constant Faith or Love." (<a href="../book_3/text.shtml#line100" target="main"><cite>PL</cite> 3.103-4</a>). Yet at times, God's complexities do make him difficult to find trustworthy, while Satan's seemingly logical challenges to his authority are quite appealing.
+</p>
+
+<p>
+William Blake found Milton's depiction of God so far inferior to his depiction of Satan that he considered Milton to be an unwitting Satanist (Flannagan, <a href="../../bibliography/f-h/text.shtml#Flannagan" target="main"><cite>The Riverside Milton</cite></a> 322). There seems to be good evidence for it: God's language is "flat, uncolored, unmetaphorical," compared with Satan's vivid and inspiring rhetoric (321). But Stanley Fish presents a different theory: his thesis is that Milton deliberately lets Satan seduce not only Adam and Eve, but the reader as well. Fish writes, "The reading experience becomes the felt measure of man's loss" as the reader is first seduced by Satan's powerful and impressive logic, then slowly realizes that the logic is in fact twisted and nonsensical (<a href="../../bibliography/f-h/text.shtml#stanley_fish" target="main"><cite>Surprised by Sin</cite></a> 39). The reader emerges from the experience renewed with a greater sense of faith, which is the ultimate goal of the poem. 
+</p>
+
+<p>
+If we are not to trust Satan at all, however, then what should we make of Satan's enlightened questioning of God's authority? When contemplating the ascendancy of the Son, Satan says, "Who can in reason then or right assume / Monarchie over such as live by right / His equals, if in power and splendor less / In freedome equal?" (<a href="../book_5/text.shtml#line790" target="main"><cite>PL</cite> 5.794-7</a>). This argument in favor of equality and against monarchy would strike a familiar note among seventeenth-century readers who had so recently experienced the English Civil War. Milton had been a supporter of Cromwell and had strongly advocated the execution of Charles I in 1649 (see the Open University's site on the English <a href="http://www.open2.net/civilwar/index.html" target="main">Civil War 1625-1649</a>). Satan's doubts about God's authority seem based in republican values &mdash; values that Milton believed in and promoted through his writing &mdash; yet Milton consciously undermines those values by placing them in Satan's mouth. Paraphrasing Blair Worden, Lewalski writes that perhaps "Satan's rhetoric of republicanism signals Milton's profound disillusion with his own party and with political discourse generally" (466). But Lewalski herself thinks differently, pointing out the great difference between God's natural eminence and the "Stuart ideology of divine kingship" that created idols out of monarchs in the seventeenth century (469). She writes, "By demonstrating that there can be no possible parallel between earthly kings and divine kingship [Milton] flatly denies the familiar royalist analogies: God and King Charles, Satan and the Puritan rebels" (466).  Satan's doubts about God are unfounded and sinful, not because they are inherently evil, but because God is a true monarch whose authority should never be questioned.
+</p>
+<p>
+<em>Cordelia Zukerman and Thomas H. Luxon</em>
+</p>
+
+<p class="firstNoCaps">
+
+<a href="#top"><i>Return to the list of topics</i></a>
+</p>
+<br />
+
+<a id="marriage" name="marriage"></a><h3 class="subsubhead">"Haile wedded Love": Milton's Redefinition of Marriage</h3>
+<p class="firstNoCaps">John Milton's epic of theology and politics, heaven, hell, creation, free will, and redemption features a human relationship at its center. Paradise is lost after Adam chooses to disobey God, choosing, in Milton's imagination, Eve instead. Milton's Adam exclaims to Eve: "How can I live without thee, how forgoe / Thy sweet Converse and Love so dearly joyn'd" <a href="../BOOK_9/text.shtml#line905" target="main">(<cite>PL</cite> 9.908-9)</a>. In response to this choice, the Son demands: "Was shee thy God" <a href="../BOOK_10/text.shtml#line145" target="main">(<cite>PL</cite> 10.145)</a>? Why and how Milton chose to tell this story of human love challenging God's claim to unquestioning human obedience reveals the domestic sphere's emerging centrality to seventeenth century society and the extent to which theology mapped the course of its development. </p>
+
+<p>
+In Genesis, the story of Adam and Eve's fall is told in a single line: "she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat" (<a href="http://www.biblegateway.com/bible?passage=Genesis+3&amp;version=KJV" target="main">Genesis 3:6</a>). In <cite>Paradise Lost</cite>, Adam eats the fruit of knowledge two hundred fourteen lines after Eve. Milton imagines an intervening mental strife unequalled in the history of the world as Adam comes to choose love and death over rational knowledge of God. The story is no longer one of disobedience, but man's disobedience of God in favor of a human relationship. Critics argue that Milton struggles to define the ideal human relationship even as he views such bonds as inherently human flaws that distance the individual from God. The Adam of Genesis sins against God after Eve gives him the apple; the Adam of <cite>Paradise Lost</cite> sins against God not because of what Eve gives him, but because of what he needs of her. 
+</p>
+
+<p>
+The passages depicting Adam and Eve's marriage have long been used as "the key to unlocking Milton's attitudes toward gender and sexuality" (<a href="../../bibliography/C-E/text.shtml#gregory_chaplin" target="main"><cite>One Flesh, One Heart</cite></a> 266), but recent critical analysis suggests a greater "complexity of these issues in Milton's works" (<a href="../../bibliography/C-E/text.shtml#gregory_chaplin" target="main"><cite>One Flesh, One Heart</cite></a> 266). Gregory Chaplin argues that <cite>Paradise Lost</cite> is remarkable as a "stage… where [Milton]… has the opportunity to depict his ideal union" (<a href="../../bibliography/C-E/text.shtml#gregory_chaplin" target="main"><cite>One Flesh, One Heart</cite></a> 291), which is "a merger of Neoplatonic friendship and Christian marriage" (<a href="../../bibliography/C-E/text.shtml#gregory_chaplin" target="main"><cite>One Flesh, One Heart</cite></a> 291). Thomas Luxon elaborates on this theme when he states in <cite>Single Imperfection</cite> that Milton's "project" is "to redefine heteroerotic marriage using the terms and principles of classical friendship, and then to promote this newly dignified version of marriage as the originary human relation and, therefore, the bedrock of social and political culture in Protestant Christendom" (<a href="../../bibliography/L-M/text.shtml#luxon" target="main"><cite>Single Imperfection</cite></a> 1-2). Both critics view Milton's theology as inseparable from his understanding of human relationships. 
+</p>
+
+<p>
+Milton began theorizing in print about marriage with the publication of <cite>The Doctrine and Discipline of Divorce</cite> (<cite>DDD</cite>) in 1643 (see <a href="../../DDD/BOOK_1/notes.shtml" target="main">introduction</a> to <cite>The Milton Reading Room</cite> text). His argument was inspired both by personal experience and by extensive reading. His wife, Mary Powell, had returned to her father's household after less than two months of marriage in 1642; Milton was left alone with neither a spouse nor any prospect of remarriage. In addressing his loneliness, Milton argued "that the chief end God intended in marriage ‘was the cheerfull conversation of man with woman'" (<a href="../../bibliography/L-M/text.shtml#luxon" target="main"><cite>Single Imperfection</cite></a> 20, <a href="../../DDD/BOOK_1/text.shtml" target="main"><cite>DDD</cite></a> 1). Luxon argues that Milton tried to " redefine marriage as principally a conversation" (<a href="../../bibliography/L-M/text.shtml#luxon" target="main"><cite>Single Imperfection</cite></a> 149) in order to diminish the division between marriage and friendship. With this new emphasis, Milton illustrates a shift of focus from marriage for procreation and physical necessity and toward relationships that satisfy the desire for classical friendship and intellectual fulfillment. 
+</p>
+
+<p>
+Critics map these intermingled themes of marriage and friendship further in <cite>Paradise Lost</cite> and use them to follow Adam's development of human understanding culminating in the Fall. The newly created Adam desires any fit companion and laments "In solitude / What happiness, who can enjoy alone…?" (<a href="../BOOK_8/text.shtml#line360" target="main"><cite>PL</cite>8.364-5</a>). Thomas Luxon observes that Adam, unlike God, is incomplete without companionship, and this "single imperfection" (<a href="../BOOK_8/text.shtml#line420" target="main"><cite>PL</cite> 8.423</a>), unless it is overcome, will occasion mankind's downfall (<a href="../../bibliography/L-M/text.shtml#luxon" target="main"><cite>Single Imperfection</cite></a> 107), as the need for companionship will obstruct the rational choice to prefer obedience to God above other necessities. However, Luxon objects such a "fusion never succeeded and that Milton's attempt to reimagine marriage as a heteroerotic version of the classical homoerotic ideal resulted instead in a very uneasy and temporizing supersession of friendship by marriage" (<a href="../../bibliography/L-M/text.shtml#luxon" target="main"><cite>Single Imperfection</cite></a> 8). Luxon explains this conclusion by asserting: "Milton withholds from his marriage theories the linchpin of classical and humanist friendship doctrine &mdash; equality" (<a href="../../bibliography/L-M/text.shtml#luxon" target="main"><cite>Single Imperfection</cite></a> 2).
+</p>
+
+<p>
+	Adam's progression from loneliness, to inseparable devotion to a single partner, to his choice of Eve over God, is  a theme that Milton develops throughout his major poetic works. In <cite>Samson Agonistes</cite>, Milton's Samson "divorces his wife and resumes an intimacy, however vague, with God" (<a href="../../bibliography/L-M/text.shtml#luxon" target="main"><cite>Single Imperfection</cite></a> 2). In <cite>Paradise Regain'd</cite>, the Son develops theory into praxis as he "draws strength from solitude and emerges alone but not lonely, a man who has transformed the ‘single imperfection' of loneliness into the site of recovered manliness, liberty and godliness" (<a href="../../bibliography/L-M/text.shtml#luxon" target="main"><cite>Single Imperfection</cite></a> 2). As Luxon traces man's flaw through this series, he finds: "the Milton who desired citizenship in the kingdom of heaven wound up imagining his perfect man as solitary" (<a href="../../bibliography/L-M/text.shtml#luxon" target="main"><cite>Single Imperfection</cite></a> 192). 
+</p>
+
+<p>
+	Milton considers absence of carnal lust as one of the special attributes of prelapsarian marriage, but friendship alone cannot satisfy all of man's desires, despite the necessity of conversation. James Grantham Turner offers another explanation of this relationship in <cite>One Flesh: Paradisal Marriage and Sexual Relations in the Age of Milton</cite>: "Milton's ideal of married love should not therefore be thought of as a social drive or as a higher form of friendship, but as a private bonding of male and female suffused with erotic energy" (<a href="../../bibliography/T-Z/text.shtml#turner" target="main"><cite>One Flesh</cite></a> 207). Although Chaplin and Luxon argue that Milton will not "leave marriage as one sort of relationship (for utility and perhaps pleasure) and friendship another… Milton wants marriage <cite>itself</cite> to be redefined as a friendship of virtue" (<a href="../../bibliography/L-M/text.shtml#luxon" target="main"><cite>Single Imperfection</cite></a> 99, original emphasis), Milton also suggests that the ideal relationship requires the special bond offered by marriage: one person existing solely for another. Thus, while Adam condemns Eve's actions, he seeks no other companion: "Should God create another Eve, and I/ Another Rib afford yet loss of thee / Would never from my heart… and from thy State / Mine never shall be parted, bliss or woe" (<a href="../BOOK_9/text.shtml#line910" target="main"><cite>PL</cite> 9.911-16</a>). After the fall, however, lust quickly perverts the pure assertion of devotion and the wish for satisfying and instructive conversation: as "that false Fruit/9… Carnal desire enflaming" (<a href="../BOOK_9/text.shtml#line1010" target="main"><cite>PL</cite> 9.1011-13</a>). The fatal flaw left an opening for the more dangerous human carnal desires that would distort human relationships. In emphasizing the value of conversation, and other examples drawn from classical friendship, Milton suggests a way to recreate the purity and fulfillment of the original marriage in a postlapsarian world.
+</p>
+
+<p>
+<em>Sara Silverstein and Thomas H. Luxon</em>
+</p>
+
+<p class="firstNoCaps">
+<a href="#top"><i>Return to the list of topics</i></a>
+</p>
+<br />
+
+<a id="son" name="son"></a><h3 class="subsubhead">"Radiant image of his Glory": The Son</h3>
+<p class="firstNoCaps">In some respects the Son of God more closely resembles a classical epic hero than any other figure in <cite>Paradise Lost</cite>: like many classical heroes he is a king, a great statesman, and a military champion. Also like those figures he is at once both glorious and vulnerable, glorious in his godliness, goodness, and military prowess, and vulnerable in the promise of his future humanity and suffering as the incarnate Christ. Roy Flannagan writes that the Son "does do things that epic heroes do, as when He volunteers for the most dangerous of duties (confronting Satan and, later, sacrificing Himself for the sin of humankind)" (322). But Milton's goal in <cite>Paradise Lost</cite> is not simply to create a classical epic with a traditional hero: as Lewalski writes, "the fundamental concern" of <cite>Paradise Lost</cite> is not heroism in the classical sense, but "a poem-long exploration and redefinition of heroes and heroism" (464). Fish agrees, writing, "In effect, the reader comes to understand heroism by repeatedly adjusting his idea of what makes one hero heroic" (184). Milton himself writes that <cite>Paradise Lost</cite> is about something different than "fabl'd Knights / In Battels feign'd," but rather, "Patience and Heroic Martyrdom," or quiet persistence in the face of adversity (<a href="../book_9/text.shtml#line30" target="main"><cite>PL</cite> 9.31-2</a>). Milton meant his epic poem to celebrate what he considered to be Christian heroism, even more specifically, reformed Christian heroism.</p>
+<p>
+The Son in <cite>Paradise Lost</cite> is called the Son because he is not the historical figure Jesus, nor is he the risen Christ: he is the Son of God &mdash; a God-figure who sits at the right hand of the Father. Milton distinguishes between God the Father and God the Son by implying that the Father is invisible and ineffable, while Son is the Father "Substantially express'd" (<a href="../book_3/text.shtml#line140" target="main"><cite>PL</cite> 3.140</a>). While the Father exists in the "pure Empyrean" throughout the epic, the Son as his substantial expression descends to Earth to judge Adam and Eve after the fall, and it is of course the Son who eventually will take human form in order to redeem mankind (<a href="../book_3/text.shtml#line55" target="main"><cite>PL</cite> 3.57</a>). But the Son is not only an expression of the Father: Milton creates an identity for him that is far more complex than that when he addresses the issues of the Son's begetting and status in Heaven, issues that were controversial in Milton's time and have led many critics to speculate about Milton's own personal theology.
+</p>
+
+	<p>
+Chronologically, the very first scene that Milton describes in <cite>Paradise Lost</cite> occurs when "As yet this world was not," when God announces to the angels that he has begotten the Son (<a href="../book_5/text.shtml#line575" target="main"><cite>PL</cite> 5.577</a>). God says, "This day have I begot whom I declare / My onely Son your Head I him appoint" (<a href="../book_5/text.shtml#line600" target="main"><cite>PL</cite> 5.603-4, 606</a>). This declaration is the occasion of Satan's rebellion and the start of the War in Heaven, the result of which is the expulsion of one third of the angels from Heaven, and, ultimately, God's creation of Eden. But what has God really done in this scene? The Nicene Creed states that the Son was "born of the Father before all ages." (See the New Catholic Encyclopedia's site on the <a href="http://www.newadvent.org/cathen/11049a.htm" target="main">Nicene Creed</a>.) Milton, however, echoing <a href="http://bible.gospelcom.net/bible?passage=PS+2&amp;language=english&amp;version=KJV" target="main">Psalm 2:7</a>, uses the phrase "this day," as if God had begotten the Son in actual time. This idea threatens the Christian belief in the holy trinity: how can the Son be a begotten being &mdash; begotten in time after the angels &mdash; and yet be God? Moreover, why, if the Son is of the same essence as the Father (as Christian orthodoxy proclaims), does he obey him as if the Father were a superior being? Like Adam and Eve, the Son has his own free will, choosing freely to obey the Father: he says, "Father Eternal, thine is to decree, / Mine both in Heav'n and Earth to do thy will / Supream" (<a href="../book_10/text.shtml#line65" target="main"><cite>PL</cite> 10.68-70</a>). These are not the words of an equal. And is the Son even of the same essence as the Father? At one point the Father tells the Son, "Into thee such Vertue and Grace / Immense I have transfus'd, that all may know / In Heav'n and Hell thy Power above compare" (<a href="../book_6/text.shtml#line700" target="main"><cite>PL</cite> 6.703-5</a>). If the Son were of the same essence as the Father, why would the Father need to transfuse virtue and grace into him? The Son seems to have his own being separate from the Father, as in Book 3 when he "takes the part of Mercy more than Justice in that he appeals to his father's sense of compassion," and finally, when he volunteers freely to die for man's sins (Flannagan 421, note to <a href="../book_3/text.shtml#line165" target="main"><cite>PL</cite> 3.166</a>). Is Milton, then, describing a trinity in which the Father and Son are not of the same essence and not equal? 
+</p>
+
+<p>
+One way to explain the begetting of the Son in Book 5 is by "distinguishing between the existence of the divine Logos or Word, which had been in existence "in the beginning" and which had created everything, including the angels, and the recognition of the Word as Son at this later point in time" (W. B. Hunter, <a href="../../bibliography/f-h/text.shtml#william_hunter" target="main"><cite>Bright Essence</cite></a> 116). When God is saying that he has "begotten" the Son, therefore, he is not saying that he has created him, because the Son already existed as the Word; he is instead acknowledging the Son as the "Messiah King anointed" (<a href="../book_5/text.shtml#line660" target="main"><cite>PL</cite> 5.664</a>). But this still does not explain the way that the Son can be read as a lower being than the Father.
+</p>
+ 
+<p>
+During the seventeenth century in England there was much discussion about aspects of Protestant theology, in which debates about the doctrine of the trinity "rapidly took the religious centre stage" (Tyacke, <a href="../../bibliography/t-z/text.shtml#nicholas_tyacke" target="main"><cite>Aspects of English Protestantism</cite></a> 305). According to John P. Rumrich, "at least eight antitrinitarian heretics were burned at the stake from 1548 to 1612" (<a href="../../bibliography/r-s/text.shtml#john_rumrich" target="main"><cite>Milton and Heresy</cite></a> 86). One of the most prominent antitrinitarian sects was <a href="http://www.newadvent.org/cathen/01707c.htm" target="main">Arianism</a>, named after the fourth-century Bishop Arius, who preached against the trinity. Rumrich discusses why disbelief in the trinity "provoked authorities  as no other heresy could," and explains, "Perhaps the impulse toward demystification expressed in Arianism was dimly perceived as a threat to the ideological basis of monarchical power" (87). Many intellectuals, including Isaac Newton and John Locke, believed in Arianism, and now scholars are generally agreed that Milton did as well. Much of the basis for this belief is derived from Milton's theological treatise <cite>On Christian Doctrine</cite>, in which Milton relied solely on the text of the Bible to formulate his ideas, even at the risk of denying commonly accepted Church doctrine. He discusses the trinity at length, using biblical quotations to demonstrate that "the Father and the Son are certainly not one in essence," and that "the Father is greater than the Son in all things" (Flannagan 1172-1174). Milton's beliefs about the relationship between the Father and Son, therefore, may have led him to describe in <cite>Paradise Lost</cite> a Son who is neither of the Father's essence nor equal in status to the Father. 
+</p>
+
+<p>
+Do Milton's beliefs about the nature of the trinity, then, affect his literary work even to the extent of molding the literary character of the Son to fit his beliefs? As W. B. Hunter writes, Milton's "central purpose in writing the poem was this justification [of God] with its concomitant theology. His means were literary, indeed, but his artistry was handmaiden to his theology, not the other way around" (117). 
+Recent doubts regarding the authorship of On Christian Doctrine, however, have necessitated a reconsideration of Milton's theology and the relationship between it and <cite>Paradise Lost</cite>. In the introduction to their book <cite>Bright Essence</cite>, Hunter, C. A. Patrides, and J. H. Adamson go so far as to reject Milton's Arianism completely and reconsider the role of the Son in <cite>Paradise Lost</cite>. They write, "we have discovered a new Milton for whom the Son is of fundamental importance in the act of creation, the revelation of the Godhead within history, and the salvation of man" (vii). Perhaps the Son is a hero after all.
+</p>
+<p>
+<em>Cordelia Zukerman and Thomas H. Luxon</em>
+</p>
+
+<p class="firstNoCaps">
+<a href="#top"><i>Return to the list of topics</i></a>
+</p>
+<br />
+
+<a id="knowledge" name="knowledge"></a><h3 class="subsubhead">"Contemplation of Created Things": Knowledge in <cite>Paradise Lost</cite></h3>
+<p class="firstNoCaps">In his treatise <cite>Of Education</cite> Milton writes, "The end then of Learning is to repair the ruines of our first Parents by regaining to know God aright, and out of that knowledge to love him" (<a href="../../of_education/text.shtml#ruines" target="main"><cite>Of Education</cite>)</a>. Themes of knowledge and education play important roles in <cite>Paradise Lost</cite>, which, according to Lewalski, is "preeminently a poem about knowing and choosing" (460). The dominance of these themes comes from the fact that Milton is writing about the first humans on earth, humans who have no history and no way of knowing the world except through God's inspiration.</p>
+<p>
+When Raphael comes to earth in Book 5, he explains to Adam the difference between human knowledge, which is attained through discourse, and angelic knowledge, which is attained through intuition. He says that the two types of knowledge differ "but in degree, of kind the same," suggesting that if humans remain obedient they will eventually attain intuitive knowledge (<a href="../book_5/text.shtml#line490" target="main"><cite>PL</cite> 5.490</a>). He is eager to explain to Adam the story of the war in Heaven and the creation of earth, but he stops when Adam asks about the nature of the universe. He tells Adam, "Solicit not thy thoughts with matters hid, / Leave them to God above, him serve and feare" (<a href="../book_8/text.shtml#line165" target="main"><cite>PL</cite> 8.167-8</a>). At this point Milton is suggesting that the goal of knowledge is not to know everything in the universe, but to increase our "appreciation of God's goodness" and ultimately increase our faith (Marshall Grossman, <a href="../../bibliography/f-h/text.shtml#marshall_grossman" target="main">"Milton's Dialectical Visions"</a> 32). Interestingly, Eve &mdash; perhaps demonstrating intuitive knowledge of the kind Adam has yet to attain &mdash; chooses the moment directly preceding Raphael's comment to move out of hearing of the conversation. This act "represents in dramatic terms the same lesson Raphael has tried to make clear: Creation is to be both enjoyed and understood as a sign of God; to examine it critically is to forget man's place in it" (Robert L. Entzminger, <a href="../../bibliography/c-e/text.shtml#robert_entzminger" target="main">"Epistemology and the Tutelary Word in <cite>Paradise Lost</cite>"</a> 103). Similarly, Milton has Raphael say, "Knowledge is as food, and "needs no less / Her Temperance over Appetite" (<a href="../book_7/text.shtml#line125" target="main"><cite>PL</cite> 7.126-7</a>). Just as we should be temperate with food, we must discriminate between different kinds of knowledge, avoiding that which will move us away from God. 
+</p>
+
+<p>
+This brings us to the Tree of Knowledge of Good and Evil. Milton emphasizes that the importance of the Tree lies less in the knowledge it brings than in its function as "The only sign of our obedience" (<a href="../book_4/text.shtml#line425" target="main"><cite>PL</cite> 4.428</a>). Nevertheless, the Tree raises questions about the different types of knowledge that exist before and after the fall. When Adam and Eve eat the fruit, they lose the capacity to attain intuitive knowledge. Instead, according to Leonard, they "gain knowledge of the darkness into which creation falls when it is deprived of God's goodness" (xxxiii). Because they are more removed from God, they cannot learn in the same way they once did. When the angel Michael comes to earth to tell Adam about the future, he begins by giving him visions, but eventually must stop and narrate the rest because he perceives Adam's "mortal sight to faile" (<a href="../book_12/text.shtml#line5" target="main"><cite>PL</cite> 12.9</a>). The fallen Adam has less access to an understanding of God and Heaven than the unfallen one, and Michael must be more careful than Raphael to relate his tale in an understandable way.
+</p>
+<p>
+Ira Clark writes, "Repeatedly, <cite>Paradise Lost</cite>'s narrators declare their problems of telling caused by problems of knowing" (<a href="../../bibliography/c-e/text.shtml#ira_clark" target="main">"A Problem of Knowing Paradise in <cite>Paradise Lost</cite>"</a> 183). These problems exist between God and the angels, between angels and humans, between Adam and Eve, and finally, between the poem and the reader. As Clark explains, the fallen reader has no way to understand Paradise, let alone Heaven and Hell, and Milton's method of describing them involve metaphors, similes, and negatives. But if the fallen reader cannot know Paradise, does it then follow that the unfallen Adam and Eve cannot know evil? Many critics, including Michael Lieb, argue that the significance of God's command not to eat the fruit lies in its very ambiguity: if Adam and Eve do not understand evil or death,  the consequences of eating the fruit, their only reason to obey God is their faith, which should be reason enough (<a href="../../bibliography/l-m/text.shtml#michael_lieb" target="main">"<cite>Paradise Lost</cite> and the Myth of Prohibition"</a>). But Clark disagrees, writing that the climax of the work "depends on Eve and Adam's having a competent sense of knowledge" (201). These opposing views are wrapped up in Milton's depiction of a Paradise in which Adam and Eve have instant knowledge of everything they can name, and are simultaneously too pure to know unhappiness or recognize evil when they see it.
+</p>
+<p>
+<em>Cordelia Zukerman and Thomas H. Luxon</em>
+</p>
+
+<p class="firstNoCaps">
+<a href="#top"><i>Return to the list of topics</i></a>
+</p>
+<br />
+
+<a id="cosmology" name="cosmology"></a><h3 class="subsubhead">"What if the Sun / Be Centre to the World": Cosmology in <cite>Paradise Lost</cite></h3>
+<p class="firstNoCaps">
+Nothing less than the creation and ordering of the universe defines the scope of <cite>Paradise Lost</cite>. The epic explores its cosmological theme in theoretical discussions between Adam and Raphael and in the narrator's descriptions and metaphors. Further, Milton imagines Satan surveying the universe in an expedition of discovery through a new world in his fall from Heaven and his passage through Chaos to Earth. Adam tries to understand the earth's physical place in the universe and its associated ontological and theological value as the home of man. He wonders aloud about "this Earth a spot, a grain,/ An Atom, with the Firmament compar'd/ And all her numbered Starrs, that seem to rowl /Spaces incomprehensible" (<a href="../book_8/text.shtml#line15" target="main"><cite>PL</cite> 8.17-21</a>). Milton asks us to imagine the first man struggling with many of the same questions a Renaissance thinker, contemplating new models of the universe, must have considered. In response to the theory that everything revolves around the sun and not the earth, philosophers were forced to question the importance of man's role in the universal order. Raphael, responding to Adam's concerns, suggests there is no reason "bodies bright and greater should not serve / The less not bright, nor Heav'n such journies run / Earth sitting still" (<a href="../book_8/text.shtml#line85" target="main"><cite>PL</cite> 8.87-9</a>). Yet, the poem does not answer all such questions directly, and scholars often find it difficult to determine Milton's attitude toward science. In these debates, it is helpful to remember that Milton was not a scientist but a theorist. He did not contribute to scientific knowledge so much as to an understanding of what new scientific ideas might mean to traditional Christian cosmology. He meditates on this in  conditional modes, as does Raphael in his description of the universe: "What if the Sun/ Be Centre to the World" (<a href="../book_8/text.shtml#line120" target="main"><cite>PL</cite> 8.122-3</a>). 
+</p>
+
+<p>
+In the mid-sixteenth century, <a href="http://en.wikipedia.org/wiki/Copernicus" target="main">Nicolaus Copernicus</a> and his followers, most notably <a href="http://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion" target="main">Johannes Kepler</a> and <a href="http://en.wikipedia.org/wiki/Galileo" target="main">Galileo Galilei</a>, disturbed the entire Christian world by proposing a heliocentric model of the universe that displaced the earth, and by extension humanity, from the center. As the Reformation progressed, resulting theological debates acquired political importance and Milton, as a politically conscious theologian, addressed these issues in <cite>Paradise Lost</cite>. Critics debate the extent of Milton's interest in the advancement of science. Catherine Gimelli Martin notes that many find "his cosmology stands on the wrong side of the great scientific revolution initiated by Copernicus, furthered by Galileo, and completed by <a href="http://en.wikipedia.org/wiki/Isaac_newton" target="main">Newton</a>" (<a href="../../bibliography/l-m/text.shtml#catherine_martin" target="main">"What If the Sun Be Centre"</a> 233). However, Martin argues that classifying Milton as scientifically backward is a mistake resulting from our modern society: "we too easily forget that during this formative period, no 'advancement of learning,' scientific or otherwise, could yet be conceived as succeeding apart from the requisite disclaimers about the folly of seeking superhuman knowledge and the proper assurances of humility before heights of Divine Wisdom" (<a href="../../bibliography/l-m/text.shtml#catherine_martin" target="main">Martin</a> 231-2).
+</p>
+
+<p>
+Modern readers tend to treat scientific knowledge as inevitably progressive and therefore expect in Milton an appreciation of our modern scientific values and knowledge. As a rationalist, Milton must have admired the new sciences but, as a classicist and a Christian theologian, he had not yet placed scientific knowledge ahead of piety or biblical knowledge. William Poole notes the danger of seeing in Milton an advanced scientific philosopher and warns: "we should be extremely wary forcing Milton into clothes he does not fit" (<a href="../../bibliography/n-q/text.shtml#william_poole" target="main">"Milton and Science: A Caveat"</a> 18). However, within the middle ground, scholars agree with Martin that Milton appreciated the value of scientific thought and development, although he may have doubted the reach of this branch of human knowledge.
+</p>
+ 
+<p>
+Cosmology appears in <cite>Paradise Lost</cite> through direct scientific references, incorporation of new scientific theories into various characters' worldviews, and warnings against seeking beyond the limits of human knowledge. Martin observes: "Galileo or his telescope is approvingly cited on five separate occasions in Milton's epic (the only contemporary reference to appear at all)" (<a href="../../bibliography/l-m/text.shtml#catherine_martin" target="main">Martin</a> 238). These instances illustrate that such scientific discovery can be a means of comprehending God's glory and "Almightie works" (<a href="../book_7/text.shtml#line110" target="main"><cite>PL</cite> 7.112</a>), as Raphael says to Adam: "what thou canst attain, which best may serve / To glorifie the Maker, and inferr / Thee also happier, shall not be withheld" (<a href="../book_7/text.shtml#line115" target="main"><cite>PL</cite> 7.115-7</a>). Other scholars note that Milton's theories of social order in <cite>Paradise Lost</cite> echo scientific thought. In <cite>The Matter of Revolution</cite>, John Rogers contends that Milton's work explores the extent of the vitalist scientific movement that argued for "the infusion of all material substance with the power of reason" (<a href="../../bibliography/r-s/text.shtml#john_rogers" target="main"><cite>The Matter of Revolution</cite></a> 1). Rogers finds this theory at work in Milton's understanding of creation and his ordering of the universe, as well as in human systems of society and government. Rather than relegating humanity to the periphery with the earth in the heliocentric model, Rogers suggests "Milton decentralizes divinity, representing an action logically prior to the decentralizations of the state" (<a href="../../bibliography/r-s/text.shtml#john_rogers" target="main"><cite>The Matter of Revolution</cite></a> 113). Thus, Milton uses new scientific theories of order to inform his consideration of issues such as politics and free will in his epic poem.
+</p>
+ 
+<p>
+While scientific arguments, such as a heliocentric universe, offer positive contributions to his revolutionary political theory, Milton hesitates before the theological ramifications. A decentralized universe&mdash;or one centered on something other than man, created in God's image&mdash;requires each object to behave predictably and suitably within the larger scheme, "each in thir several active Sphears assign'd" (<a href="../book_5/text.shtml#line475" target="main"><cite>PL</cite> 5.478</a>). If this pattern fails, chaos will result. As Rogers notes: "Satan, in Book Two, promises Chaos that he will work to return to its original chaotic state the belated imposition of creation. . . The possibility of a chaotic resurgence has no meaningful role in the poem's cosmology, but its expression voices Milton's fear, perhaps not so unsound, of an ever-encroaching political chaos" (<a href="../../bibliography/r-s/text.shtml#john_rogers" target="main"><cite>The Matter of Revolution</cite></a> 142). In the wake of the English Civil War, anarchy was too tangibly the political counterpart of this return to chaos.
+</p>
+ 
+<p>
+Thus, Milton depicts the anxiety resulting from new and often unwelcome discoveries and theories, as Raphael cautions: "God to remove his wayes from human sense,/ Plac'd Heav'n from Earth so farr, that earthly sight, / If it presume, might err in things too high,/ and no advantage gain" (<a href="../book_8/text.shtml#line115" target="main"><cite>PL</cite> 8.119-22</a>). Scholars currently seem to be in agreement that Milton was aware of scientific developments and their implications. Whether we can understand Milton's philosophy in terms of scientific theory, or even know Milton's conception of the extent of appropriate human knowledge, has yet to be determined. Although Adam may be "led on, yet sinless, with desire to know/ What neerer might concern him" (<a href="../book_7/text.shtml#line60" target="main"><cite>PL</cite> 7.61-2</a>), Raphael's warning to him concludes: "Sollicit not thy thoughts with matters hid, / Leave them to God above, him serve and feare . . . Heav'n is for thee too high / To know what passes there; be lowlie wise" (<a href="../book_8/text.shtml#line165" target="main"><cite>PL</cite> 8.167-173</a>). What knowledge glorifies God and what knowledge&mdash;too great for human understanding&mdash;threatens the very systems it seeks to explain? Milton was likely still uncertain about this issue as he sent Adam and Eve forth from Eden: "High in Front advanc't,/ The brandisht Sword of God before them blaz'd/ Fierce as a Comet" (<a href="../book_12/text.shtml#line630" target="main"><cite>PL</cite> 12.632-4</a>).
+</p>
+
+<p>
+<em>Sara Silverstein and Thomas H. Luxon</em>
+</p>
+
+<p class="firstNoCaps">
+<a href="#top"><i>Return to the list of topics</i></a>
+</p>
+<br />
+
+<a id="publication" name="publication"></a><h3 class="subsubhead">Publication History of <cite>Paradise Lost</cite></h3>
+<p class="firstNoCaps">
+One can learn a great deal from the gap between when Milton wrote <cite>Paradise Lost</cite> and when it finally went to press. As David Kastan notes in his <a href="../../bibliography/i-k/text.shtml#david_kastan" target="main">helpful introduction</a>, "it had been finished at least two years" before Samuel Simmons finally published it in 1667.  Between completion and publication, the political instability of the period conspired to delay the release of <cite>Paradise Lost</cite>. In a practical sense, the second Anglo-Dutch war of 1665 caused a paper shortage. The confusion and fear after the plague and fire of London added to the turbulence of the period. Altogether, this created an unfavorable environment for controversial literature (see Nicholas von Maltzahn's article, <a href="../../bibliography/l-m/text.shtml#nicholas_von_maltzahn" target="main">"The First Reception of <cite>Paradise Lost</cite>"</a>).
+</p>
+
+	<p>
+Eventually, of course, Milton did seek a printer. It is uncertain why he chose Samuel Simmons, an obscure stationer, to print <cite>Paradise Lost</cite>. Kastan speculates that the stationer's proximity to Milton's home was a factor, especially since Simmons's presses were among the few unharmed by the Great Fire. He also speculates that "perhaps it was family loyalty," as Simmons's father had printed several of Milton's prose works. Kastan notes that Simmons had a reputation for printing "seditious books;" this may have drawn Milton to Simmons. Their business relationship was remarkable, as Kastan details it, in that "the surviving contract is the earliest between a writer and publisher that has come to light, and Simmons, at least to later generations, has been often criticized for taking advantage of the blind and disgraced Milton." However, their agreement was likely typical for the period (for details as to their contract, see Kastan).
+</p>
+
+	<p>
+In order to protect his copyright to <cite>Paradise Lost</cite>, Milton had to apply to have the poem licensed. "That Milton or his bookseller even sought the license," writes von Maltzahn, "shows the gravity of the poet's situation in the Restoration" (von Maltzahn 482). Both von Maltzahn and Kastan detail the objections of Thomas Tomkins, the licenser and chaplain to the Archbishop of Canterbury. Milton's anti-monarchist themes, combined with his reputation as a proponent of regicide, made Tomkins seek to deny the poem license.
+</p>
+
+<blockquote>
+But in 1667 with the government in retreat, and licensers under pressure, the focus in controlling the press needed narrowing to those who raised more present fears and encouraged sedition. If Milton by reputation might be expected to "make [the people] to fear," it was at the same time plain that <cite>Paradise Lost</cite> was of a different order from the licensers' usual fare. (Maltzahn 486)
+</blockquote>
+
+<p class="firstNoCaps">
+Thus, despite his issues with the subversive nature of the poem, and lines 1.594-99 in particular, Tomkins licensed the poem.
+</p>
+
+	<p>
+The first edition of <cite>Paradise Lost</cite> was published in 1667. "What has long been recognized is that the poem sold slowly and that different title pages were issued both to reflect changes in bookselling arrangements and to encourage new sales" (Kastan). Major changes to the first edition, however, did not occur until the 1668 printing, which added fourteen pages. In this printing, Milton added the introductory "arguments" for each book; these were compiled at the beginning of the poem, since the type was not re-set. This printing also included a letter from Simmons to the "Courteous Reader;" in fact, this printing is the first in which Simmons' name appears. At last, in 1669, Milton's contract was fulfilled when the first 1,300 copies were sold. 
+</p>
+
+	<p>
+In 1674, Simmons printed the second edition of <cite>Paradise Lost</cite>, which featured significant changes. Books seven and ten were each divided into two books, moving the total number of books from ten to twelve. This may have been because books seven and ten were exceptionally long, but twelve books also suggests a half-epic. Whereas the first edition was a quarto, the second is an octavo. It is not ruled, and does not feature line numbers. However, the arguments appear before their respective books, and the printing includes two poems and a portrait of the poet. Kastan remarks that "in general, the edition is less welcoming than the first. It is, however, better printed than 1667, probably from the fact that it is set seemingly from a corrected copy of the first edition rather than from a manuscript." What is remarkable here, as Kastan claims, is that Milton, due to his relationship with Simmons, seems to have had a hand in the publication process: "Sometime in the summer of 1674, Milton's <cite>Paradise Lost</cite> appeared in print essentially in the form the poet had come to imagine it." Just how much aesthetic control a blind poet could exercise over the printing of his poem is a topic for speculation.
+</p>
+<p>
+<em>Alison G. Moe and Thomas H. Luxon</em>
+</p>
+
+<p class="firstNoCaps">
+<a href="#top"><i>Return to the list of topics</i></a>
+</p>
+<br />
+
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+</body> 
+</html> 

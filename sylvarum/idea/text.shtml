@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Sylvarum Liber: De Idea Platonica</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		
+		<script src="../../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Sylvarum Liber</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Sylvarum Liber: De Idea Platonica</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin</a>
+					</li>
+					<li id="notLast">
+						<a href="" id="English">English</a>
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						Texts
+					</li>
+					<li id="notLast">
+						<a href="../anno_16/text.shtml">Anno &aelig;tatis 16</a>
+					</li>
+					<li id="notLast">
+						<a href="../novembris/text.shtml">In Quintus <br>Novembris</a>
+					</li>
+					<li id="notLast">
+						<a href="../ely/text.shtml">Anno &aelig;tatis 17</a>
+					</li>
+					<li id="notLast">
+						<a href="../naturam/text.shtml">Naturam non pati senium</a>
+					</li>
+					<li id="notLast">
+						<a href="../idea/text.shtml"><b>De Idea Platonica</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../patrem/text.shtml">Ad Patrem</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_114/text.shtml">Psalm 114</a>
+					</li>
+					<li id="notLast">
+						<a href="../philosophus/text.shtml">Philosophus ad <br>regem</a>
+					</li>
+					<li id="notLast">
+						<a href="../salsillum/text.shtml">Ad Salsillum</a>
+					</li>
+					<li id="notLast">
+						<a href="../mansus/text.shtml">Mansus</a>
+					</li>
+					<li class="newGroup">
+						<a href="../../effigy/text.shtml">Additions in <i>Poems</i> (1673)</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn"><span class="mi">De Idea Platonica quemadmodem</span></a><br />
+<span class="mi">Aristoteles intellexit.</span></p>
+
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Dicite"><span>D</span>icite</span> sacrorum pr&aelig;sides nemorum de&aelig;<br />
+Tuque O noveni perbeata numinis<br />
+Memoria mater, qu&aelig; in immenso procul<br />
+Antro recumbis otiosa &AElig;ternitas,<br />
+Monumenta servans, &amp; ratas leges Jovis,<span class="line" id="line5"> [ 5 ]</span><br />
+C&aelig;lique fastos atque ephemeridas De&ucirc;m,<br />
+Quis ille primus cujus ex imagine <br />
+Natura sollers finxit humanum genus,<br />
+&AElig;ternus, incorruptus, &aelig;qu&aelig;vus polo,<br />
+Unusque &amp; universus, exemplar Dei?<span class="line" id="line10"> [ 10 ]</span><br />
+Haud ille Palladis gemellus innub&aelig;<br />
+Interna proles insidet menti Jovis;<br />
+Sed quamlibet natura sit communior,<br />
+Tamen seors&ugrave;s extat ad morem unius,<br />
+Et, mira, certo stringitur spatio loci;<span class="line" id="line15"> [ 15 ]</span><br />
+Seu sempiternus ille syderum comes<br />
+C&aelig;li pererrat ordines decemplicis,<br />
+Citim&uacute;mve terris incolit Lun&aelig; globum:<br />
+Sive inter animas corpus adituras sedens<br />
+Obliviosas torpet ad Lethes aquas:<span class="line" id="line20"> [ 20 ]</span><br />
+Sive in remot&acirc; forte terraum plag&acirc;<br />
+Incedit ingens hominis archetypus gigas,<br />
+Et diis tremendus erigit celsum caput<br />
+Atlante major poritore syderum.<br />
+Non cui profundum c&aelig;citas lumen dedit<span class="line" id="line25"> [ 25 ]</span><br />
+Dirc&aelig;us augur vidit hunc alto sinu;<br />
+Non hunc silenti nocte Pl&ecircum;iones nepos<br />
+Vatum sagaci pr&aelig;pes ostendit choro;<br />
+Non hunc sacerdos novit Assyrius, licet<br />
+Longos vetusti commemoret atavos Nini,<span class="line" id="line30"> [ 30 ]</span><br />
+Priscumque Belon, inclytumque Osiridem.<br />
+Non ille trino gloriosus nomine<br />
+Ter magnus Hermes (ut sit arcani sciens)<br />
+Talem reliquit Isidis cultoribus.<br />
+At tu perenne ruris Academi decus<span class="line" id="line35"> [ 35 ]</span><br />
+(H&aelig;c monstra si tu primus induxti scholis)<br />
+Jam jam p&ouml;etas urbis exules tu&aelig;<br />
+Revocabis, ipse fabulator maximus,<br />
+Aut institutor ipse migrabis foras.
+</p>
+
+
+</div>
+</div>
+
+<div id="alternateContent">
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">The Platonic Idea as Understood by Aristotle</a>
+</p>
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Declare"><span>D</span>eclare</span>, O goddesses that guard the sacred groves, and you, O Memory, blessed mother of <a href="" id="ninefold" class="annotBtn">the ninefold deity</a>, and you, <a href="" id="eternity" class="annotBtn">Eternity</a>, who in some vast cave far-off lie stretched at ease, guarding the chronicles and the unalterable laws of Jove, recording the festivals of heaven and the daily life of the gods, declare who is that first being, eternal, incorruptible, coeval with the heavens, one and universal, made in the likeness of God &mdash; the being after whose image clever Nature has fashioned the human race. Surely he does not dwell unborn in the mind of Jove, a twin of virgin Pallas. But however general his nature, strange to say, he exists apart as an individual, and is confined to a fixed portion of space. Perchance a comrade of the sempiternal stars he wanders through the ten spheres of heaven, or inhabits the moon, the planet nearest to earth. Perchance by Lethe's waters of oblivion he drowses among the shades that await embodiment; or mayhap in some distant region of the earth this archetype of man walks as a huge giant, raising his head aloft to frighten the gods, larger even than Atlas who bears the stars.  <a href="" id="seer" class="annotBtn">The Dircean seer</a> to whom blindness gave profounder insight did not see him in the depths of his vision. <a href="" id="hermes" class="annotBtn">Pleione's grandchild</a> did not in the silence of night reveal him to his wise band of prophets. The Assyrian priest, though he could recount the long ancestral line of ancient Ninus, tell of <a href="" id="belus" class="annotBtn">Belus of old time</a>, and of renowned Osiris, knew not this being. Not even <a href="" id="hermes3" class="annotBtn">thrice-great Hermes</a>, glorious for his threefold name, though skilled in mysteries, left such a prodigy to the worshipers of Isis. But you, the unfading glory of <a href="" id="plato" class="annotBtn">the Academy</a> &mdash; if you were the first to introduce such monsters to the schools &mdash; surely you will recall the poets exiled from your State, for you are the greatest fabler of them all; or, founder though you be, you must yourself go forth. 
+</p>
+
+</div>
+
+</div>
+
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+</body> 
+</html> 

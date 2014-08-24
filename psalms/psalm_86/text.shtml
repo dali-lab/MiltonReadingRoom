@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Psalm Translations: Psalm 86</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Psalm Translations</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1673"><i>Poems</i> (1673)</a> > <a href="">Psalm Translations: Psalm 86</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						From <i>Poems</i> (1645)
+					</li>
+					<li id="notLast">
+						<a href="../../paraphrase_114/text.shtml">Paraphrase on Psalm 114</a>
+					</li>
+					<li id="notLast">
+						<a href="../../psalm_136/text.shtml">Psalm 136</a>
+						
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						From <i>Poems</i> (1673)
+					</li>
+					<li id="notLast">
+						<a href="../psalm_1/text.shtml">Psalm 1</a>,
+						<a href="../psalm_2/text.shtml"> 2</a>
+					</li>
+					
+					<li id="notLast">
+						<a href="../psalm_3/text.shtml">Psalm 3</a>,
+						<a href="../psalm_4/text.shtml"> 4</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_5/text.shtml">Psalm 5</a>,
+						<a href="../psalm_6/text.shtml"> 6</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_7/text.shtml">Psalm 7</a>,
+						<a href="../psalm_8/text.shtml"> 8</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_80/text.shtml">Psalm 80</a>,
+						<a href="../psalm_81/text.shtml"> 81</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_82/text.shtml">Psalm 82</a>,
+						<a href="../psalm_83/text.shtml"> 83</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_84/text.shtml">Psalm 84</a>,
+						<a href="../psalm_85/text.shtml"> 85</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_86/text.shtml"><b>Psalm 86</b></a>,
+						<a href="../psalm_87/text.shtml"> 87</a>
+					</li>
+					<li>
+						<a href="../psalm_88/text.shtml">Psalm 88</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+<div class="verse">
+
+<p class="poemTitle">
+<a href="" id="intro" class="annotBtn"><span class="varspell" title="Psalm">PSAL</span>. LXXXVI.</a> 
+</p>
+
+<p class="first">
+<span class="varspell" title="Thy"><span>T</span>hy</span> <span class="mi">Gracious</span> ear, O Lord, <span class="varspell" title="incline">encline</span>,<br />
+<span class="mindent">O hear me <span class="mi">I thee pray</span>,</span><br />
+For I am poor, and almost pine<br />
+<span class="mindent"> With need, <span class="mi">and sad decay</span>.</span>
+</p>
+
+<p>
+2  Preserve my soul, for <a href="" id="good" class="annotBtn">&dagger;</a> I have trod<span class="line" id="line5"> [ 5 ]</span><br />
+<span class="mindent">Thy <span class="varspell" title="ways">waies</span>, and love the just,</span><br />
+Save thou thy servant O my God<br />
+<span class="mindent">Who <span class="mi">still</span> in thee doth trust.</span>
+</p>
+
+<p>
+3  <span class="varspell" title="Pity">Pitty</span> me Lord for daily thee<br />
+<span class="mindent">I call; 4. O make <span class="varspell" title="rejoice">rejoyce</span></span><span class="line" id="line10"> [ 10 ]</span><br />
+Thy <span class="varspell" title="Servant's">Servants</span> Soul; for Lord to thee<br />
+<span class="mindent">I lift my soul <span class="mi">and voice</span>,</span>
+</p>
+
+<p>
+5  For thou art good, thou Lord art prone<br />
+<span class="mindent">To pardon, thou to all</span><br />
+Art full of mercy, thou <span class="mi">alone</span><span class="line" id="line15"> [ 15 ]</span><br />
+<span class="mindent">To them that on thee call.</span>
+</p>
+
+<p>
+6  Unto my supplication Lord<br />
+<span class="mindent">Give ear, and to the <span class="varspell" title="cry">crie</span></span><br />
+Of my <span class="mi">incessant</span> <span class="varspell" title="prayers">praiers</span> afford<br />
+<span class="mindent">Thy hearing graciously.</span><span class="line" id="line20"> [ 20 ]</span>
+</p>
+
+<p>
+7  I in the day of my distress<br />
+<span class="mindent">Will call on thee <span class="mi">for aid</span>;</span><br />
+For thou wilt <span class="mi">grant</span> me <span class="mi">free access</span><br />
+<span class="mindent"><span class="mi">And</span> answer, <span class="mi">what I <span class="varspell" title="prayed">pray'd</span></span>.</span>
+</p>
+
+<p>
+8  Like thee among the gods is none<span class="line" id="line25"> [ 25 ]</span><br />
+<span class="mindent">O <span class="varspell" title="Lord"><span class="mi">L</span>ord</span>, nor any works</span><br />
+<span class="mi">Of all that other gods have done</span><br />
+<span class="mindent">Like to thy <span class="mi">glorious</span> works.</span>
+</p>
+
+<p>
+9  The Nations all whom thou hast made<br />
+<span class="mindent">Shall come, <span class="mi">and all shall frame</span></span><span class="line" id="line30"> [ 30 ]</span><br />
+To bow them low before thee Lord,<br />
+<span class="mindent">And <span class="varspell" title="glorify">glorifie</span> thy name.</span>
+</p>
+
+<p>
+10  For great thou art, and wonders great<br />
+<span class="mindent">By thy strong hand are done,</span><br />
+Thou <span class="mi">in thy everlasting Seat</span><span class="line" id="line35"> [ 35 ]</span><br />
+<span class="mindent">Remainest God alone.</span>
+</p>
+
+<p>
+11  Teach me O Lord thy way <span class="mi">most right</span>,<br />
+<span class="mindent">I in thy truth will bide,</span><br />
+To fear thy name my heart unite<br />
+<span class="mindent"><span class="mi">So shall it never slide</span>.</span><span class="line" id="line40"> [ 40 ]</span>
+</p>
+
+<p>
+12  Thee will I praise O Lord my God<br />
+<span class="mindent"><span class="mi">Thee <span class="varspell" title="honor">honour</span>, and adore</span></span><br />
+With my whole heart, and blaze abroad<br />
+<span class="mindent">Thy name for ever more.</span>
+</p>
+
+<p>
+13  For great thy mercy is toward me,<span class="line" id="line45"> [ 45 ]</span><br />
+<span class="mindent">And thou hast <span class="varspell" title="freed">free'd</span> my Soul</span><br />
+<span class="varspell" title="Even">Eev'n</span> from the lowest Hell set free<br />
+<span class="mindent"><span class="mi">From deepest darkness foul</span>.</span>
+</p>
+
+<p>
+14  O God the proud against me rise<br />
+<span class="mindent">And violent men are met</span><span class="line" id="line50"> [ 50 ]</span><br />
+To seek my life, and in their eyes<br />
+<span class="mindent">No fear of thee have set.</span>
+</p>
+
+<p>
+15  But thou Lord art the God most mild<br />
+<span class="mindent">Readiest thy grace to show,</span><br />
+Slow to be angry, and <span class="mi">art <span class="varspell" title="styled">stil'd</span></span><span class="line" id="line55"> [ 55 ]</span><br />
+<span class="mindent">Most <span class="varspell" title="merciful">mercifull</span>, most true.</span>
+</p>
+
+<p>
+16  O turn to me <span class="mi">thy face at length</span><br />
+<span class="mindent">And me have mercy on,</span><br />
+Unto thy servant give thy strength,<br />
+<span class="mindent">And save thy <span class="varspell" title="handmaid's">hand-maids</span> Son.</span><span class="line" id="line60"> [ 60 ]</span>
+</p>
+
+<p>
+17  Some sign of good to me afford<br />
+<span class="mindent">And let my foes <span class="mi">then</span> see</span><br />
+And be <span class="varspell" title="ashamed">asham'd</span>, because then Lord<br />
+<span class="mindent"><span class="varspell" title="Dost">Do'st</span> help and comfort me.</span>
+</p>
+
+
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+</body> 
+</html> 

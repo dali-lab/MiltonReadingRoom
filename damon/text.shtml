@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Epitaphium Damonis</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+	</head>
+	
+	
+
+	<body>
+			<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+			<a href=""><img id="search" src="../images/search.png"></img></a>
+			
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+					<span id="poemBanner">Epitaphium Damonis</span>
+				</div>
+
+				<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+				<a href="../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Epitaphium Damonis</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin</a>
+					</li>
+					<li>
+						<a href="" id="English">English</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+				
+<div id="content">
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">Epitaphium Damonis</a></p>
+
+<p class="poemTitle">
+Argumentum
+</p>
+
+<div class="verse_latin">
+<p class="first">
+<span class="margument"><span >T</span>hyrsis &amp; Damon ejusdem viciniae Pastores, eadem studia sequuti a pueriti&acirc; amici erant, ut qui plurim&ugrave;m. Thyrsis animi caus&acirc; profectus peregr&egrave; de obitu Damonis nuntium accepit. Domum postea reversus, &amp; rem ita esse comperto, se, suamque solitudinem hoc carmine deplorat. Damonis autem sub person&acirc; h&icirc;c intelligitur Carolus Deodatus ex urbe Hetruri&aelig; Luca paterno genere oriundus, c&aelig;tera Anglus; ingenio, doctrina, clarissimisque c&aelig;teris virtutibus, dum viveret, juvenis egregius.</span>
+</p>
+
+<br />
+<p class="poemTitle">Epitaphium Damonis</p>
+<br />
+<p class="first">
+<span class="varspell" title="Himerides"><span >H</span>imerides</span> nymph&aelig; (nam vos &amp; Daphnin &amp; Hylan,<br /> 
+Et plorata diu meministis fata Bionis)<br />
+Dicite Sicelicum Thamesina per oppida carmen:<br /> 
+Quas miser effudit voces, qu&aelig; murmura Thyrsis,<br /> 
+Et quibus assiduis exercuit antra querelis,<span class="line" id="line5"> [ 5 ]</span><br />
+Fluminaque, fontesque vagos, nemorumque recessus,<br /> 
+Dum sibi pr&aelig;reptum queritur Damona, neque altam<br /> 
+Luctibus exemit noctem, loca sola pererrans.<br /> 
+Et jam bis viridi surgebat culmus arista,<br /> 
+Et totidem flavas numerabant horrea messes,<span class="line" id="line10"> [ 10 ]</span><br />
+Ex quo summa dies tulerat Damona sub umbras,<br /> 
+Nec dum aderat Thyrsis; pastorem scilicet illum<br />
+Dulcis amor Mus&aelig; Thusca retinebat in urbe.<br /> 
+Ast ubi mens expleta domum, pecorisque relicti<br /> 
+Cura vocat, simul assuet&acirc; sed&iacute;tque sub ulmo<span class="line" id="line15"> [ 15 ]</span><br />
+Tum vero amissum tum denique sentit amicum,<br /> 
+C&oelig;pit &amp; immensum sic exonerare dolorem.
+</p>
+
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Hei mihi! qu&aelig; terris, qu&aelig; dicam numina c&oelig;lo,<br /> 
+Postquam te immiti rapuerunt funere Damon;<span class="line" id="line20"> [ 20 ]</span><br />
+Siccine nos linquis, tua sic sine nomine virtus<br /> 
+Ibit, &amp; obscuris numero sociabitur umbris?<br /> 
+At non ille animas virg&acirc; qui dividit aure&acirc;<br /> 
+Ista velit, dignumque tui te ducat in agmen,<br /> 
+Ignavumque procol pecus arceat omne silentum.<span class="line" id="line25"> [ 25 ]</span>
+</p>
+
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Quicquid erit, cert&egrave; nisi me lupus ant&egrave; videbit,<br /> 
+Indeplorato non comminuere sepulchro,<br /> 
+Constabitque tuus tibi honos, long&uacute;mque vigebit<br /> 
+Inter pastores: Illi tibi vota secundo.<span class="line" id="line30"> [ 30 ]</span><br />
+Solvere post Daphnin, post Daphnin dicere laudes,<br /> 
+Gaudebunt, dum rura Pales, dum Faunus amabit:<br /> 
+Si quid id est, priscamque fidem coluisse, pi&uacute;mque,<br /> 
+Palladi&aacute;sque artes, soci&uacute;mque habuisse canorum.
+</p>
+
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><span class="line" id="line35"> [ 35 ]</span><br />
+H&aelig;c tibi certa manent, tibi erunt h&aelig;c pr&aelig;mia, Damon,<br /> 
+At mihi quid tandem fiet mod&ograve;? quis mihi fidus<br /> 
+H&aelig;rebit lateri comes, ut tu s&aelig;pe solebas<br /> 
+Frigoribus duris, &amp; per loca f&oelig;ta pruinis,<br /> 
+Aut rapido sub sole, siti morientibus herbis?<span class="line" id="line40"> [ 40 ]</span><br />
+Sive opus in magnos fuit emin&ugrave;s ire leones<br /> 
+Aut avidos terrere lupos pr&aelig;sepibus altis;<br /> 
+Quis fando sopire diem, cantuque solebit?
+</p>
+
+
+<p>
+<span class="mindent">'Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Pectora cui credam? quis me lenire docebit<span class="line" id="line45"> [ 45 ]</span><br />
+Mordaces curas, quis longam fallere noctem<br /> 
+Dulcibus alloquiis, grato c&ugrave;m sibilat igni<br /> 
+Molle pyrum, &amp; nucibus strepitat focus, at malus auster<br />
+Miscet cuncta foris, &amp; desuper intonat ulmo.
+</p>
+
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><span class="line" id="line50"> [ 50 ]</span><br />
+Aut &aelig;state, dies medio dum vertitur axe,<br /> 
+Cum Pan &aelig;scule&acirc; somnum capit abditus umbr&acirc;,<br /> 
+Et repetunt sub aquis sibi nota sedilia nymph&aelig;.<br /> 
+Pastoresque latent, stertit sub sepe colonus,<br /> 
+Quis mihi blanditi&aacute;sque tuas, quis tum mihi risus,<span class="line" id="line55"> [ 55 ]</span><br />
+Cecropiosque sales referet, cultosque lepores?
+</p>
+
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+At jam solus agros, jam pascua solus oberro,<br /> 
+Sicubi ramos&aelig; densantur vallibus umbr&aelig;,<br /> 
+Hic serum expecto; supra caput imber &amp; Eurus<span class="line" id="line60"> [ 60 ]</span><br />
+Triste sonant, fract&aelig;que agitata crepuscula silv&aelig;.
+</p>
+
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Heu qu&agrave;m culta mihi pri&ugrave;s arva procacibus herbis<br /> 
+Involvuntur, &amp; ipsa situ seges alta fatiscit!<br /> 
+Innuba neglecto marcescit &amp; uva racemo,<span class="line" id="line65"> [ 65 ]</span><br />
+Nec myrteta juvant; ovium quoque t&aelig;det, at ill&aelig;<br /> 
+M&oelig;rent, inque suum convertunt ora magistrum.
+</p>
+
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Tityrus ad corylos vocat, Alphesib&oelig;us ad ornos,<br /> 
+Ad salices Aegon, ad flumina pulcher Amyntas,<span class="line" id="line70"> [ 70 ]</span><br />
+Hic gelidi fontes, h&icirc;c illita gramina musco,<br /> 
+Hic Zephyri, h&icirc;c placidas interstrepit arbutus undas;<br />
+Ista canunt surdo, frutices ego nactus abibam.
+</p>
+
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Mopsus ad h&aelig;c, nam me redeuntem forte not&acirc;rat,<span class="line" id="line75"> [ 75 ]</span><br />
+(Et callebat avium linguas, &amp; sydera Mopsus)<br />
+Thyrsi, quid hoc? dixit, qu&aelig; te coquit improba bilis?<br />
+Aut te perdit amor, aut te mal&egrave; fascinat astrum,<br />
+Saturni grave s&aelig;pe fuit pastoribus astrum,<br /> 
+Intimaque obliquo figit pr&aelig;cordia plumbo.<span class="line" id="line80"> [ 80 ]</span>
+</p>
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Mirantur nymph&aelig;, &amp; quid te Thyrsi, futurum est?<br /> 
+Quid tibi vis? ajunt, non h&aelig;c solet esse juvent&aelig;<br />
+Nubila frons, oculique truces, vultusque severi,<br /> 
+Illa choros, lususque leves, &amp; semper amorem<span class="line" id="line85"> [ 85 ]</span><br />
+Jure petit; bis ille miser qui serus amavit.
+</p>
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Venit Hyas, Dryop&eacute;que, &amp; filia Baucidis Aegle,<br /> 
+Docta modos, cithar&aelig;que sciens, sed perdita fastu,<br /> 
+Venit Idumanii Chloris vicina fluenti;<span class="line" id="line90"> [ 90 ]</span><br />
+Nil me blanditi&aelig;, nil me solantia verba,<br /> 
+Nil me, si quid adest, movet, aut spes ulla futuri.
+</p>
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Hei mihi quam similes ludunt per prata juvenci,<br /> 
+Omnes unanimi secum sibi lege sodales,<span class="line" id="line95"> [ 95 ]</span><br />
+Nec magis hunc alio quisquam secernit amicum<br /> 
+De grege, sic densi veniunt ad pabula thoes,<br /> 
+Inque vicem hirsuti paribus junguntur onagri;<br /> 
+Lex eadem pelagi, deserto in littore Proteus<br /> 
+Agmina Phocarum numerat, vilisque volucrum<span class="line" id="line100"> [ 100 ]</span><br />
+Passer habet semper quicum sit, &amp; omnia circum<br /> 
+Farra libens volitet, ser&ograve; sua tecta revisens,<br /> 
+Quem si fors letho objecit, seu milvus adunco<br /> 
+Fata tulit rostro, seu stravit arundine fossor,<br /> 
+Protinus ille alium socio petit inde volatu.<span class="line" id="line105"> [ 105 ]</span><br />
+Nos durum genus, &amp; diris exercita fatis<br /> 
+Gens homines aliena animis, &amp; pectore discors,<br />
+Vix sibi quisque parem de millibus invenit unum,<br /> 
+Aut, si sors dederit tandem non aspera votis,<br /> 
+Illum inopina dies qu&acirc; non speraveris hor&acirc;<span class="line" id="line110"> [ 110 ]</span><br />
+Surripit, &aelig;ternum linquens in s&aelig;cula damnum.
+</p>
+
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Heu quis me ignotas traxit vagus error in oras<br /> 
+Ire per a&euml;reas rupes, Alpemque nivosam!<br /> 
+Ecquid erat tanti Romam vidisse sepultam?<span class="line" id="line115"> [ 115 ]</span><br />
+Quamvis illa foret, qualem dum viseret olim,<br /> 
+Tityrus ipse suas &amp; oves &amp; rura reliquit,<br /> 
+Ut te tam dulci possem caruisse sodale,<br /> 
+Possem tot maria alta, tot interponere montes,<br /> 
+Tot silvas, tot saxa tibi, fluviosque sonantes.<span class="line" id="line120"> [ 120 ]</span><br />
+Ah cert&egrave; extrem&ugrave;m licuisset tangere dextram,<br /> 
+Et bene compositos placid&egrave; morientis ocellos,<br /> 
+Et dixisse, vale, nostri memor ibis ad astra.
+</p>
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Quamquam etiam vestri nunquam meminisse pigebit<span class="line" id="line125"> [ 125 ]</span><br />
+Pastores Thusci Musis operata juventus,<br /> 
+Hic Charis, atque Lepos; &amp; Thuscus tu quoque Damon,<br /> 
+Antiqu&acirc; genus unde petis Lucumonis ab urbe.<br /> 
+O ego quantus eram, gelidi cum stratus ad Arni<br /> 
+Murmura, populeumque nemus, qu&agrave; mollior herba,<span class="line" id="line130"> [ 130 ]</span><br />
+Carpere nunc violas, nunc summas carpere myrtos,<br /> 
+Et potui Lycid&aelig; certantem audire Menalcam.<br /> 
+Ipse etiam tentare ausus sum, nec puto multum<br /> 
+Displicui, nam sunt &amp; apud me munera vestra<br /> 
+Fiscell&aelig;, calathique &amp; cerea vincla cicut&aelig;.<span class="line" id="line135"> [ 135 ]</span><br />
+Quin &amp; nostra suas docuerunt nomina fagos<br /> 
+Et Datis, &amp; Francinus, erant &amp; vocibus ambo<br /> 
+Et studiis noti, Lydorum sanguinis ambo.
+</p>
+
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+H&aelig;c mihi tum l&aelig;to dictabat roscida luna,<span class="line" id="line140"> [ 140 ]</span><br />
+Dum solus teneros claudebam cratibus h&oelig;dos.<br /> 
+Ah quoties dixi, c&ugrave;m te cinis ater habebat,<br />
+Nunc canit, aut lepori nunc tendit retia Damon,<br /> 
+Vimina nunc texit, varios sibi quod sit in usus;<br />
+Et qu&aelig; tum facile sperabam mente futura<span class="line" id="line145"> [ 145 ]</span><br />
+Arripui voto levis, &amp; pr&aelig;sentia finxi,<br />
+Heus bone numquid agis? nisi te quid forte retardat,<br />
+Imus? &amp; argut&acirc; paul&ugrave;m recubamus in umbra,<br /> 
+Aut ad aquas Colni, aut ubi jugera Cassibelauni?<br /> 
+Tu mihi percurres medicos, tua gramina, succos,<span class="line" id="line150"> [ 150 ]</span><br />
+Hellebor&ugrave;mque, humil&eacute;sque crocos, foli&ucirc;mque hyacinthi,<br /> 
+Quasque habet ista palus herbas, artesque medent&ucirc;m,<br />
+Ah pereant herb&aelig;, pereant artesque medent&ntilde;m,<br /> 
+Gramina, postquam ipsi nil profecere magistro.<br /> 
+Ipse etiam, nam nescio quid mihi grande sonabat<span class="line" id="line155"> [ 155 ]</span><br />
+Fistula, ab undecim&acirc; jam lux est altera nocte,<br /> 
+Et tum forte novis adm&ocirc;ram labra cicutis,<br /> 
+Dissiluere tamen rupta compage, nec ultra<br /> 
+Ferre graves potuere sonos, dubito quoque ne sim<br /> 
+Turgidulus, tamen &amp; referam, vos cedite silv&aelig;.<span class="line" id="line160"> [ 160 ]</span>
+</p>
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+Ipse ego Dardanias Rutupina per &aelig;quora puppes<br /> 
+Dicam, &amp; Pandrasidos regnum vetus Inogeni&aelig;,<br /> 
+Brenn&uacute;mque Arviragumque duces, prisc&uacute;mque Belinum,<br /> 
+Et tandem Armoricos Britonum sub lege colonos;<span class="line" id="line165"> [ 165 ]</span><br />
+Tum gravidam Arturo fatali fraude J&euml;gernen,<br /> 
+Mendaces vultus, assumpt&aacute;que Gorl&ouml;is arma,<br /> 
+Merlini dolus. O mihi tum si vita supersit,<br /> 
+Tu procul annosa pendebis fistula pinu<br /> 
+Mult&ugrave;m oblita mihi, aut patriis mutata cam&oelig;nis<span class="line" id="line170"> [ 170 ]</span><br />
+Brittonicum strides, quid enim? omnia non licet uni<br /> 
+Non sperasse uni licet omnia, mi satis ampla<br /> 
+Merces, &amp; mihi grande decus (sim ignotus in &aelig;vum<br /> 
+Tum licet, externo penit&uacute;sque inglorius orbi)<br /> 
+Si me flava comas legat Usa, &amp; potor Alauni,<span class="line" id="line175"> [ 175 ]</span><br />
+Vorticib&uacute;sque frequens Abra, &amp; nemus omne Treant&aelig;,<br />
+Et Thamesis meus ante omnes, &amp; fusca metallis<br /> 
+Tamara, &amp; extremis me discant Orcades undis.
+</p>
+
+<p>
+<span class="mindent">Ite domum impasti, domino jam non vacat, agni.</span><br /> 
+H&aelig;c tibi servabam lent&acirc; sub cortice lauri,<span class="line" id="line180"> [ 180 ]</span><br />
+H&aelig;c, &amp; plura simul, tum qu&aelig; mihi pocula Mansus,<br /> 
+Mansus, Chalcidic&aelig; non ultima gloria rip&aelig;<br /> 
+Bina dedit, mirum artis opus, mirandus &amp; ipse,<br /> 
+Et circ&ugrave;m gemino c&aelig;laverat argumento:<br /> 
+In medio rubri maris unda, &amp; odoriferum ver<span class="line" id="line185"> [ 185 ]</span><br />
+Littora longa Arabum, &amp; sudantes balsama silv&aelig;,<br /> 
+Has inter Phoenix, divina avis, unica terris<br /> 
+C&aelig;rule&ugrave;m fulgens diversicoloribus alis<br /> 
+Auroram vitreis surgentem respicit undis.<br /> 
+Parte alia polus omnipatens, &amp; magnus Olympus,<span class="line" id="line190"> [ 190 ]</span><br />
+Quis putet? hic quoque Amor, pict&aelig;que in nube pharetr&aelig;,<br /> 
+Arma corusca, faces, &amp; spicula tincta pyropo;<br /> 
+Nec tenues animas, pect&uacute;sque ignobile vulgi<br /> 
+Hinc ferit; at circ&ugrave;m flammantia lumina torquens<br /> 
+Semper in erectum spargit sua tela per orbes<span class="line" id="line195"> [ 195 ]</span><br />
+Impiger, &amp; pronos nunquam collimat ad ictus,<br /> 
+Hinc mentes ardere sacr&aelig;, form&aelig;que deorum.
+</p>
+
+<p>
+<span class="mindent">Tu quoque in his, nec me fallit spes lubrica Damon;</span><br />
+Tu quoque in his cert&egrave; es, nam qu&ograve; tua dulcis abiret<br />
+Sanct&aacute;que simplicitas, nam qu&ograve; tua candida virtus?<span class="line" id="line200"> [ 200 ]</span><br />
+Nec te Leth&aelig;o fas qu&aelig;sivisse sub orco,<br /> 
+Nec tibi conveniunt lacrym&aelig;, nec flebimus ultra,<br /> 
+Ite procul lacrym&aelig; purum colit &aelig;thera Damon,<br /> 
+&AElig;thera purus habet, pluvium pede reppulit arcum;<br /> 
+Hero&uacute;mque animas inter, div&oacute;sque perennes,<span class="line" id="line205"> [ 205 ]</span><br />
+&AElig;thereos haurit latices &amp; gaudia potat<br /> 
+Ore Sacro. Quin tu c&oelig;li post jura recepta<br /> 
+Dexter ades, placid&uacute;sque fave quic&uacute;nque vocaris,<br /> 
+Seu tu noster eris Damon, sive &aelig;quior audis<br /> 
+Diodatus, quo te divino nomine cuncti<span class="line" id="line210"> [ 210 ]</span><br />
+C&oelig;licol&aelig; norint, silv&iacute;sque vocabere Damon.<br /> 
+Qu&ograve;d tibi purpureus pudor, &amp; sine labe juventus<br /> 
+Grata fuit, qu&ograve;d nulla tori libata voluptas,<br /> 
+En etiam tibi virginei servantur honores;<br /> 
+Ipse caput nitidum cinctus rutilante corona,<span class="line" id="line215"> [ 215 ]</span><br />
+Let&aacute;que frondentis gestans umbracula palm&aelig;<br /> 
+&AElig;tern&ugrave;m perages immortales hymen&aelig;os;<br /> 
+Cantus ubi, choreisque furit lyra mista beatis,<br /> 
+Festa Sion&aelig;o bacchantur &amp; Orgia Thyrso.
+</p>
+</div>
+</div>
+
+
+<div id="alternateContent" class="lengthyWork">
+	<p class="poemTitle"><a href="" id="intro" class="annotBtn">Damon's Epitaph</a></p>
+
+	<div class="verse_latin">
+	<p class="title">
+	The Argument
+	</p>
+
+	<p class="first">
+	<a href="" id="thyrsis" class="annotBtn"><span class="minitial">T</span>hyrsis</a> and Damon, shepherds of the same neighbourhood and following the same pursuits, were most intimate friends from boyhood. Thyrsis, who had gone abroad for the improvement of his mind, received news of Damon's death. Having afterward returned home and discovered that the news was true, he deplores himself and his solitude in this poem. Under the guise of Damon is here understood Charles Diodati, connected on his father's side with the Tuscan city of Lucca, otherwise an Englishman, a youth distinguished while he lived for genius, learning, and other most notable virtues.</p>
+	<p class="title">
+	Damon's Epitaph
+	</p>
+
+	<p class="first">
+	<span class="varspell" title="Nymphs"><span class="minitial">N</span>ymphs</span> of <a href="" id="himera" class="annotBtn">Himera</a> &mdash;
+	for you remember Daphnis and <a href="" id="hylas" class="annotBtn">Hylas</a> and the long lamented fate of <a href="" id="bion" class="annotBtn">Bion</a> &mdash;
+	repeat this <a href="" id="sicilian" class="annotBtn">Sicilian song</a> through the cities of Thames; tell what words, what murmurs, unhappy Thyrsis poured forth, and with what ceaseless complaints he disturbed the caves, the rivers, the eddying fountains, and the recesses of the groves, while he mourned to himself for Damon snatched away, nor left deep night free from his lamentations as he wandered in lonely places. <a href="" id="twice" class="annotBtn">Twice</a> the stalk had risen with green ear, and as often had the garners counted the yellow crops, since his last day had borne Damon down to the shades, and Thyrsis was not there the while; love of the sweet muse forsooth detained that shepherd in a <a href="" id="tuscan" class="annotBtn">Tuscan city</a>. But when a full mind, and the care of the flock he had left behind, called him home, and when he sat once more beneath his accustomed elm, then, then at last he felt in truth the loss of his friend, and began thus to vent his measureless sorrow:
+	</p>
+
+	<p>
+	"<a href="" id="refrain" class="annotBtn">Go home unfed, my lambs, your troubled master is not free to tend you.</a> Ah me! what deities shall I name in earth or heaven, now that they have torn you away, Damon, by inexorable death? Do you leave me thus, and is your virtue to go without a name and be merged with the obscure shades? But nay, let <a href="" id="him" class="annotBtn">him</a> who with his golden wand marshals the souls will it otherwise, and may he lead you into a company that is worthy of you, and keep far off the whole base herd of the <a href="" id="silent" class="annotBtn">silent</a> dead.
+	</p>
+
+	
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. Be sure whatever comes, unless the <a href="" id="wolf" class="annotBtn">wolf</a> shall first see me, you shall not moulder in the tomb unwept; your honour shall endure and long flourish among shepherds. To you next after <a href="" id="daphnis" class="annotBtn">Daphnis</a> shall they rejoice to fulfill their vows, and next after Daphnis of you to speak their praises, so long as <a href="" id="pales" class="annotBtn">Pales</a>, so long as <a href="" id="faunus" class="annotBtn">Faunus</a>, love the fields &mdash; 
+	if it aught avails to have cherished the ancient faith and piety, and the <a href="" id="palladian" class="annotBtn">Palladian arts</a>, and to have had a musical compeer.
+	</p>
+
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. These rewards for you remain certain, Damon; they shall be yours. But what will become of me; what faithful friend will stay close by my side as you were wont to do in bitter cold through places rough with frost, or under the fierce sun with the grasses dying from drought, whether the task were to go within spear's throw of great lions or to frighten the ravenous wolves from the high sheepfolds? Who will now lull my day to rest with talk and song?
+	</p>
+
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. To whom may I entrust my heart? Who will teach me to assuage my gnawing cares and to cheat the long night with pleasant conversation, when the mellow pears hiss before the cheery fire, nuts crackle on the hearth, and outside the stormy south wind is throwing all in confusion and comes roaring through the <a href="" id="elms" class="annotBtn">elms</a>.
+	</p>
+	
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. Or in summer when the day turns on mid-axle, when <a href="" id="noon" class="annotBtn">Pan takes his sleep</a> hidden in the oak shade, and the nymphs return to their wonted seats beneath the waters, when shepherds lie concealed, and the husbandman snores beneath the hedge, who will then bring back to me your blandishments, your laughter, <a href="" id="wit" class="annotBtn">Cecropian wit</a>, culture and charm?
+	</p>
+	
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. Now I wander in the fields alone, alone through the pastures; wherever the shady branches grow thick in the valleys, there I await the evening, while overhead rain and the south-east wind sadly moan, and the twilight of the forest is broken with gleams of light.
+	</p>
+
+	
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. Alas, how my fields once tilled are overgrown with trailing weeds, and even the tall corn droops with blight! The cluster of grapes withers <a href="" id="unwedded" class="annotBtn">unwedded</a> to the stalk. The myrtle groves please me not. I am weary too of my sheep, but even they are sad and <a href="" id="master" class="annotBtn">turn their faces to their master</a>.
+	</p>
+	
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. Tityrus calls to the hazels, <a href="" id="tityrus" class="annotBtn">Alphesiboeus</a> to the mountain ashes, Aegon to the willows, fair Amyntas to the rivers.
+	</p>
+
+	<p>
+	"'Here are cool fountains,' they cry, 'here are mossy greenswards, here are the zephyrs, here the arbutus whispers amid peaceful streams.'"
+	</p>
+	
+
+	<p>
+	"But, deaf to their songs, I gain the thickets and withdraw.
+	</p>
+	
+
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. Then <a href="" id="mopsus" class="annotBtn">Mopsus</a> spoke, for he by chance had noticed me returning &mdash; 
+	Mopsus who was versed in the stars and in the language of birds:
+	</p>
+
+	<p>
+	"'What is this, Thyrsis?' said he; 'What black melancholy is tormenting you? Either you are wasting with love, or some star is casting an
+	evil spell over you. <a href="" id="saturn" class="annotBtn">Saturn's star</a> has often been baleful to shepherds, and his slant leaden shaft has pierced your inmost breast.'
+	</p>
+	
+
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. The nymphs are amazed and cry:
+	</p>
+	
+	<p>
+	"'What will become of you, Thyrsis? What do you wish? The brow of youth is not commonly cloudy, the eyes stern, the mien austere; youth seeks dances and nimble sports, and always love as its right. Twice wretched is he who loves late.'
+	</p>
+
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. Hyas came, and Dryope, and Aegle, the daughter of Baucis &mdash; 
+	Aegle instructed in numbers and skilled on the lyre, but overly proud; Chloris came, a neighbour of the <a href="" id="river" class="annotBtn">Idumanian river</a>. Their <a href="" id="blandishments" class="annotBtn">blandishments</a> , their comforting words, are nothing to me; nothing in the present moves me, nor have I any hope for the future.
+	</p>
+	
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. Ah me! how like one another are the young cattle that frolic through the fields, all comrades to each other under one harmonious law; none seeks from out the herd a special friend. Even so the jackals come in packs to their food, and the shaggy wild asses by turn are joined in pairs. The law of the sea is the same, where on the desert shore <a href="" id="proteus" class="annotBtn">Proteus</a> numbers his troops of sea-calves. Even that paltry bird the sparrow always has a mate with whom it happily flies about to every heap of grain, and returns at evening to its own thatch; yet should chance strike one of them dead &mdash;
+	whether the kite with hooked beak has brought this fate, or the clown has pierced it with his arrow &mdash;
+	the other seeks a new mate to be henceforth its companion in flight. But we men are a stony race, a tribe vexed by stern fates, alien in our minds one from the other, in our hearts discordant. Hardly from among thousands does one find a single kindred spirit, or if fortune not unfriendly gives one such in answer to our prayers, yet in a day and an hour when we least expect it he is snatched away, leaving an <a href="" id="wound" class="annotBtn">everlasting wound</a>.
+	</p>
+	
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. Ah, what wandering fancy lured me to traverse lofty cliffs and snowy Alps to unknown shores! Was there any such need to see <a href="" id="rome" class="annotBtn">buried Rome</a> &mdash; 
+	even had it been what it was when Tityrus left his sheep and his pastures to see it &mdash; 
+	that I could part with so charming a companion, that I could put between us so many deep seas, so many mountains, forests, rocks, and roaring streams? Surely had I stayed I might at the last have touched the hand, and closed the eyes, of him who was peacefully dying, might have said, 'Farewell, remember me when you go to the stars.'
+	</p>
+
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. Even though I shall never weary of remembering you, O Tuscan shepherds, youths devoted to the muses, yet here too were grace and charm; and you too, Damon, were a Tuscan tracing your lineage from the ancient city of <a href="" id="lucca" class="annotBtn">Lucca</a>. O how elated I was when, stretched by cool murmuring <a href="" id="arno" class="annotBtn">Arno</a> and the poplar grove that softens the grass, I lay, now plucking violets, now sprays of myrtle, and listened to Menalcas contending with Lycidas in song! Even I myself dared to enter the <a href="" id="contest" class="annotBtn">contest</a>, nor do I think I greatly displeased you, for I still have with me your <a href="" id="gifts" class="annotBtn">gifts</a>, reed baskets, bowls, and shepherd's pipes with waxen stops. Nay, both <a href="" id="dati" class="annotBtn">Dati and Francini</a>, renowned for their eloquence and their learning, and both of <a href="" id="lydian" class="annotBtn">Lydian blood</a>, have taught my name to their <a href="" id="beeches" class="annotBtn">beeches</a>.
+	</p>
+
+	
+	<p>
+	"Go, home unfed, my lambs, your troubled master is not free to tend you. These things the dewy moon used to tell me, when happy and alone I was shutting my tender kids in their wattled cotes. Ah! how often have I said when already you were but dark ashes:
+	</p>
+	
+
+	<p>
+	"'Now Damon is singing, or stretching nets for the hare; now he is plaiting osiers for his various uses.'
+	</p>
+
+
+	<p>
+	"What I then with easy mind hoped for the future, with the wish I lightly seized and fancied present.
+	</p>
+	
+	<p>
+	"Say, good friend, are you free? If nothing prevents us, let us go and lie down a while in the mumuring shade, by the waters of <a href="" id="colne" class="annotBtn">Colne</a>, or in the fields of <a href="" id="cass" class="annotBtn">Cassivellanus</a>. You shall tell me of your healing herbs and juices, hellebore, the lowly crocus, and the leaf of the hyacinth, whatever plants the marshes yield, and tell me of the physician's art.
+	</p>
+
+	<p>
+	"Ah! perish the herbs and the simplex, perish the <a href="" id="you" class="annotBtn">physician's art</a>, since they have profited their master nothing! And I &mdash; 
+	for I know not what my pipe was grandly sounding &mdash; 
+	it is now eleven nights and a day &mdash; and then perhaps I had put my lips to <a href="" id="grandly" class="annotBtn">new pipes</a>, but they burst asunder, broken at the fastening, and could no more bear the deep tones &mdash; 
+	I hesitate too lest I seem conceited, yet I will tell the tale &mdash; 
+	give place then, O <a href="" id="forests" class="annotBtn">forests</a>.
+	</p>
+	
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. I would tell of <a href="" id="dardanian" class="annotBtn">Dardanian ships</a> along the Rutupian Sea, and of the ancient realm of <a href="" id="imogen" class="annotBtn">Imogen</a>, Pandrasus' daughter, of the leaders <a href="" id="brennus" class="annotBtn">Brennus and Arviragus, and old Belinus</a>, and of colonists in <a href="" id="armorica" class="annotBtn">Armorica</a> under British laws; then I would tell of Igraine pregnant with Arthur by a <a href="" id="fraud" class="annotBtn">fatal fraud</a>, of the seeming face and counterfeit arms of Gorlois, Merlin's artifice. Ah! then if life remain, you, <a href="" id="pipe" class="annotBtn">my pipe</a>, shall hang on some aged pine far off and forgotten, unless forsaking your native songs you shrilly sound a British theme. Why not a British theme? One man cannot do all things, cannot hope to do all things. Sufficient my reward, my honours ample &mdash; 
+	even if I am for ever unknown and wholly without fame in foreign parts &mdash; 
+	if yellow-haired <a href="" id="ouse" class="annotBtn">Ouse</a> reads me, and he who drinks the waters of Alaun, and Abra full of eddies, and all the woods of Trent, and above all my own Thames, and <a href="" id="tamar" class="annotBtn">Tamar</a> stained with metals, and if the <a href="" id="orkneys" class="annotBtn">Orkneys</a> and their remotest waves but learn my songs.
+	</p>
+	<p>
+	"Go home unfed, my lambs, your troubled master is not free to tend you. These things I was keeping for you under the tough <a href="" id="bark" class="annotBtn">bark of the laurel</a>, these and more besides. Then I thought to show you the two <a href="" id="cups" class="annotBtn">cups</a> that <a href="" id="manso" class="annotBtn">Manso</a>, not the least glory of the Chalcidian shore, gave me; a wonderful work of art they are &mdash; 
+	but Manso himself is wonderful. Round about they arc decorated with a double band of <a href="" id="carving" class="annotBtn">carving</a>. In the middle arc the waters of the <a href="" id="red" class="annotBtn">Red Sea</a> and the odoriferous spring, the far off coasts of <a name="phoenix">Arabia</a> and the trees dropping balsam, amidst these the <a href="" id="phoenix" class="annotBtn">phoenix,</a> divine bird, alone of its kind on earth, gleaming blue, with wings of many colours, watches <a href="" id="aurora" class="annotBtn">Aurora</a> rise over the glassy waves. In another part are great <a href="" id="olympus" class="annotBtn">Olympus</a> and the whole expanse of heaven. Yes, and who would believe it? Here too is Love, his quiver, flashing arms, and torch, his darts tipped with fiery bronze, all pictured in a cloud. He does not aim at little souls and the ignoble hearts of the rabble, but, rolling his flaming eyes about, unwearied he ever scatters his missiles on high through the spheres, and never aims his shots downward. Hence minds immortal and forms divine are inflamed with love.
+	</p>
+
+	<p>
+	"You too are among these, Damon &mdash; 
+	nor does elusive hope deceive me &mdash; surely you too are among these; for whither should your sweet and holy simplicity retire, whither your spotless virtue? It is wrong to seek you in <a href="" id="lethean" class="annotBtn">Lethean Orcus</a>. Tears become you not, and I shall weep no more. Away then tears! Damon dwells in the purity of heaven, for he himself is <a href="" id="pure" class="annotBtn">pure</a>.  He has thrust back the rainbow with his foot, and among the souls of heroes and the everlasting gods he quaffs the heavenly waters, and drinks of joys with his sacred lips. But now that the rights of heaven are yours, stand by my side and gently <a href="" id="befriend" class="annotBtn">befriend me</a>, whatever be now your <a href="" id="name" class="annotBtn">name</a>, whether you would still be our Damon, or whether you prefer to be called <a href="" id="diodati" class="annotBtn">Diodati</a>, by which divine name all the dwellers in heaven will know you, but in the forests you will still be called Damon. Because a rosy blush, and a youth without stain were dear to you, because you never tasted the pleasure of marriage, lo! for you are reserved a <a href="" id="virgin" class="annotBtn">virgin's honours</a>. Your <a name="damon">noble</a> head bound with a glittering wreath, in your hands the glad branches of the leafy <a href="" id="palm" class="annotBtn">palm</a>, you shall for ever act and act again the immortal <a href="" id="nuptials" class="annotBtn">nuptials</a>, where song and the lyre, mingled with the blessed dances, wax rapturous, and the joyous revels rage under the <a href="" id="thyrsus" class="annotBtn">thyrsus</a> of Zion."
+	</p>
+	</div>
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

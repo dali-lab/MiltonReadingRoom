@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>A Treatise of Civil Power: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+
+	<div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">A Treatise of Civil Power</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#prose">Prose</a> > <a href="">A Treatise of Civil Power: Introduction</a></div> <!-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+
+	
+	<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="intro.shtml"><b>Introduction</b></a>
+					</li>
+					<li>
+						<a href="text.shtml">Text</a>
+					</li>
+				
+				</ul>	
+	</div>
+			
+	
+
+<div id="container">
+
+<div id="content" class="lengthyWork">
+	<p class="poemTitle">Introduction</p>
+	
+	<p>
+	From March 1649 until the restoration of monarchy in the person of King Charles II in 1660, John Milton served the commonwealth as Secretary for Foreign Tongues. The job entailed, among other things, official correspondence with representatives of other states, most of it in Latin. Not until 1659 did Milton return to writing pamphlets in English on pressing topics of church and state affairs. <i>A Treatise of Civil Power</i> is one of a pair of such pamphlets; the other is <i>Considerations touching The likeliest means to remove Hirelings out of the church</i>. Both were published in 1659, the first in February and the second in late summer. Gordon Campbell and Thomas Corns remark in their biography of Milton that the two booklets "look a matched pair." Both include addresses to Parliament (though to two very different parliaments, the first to Richard Cromwell's first parliament and the second to the restored Purged Parliament). Both were printed in duodecimo and "their theses are complimentary" (<a href="../bibliography/c-e/text.shtml#campbell_corns" target="main">Campbell and Corns</a> 287). Milton draws attention to these complimentary theses in his opening sentences of <i>Civil Power</i>, immediately following the address to Parliament:</p>
+
+	<blockquote>
+	Two things there be which have bin ever found working much mischief to the church of God and the advancement of truth; force on the one side restraining, and hire on the other side corrupting the teachers therof. Few ages have bin since the ascension of our Saviour, wherin the one of these two, or both together have not prevaild. It can be at no time therfore unseasonable to speak of these things; since by them the church is either in continual detriment and oppression, or in continual danger. The former shall be at this time my argument; the latter as I shall find God disposing me, and opportunity inviting.
+	</blockquote>
+
+	<p>
+	<i>Of Civil Power</i> argues against the use of civil power to enforce orthodoxy in religious belief and <i>Hirelings</i> argues against state funding for clergy.
+	</p>
+
+
+	<p>
+	Milton wrote these two treatises during a period we now recognize as politically fragile even though few, if any, thought so at the time. Oliver Cromwell, who led the republican cause as a general and finally Lord Protector, died in September 1658 and his son, Richard, succeeded him as Lord Protector. Richard's first and only parliament convened in January 1659. <i>Of Civil Power</i> is addressed to this body. By late April, this parliament was dissolved under direct pressure from a disgruntled army occupying London. By May Richard Cromwell had resigned and the reins of state power came to the General Council of the Army and the Purged Parliament from Oliver's days. Milton probably regarded these as promising developments because he always was suspicious of power in the hands of an individual. 
+	</p>
+
+	<p>
+	We now know, of course, that the restoration of monarchy and a state church, complete with beneficed clergy, bishops and archbishops was lurking on the horizon. By late May 1660, King Charles II had returned in triumph to assume power in England.
+	</p>
+
+	<p>
+	The copytext for this edition is from Early English Books Online's reproduction of a copy in the Henry Huntington Library in San Marino, California, Wing M2185.
+
+
+</p>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+</body> 
+</html>

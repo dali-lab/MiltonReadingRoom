@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>About the Milton Reading Room</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oranienbaum' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		
+		<script src="../miltonNoNav.js"></script>
+		<style>
+			#content a {
+				color: #7a2801;
+			}
+		</style>
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+		
+		
+	</head>
+
+<body> 
+	<a href="" title="Home"><img id="home" src="../images/home.png"></img></a>
+	<a href="" title="Search"><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+
+	
+    <div id="header">
+		<a name="top"></a>
+		<div class="align-block baldHeader">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+		</div>
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+		
+	</div>
+	
+<div id="container">
+<div id="content">
+
+<h2 class="subhead">About <span class="booktitle">The Milton Reading Room</span></h2>
+
+<p>
+
+From its beginnings in the spring of 1997, <cite>The Milton Reading Room</cite> has been a  project of collaboration between me, Thomas Luxon (Professor of English at Dartmouth College), and my students. Those listed below have helped me edit particular texts and written introductions; their names also appear at the end of the introductions they helped to write. </p>
+
+<ul>
+	<li>Robert Auten</li>
+	<li>Amar Dhand</li>
+	<li>John Garber III</li>
+	<li>Jennifer Hickey</li>
+	<li>Katherine Lynch</li>
+	<li>Collin O'Mara</li>
+	<li>Ajay Rao</li>
+	<li>Jim Sitar</li>
+	<li>Fatima Malik</li>
+	<li>Meg Fuchs</li>
+	<li>Glenn Buchberger</li>
+	<li>Laura Ferrell</li>
+	<li>Cordelia Zukerman</li>
+	<li>Sara Silverstein</li>
+	<li>Meredith Russo</li>
+	<li>Alison Moe</li>
+	<li>Lauren Indvik</li>
+	<li>Alexis Monroe</li>
+		<li>Jayne Caron</li>
+	<li>Katherine Kilkenny</li>
+</ul>
+
+
+<p>
+Carolyn Cummings and Margot Neebe worked on the project at its beginning in 1997 and did much of the first transcribing work.  Jim Sitar, Katherine Lynch, Collin O'Mara,  Glenn Buchberger,  Cordelia Zukerman, Sara Silverstein, Meredith Russo, Alison Moe, Alexis Monroe, Lauren Indvik, Jayne Caron and Katherine Kilkenny have served as James O. Freedman Presidential Scholars on this project.
+</p>
+<p>
+A grant from the <a href="http://www.dartmouth.edu/comp/about/departments/academic/cc/" target="main">Computing Technology Venture Fund</a> of Dartmouth College has supported the project's inception.  <a href="http://www.statefarm.com/index.asp" target="main">State Farm Companies Foundation</a> in conjunction with the New England Colleges Fund have also generously supported the project.  The R. Stephen Cheheyl Fellowship in Technology and Teaching (2001-2002) supported the work required to change the site to XHTML and design the search engine.
+</p>
+<p>
+A summer stipend from the National Endowment for the Humanities in 2010 made it possible to finish introductions and annotations for Milton's sonnets and Latin poems from "Elegiarum" and "Sylvarum."
+</p>
+
+<p>
+I am grateful also for the frequent communications with Roy Flannagan in 1997 and 1998 and for having his  <a href="../bibliography/f-h/text.shtml#Flannagan" target="main"><span class="booktitle">Riverside Milton</span></a> ready to hand in the early stages.  Without Harris Fletcher's <a href="../bibliography/f-h/text.shtml#fletcher" target="main">four-volume facsimile edition</a> of Milton's Poetry and the lovely early editions of Milton in the <a href="http://www.dartmouth.edu/~speccoll/moved.php" target="main">Rauner Special Collections Library</a> at Dartmouth I would have been lost.  Also very helpful have been John Shawcross's essays on Milton's texts in Flannagan's <span class="booktitle">Riverside Milton.</span>  Phil Cronenwett, Jay Satterfield and the staff of the Rauner Library have supported the project wonderfully.  Special thanks go to the Bruce Rauner and John H. Freund families for the roof over our heads.
+</p>
+
+<p>
+Sarah Horton of Dartmouth's Computing Services designed the site, and the project has enjoyed the support of Malcolm Brown, Director of Computing Services, and John Hawkins, Associate Director for Academic Information Resources.  Barbara Knauff masterminded the transition from HTML to XHTML and Mark O'Neil is designing the search eangine.
+</p>
+
+<h3 class="subsubhead">Current Version</h3>
+
+In 2014, an update for the Milton Reading Room was designed and developed in the Neukom DALI Lab. The Digital Arts Leadership and Innovation (DALI) Lab is a research and development lab in the computer science department (<a href="http://www.cs.dartmouth.edu">http://www.cs.dartmouth.edu</a>) at Dartmouth College. They combine innovative technology and elegant design to communicate data effectively, share information in ways that change people’s behavior, and display research in ways that help others understand the meaning and importance of the work. Students work in small teams, outside the classroom, with the support of staff and faculty advisors (<a href="http://dali.dartmouth.edu">http://dali.dartmouth.edu</a>). 
+
+
+<h3 class="subsubhead">The Future</h3>
+
+<p>
+<span class="booktitle">The Reading Room,</span> like most websites, is (and will always be) a work in progress.  The site now contains  all of Milton's poetry in English, Italian, Latin, and Greek, and selections of his prose.  Almost all of the works presented here have been fully annotated; most have solid introductions as well.  I hope that one day the site will present fully annotated and hyperlinked versions of all of Milton's English works, verse and prose.  This will place <span class="booktitle">The Milton Reading Room</span> in the midst of the virtual library that the web is rapidly becoming.  Milton, I believe, should be read and studied from inside a library, and the web makes this possible on a scale only recently imagined.
+</p>
+
+<p>
+I welcome suggestions and comments on the site and on the plans for its future.  Please send them to me, <a href="mailto:thomas.h.luxon@dartmouth.edu">Thomas H. Luxon (thomas.h.luxon@dartmouth.edu)</a>.
+</p>
+
+
+</div>
+</div>
+
+
+
+<div id="copyrightFooter" class="cf">
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+</body> 
+</html> 

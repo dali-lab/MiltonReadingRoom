@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+ 
+
+
+<!--Copyright 2003, all rights reserved-->
+
+<title>Milton: Nature Suffers No Decay</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/prose/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/prose/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">Nature Suffers No Decay</a>
+</p>
+<br />
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Alas"><span class="minitial">A</span>las</span>, how the wandering mind of man grows weary in the endless struggle with error; how, overwhelmed with profound darkness, it involves itself in a night like that wherein <a href="" id="oedipus" class="annotBtn">Oedipus</a> wandered! Insanely it dares to judge the deeds of the gods by its own deeds, and to liken laws inscribed on everlasting adamant to its own laws. It limits to its own passing hours the plan of fate that is unchanged for ever.
+</p>
+
+<p>
+Shall the face of Nature wither, and be furrowed with wrinkles; and shall the common mother, who has borne all things, with closed womb be barren from old age? Must she confess herself aged, and walk with uncertain steps, her starry head trembling? Shall loathsome age and the ceaseless hunger and thirst of the years, shall rust and decay, vex the stars? Shall insatiable Time swallow up Heaven and devour his own father? Alas, could imprudent Jove have fortified his citadels against this evil; could he have made them exempt from the ravages of Time, and have given them perpetual revolutions? Therefore some day it shall come to pass that the crumbling floor of heaven with thundrous roar shall fall in ruins, and the poles of the earth shall crash in collision, when Olympian Jove falls from his celestial palace, and with him dread Athene, her <a href="" id="gorgon" class="annotBtn">Gorgon shield</a> uncovered, even as the <a href="" id="vulcan" class="annotBtn">son of Juno</a> cast down from the sacred threshold of heaven fell upon Aegean Lemnos. And you, too, Phoebus, falling from your rushing chariot, shall imitate <a href="" id="phaeton" class="annotBtn">your own son's fate</a>, and be borne down in sudden ruin; <a href="" id="nereus" class="annotBtn">Nereus</a> shall smoke at the extinction of your lamp, and give forth from the astonished sea a fearful hissing. Then with its foundations rent asunder, the summit even of <a href="" id="haemus" class="annotBtn">lofty Haemus</a> shall crumble; and the <a href="" id="hills" class="annotBtn">Ceraunian hills</a>, which he used in the war on his brother immortals, broken and cast down to the lowest depths shall terrify Stygian Dis.
+</p>
+<p>
+But the Father omnipotent who more firmly fixed the stars took thought for the sum of things, and made the scales of the fates to weigh with certain balance. He ordained all things in the great order to move in their own courses for ever. Therefore the prime wheel of the universe turns in diurnal round, and bears with it in whirling motion the heavenly spheres. Saturn moves no slower than his wont, and, fierce as of old, radiant Mars gleams in crested helmet. Phoebus shines with the bloom of perpetual youth, nor does he warm the valleys of the worn-out earth by a downward turn of his chariot; but ever through the same signs of the spheres he hastens on with friendly light. Beautiful as at first from fragrant India ascends <a href="" id="star" class="annotBtn">the star</a> whose office it is to shepherd the ethereal flocks on whitening Olympus, calling them home at dawn, and at evening leading them out on the pastures of heaven, parting the realms of time with twofold light. With alternate crescents <a href="" id="delia" class="annotBtn">changeful Delia</a> still waxes and wanes, and with outstretched arms still clasps the kindled blue. The elements break not their faith. With its wonted crash the lurid lightning smites the rocks and shatters them. With no gentler sound <a href="" id="corus" class="annotBtn">Corus</a> still rages through the void, and the wild <a href="" id="aquilo" class="annotBtn">Aquilo</a> with equal chill tortures the warlike <a href="" id="Geloni" class="annotBtn">Geloni</a>, as it breathes forth winter and rolls the clouds along. As of old <a href="" id="neptune" class="annotBtn">the sea-king</a> still breaks at the feet of <a href="" id="pelorus" class="annotBtn">Sicilian Pelorus</a>, and the <a href="" id="trumpeter" class="annotBtn">trumpeter of Ocean</a> with his hoarse shell still resounds over the deep. The Balearic monsters bear on their backs the undiminished bulk of <a href="" id="aegaeon" class="annotBtn">Aegaeon</a>. Nor yet, O Earth, are you lacking in your pristine vigor. Narcissus still preserves his perfume; and your favorite boy, O Phoebus, and yours, Cythera, <a href="" id="youth" class="annotBtn">the youth of Cyprus</a>, are lovely as before. Earth, conscious of evil, did not in time past hide richer store of gold beneath the mountains or gems beneath the sea. Thus for ages the unbroken order of all things shall continue, until the final flames destroy the world, enveloping the wide-set poles and the great arch of heaven, and consuming the mighty frame of the world as on a funeral pyre.
+</p>
+ 
+
+</div>
+</body>
+</html>
+
+
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+ 
+
+
+<!--Copyright 1999-2011, all rights reserved-->
+
+<title>Milton: Sonnet 5</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+<p class="title"><a href="" id="intro" class="annotBtn">Sonnet 5</a></p>
+<br />
+<div class="verse">
+
+<p>
+My Lady, certainly your beautiful eyes <a href="" id="eyes" class="annotBtn">must be my sun</a>. Yes, they smite me hard, like the sun upon a traveler through the Libyan desert, while a hot vapor (never felt before) pushes from <a href="" id="side" class="annotBtn">that side</a> which is in pain: I do not know what it is, maybe that which lovers' language calls a sigh: part of it, locked up in darkness, hides, having shaken my breast and then escaping a little around here, either is covered in frost or freezes. But the part that comes to find a place in my eyes makes all my nights rainy until my dawn comes again full of roses.
+</p>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+ 
+
+
+<!--Copyright 2003, all rights reserved-->
+
+<title>Milton: At Age 17</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/prose/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/prose/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+
+
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">At Age 17.</a> On the Death<br />
+of the Bishop of Ely
+</p>
+<br />
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="My"><span class="minitial">M</span>y</span> cheeks were still wet and stained with weeping, and my eyes, not yet dry, were swollen from the flood of briny tears which I in duty shed, rendering sad tribute over the bier of the esteemed Bishop of Winchester, when hundred-tongued Fame &mdash; alas! ever a true messenger of evil and misfortune &mdash; spread through the cities of rich Britain, and among the people sprung from Neptune, the news that you, an honor to mankind and chief of the saints in the <a href="" id="eel" class="annotBtn">isle that bears the name of Ely</a>, have yielded to Death and the <a href="" id="fates" class="annotBtn">fatal sisters</a>. Then forthwith hot anger surged in my troubled breast, and often I cursed the powerful goddess of the grave; nor did <a href="" id="naso" class="annotBtn">Naso</a> deep in his heart conceive curses more horrible in his Ibis; and more sparingly did <a href="" id="archilochus" class="annotBtn">the Greek</a> curse the treachery of Lycambes and Neobule his betrothed. But lo! while I was uttering these bitter execrations, and invoking destruction upon the destroyer, astonished I seemed to hear these sounds borne on a gentle air beneath the breeze:</p> 
+
+<p>
+"Put away blind wrath, put away vain anger, and impotent threats. Why do you rashly profane powers that cannot be injured, but which may be suddenly moved to anger? Death is not, as you think, deluded wretch, the black daughter of Night, nor of Erebus, nor of Erinys below in vast Chaos. She has been sent from the starry heavens to gather throughout the world the harvests of God. She calls forth into the light and the air the souls that are hidden by the body &mdash; even as when the fleeting Hours, daughters of Themis and Jove, call forth the day. The righteous she leads before the face of the eternal Father, but the wicked she justly hurries away to the mournful realm of gloomy Tartarus, to abodes beneath the earth. I rejoiced when I heard her call; quickly I left my foul prison, and amid winged soldiery was happily borne to the stars on high, as long ago <a href="" id="elijah" class="annotBtn">the aged prophet</a> was snatched up into heaven with a chariot of fire and a charioteer. The wain of bright <a href="" id="bootes" class="annotBtn">Bo&ouml;tes</a>, slow with cold, terrified me not, nor the claws of the terrible Scorpion, nor your sword, Orion. I flew beyond the orb of the gleaming sun, and far beneath my feet saw <a href="" id="triform" class="annotBtn">the triform goddess</a> as with golden reins she checked her dragons. Through the ranks of the wandering stars, and through the Milky Way I was borne, often wondering at my unheard-of speed, until I came to the shining gates of Olympus, and the crystalline palace, and the court paved with jasper.  But here I shall be silent; for who that is born of mortal father can tell the pleasures of this place?  It is enough for me to enjoy them forever."
+</p>
+
+
+</div>
+</body> 
+</html> 

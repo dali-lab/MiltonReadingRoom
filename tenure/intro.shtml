@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>The Tenure of Kings and Magistrates: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+	
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">The Tenure of Kings and Magistrates</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#prose">Prose</a> > <a href="">The Tenure of Kings and Magistrates: Introduction</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+	<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="intro.shtml"><b>Introduction</b></a>
+				</li>
+				<li id="notLast" class="newGroup">
+					<a href="title.shtml">Title Page</a>
+				</li>
+				<li>
+					<a href="text.shtml">Text</a>
+				</li>
+				
+			</ul>	
+	</div>
+
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+<p class="poemTitle">Introduction</p>
+<p><span class="booktitle">The Tenure of Kings and Magistrates</span> 
+  (<span class="booktitle">TKM</span>) tries to be several things at once&mdash;a closely argued and authoritatively 
+  supported treatise in political science, a polemical pamphlet, and an essay 
+  in biblical interpretation. In her recent <a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="main"><span class="booktitle">The 
+  Life of John Milton</span></a>, Barbara Lewalski describes its various generic 
+  elements: "Several elements are intertwined here, somewhat disjointedly: castigation 
+  of backsliding Presbyterians, rhetorical appeals to the fragmenting revolutionary 
+  parties, defenses of tyrannicide, and development of a republican political 
+  theory derived from classical and contemporary sources, and the Bible"  
+  (230). For all of its claims to be chiefly a work of theory, there's much to 
+  be gained from reading it as an occasional piece, prompted by one of England's 
+  most important political emergencies.</p>
+ <p class="next"> By December 
+  1648, King Charles I's royalist forces had been utterly defeated by the Parliamentary 
+  Army led by Generals <a href="http://www.search.eb.com/eb/article?eu=34180" target="main">Thomas 
+  Fairfax</a> and <a href="http://www.search.eb.com/eb/article?eu=117760" target="main">Oliver 
+  Cromwell</a>. Attempts to come to some compromise with the King had all failed 
+  and there was very good reason to suspect that the King and his agents were 
+  negotiating (when they agreed to negotiate at all) in bad faith. Still, many 
+  in Parliament, including some Presbyterians who had supported war against the 
+  king for nearly seven years, balked at the idea of trying King Charles I for 
+  treason, and deposing and executing him. Milton argues that these procedures, 
+  however radical they may appear, are nothing more than the logical and necessary 
+  extension of having waged a just war on a tyrant who remains unrepentant and 
+  a danger to the commonwealth. </p>
+  <p class="next">On the sixth 
+  of December, 1648, <a href="http://www.search.eb.com/eb/article?tocId=9061356" target="main">Colonel 
+  Thomas Pride</a> led troops into the House of Commons and forcibly ejected royalist 
+  and Presbyterian supporters of rapprochement with the King. The remaining members, 
+  known as the Rump Parliament empowered a commision to try the king for treason; 
+  it found him guilty and deposed and executed him on January 30, 1649. Milton 
+  wrote <span class="booktitle">TKM</span> at this moment in support of the Rump and the Army. Though 
+  he argues forcefully for the right of a people to re-assume its natural and 
+  God-given right of popular sovereignty, he never addresses the crucial issue 
+  of whether the Rump or the Army that shaped it could justly be said to represent 
+  the sovereignty of a free-born people. By March, Milton had been appointed to 
+  a post&mdash;Secretary for Foreign Tongues&mdash;in the new commonwealth government 
+  shorn of the king (though not entirely of monarchy) and the House of Lords.<br />
+  <a name="introdate"></a></p>
+  <p class="next">The 
+  first edition of <span class="booktitle">TKM</span> is <a href="http://wwwlib.umi.com/eebo/imagelist?id=12296190" target="main">dated 1649 on its title page</a> and runs to forty-two 
+  quarto pages. The second edition runs to sixty quarto pages, adding a number 
+  of quotations, paraphrases, and citations from Protestant authors, continental, 
+  English, and Scottish. Some second edition copies are <a href="http://wwwlib.umi.com/eebo/image/59034" target="main">dated 1649</a> and <a href="http://wwwlib.umi.com/eebo/image/59372" target="main">some 1650</a>. The Julian Calendar, 
+  which sets the new year on March 25, and the Gregorian Calendar, promulgated 
+  by a papal bull of 1582, were variously used by English printers well into the 
+  seventeenth century. For this edition I have followed the second edition, specifically 
+the Harvard University Library's copy (Wing M2183) from <a href="http://wwwlib.umi.com/eebo/image/44340" target="main"><span class="booktitle">Early 
+English Books Online.</span></a> For more information on early editions, see Merritt 
+Y. Hughes preface to TKM in the <a href="../bibliography/t-z/text.shtml#Yale" target="main"><span class="booktitle">Yale 
+Complete Prose</span></a> volume 3 (185-88);  and John T. Shawcross, <a href="../bibliography/r-s/text.shtml#shawcross_tenure" target="main">"Milton's Tenure of Kings and Magistrates:  Date of Composition, Editions,
+and Issues."</a>  <br><br><span class="booktitle">Thomas H. Luxon </span> 
+</p>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+</body> 
+</html> 

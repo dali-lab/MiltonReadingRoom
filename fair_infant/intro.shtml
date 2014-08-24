@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>On the Death of a Fair Infant Dying of a Cough: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner">On the Death of a Fair Infant Dying of a Cough</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1673"><i>Poems</i> (1673)</a> > <a href="">On the Death of a Fair Infant Dying of a Cough: Introduction</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+		<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="intro.shtml"><b>Introduction</b></a>
+				</li>
+				<li>
+					<a href="text.shtml">Text</a>
+				</li>
+				
+			</ul>	
+	</div>
+
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+
+<p class="poemTitle">
+Introduction
+</p>
+
+<p>As his first major poem in English, "A Fair Infant" may serve as a starting point from which to examine the development of Milton's craft (see <a href="../bibliography/t-z/text.shtml#gayle_wilson" target="newwindow">Gayle Wilson</a>). Thematically, the poem contains elements which appear throughout the body of Milton's work. As <a href="../bibliography/f-h/text.shtml#holly_hanford" target="newwindow">James Holly Hanford</a> argues, Milton's first poem in English establishes patterns for his later poetry. In particular, the poem enriches the study of Milton's "On the Morning of Christ's Nativity," as the two share similar thematic concerns and formal structure.
+</p>
+ <p class="next">
+The largest controversy surrounding Milton's "Fair Infant" concerns the date of its authorship. According to Edward Phillips, Milton's nephew, the poem is about Milton's niece, Anne Phillips, who was buried in the winter of 1628 (<a href="../bibliography/r-s/text.shtml#burton_raffel" target="newwindow">Raffel</a> 93). Anne's mother was pregnant with Milton's other niece, Elizabeth, during this period, which is consistent with the expected child in the poem (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="newwindow">Lewalski, <cite>Life</cite></a> 43). Problematically, Milton dated the poem to his seventeenth year, though he was nineteen when Anne was buried. Because Edward Phillips was born after Anne's death, those who wish to trust Milton's account of the date believe this weakens the claim that the poem is about Anne (<a href="../bibliography/r-s/text.shtml#burton_raffel" target="newwindow">Raffel</a> 96).  Furthermore, 1625 was a great plague year, which supports the 1628 date, given the content of the poem (<a href="../bibliography/t-z/text.shtml#a_woodhouse" target="newwindow">Woodhouse</a> 120). However, A. S. P. Woodhouse notes that Milton also mis-dated "In Obitum Procancellarii"; for whatever reason, he may well have mis-dated "Fair Infant" (<a href="../bibliography/t-z/text.shtml#a_woodhouse" target="newwindow">Woodhouse</a>, 119). Ultimately, as Raffel explains, critics reluctantly conclude that the poem is the work of a nineteen year old university poet, and not the work of a seventeen year old boy (<a href="../bibliography/r-s/text.shtml#burton_raffel" target="newwindow">Raffel</a> 93). Perhaps their reluctance stems from a desire to distance the poet of "Fair Infant" from that of the "Nativity Ode," which was written in 1629. Regardless, critics mostly agree that the poem was written about Anne Phillips in 1628.  </p>
+<p class="next">
+	There are, of course, many reasons why Milton might have incorrectly backdated his poem. In particular, Barbara Lewalski postulates that the error was due to faulty memory, scribal error, or an intentional compensation for belated accomplishment (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="newwindow">Lewalski, <cite>Life</cite></a> 27). Raffel characterizes the poem as "apprentice work"; perhaps Milton might have thought so too and dated it at a younger age out of his own pride (<a href="../bibliography/r-s/text.shtml#burton_raffel" target="newwindow">Raffel</a> 93). As James Holly Hanford argues, "It is almost easier to suppose that he intended to mislead the reader in the interests of vanity" (<a href="../bibliography/f-h/text.shtml#holly_hanford" target="newwindow">Hanford</a>, 313). Furthermore, Milton did not publish "Fair Infant" in his 1945 Poems, his first published collection. Harris Fletcher suggests that Milton waited until 1673 to publish the poem because its content was a sensitive family matter (<a href="../bibliography/f-h/text.shtml#harris_fletcher" target="newwindow">Fletcher</a> 56). It is more likely, however, that Milton intentionally distanced himself from his "apprentice work," as Stella Revard claims; the later publication makes "Fair Infant" look like "a precocious experiment with the ode form" (<a href="../bibliography/r-s/text.shtml#stella_revard" target="newwindow">Revard</a> 265).</p>
+<p class="next">
+Though scholars differ widely in their analyses of the poem's stanzaic groupings, the poem's structure is formally standard (<a href="../bibliography/t-z/text.shtml#gayle_wilson" target="newwindow">Gayle Wilson</a> 6). As Lewalski explains:</p>
+<blockquote>
+The eleven-stanza funeral ode finds its chief models in Spenserian poets like the Fletchers, in neo-Latin funeral epigrams on the death of children for the use of the flower motif, and in Pindaric odes for the myths and mythic transformations. The seven-line stanzas meld Chaucerian rime royal with the Spenserian stanza, retaining the Spenserian final alexandrine as well as Spenserian archaisms and schemes of alliteration and assonance. (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="newwindow">Lewalski, <cite>Life</cite></a> 27)
+</blockquote>
+
+
+
+<p class="next">
+ Formally, "A Fair Infant" is in the same stanzaic form as the Proem to "On the Morning of Christ's Nativity" (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="newwindow">Lewalski, <cite>Life</cite></a> 47). This is significant, especially since Harris Fletcher calls the poem a "practice piece" for the "Nativity Ode" (<a href="../bibliography/f-h/text.shtml#harris_fletcher" target="newwindow">Fletcher</a> 56).
+</p>
+ 
+	<p class="next">Thematically, Milton's "Fair Infant" expresses ideas that appear throughout his career, but most importantly in his "Nativity Ode."  As Hugh Maclean claims, "the earlier poem finds Milton grappling with elements which will be successfully combined only when the fusion of poetical power and religious experience is achieved and given expression in the Ode" (<a href="../bibliography/l-m/text.shtml#hugh_maclean" target="newwindow">Maclean</a> 299). Leonard Nathanson explains that the poem introduces a persistent theme for Milton: "the employment of classical form and conventions to convey Christian ideas and meaning," in which "a man's earthly career is subordinated to the soul's joy in higher life" (<a href="../bibliography/n-q/text.shtml#leonard_nathanson" target="newwindow">Nathanson</a> 24). 
+</p>
+</div>
+<p class="author">Alison Moe and Thomas H. Luxon</p>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 
+

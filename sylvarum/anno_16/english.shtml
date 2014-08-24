@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+ 
+
+
+<!--Copyright 1999-2010, all rights reserved-->
+
+<title>Milton: At Age 16</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/prose/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/prose/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+
+
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">At Age 16.</a> On the Death<br />
+of the Vice-Chancellor, a Physician
+</p>
+<br />
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Learn"><span class="minitial">L</span>earn</span> to submit to the laws of destiny, and lift your suppliant hands to the Fate, O <a href="" id="japetus" class="annotBtn">children of Iapetus</a> who inhabit the pendulous orb of the earth. If Death, the doleful wanderer from <a href="" id="taenarus" class="annotBtn">Taenarus</a>, shall but once call you, alas! vain is it to attempt wiles and delay, for all must pass through the shades of <a href="" id="styx" class="annotBtn">Styx</a>. Were the right hand strong to repel destined death, fierce Hercules had not lain dead on <a href="" id="oeta" class="annotBtn">Aemathian Oeta</a>, poisoned by the blood of <a href="" id="nessus" class="annotBtn">Nessus</a>; nor had Ilium seen <a href="" id="hectorslain" class="annotBtn">Hector slain</a> by the base guile of envious Pallas; nor <a href="" id="sarpedon" class="annotBtn">Sarpedon</a> whom the phantom Achilles slew with Locrian sword, whilst Jove wept. If <a href="" id="hecatean" class="annotBtn">Hecatean</a> words could put to flight sad fate, the infamous <a href="" id="telegonus" class="annotBtn">mother of Telegonus</a> had yet lived, and the <a href="" id="aegialeus" class="annotBtn">sister of Aegialeus</a>, who used the powerful wand. If mysterious herbs and the art of the physicians could thwart the triple goddesses, <a href="" id="machaon" class="annotBtn">Machaon</a> with his skill in simples had not fallen by the spear of Eurypylus; and the arrow smeared with the serpent's blood had done you no injury, O <a href="" id="philyreius" class="annotBtn">Philyreius</a>; nor had the arms and bolts of your grandsire harmed you, <a href="" id="aesclepius" class="annotBtn">O son</a>, who were cut from your mother's womb. And you, too, Gostlin, greater than your tutor, Apollo, you to whom was given the rule of the <a href="" id="gowned" class="annotBtn">gowned flock</a>, had not died, whom now leafy <a href="" id="cirrha" class="annotBtn">Cyrrha</a> mourns, and <a href="" id="helicon" class="annotBtn">Helicon</a> amid its springs. You would still live, happy and honored to have shepherded the <a href="" id="flock" class="annotBtn">flock of Pallas</a>. You would not have gone in <a href="" id="charon" class="annotBtn">Charon's skiff</a> to the horrible recesses of the abyss. But <a href="" id="persephone" class="annotBtn">Persephone</a> broke the thread of life, angered when she saw how many souls you snatched from the black jaws of Death by your arts and your potent juices. Revered Chancellor, I pray that your body may rest in peace beneath the soft turf, and that from your grave may spring roses, and marigolds, and the hyacinth with blushing face. May the judgment of <a href="" id="aeacus" class="annotBtn">Aeacus</a> rest mildly on you, and may <a href="" id="persephone" class="annotBtn">Sicilian Proserpina</a> grant you a smile, and in the <a href="" id="elysian" class="annotBtn">Elysian fields</a> among the blest may you walk for ever.
+</p>
+ 
+
+</div>
+</body>
+</html>

@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Sylvarum Liber: In Quintus Novembris</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Sylvarum Liber</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Sylvarum Liber: In Quintus Novembris</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin</a>
+					</li>
+					<li id="notLast">
+						<a href="" id="English">English</a>
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						Texts
+					</li>
+					<li id="notLast">
+						<a href="../anno_16/text.shtml">Anno &aelig;tatis 16</a>
+					</li>
+					<li id="notLast">
+						<a href="../novembris/text.shtml"><b>In Quintus <br>Novembris</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../ely/text.shtml">Anno &aelig;tatis 17</a>
+					</li>
+					<li id="notLast">
+						<a href="../naturam/text.shtml">Naturam non pati senium</a>
+					</li>
+					<li id="notLast">
+						<a href="../idea/text.shtml">De Idea Platonica</a>
+					</li>
+					<li id="notLast">
+						<a href="../patrem/text.shtml">Ad Patrem</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_114/text.shtml">Psalm 114</a>
+					</li>
+					<li id="notLast">
+						<a href="../philosophus/text.shtml">Philosophus ad <br>regem</a>
+					</li>
+					<li id="notLast">
+						<a href="../salsillum/text.shtml">Ad Salsillum</a>
+					</li>
+					<li id="notLast">
+						<a href="../mansus/text.shtml">Mansus</a>
+					</li>
+					<li class="newGroup">
+						<a href="../../effigy/text.shtml">Additions in <i>Poems</i> (1673)</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">In quintum Novembris,</a> Anno<br />
+&aelig;tatis 17.</p>
+
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Iam"><span>J</span>am</span> pius extrem&acirc; veniens J&auml;cobus ab arcto<br />
+Teucrigenas populos, lat&eacute;que patentia regna<br />
+Albionum tenuit, jamque inviolabile f&oelig;dus<br />
+Sceptra Caledoniis conjunxerat Anglica Scotis:<br />
+Pacificusque novo felix divesque sedebat<span class="line" id="line5"> [ 5 ]</span><br />
+In solio, occultique doli securus &amp; hostis:<br />
+Cum ferus ignifluo regnans Acheronte tyrannus,<br />
+Eumenidum pater, &aelig;thereo vagus exul Olympo,<br />
+Forte per immensum terrarum erraverat orbem,<br />
+Dinumerans sceleris socios, vernasque fideles,<span class="line" id="line10"> [ 10 ]</span><br />
+Participes regni post funera moesta futuros;<br />
+Hic tempestates medio ciet a&euml;re diras, <br />
+Illic unanimes odium struit inter amicos,<br />
+Armat &amp; invictas in mutua viscera gentes;<br />
+Regnaque olivifera vertit florentia pace,<span class="line" id="line15"> [ 15 ]</span><br />
+Et quoscunque videt pur&aelig; virtutis amantes,<br /> 
+Hos cupit adjicere imperio, fraudumque magister <br />
+Tentat inaccessum sceleri corrumpere pectus,<br />
+Insidiasque locat tacitas, cassesque latentes<br />
+Tendit, ut incautos rapiat, <a href="" id="ceu" class="annotBtn">seu</a> Caspia Tigris<span class="line" id="line20"> [ 20 ]</span><br />
+Insequitur trepidam deserta per avia pr&aelig;dam<br />
+Nocte sub illuni, &amp; somno nictantibus astris.<br />
+Talibus infestat populos Summanus &amp; urbes<br />
+Cinctus c&aelig;rule&aelig; fumanti turbine flamm&aelig;.<br />
+Jamque fluentisonis albentia rupibus arva<span class="line" id="line25"> [ 25 ]</span><br />
+Apparent, &amp; terra Deo dilecta marino,<br />
+Cui nomen dederat quondam Neptunia proles<br />
+Amphitryoniaden qui non dubitavit atrocem<br />
+&AElig;quore tranato furiali poscere bello,<br />
+Ante expugnat&aelig; crudelia s&aelig;cula Troi&aelig;.<span class="line" id="line30"> [ 30 ]</span>
+</p>
+<p>
+<span class="mindent">At simul hanc opibusque &amp; fest&acirc; pace beatam</span><br />
+Aspicit, &amp; pingues donis Cerealibus agros,<br />
+Quodque magis doluit, venerantem numina veri<br />
+Sancta Dei populum, tandem suspiria rupit<br />
+Tartareos ignes &amp; luridum olentia sulphur.<span class="line" id="line35"> [ 35 ]</span><br />
+Qualia Trinacri&acirc; trux ab Jove clausus in &AElig;tna<br />
+Efflat tabifico monstrosus ab ore Tiph&oelig;us.<br />
+Ignescunt oculi, stridetque <a href="" id="adamantinus" class="annotBtn">adamantinus</a> ordo<br />
+Dentis, ut armorum fragor, ictaque cuspide cuspis.<br />
+Atque pererrato solum hoc lacrymabile mundo<span class="line" id="line40"> [ 40 ]</span><br />
+Inveni, dixit, gens h&aelig;c mihi sola rebellis,<br />
+Contemtrixque jugi, nostr&acirc;que potentior arte.<br />
+Illa tamen, mea si quicquam tentamina possunt,<br />
+Non feret hoc impune diu, non ibit inulta,<br />
+Hactenus; &amp; piceis liquido <a href="" id="natat" class="annotBtn">natat</a> a&euml;re pennis;<span class="line" id="line45"> [ 45 ]</span><br />
+Qu&agrave; volat, adversi pr&aelig;cursant agmine venti,<br />
+Densantur nubes, &amp; crebra tonitrua fulgent.
+</p>
+<p>
+<span class="mindent">Jamque pruinosas velox superaverat alpes,</span><br />
+Et tenet Ausoni&aelig; fines, &agrave; parte sinistr&acirc;<br />
+Nimbifer Appenninus erat, priscique Sabini,<span class="line" id="line50"> [ 50 ]</span><br />
+Dextra veneficiis infamis Hetruria, nec non<br />
+Te furtiva Tibris Thetidi videt oscula dantem;<br />
+Hinc Mavortigen&aelig; consistit in arce Quirini.<br />
+Reddiderant dubiam jam sera crepuscula lucem,<br />
+Cum circumgreditur totam Tricoronifer urbem,<span class="line" id="line55"> [ 55 ]</span><br />
+Panificosque Deos portat, scapulisque virorum<br />
+Evehitur, pr&aelig;eunt summisso poplite reges,<br />
+Et mendicantum series longissima fratrum;<br />
+Cereaque in manibus gestant funalia c&aelig;ci,<br />
+Cimmeriis nati in tenebris, vitamque trahentes.<span class="line" id="line60"> [ 60 ]</span><br />
+Templa dein multis subeunt lucentia t&aelig;dis<br />
+(Vesper erat sacer iste Petro) fremit&uacute;sque canentum<br />
+S&aelig;pe tholos implet vacuos, &amp; inane locorum.<br />
+Qualiter exululat Bromius, Bromiique caterva,<br />
+Orgia cantantes in Echionio Aracyntho,<span class="line" id="line65"> [ 65 ]</span><br />
+Dum tremit attonitus vitreis Asopus in undis,<br />
+Et procul ipse cav&acirc; responsat rupe Cith&aelig;ron.
+</p>
+
+<p>
+<span class="mindent">His igitur tandem solenni more peractis,</span><br />
+Nox senis amplexus Erebi taciturna reliquit,<br />
+Pr&aelig;cipitesque impellit equos stimulante flagello,<span class="line" id="line70"> [ 70 ]</span><br />
+Captum oculis Typhlonta, Melanch&aelig;temque ferocem,<br />
+Atque Acheront&aelig;o prognatam patre Siopen<br />
+Torpidam, &amp; hirsutis horrentem Phrica capillis.<br />
+Interea regum domitor, Phlegetontius h&aelig;res<br />
+Ingreditur thalamos (neque enim secretus adulter<span class="line" id="line75"> [ 75 ]</span><br />
+Producit steriles molli sine pellice noctes)<br />
+At vix compositos somnus claudebat ocellos,<br />
+Cum niger umbrarum dominus, rectorque silentum, <br />
+Pr&aelig;datorque hominum fals&acirc; sub imagine tectus<br />
+Astitit, assumptis micuerunt tempora canis,<span class="line" id="line80"> [ 80 ]</span><br />
+Barba sinus promissa tegit, cineracea longo<br />
+Syrmate verrit humum vestis, pendetque cucullus<br />
+Vertice de raso, &amp; ne quicquam desit ad artes,<br />
+Cannabeo lumbos constrinxit fune salaces,<br />
+Tarda fenestratis figens vestigia calceis.<span class="line" id="line85"> [ 85 ]</span><br />
+Talis, uti fama est, vast&acirc; Franciscus eremo<br />
+Tetra vagabatur solus per lustra ferarum,<br />
+Sylvestrique tulit genti pia verba salutis<br />
+Impius, atque lupos domuit, Lybicosque leones.
+</p>
+
+<p>
+<span class="mindent">Subdolus at tali Serpens velatus amictu</span><span class="line" id="line90"> [ 90 ]</span><br />
+Solvit in has fallax ora execrantia voces;<br />
+Dormis nate? Etiamne tuos sopor opprimit artus?<br />
+Immemor O fidei, pecorumque oblite tuorum,<br />
+Dum cathedram venerande tuam, diademaque triplex<br />
+Ridet Hyperboreo gens barbara nata sub axe,<span class="line" id="line95"> [ 95 ]</span><br />
+Dumque pharetrati spernunt tua jura Britanni<a href="" id="line96" class="annotBtn">;</a><br />
+Surge, age, surge piger, Latius quem C&aelig;sar adorat,<br />
+Cui reserata patet convexi janua c&aelig;li,<br />
+Turgentes animos, &amp; fastus frange procaces,<br />
+Sacrilegique sciant, tua quid maledictio possit,<span class="line" id="line100"> [ 100 ]</span><br />
+Et quid Apostolic&aelig; possit custodia clavis;<br />
+Et memor Hesperi&aelig; disjectam ulciscere classem,<br />
+Mersaque Iberorum lato vexilla profundo,<br />
+Sanctorumque cruci tot corpora fixa probros&aelig;,<br />
+Thermodoont&eacute;a nuper regnante puella.<span class="line" id="line105"> [ 105 ]</span><br />
+At tu si tenero mavis torpescere lecto<br />
+Crescentesque negas hosti contundere vires,<br />
+Tyrrhenum implebit numeroso milite Pontum, <br />
+Signaque Aventino ponet fulgentia colle:<br />
+<a href="" id="relliquias" class="annotBtn">Relliquias</a> veterum franget, flammisque cremabit,<span class="line" id="line110"> [ 110 ]</span><br />
+Sacraque calcabit pedibus tua colla profanis,<br />
+Cujus gaudebant sole&iuml;s dare basia reges.<br />
+Nec tamen hunc bellis &amp; aperto Marte lacesses,<br />
+Irritus ille labor, tu callidus utere fraude,<br />
+Qu&aelig;libet h&aelig;reticis disponere retia fas est;<span class="line" id="line115"> [ 115 ]</span><br />
+Jamque ad consilium extremis rex magnus ab oris<br />
+Patricios vocat, &amp; procerum de stirpe creatos,<br />
+Grand&aelig;vosque patres trabe&acirc;, canisque verendos;<br />
+Hos tu membratim poteris conspergere in auras,<br />
+Atque dare in cineres, nitrati pulveris igne<span class="line" id="line120"> [ 120 ]</span><br />
+&AElig;dibus injecto, qu&agrave; convenere, sub imis.<br />
+Protinus ipse igitur quoscumque habet Anglia fidos<br />
+Propositi, factique mone, quisqu&aacute;mne tuorum<br />
+Audebit summi non jussa facessere Pap&aelig;.<br />
+Perculsosque metu subito, <a href="" id="casumque" class="annotBtn">cas&uacute;mque</a> stupentes<span class="line" id="line125"> [ 125 ]</span><br />
+Invadat vel Gallus atrox, vel s&aelig;vus Iberus<br />
+S&aelig;cula sic illic tandem Mariana redibunt,<br />
+Tuque in belligeros iterum dominaberis Anglos.<br />
+Et nequid timeas, divos divasque secundas<br />
+Accipe, quotque tuis celebrantur numina fastis.<span class="line" id="line130"> [ 130 ]</span><br />
+Dixit &amp; adscitos ponens malefidus amictus<br />
+Fugit ad infandam, regnum ill&aelig;tabile, Lethen.
+</p>
+
+<p>
+<span class="mindent">Jam rosea Eoas pandens Tithonia portas</span><br />
+Vestit inauratas redeunti lumine terras;<br />
+M&aelig;staque adhuc nigri deplorans funera nati<span class="line" id="line135"> [ 135 ]</span><br />
+Irrigat ambrosiis montana cacumina guttis;<br />
+Cum somnos pepulit stellat&aelig; janitor aul&aelig;<br />
+Nocturnos visus, &amp; somnia grata revolvens.
+</p>
+
+<p>
+<span class="mindent">Est locus &aelig;tern&acirc; septus caligine noctis</span><br />
+Vasta ruinosi quondam fundamina tecti,<span class="line" id="line140"> [ 140 ]</span><br />
+Nunc torvi spelunca Phoni, Prodot&aelig;que bilinguis<br />
+Effera quos uno peperit Discordia partu.<br />
+Hic inter c&aelig;menta jacent <a href="" id="praerup" class="annotBtn">pr&aelig;ruptaque</a> saxa,<br />
+Ossa inhumata vir&ucirc;m, &amp; trajecta cadavera ferro;<br />
+Hic Dolus intortis semper sedet ater ocellis,<span class="line" id="line145"> [ 145 ]</span><br />
+Jurgiaque, &amp; stimulis armata Calumnia fauces,<br />
+Et Furor, atque vi&aelig; moriendi mille videntur<br />
+Et Timor, exanguisque locum circumvolat Horror,<br />
+Perpetuoque leves per muta silentia Manes<br />
+Exululant, tellus &amp; sanguine conscia stagnat.<span class="line" id="line150"> [ 150 ]</span><br />
+Ipsi etiam pavidi latitant penetralibus antri<br />
+Et Phonos, &amp; Prodotes, nulloque sequente per antrum<br />
+Antrum horrens, scopulosum, atrum feralibus umbris<br />
+Diffugiunt sontes, &amp; retr&ograve; lumina vortunt,<br />
+Hos pugiles Rom&aelig; per s&aelig;cula longa fideles<span class="line" id="line155"> [ 155 ]</span><br />
+Evocat antistes Babylonius, atque ita fatur.<br />
+Finibus occiduis circumfusum incolit &aelig;quor<br />
+Gens exosa mihi, prudens natura negavit<br />
+Indignam penit&ugrave;s nostro conjungere mundo<a href="" id="line159" class="annotBtn">;</a><br />
+Illuc, sic jubeo, celeri contendite gressu,<span class="line" id="line160"> [ 160 ]</span><br />
+Tartareoque leves difflentur pulvere in auras<br />
+Et rex &amp; pariter satrap&aelig;, scelerata propago<br />
+Et quotquot fidei caluere cupidine ver&aelig;<br />
+Consilii socios adhibete, operisque ministros.<br />
+Finierat, rigidi cupid&egrave; paruere gemelli.<span class="line" id="line165"> [ 165 ]</span>
+</p>
+
+<p>
+<span class="mindent">Interea longo flectens curvamine c&aelig;los</span><br />
+Despicit &aelig;there&acirc; dominus qui fulgurat arce,<br />
+Vanaque pervers&aelig; ridet conamina turb&aelig;,<br />
+Atque sui causam populi volet ipse tueri.
+</p>
+
+<p>
+<span class="mindent">Esse ferunt spatium, qu&agrave; distat ab Aside terra</span><span class="line" id="line170"> [ 170 ]</span><br />
+Fertilis Europe, &amp; spectat Mareotidas undas;<br />
+Hic turris posita est Titanidos ardua Fam&aelig;<br />
+&AElig;rea, lata, sonans, rutilis vicinior astris<br />
+Qu&agrave;m superimpositum vel Athos vel Pelion Oss&aelig;<br />
+Mille fores aditusque patent, totidemque fenestr&aelig;,<span class="line" id="line175"> [ 175 ]</span><br />
+Amplaque per tenues translucent atria muros;<br />
+Excitat hic varios plebs agglomerata susurros;<br />
+Qualiter instrepitant circum mulctralia bombis<br />
+Agmina muscarum, aut texto per ovilia junco,<br />
+Dum Canis &aelig;stivum c&oelig;li petit ardua culmen<span class="line" id="line180"> [ 180 ]</span><br />
+Ipsa quidem summ&acirc; sedet ultrix matris in arce,<br />
+Auribus innumeris cinctum caput eminet olli,<br />
+Queis sonitum exiguum trahit, atque levissima captat<br />
+Murmura, ab extremis patuli confinibus orbis.<br />
+Nec tot Aristoride servator inique juvenc&aelig;<span class="line" id="line185"> [ 185 ]</span><br />
+Isidos, immiti volvebas lumina vultu,<br />
+Lumina non unquam tacito nutantia somno,<br />
+Lumina subjectas late spectantia terras.<br />
+Istis illa solet loca luce carentia s&aelig;pe<br />
+Perlustrare, etiam radianti impervia soli.<span class="line" id="line190"> [ 190 ]</span><br />
+Millenisque loquax auditaque visaque linguis<br />
+Cuilibet effundit temeraria, ver&aacute;que mendax<br />
+Nunc minuit, mod&ograve; confictis sermonibus auget.<br />
+Sed tamen a nostro meruisti carmine laudes<br />
+Fama, bonum quo non aliud veracius ullum,<span class="line" id="line195"> [ 195 ]</span><br />
+Nobis digna cani, nec te memorasse pigebit<br />
+Carmine tam longo, servati scilicet Angli<br />
+Officiis vaga diva tuis, tibi reddimus &aelig;qua.<br />
+Te Deus &aelig;ternos motu qui temperat ignes,<br />
+Fulmine pr&aelig;misso alloquitur, terr&acirc;que tremente:<span class="line" id="line200"> [ 200 ]</span><br />
+Fama siles? an te latet impia Papistarum<br />
+Conjurata cohors in meque meosque Britannos,<br />
+Et nova sceptrigero c&aelig;des meditata J&auml;cobo:<br />
+Nec plura, illa statim sensit mandata Tonantis,<br />
+Et satis ant&egrave; fugax stridentes induit alas,<span class="line" id="line205"> [ 205 ]</span><br />
+Induit &amp; variis exilia corpora plumis;<br />
+Dextra tubam gestat Temes&aelig;o ex &aelig;re sonoram.<br />
+Nec mora jam pennis cedentes remigat auras,<br />
+Atque parum est cursu celeres pr&aelig;vertere nubes,<br />
+Jam ventos, jam solis equos post terga reliquit:<span class="line" id="line210"> [ 210 ]</span><br />
+Et prim&ograve; Angliacas solito de more per urbes<br />
+Ambiguas voces, incertaque murmura spargit,<br />
+Mox arguta dolos, &amp; detestabile vulgat<br />
+Proditionis opus, nec non facta horrida dictu,<br />
+Authoresque addit sceleris, nec garrula c&aelig;cis<span class="line" id="line215"> [ 215 ]</span><br />
+Insidiis loca structa silet; stupuere relatis,<br />
+Et pariter juvenes, pariter tremuere puell&aelig;,<br />
+Eff&aelig;tique senes pariter, tant&aelig;que ruin&aelig;<br />
+Sensus ad &aelig;tatem subit&ograve; penetraverat omnem<br />
+Attamen interea populi miserescit ab alto<span class="line" id="line220"> [ 220 ]</span><br />
+&AElig;thereus pater, &amp; crudelibus obstitit ausis<br />
+Papicol&ucirc;m; capti p&oelig;nas raptantur ad acres;<br />
+At pia thura Deo, &amp; grati solvuntur honores;<br />
+Compita l&aelig;ta focis genialibus omnia fumant;<br />
+Turba choros juvenilis agit: Quintoque Novembris<span class="line" id="line225"> [ 225 ]</span><br />
+Null Dies toto occurrit celebratior anno.
+</p>
+
+</div>
+</div>
+
+<div id="alternateContent">
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">On the Fifth of November,</a><br />
+At the age of seventeen
+</p>
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Now"><span>N</span>ow</span> came pious James from the <a href="" id="scotland" class="annotBtn">far north</a> and began his reign over the people <a href="" id="troy" class="annotBtn">descended from Troy</a> and <a href="" id="albion" class="annotBtn">Albion</a>'s wide domain.  And now an inviolable bond had united the Scots of Caledonia and the English sceptre.  Happy and prosperous, the peace-maker was seated on his new throne, secure from enemy or secret threat.  Then the <a href="" id="satan" class="annotBtn">fierce tyrant</a> who rules <a href="" id="acheron" class="annotBtn">Acheron's fiery flood</a>, who is father of the Furies, a wanderer in exile from ethereal Olympus, had gone roaming over earth's vast orb.  He was numbering his companions in crime and his faithful <a href="" id="slaves" class="annotBtn">slaves by birth</a>, those doomed to share his kingdom after their own miserable burials.  Here he stirs up frightful storms in the middle air, there he sows hatred between like-minded friends.  He arms invincible nations for intestine struggle, and overturns kingdoms once flourishing under the olive-branch of peace.  He is especially keen to recruit to his power any lovers of pure virtue he can find.  Master of deception, he does his best to poison the heart untouched by sin.  He sets his secret traps, and stretches hidden nets to catch the unwary, just as the Caspian tigress stalks her trembling prey through trackless wastes in a moonless night while stars wink drowsily.  So <a href="" id="summanus" class="annotBtn">Summanus</a>, shrouded in a smoking whirlwind of blue flame, falls upon nations and cities.  And now appear the <a href="" id="dover" class="annotBtn">white cliffs</a> and surf-beaten rocks, the land that delights the god of the sea; the land which long ago, was named for <a href="" id="albion" class="annotBtn">Neptune's son</a>; that son who, having crossed the ocean, did not shrink from challenging <a href="" id="hercules" class="annotBtn">Amphitryon's terrifying son</a> to fearful combat, before the cruel days of Troy's demise.</p>
+
+<p>
+As soon as he spies this land, blessed with properity and joyful peace, its fields replete with <a href="" id="ceres" class="annotBtn">Ceres</a>' gifts, and--what stung him even more--its people worshipping the sacred glory of the true God, he breaks out in sighs that stink of Tartarean flames and yellow sulphur, sighs like those the monstrous <a href="" id="tiphoeus" class="annotBtn">Tiphoeus</a>, imprisoned by Jove under Trinacrian Aetna, blasts from his noxious mouth.  His eyes flash fire; his adamantine teeth, all in a row, gnash out a noise like the din of arms, like spear grinding against spear.  "I have wandered the whole world," he says, "and here I have found  the only cause for tears: these are the only people to rebel against me, scorn my rule, these alone have power greater than my arts.  Yet if my efforts have any effect, not long shall they continue  unpunished."  With that, he floats through the liquid air on pitch-black wings.  Wherever he flies adverse winds rush in before him, clouds thicken, and  frequent lightning flashes. 
+</p>
+<p>
+And now he had flown swiftly over the snow-capped Alps, and reached the <a href="" id="ausonian" class="annotBtn">Ausonian</a> frontier.  To his left were the cloud-capped Apennines and the ancient Sabine land; to his right, Etruria, notorious for its sorcerers.  Nor did he miss seeing where the Tiber steals kisses from Thetis.  Then he alighted on the citadel of <a href="" id="quirinus" class="annotBtn">Quirinus</a>, son of Mars.
+</p>
+<p>
+Now when the evening dusk had returned its dubious light, the <a href="" id="pope" class="annotBtn">Triple Crown</a> makes the round of the whole city, borne on men's shoulders and carrying his <a href="" id="eucharist" class="annotBtn">Gods made of bread</a>.  Before him crawl kings on submissive knees, and there is a long procession of <a href="" id="mendicant" class="annotBtn">mendicant friars</a>.  And in their hands they carry wax tapers, for they were born, and drag out their lives, in <a href="" id="cimmerian" class="annotBtn">Cimmerian</a> darkness.  They proceed into churches  ablaze with many candles (it was <a href="" id="peterfeast" class="annotBtn">St Peter's Eve</a>), and over and again the wailing of the chanters fills the empty domes and vacant spaces. They wail like <a href="" id="bromius" class="annotBtn">Bromius</a> and his crew howling and chanting orgiastic hymns on <a href="" id="thebes" class="annotBtn">Echionian Aracynthus</a>, while astonished <a href="" id="asopus" class="annotBtn">Asopus</a> shudders beneath his glassy waves and even distant Cithaeron  echoes the din from its hollow cliff.
+</p>
+<p>
+When at length the wonted rites were complete, silent Night slipped from old Erebus' embrace and, with her goading whip, urged to a headlong pace her team of horses: blind <a href="" id="typhlon" class="annotBtn">Typhlon</a>, fierce Melanchaetes, torpid Siope,  sired by an Acherontean steed, and shaggy Phrix with bristling mane.
+</p>
+<p>
+Meanwhile the <a href="" id="kingtamer" class="annotBtn">king-tamer</a>, the heir of Phlegeton, enters his bower (this secret adulterer never spends barren nights without some sweet whore).  But scarcely had sleep closed his peaceful eyes when the <a href="" id="shadowlord" class="annotBtn">dark lord of shadows</a>, and the ruler of the silent shades who preys upon men, appeared at his bedside in a false shape.  His temples gleamed with false grey hair, a long beard covers his chest, his ash-coloured gown sweeps the floor with its trailing hem; a cowl dangles from his tonsured head, and to complete his disguise he has bound a hempen rope round his lecherous loins and fastened latticed sandals to his slow old feet.  <a href="" id="stfrancis" class="annotBtn">Francis</a>, so the story goes, looked like this when he wandered alone in the waste wilderness and among the filthy dens of wild animals and, impious himself, carried the pious words of salvation to woodland folk, and tamed the wolves and Libyan lions.
+</p>
+
+<p>
+Thus disguised, the crafty serpent parted his foul lips and uttered these words: "Do you sleep, my son?  Does slumber overcome even your limbs?  O unmindful of the faith and neglectful of your flocks, while a barbarous nation born beneath the Hyperborean sky ridicules your venerable throne and triple diadem; and while the British archers scorn your rights.  Arise, come on, rise up, you sluggard!  You whom the Roman Emperor worships,  you for whom the unlocked gate of heaven's vault lies open&mdash;break their swelling spirits and insolent pride, and let these sacrilegious know the power of your curse, and what the keeper of the <a href="" id="key" class="annotBtn">Apostolic key</a> can do.   Remember to avenge the scattered <a href="" id="armada" class="annotBtn">Hesperian fleet</a>, and the Iberian ensigns sunk in the deep, and the bodies of so many saints nailed to the shameful cross during the <a href="" id="elizabeth" class="annotBtn">Thermodontean virgin</a>'s recent reign.  But if you prefer to lie torpid in your soft bed, and refuse to crush your enemy's growing strength, he will fill the Tyrrhenian Sea with his numerous host, and plant his glittering standards on the Aventine hill.  He will smash your ancient relics and burn them on the pyre, and trample your holy neck beneath his profane feet - you whose shoes kings once rejoiced to kiss!  But do not challenge him to war or open conflict: that would be wasted labor; a master of deceit uses guile.  Against heretics no subterfuge is disallowed.
+</p>
+ 
+<p>
+"And now their great king calls to parliament patricians from the remotest parts of their country, the high-born men and venerable fathers in gowns and white hair.  These you may scatter in the air, tear limb from limb, and burn to ashes if you ignite gunpowder under the foundations of the building in which they are assembled. Warn at once, therefore, any of the faithful still in England of this plan of action.  Are there any among your followers who will hear the supreme Papal commands and fail to act?  When the people are still stunned and panicked by the blast, let the fierce Frenchman or the savage Spaniard invade, returning Britain to the age of Mary, and you, once again, will rule over the warlike English.  And lest you prove timid, understand that all the gods and goddesses support you, all those deities you worship on your feast-days."  So spoke the deceiver, and putting off his disguise, fled to Lethe, his unspeakably joyless kingdom.
+</p>
+
+<p>
+Now <a href="" id="tithoniaspouse" class="annotBtn">Tithonia's rosy spouse</a> opens the eastern gates and dresses the gilded earth with returning light and, still mourning the sad death of her black son, she sprinkles the mountaintops with ambrosial drops.  Then the doorkeeper of the starry court shook off his slumber, and rolled away the sweet dreams and visions of night.
+</p>
+
+<p>
+There is a place, shut up in eternal darkness and night, once the vast foundation of a ruined pile, now the den of fierce-eyed Murder and fork-tongued Treachery, both born at once from fell Discord.  Here among the rubble and jagged rocks lie unburied skeletons, and cadavers thrust through with iron.  Forever here, dark and cross-eyed, sits Guile; and here are seen Strife and Calumny, her jaws armed with fangs.  Here are seen Fury, a thousand kinds of death, and Fear, and bloodless Horror flying around, and ghosts slide unceasingly through the voiceless silences.  And the sentient earth wails and rots in blood.  Even Murder and Treachery themselves cower in the depths of that cave and, though no one pursues them through the cave (a horrible cave, jagged with rocks and black with deathly shadows) they retreat guiltily, ever looking backward.  The <a href="" id="babylon" class="annotBtn">Babylonian priest</a> summons these champions of Rome, loyal to her through ages long, and this he says: "On the world's western edge, surrounded by the sea there dwells a people hateful to me.  Prudent Nature refused to connect them to our continent because they were unworthy.  Thither bend your course with all celerity--such is my command--and let the King and all his nobles, the whole wicked brood, be blown into the air by Tartarean powder.  And enlist in this plot any who are fired with zeal for the true faith as ministers of the work."  He ended and the fell pair eagerly obeyed him.
+</p>
+
+<p>
+Meanwhile the Lord who turns the heavens' great sphere, and sends the lightning from his ethereal citadel, looks down and laughs at the vain attempts of the wicked crew, and will defend his people's cause himself.  There is, men say, a place that looks out on Lake Mareotis, which separates the Asian continent from fertile Europe.  Here stands the high <a href="" id="fame" class="annotBtn">tower of Fame</a>, daughter of the Titaness, brazen, broad, full of noise and nearer to the twinkling stars than Athos, or Pelion piled upon Ossa. A thousand doors and entrances stand open, and as many windows, and the spacious halls within shine through the thin walls.  Here a swarming crowd sends up a confused murmur, like the buzzing of flies around the milking pails or through the wattled sheepfolds when the Dog Star scales the steeps of heaven to its summer height.   Fame herself, her mother's avenger, sits at the topmost pinnacle, and raises her head studded all round  with countless ears; with these she can detect even the tiniest sounds and catch the faintest whisper from the remotest corners of the globe.  Not even you, <a href="" id="argus" class="annotBtn">son of Arestor</a>, cruel guardian of the heifer Isis, had so many eyes rolling in your cruel face as she&mdash;eyes that never doze in silent sleep, eyes that sweep, far and wide, over the lands below.  With these she often penetrates unlighted places, where even the sun's rays cannot go.  Then, her thousand tongues wagging, she carelessly divulges all she has heard and seen to anyone.  Now with lies she dilutes the truth, and sometimes she embellishes it with her own confections.
+</p>
+
+<p>
+But still, Fame, you have deserved praise in our song for one good report, and there was never a rumor more truly honest.  You are worthy of our song, and I shall never regret having commemorated you at such length in my verse.  We English, who were plainly saved by your good offices, wandering goddess, render to you just thanks.  God who tends the eternal fires in their motions, hurled down a thunderbolt and then, the earth still trembling, addressed you: "Are you silent, Fame? Is this band of impious Papists hidden from your sight, this crew that has conspired against me and my Britons, and this novel kind of murder been planned against King James?"
+</p>
+
+<p>
+No more said he, but she responded at once to the Thunderer's commands, and, though swift of flight before, now she puts on creaking wings and covers her thin body with parti-coloured plumes.  In her right hand she takes a sonorous <a href="" id="temesaean" class="annotBtn">Temesaean trumpet</a>.  Without delay, she beats the yielding air with her wings.  And not content to outstrip the rushing clouds, she soon leaves behind her the winds and the horses of the sun.  As usual she first spreads ambiguous rumours and vague rumors throughout the English towns, and then in a clear voice she makes public the plots and foul deeds of treason, unspeakably horrible; and she even names the authors of the crime.  Nor does her garrulity conceal the places prepared for this ambush.  Her news amazes young men, frightened girls and weak old men alike.  People of all ages are suddenly struck to the heart by the sense of so great a disaster.
+</p>
+
+<p>
+But meanwhile the heavenly father looked down from above with pity on his people, and thwarted the Papists' cruel attempt.  They are seized and taken off to severe punishments.  Sacred incense is burned and grateful honours paid to God.  All the joyous crossroads smoke with genial fumes; the young people dance in crowds, for in all the year there is no day more celebrated than the fifth of November.
+</p>
+
+
+
+</div>
+
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

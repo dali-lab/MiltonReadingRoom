@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Research Links</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oranienbaum' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="../miltonNoNav.js"></script>
+		
+		<style>
+			#contents a {
+				color: #7a2801;
+			}
+			#contents {
+				font-size: 1.2em;
+			}
+		</style>
+		
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml" title="Home"><img id="home" src="../images/home.png"></img></a>
+	<a href="" title="Search"><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+
+	
+    <div id="header">
+		<a name="top"></a>
+		<div class="align-block baldHeader">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > <a href="">Research Links</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+
+
+<div id="container">
+
+<div id="contents">
+
+  <div class="editorial">   
+
+<h1 class="center">Research Links</h1> 
+ 
+<a name="milton"></a> 
+<h2 class="subhead">Milton Sites</h2>
+
+
+
+<ul>
+<li>A <a href="http://paradiselostreading.wordpress.com/the-recordings/" target="main">New Recording of <i>Paradise Lost</i></a> from Trinity College Dublin's December 2012 marathon reading of the entire poem.</li>
+<li><a href="http://www.christs.cam.ac.uk/milton400/index.htm" target="main">Christ's College Cambridge: 400th Anniversary Celebration</a>. These pages record the year of celebrations organised in 2008, offering podcasts and online versions of many events, including distinguished lectures, and continue to provide a set of resources for those interested in Milton. This is a resource well worth your browsing and attention.</li>
+<li><a href="http://www.christs.cam.ac.uk/darknessvisible/index.html" target="main">Darkness Visible: A Resource for Studying <cite>Paradise Lost</cite></a>. Prepared by students and other members of Christ's College Cambridge as part of Christ's quatercentenary celebrations of John Milton's birth.</li>
+<li><a href="http://www.sc.edu/library/spcoll/britlit/milton/milton.html" target="main">John Milton &amp; Seventeenth-century Culture</a>.  An online exhibit prepared by the University of South Carolina Libraries.</li>
+<li><a href="http://www.libraries.rutgers.edu/rul/exhibits/milton/" id="RutgersExhibit" name="RutgersExhibit" target="main">Milton and the Cultures of Print: An Exhibition of Books, Manuscripts, and Other Artifacts</a>. From the Rutgers University Library</li> 
+<li><a href="http://oyc.yale.edu/english/milton" target="main">Professor John Rogers, Lectures on John Milton from English 220</a> (fall 2007) at Yale University.</li>
+
+<li>Gordon Campbell's entry for <a href="http://www.oxforddnb.com/view/article/18800" target="main">"Milton, John (1608&ndash;1674)" in the <i>Oxford Dictionary of National Biography</i></a></li>
+	<li>	<a href="http://facultystaff.richmond.edu/~creamer/milton/chronology.html" target="main">John Milton Chronology</a> - Roy C. Flannagan</li>
+
+
+<li><a href="../rhetoric/index.shtml" target="_top">Milton's Rhetoric: Examples of Milton's Use of Classical Schemes and Tropes</a> by Lee Jacobus</li>
+	<li><a href="http://extra.shu.ac.uk/emls/iemls/postprint/CCM2Biblio.html" target="main">Milton's Works and Life: Select Studies and Resources</a> by R. G. Siemens.  <span class="booktitle">EMLS.</span>  A guide to over 300 resources for Milton Studies.</li>
+	<li>	<a href="http://www.luminarium.org/sevenlit/milton/miltadd.htm" target="main">Images and Resources from Luminarium:</a>  This site includes links to biographies, images, and other resources</li>
+	<li><a href="http://www.brysons.net/miltonweb/index.html" target="main">Michael Bryson's "Summaries and Analyses of Milton's Prose"</a></li>
+	<li>George Klawitter's <a href="http://myweb.stedwards.edu/georgek/milton/icon.htm" target="main">Collection of <span class="booktitle">Paradise Lost</span> Illustrations:</a> including Dor&eacute;, Martin, Medina, and Lens</li>
+<li>William Blake's <a href="http://www.pitt.edu/~ulin/Paradise/Blake1808.htm" target="main">Illustrations of <span class="booktitle">Paradise Lost</span></a> (1808)</li>
+<li>William Blake's <a href="http://www.blakearchive.org/exist/blake/archive/work.xq?workid=but544&amp;java=yes" target="main">Illustrations of <i>Paradise Regained</i></a></li>
+<li><a href="http://facultystaff.richmond.edu/~creamer/milton/" target="main">The Milton-L Homepage</a>.  The Online Center for Milton Studies</li>
+</ul>
+
+<a name="reference"></a>
+<h2 class="subhead">Reference Guides and Sources</h2>
+
+<ul>
+	<li><a href="http://www.google.com/" target="main">Google</a>:  The best all round search engine on the web</li>
+	<li><a href="http://www.engelsklenker.com/" target="main">TheEnglishCollection.com</a>, a search engine designed instantly to locate audio and video files on the web relevant to English and American history and literature.</li>
+	<li>Search the <a href="http://search.proquest.com/mlaib/advanced" target="main">MLA Biblography</a>: Books and Articles in Literary Studies up to last year</li>
+
+	<li>Search the <a href="http://vnweb.hwwilsonweb.com/hww/jumpstart.jhtml" target="main">Wilson Web Indexes</a> for articles, books, and book reviews</li>
+
+	<li>Search the <a href="http://www.oed.com/" target="main">Oxford English Dictionary</a>: Most authoritative historical dictionary of English</li>
+	<li>	Search <a href="http://www.britannica.com/" target="main">Britannica Online</a> or for Dartmouth users: <a href="http://www.search.eb.com/" target="main">Britannica Online</a></li>
+
+
+
+	<li><a href="http://libcat.dartmouth.edu/" target="Main">Dartmouth College Library Catalog</a></li>
+	<li>A List of <a href="../rauner/index.shtml" target="main">17th-Century Printings of Milton's Poetry and Prose in Rauner Special Collections</a> at Dartmouth</li>
+
+	<li><a href="../bibliography/a-b/index.shtml" target="main">Bibliography of Recent Criticism</a>: A moderately selective list spanning 1987-2004</li>
+
+	<li><a href="http://eebo.chadwyck.com" target="main">Early English Books Online.</a>   Early English Books Online (EEBO) will contain over 125,000 titles listed in Pollard &amp; Redgrave's Short-Title Catalogue (1475-1640), Wing's Short-Title Catalogue (1641-1700), and the Thomason Tracts (1640-1661).</li>
+	<li>Norton Topics Online:  <a href="http://www.wwnorton.com/nael/17century/welcome.htm" target="main">The Early 17th Century</a></li>
+	<li>	<a href="http://vos.ucsb.edu/browse.asp?id=2749" target="main">Voice of the Shuttle Resources</a>: Very good guide to Web resources for the study of Renaissance and 17th-century Literature</li>
+	<li>	<a href="http://www.georgetown.edu/labyrinth/library/latin/latin-lib.html" target="main">The Labyrinth</a>: Classical Greek, Latin and Medieval Latin texts</li>
+	<li><a href="http://www.englishmonarchs.co.uk/index.htm" target="main">English Monarchs</a>: An official government site that includes biographies and speeches of monarchs, including some by Elizabeth I, James I, and Charles I</li>
+	<li><a href="http://www.englishmonarchs.co.uk/index.htm" target="main">English Monarchs</a></li>
+
+	<li><a href="http://www.omacl.org/OMACL" target="main">Online Classical and Medieval Library</a></li>
+	<li><a href="http://www.luminarium.org/renascence-editions/ren.htm" target="main">Renascence Editions</a>: Growing list of Renaissance authors in HTML</li>
+
+<li><a href="http://www.wga.hu/index1.html" target="main">Web Gallery of Art</a>.  The best online resource for paintings and sculpture.</li>
+
+	
+	<li><a href="http://www.chicagomanualofstyle.org/home.html" target="main">The Chicago Manual of Style Online</a>, Fifteenth Edition</li>
+	<li><a href="http://www.lib.berkeley.edu/Help/guides.html" target="main">Citing On-line Sources--Style Guide</a></li>
+</ul>
+
+<a name="classical"></a>
+<h2 class="subhead">Classical Literature (Greek and Latin)</h2>
+
+	<ul>
+	<li><a href="http://classics.mit.edu" target="main">MIT Classical Authors</a>: HTML editions of Greek and Roman classics</li>
+	<li>	<a href="http://www.perseus.tufts.edu/hopper/" target="main">The Perseus Project Browser:</a>  Preferred HTML edition of classical literature.</li>
+	<li>	<a href="http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Greco-Roman" target="main">Index of Classical Authors in Perseus</a></li>
+	<li>	Aristotle's <a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg034.perseus-eng1:1447a" target="main"><span class="booktitle">Poetics</span></a></li>
+	<li>	Aristotle's <a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg010.perseus-eng1:1094a.1" target="main"><span class="booktitle">Nicomachean Ethics</span></a></li>
+	<li>	<a href="http://www.utexas.edu/depts/classics/documents/Cic.html" target="main">Cicero Homepage</a></li>
+	<li>	Hesiod's <a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0020.tlg001.perseus-eng1:1" target="main"><span class="booktitle">Theogony</span></a></li>
+	<li>	Homer's <a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:1.1" target="main"><span class="booktitle">Iliad</span></a></li>
+	<li>	Homer's <a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng2:1.1" target="main"><span class="booktitle">Odyssey</span></a></li>
+	<li>	Horace's <a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0893.phi001.perseus-eng1:1.1" target="main"><span class="booktitle">Odes</span></a></li>
+	<li>	Flavius Josephus's <a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:14.1" target="main"><span class="booktitle">Jewish Antiquities</span></a></li>
+	<li>	Ovid's <a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0959.phi006.perseus-eng2:1.1" target="main"><span class="booktitle">Metamorphoses</span></a></li>
+	<li>	Plato's <a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg011.perseus-eng1:190b" target="main"><span class="booktitle">Symposium</span></a></li>
+	<li>	Plato's <a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg030.perseus-eng1:333e" target="main"><span class="booktitle">Republic</span></a></li>
+	<li>	Tacitus, <a href="http://classics.mit.edu/Tacitus/annals.html" target="main"><span class="booktitle">The Annals</span></a></li>
+	<li>	Virgil's <a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0690.phi003.perseus-eng2:1.1" target="main"><span class="booktitle">Aeneid</span></a></li>
+	<li>	Virgil's <a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0690.phi001.perseus-eng1:1" target="main"><span class="booktitle">Eclogues</span></a></li>
+	<li>	Virgil's <a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0690.phi002.perseus-eng1:1.1" target="main"><span class="booktitle">Georgics</span></a></li>
+	<li> <a href="http://thelatinlibrary.com/" target="main">The Latin Library</a></li>
+</ul>
+
+
+<a name="bible"></a>
+<h2 class="subhead">Bible and Reformation Commentary</h2>
+
+
+	<ul>
+	<li><a href="http://www.ccel.org" target="main">Bible and Early Fathers</a>: Bible, Calvin and Geneva Commentaries, Reformation and Modern Evangelical Commentators.  This anonymously edited Bible website appears to be related to Calvin College, a Christian institution.</li>
+	<li>	<a href="http://www.biblegateway.com/" target="main">The Bible Gateway Search Engine</a>: Search by KJV, Vulgate, and select portions. This site has an explicitly conservative evangelical Christian mission; it excludes versions of the Bible that have extensive textual notes. It is useful for searching the KJV, but not for understanding textual variants important to Bible scholarship today.</li>
+
+	<li>	<a href="http://www.biblegateway.com/versions/index.php?action=getVersionInfo&amp;vid=9#books&amp;version=9;" target="main">The Bible Gateway: KJV</a>.  This site has an explicitly conservative evangelical Christian mission; it excludes versions of the Bible that have extensive textual notes. It is useful for searching the KJV, but not for understanding textual variants important to Bible scholarship today.</li>
+
+<li><a href="http://www.biblestudytools.net/Commentaries/GenevaStudyBible/" target="main">The Geneva English Bible of 1599</a>.  This translation and its annotations were preferred by early modern English Puritans.</li>
+
+	<li>	<a href="http://www.bible.org/netbible/index.htm" target="main">NETBible</a>:  New English Translation and Bible Study Center. Although NETBible.org has an explicitly evangelical mission, this is the <i>only</i> online Bible that pays attention to textual scholarship and notes variant readings important to Bible scholars. This is not Milton's Bible, but it reveals important information about the Bible obscured by most other Bible websites.</li>
+
+	<li>	<a href="http://www.earlychristianwritings.com/" target="main">Early Christian Writings: Apocrypha, Gnostics</a>.There is much more to early Christian writings than what survives as the canonized New Testament.</li> 
+
+	<li>	<a href="http://www.torreys.org/bible/" target="main">Web Resources for Biblical Studies</a>. A resource for serious, scholarly studies of the early Christian writings and their social world.</li>
+	<li><a href="http://www.blueletterbible.org/" target="main">The Blue Letter Bible.</a>  A Web Bible with links to Strong's Concordance and Hebrew and Greek lexicons.  This site has an explicit evangelical mission.</li>
+</ul>
+
+<a name="religion"></a>
+<h2 class="subhead">Religion and Theology</h2>
+
+
+	<ul>
+	<li><a href="http://homepage.mac.com/shanerosenthal/reformationink/classic.htm" target="main">Classic Reformation texts from Reformation Ink.</a>  Includes Beza, Calvin, and Luther selections</li>
+
+	<li>	<a href="http://justus.anglican.org/resources/bcp/1559/BCP_1559.htm" target="main">1559 <span class="booktitle">Book of Common Prayer.</span></a>  The Elizabethan Prayer Book for the Church of England, in current use in Milton's day.</li>
+	
+
+	<li>	Thomas Aquinas's <a href="http://www.newadvent.org/summa/" target="main"><span class="booktitle">Summa Theologica</span>.</a>  Most important medieval treatise on theology; still mostly current Roman Catholic Doctrine</li>
+
+	<li>	<a href="http://www.iclnet.org/pub/resources/christian-history.html" target="main">ICLNet Guide to Early Church Documents</a></li>
+
+	<li>	<a href="http://www.newadvent.org/cathen/" target="main">The New Catholic Encyclopedia.</a>  Encyclopedia of Catholic doctrine, teaching, history, traditions, and literature</li>
+
+	<li>	<a href="http://history.hanover.edu/texts/trent/ct24.html" target="main">Council of Trent on Marriage.</a></li>
+
+	<li>	Augustine's <a href="http://www.ccel.org/a/augustine/doctrine/doctrine.html" target="main"><span class="booktitle">On Christian Doctrine.</span></a>  Most important pre-reformation treatise on hermeneutics.</li>
+
+</ul>
+
+<a name="other"></a>
+<h2 class="subhead">Other Useful Texts and Sites</h2>
+	<ul>
+
+
+	<li>	Ludovico Ariosto's <a href="http://omacl.org/Orlando/1-2canto.html" target="main"><span class="booktitle">Orlando Furioso</span></a></li>
+	<li>	Torquato Tasso's <a href="http://omacl.org/Tasso/" target="main"><span class="booktitle">Jerusalem Delivered</span></a></li>
+	<li>	Philip Sidney's <a href="http://www.luminarium.org/renascence-editions/stella.html" target="main"><span class="booktitle">Astrophil and Stella</span></a></li>
+	<li>	Philip Sidney's <a href="http://www.luminarium.org/renascence-editions/defence.html" target="main"><span class="booktitle">Defence of Poesie</span></a></li>
+<li>Philip Sidney's <a href="http://www.hs-augsburg.de/~harsch/anglica/Chronology/16thC/Sidney/sid_arc0.html" target="main"><span class="booktitle">Old Arcadia (1581)</span></a> or <a href="http://www.luminarium.org/renascence-editions/arcadia1.html" target="main">New Arcadia (1590)</a></li>
+	<li>	<a href="http://www.luminarium.org/renascence-editions/ren.htm" target="main">Renascence Editions.</a>  A very good selection of Renaissance texts on the web, including Marlowe, Rachel Speght, Francis Bacon, Esther Sowernam, Sidney, Spenser, Mary Sidney, Roger Ascham, Thomas Campion, and many others, growing all the time.</li>
+	<li>	<a href="http://shakespeare.mit.edu/" target="main">Shakespeare.</a>  The preferred Shakepeare site on the Web</li>
+	<li>	Dante's <a href="http://dante.ilt.columbia.edu/comedy/index.html" target="main"><span class="booktitle">Divine Commedy</span></a></li>
+	<li><a href="http://petrarch.petersadlon.com/" target="main">Francesco Petrarch and Laura de Noves</a>, a site by Peter Sadlon</li>
+	<li>	Chaucer's <a href="http://sites.fas.harvard.edu/~chaucer/CTlist.html" target="main"><span class="booktitle">The Canterbury Tales</span></a></li>
+	<li>	Giovanni Bocaccio's <span class="booktitle"><a href="http://www.brown.edu/Departments/Italian_Studies/dweb/texts/" target="main">Decameron</a></span></li>
+	<li>Sir Thomas Malory's <a href="http://www.sacred-texts.com/neu/mart/" target="main"><span class="booktitle">Morte d'Arthur</span></a></li>
+	<li>	<a href="http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Marlowe&redirect=true" target="main">Complete Works of Marlowe</a></li>
+	<li> Seventeenth-century Women Writers from <a href="http://digital.library.upenn.edu/women/" target="main"><span class="booktitle">A Celebration of Women Writers</span></a></li>
+
+	<li>Search the <a href="http://www.wwp.brown.edu/" target="main">Brown Women Writers Project</a> Database</li>
+<li><a href="http://www.blakearchive.org/" target="main">The William Blake Archive</a></li>
+	<li>	<a href="http://etext.lib.virginia.edu/collections/languages/" target="main">U Virginia's Electronic Text Center</a></li>
+
+	<li>	<a href="http://infomotions.com/alex/" target="main">Alex: A Catalogue of Electronic Texts on the Internet</a></li>
+	<li><a href="http://muse.jhu.edu/journals/milton_quarterly/" target="main"><span class="booktitle">Milton Quarterly</span></a></li>
+	
+</ul>
+
+</div>
+
+
+
+</div>
+</div>
+
+
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 
+
+
+

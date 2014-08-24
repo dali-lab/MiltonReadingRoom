@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Rauner Special Collections</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oranienbaum' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		
+		<script src="../miltonNoNav.js"></script>
+		<style>
+			#content a {
+				color: #7a2801;
+			}
+			
+		
+		</style>
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+		
+		
+	</head>
+
+<body> 
+	<a href="" title="Home"><img id="home" src="../images/home.png"></img></a>
+	<a href="" title="Search"><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+
+	
+    <div id="header">
+		<a name="top"></a>
+		<div class="align-block baldHeader">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+		</div>
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+		
+	</div>
+	
+<div id="container">
+<div id="content">
+
+<div class="biblio" title="rauner">
+
+<h4>17th-Century Printings of Milton's Poetry and Prose in Rauner Special Collections at Dartmouth</h4>
+<p>
+<i>Justa Edovardo King naufrago, ab Amicis moerentibus, amoris &amp;....</i> Pet. Arb.
+Cantabrigiae: Apud Thomam Buck, &amp; Rogerum Daniel, 1638.  (A collection of verses lamenting the death of Edward King by drowning at sea in 1637, including Milton's "Lycidas.")<br />
+Special Collections, Hickmott 174
+</p>
+ 
+<p>
+<i>The Reason of Church-Governement Urg'd against Prelaty.</i>  In Two Books. 
+ London, Printed by E. G. for Iohn Rothwell, 1641.<br />
+Special Collections, Rare Book BV/669/M5
+</p>
+
+<p>
+<i>The Doctrine &amp; Discipline of Divorce; Restor'd to the Good of Both Sexes, from the bondage of canon law, and other mistakes, to the true meaning of Scripture in the law and gospel compar'd. Wherein also are set down the bad consequences of abolishing or condemning of sin, that which the law of God allows, and Christ abolisht not. Now the second time rev., and much augm. ... To the Parliament of England, with the Assembly.</i> 
+London, Imprinted, 1644.<br />
+Special Collections, Val. 824/M64/P8
+</p>
+<p>
+<i>Tetrachordon: expositions upon the foure chief places in scripture, which treat of mariage, or nullities in mariage ... wherin the doctrine and discipline of divorce, as was lately publish'd, is confirm'd by explanation of scripture, by testimony of ancient fathers, of civill lawes in the primitive church, of famousest reformed divines, and lastly, by an intended act of the Parlament and Church of England in the last yeare of Edvvard the sixth / by the former author J.M. ...</i><br />
+London, Printed in the year 1645.<br />
+Rauner Rare Book,  HQ813 .M497 1645
+</p>
+
+<p>
+<i>Poems of Mr. John Milton, both English and Latin, compos'd at several times. Printed by his true copies. The songs were set in musik by Mr. Henry Lawes ... Printed and published according to order.</i>
+London, Printed by Ruth Raworth for Humphrey Moseley, and are to be sold at the signe of the Princes Arms in S. Pauls Church-yard, 1645.<br />
+Special Collections, Hickmott 172
+<br />
+Special Collections, Val. 824m64/L23<br />
+[From the library of Viscount Birkenhead. M 2159-2160. S.T.C. (1641-1700)]</p>
+
+<p>
+<i>Ioannis Miltoni Angli Pro popvlo Anglicano defensio, contra Clavdii anonymi, alias Salmasii, Defensionem regiam ...</i>  
+Londini : Typis Dv Gardianis, 1651.<br />
+Special Collections, Rare Book DA/396/A3/S2/1652
+</p>
+
+<p>
+<i>Ioannis Miltoni Angli Pro populo anglicano defensio, contra Clavdii anonymi alias Salmasii, Defensionem regiam.</i> 
+Londini : Typis Du Gardianis, 1652.<br />
+Special Collections, Rare Book DA/396/A3/S32/1652
+</p>
+
+<p>
+<i>Brief notes upon a late sermon, titl'd, The fear of God and the king; preach'd, and since published, by Matthew Griffith, D.D. and chaplain to the late king. Wherein many notorious wrestings of scripture, and other falsities are observ'd by J.M.</i>
+London, 1660.<br />
+Special Collections, Val. 824/M64/093<br />
+[S.T.C. (1641-1700) 2097]
+</p>
+
+<p>
+<i>Paradise Lost: A poem written in ten books</i>.
+London : Printed, and are to be sold by Peter Parker ... and by Robert Boulter ... and Matthias Walker ..., 1667.<br />
+Special Collections, Rare Book PR/3560/1667<br />
+(First edition, with variant t.p. having author's name in small capitals.)
+</p>
+
+<p>
+<i>Paradise Lost: a poem in ten books.</i>
+London : Printed by S. Simmons, 1668.<br />
+Special Collections, Fields 39
+</p>
+
+<p>
+<i>Paradise Lost. / A / Poem / in / Ten Books. / The Author / John Milton. </i>
+London, / Printed by S. Simmons, and are to be sold by / T. Helder at the Angel in Little Brittain. / 1669.<br />
+Special Collections, Val. 824/M64/U511
+</p>
+
+<p>
+<i>The History of Britain, that part especially now call'd England : from the first traditional beginning, continu'd to the Norman Conquest / collected out of the antientest and best authours thereof by John Milton.</i>
+London : Printed by J.M. for James Allestry, at the Rose and Crown in St. Paul's Church-Yard, 1670.<br />
+Special Collections, Fields 37<br />
+(First edition. Pres. to Mrs. Fields by H. Thompson. Bookplate of H. Cheney)
+</p>
+
+<p>
+<i>Paradise Regain'd. A poem. In IV books. To which is added Samson Agonistes.</i>
+London, Printed by J. M[acock] for J. Starkey, 1671.<br />
+Special Collections, Val. 824/M64/U611
+</p>
+
+<p>
+<i>Poems, &amp;c. upon several occasions / by Mr. John Milton, both English and Latin, &amp;c. composed at several times. With a small tractate of education to Mr. Hartlib.</i> 
+London : Printed for Tho. Dring at the Blew Anchor next Mitre Court over against Fetter Lane in Fleet-street, 1673.<br />
+Special Collections, Val. 824/M64/U8
+</p>
+
+<p>
+<i>Poems, &amp;c. upon several occasions. by John Milton: both English and Latin, &amp;c. composed at several times. With a small tractate of education to Mr. Hartlib.</i>
+London, Printed for T. Dring, 1673.<br />
+Special Collections, Rare Book PR/3552/M54/1673
+</p>
+
+<p>
+<i>Poems, &amp;c. upon several occasions. By Mr. John Milton: both English and Latin, &amp;c. composed at several times. With a small tractate of education to Mr. Hartlib.</i>
+London, Printed for Tho. Dring at the White Lion next Chancery Lane end, in Fleet-street, 1673.<br />
+Special Collections, Hickmott 173
+</p>
+
+<p>
+<i>Joannis Miltonii Angli, Epistolarum familiarum liber unus: quibus accesserunt, ejusdem, jam olim in collegio adolescentis, prolusiones qu&aelig;dam oratori&aelig;.</i> Londini: Impensis Brabazoni Aylmeri ..., An.Dom. 1674<br />
+Rauner Rare Book,  PR3570 .E6 1674
+</p>
+    
+<p>
+<i>Paradise Lost; a poem in twelve books. 2d ed., rev. and augmented by the same author.</i> 
+London, Printed by S. Simmons, 1674.<br />
+Special Collections, Val. 824/M64/U512<br />
+(With this is bound: Rapin, Rene. Reflections on Aristotle's treatise of poesie.) London, 1674. <br />
+Special Collections, Val. 824/M64/U512/cop. 2
+</p>
+
+<p>
+England and Wales. Council of State. 
+<i>Literae pseudo-senatus Anglicani, Cromwellii, reliquorumque perduellium nomine ac jussu conscriptae / a Joanne Miltono.</i> 
+[Londini] impressae anno 1676.<br />
+Special Collections, Rare Book DA/420/G7
+</p>
+
+<p>
+<i>The History of Britain, that part especially now call'd England. From the first traditional beginning, continu'd to the Norman conquest. Collected out of the antientest and best authours thereof by John Milton.</i> [2d ed.] 
+London, Printed by J. M. for J. Martyn, 1677.<br />
+Special Collections, Fields 38<br />
+(This is not first edition. MS. notes)
+</p>
+
+<p>
+<i>Paradise Regain'd: a poem / in IV books ; to which is added Samson Agonistes ; the author John Milton.</i> [2d ed.] 
+London : printed for John Starkey, 1680.<br />
+Special Collections, Val. 824/M64/U612
+</p>
+<p>
+<i>Paradise Lost: a poem in twelve books.</i> The fourth edition, adorn'd with sculptures.
+London: Printed by Miles Flesher for Jacob Tonson, 1688.<br /> Rauner Rare Book 	 PR3560 1688
+</p>
+ 
+<p>
+<i>A Defence of the People of England, by John Milton: in answer to Salmasius's Defence of the king.</i> 
+[Amsterdam?] 1692.<br />
+Special Collections, Rare Book DA/396/A3/S32/1692<br />
+(Armorial bookplate of Thomas Foley of Great Witley Court in the County of Worcester)
+</p>
+<p>
+<i>Paradise Lost: a poem in twelve books.</i> The 6th ed., with sculptures. To which is added, explanatory notes upon each book, and a table to the poem, never before printed.<br />
+London: printed by Tho. Hodgkin, for Jacob Tonson, at the Judge's-Head near the Inner-Temple-Gate, in Fleet-street, 1695<br />
+ Rauner Rare Book 	 PR3560 1695  
+</p>
+<p>
+<i>Paradise Regain'd: a poem, in IV books: to which is added Samson Agonistes.</i> London: printed by R.E. and are to be sold by John Whitlock, 1695.<br /> Rauner Rare Book 	 PR3560 1695  
+</p>
+
+
+
+</div>
+
+
+</div>
+</div>
+
+
+
+<div id="copyrightFooter" class="cf">
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+</body> 
+</html> 

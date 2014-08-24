@@ -1,0 +1,1660 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Comus: Text</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+	<div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Comus</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Comus: Text</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+
+	
+	<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" >
+						<a href="intro/text.shtml">Introduction</a>
+					</i>
+					<li id="notLast" class="newGroup">
+						<a href="title_1645/text.shtml">Title Page (1645)</a>
+					</i>
+					<li id="notLast">
+						<a href="title_1637/text.shtml">Title Page (1637)</a>
+					</i>
+					<li id="notLast">
+						<a href="front_matter/text.shtml">Front Matter</a>
+					</i>
+					<li>
+						<a href="../comus/text.shtml"><b>Text</b></a>
+					</i>
+				
+				</ul>	
+			</div>
+
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+<div class="title">                     
+
+<h1 class="mhead">A <a href="" id="masque" class="annotBtn">Mask</a> Presented at Ludlow Castle, 1634</h1>
+
+<h2 class="msubhead">
+The Persons
+</h2>
+</div>
+
+<div class="dp">
+
+The attendant Spirit afterwards in the habit of <span class="mi">Thyrsis</span><br />
+<span class="mi">Comus</span> with his crew <br />
+The Lady<br />
+1. Brother<br />
+2. Brother<br />
+<span class="mi">Sabrina</span>, the Nymph
+<br />
+_______________________________________<br /><br />
+<span class="mi">The <span class="varspell" title="chief">cheif</span> persons which <a href="" id="presented" class="annotBtn">presented</a>, were</span> <br /><br />
+
+The <a href="" id="bracly" class="annotBtn">Lord <span class="mi">Bracly</span></a>,<br />
+Mr. <span class="mi">Thomas Egerton</span>, his Brother,<br />
+The Lady <span class="mi">Alice Egerton.</span>
+<br />
+_______________________________________
+</div>
+<br />
+<div class="verse">
+
+<p class="sd">The first Scene <a href="" id="discovers" class="annotBtn">discovers</a> a <span class="varspell" title="wild">wilde</span> Wood.<br /><br />
+The <a href="" id="demon" class="annotBtn">attendant Spirit</a> descends or <a href="" id="opening" class="annotBtn">enters.</a>
+</p>
+<br />
+<p class="first">
+<span class="minitial">B</span><span class="varspell" title="Before">efore</span> the starry threshold of <a href="" id="jove" class="annotBtn"><span class="mi"><span class="varspell" title="Jove's">Joves</span></span></a> Court<br />
+My <a href="" id="mansion" class="annotBtn">mansion</a> is, where those immortal shapes<br />
+Of bright <span class="varspell" title="aereal">a&euml;real</span> Spirits live <span class="varspell" title="ensphered">insphear'd</span><br />
+In Regions <span class="varspell" title="mild">milde</span> of calm and serene <a href="" id="line4" class="annotBtn"><span class="varspell" title="Air">Ayr</span></a>,<br />
+
+Above the <span class="varspell" title="smoke">smoak</span> and <span class="varspell" title="stir">stirr</span> of this <a name="dimspot">dim spot</a>,<span class="line" id="line5"> [ 5 ]</span><br />
+Which men call Earth, and with low-thoughted care<br />
+<span class="varspell" title="Confined">Confin'd</span>, and <span class="varspell" title="pestered">pester'd</span> in this <a href="" id="pinfold" class="annotBtn">pin-fold</a> <a href="" id="line7" class="annotBtn">here</a>,<br />
+Strive to keep up a frail, and <span class="varspell" title="Feverish">Feaverish</span> being<br />
+<span class="varspell" title="Unmindful">Unmindfull</span> of the crown that <span class="varspell" title="Virtue">Vertue</span> gives<br />
+
+After this <a href="" id="lines10_11" class="annotBtn">mortal change</a>, to her true Servants<span class="line" id="line10"> [ 10 ]</span><br />
+Amongst the <span class="varspell" title="enthroned">enthron'd</span> gods on Sainted seats.<br />
+Yet <span class="varspell" title="some">som</span> there be that by due steps aspire<br />
+To lay their just hands on that Golden Key<br />
+That <span class="varspell" title="opens">ope's</span> the Palace of Eternity:<br />
+
+To such my errand is, and but for such,<span class="line" id="line15"> [ 15 ]</span><br />
+I would not soil these pure <a name="Ambrosial">Ambrosial</a> <a href="" id="weeds" class="annotBtn">weeds</a>,<br />
+With the rank <span class="varspell" title="vapors">vapours</span> of this Sin-worn <a href="" id="mould" class="annotBtn">mould.</a>
+</p>
+<p>
+But to my task. <span class="mi">Neptune</span> besides the <a href="" id="sway" class="annotBtn">sway</a><br />
+Of every salt Flood, and each ebbing Stream,<br />
+
+Took in by lot <span class="varspell" title="betwixt">'twixt</span> high, and <a href="" id="neather" class="annotBtn"><span class="varspell" title="nether">neather</span> <span class="mi">Jove</span></a>,<span class="line" id="line20"> [ 20 ]</span><br />
+Imperial rule of all the Sea-<span class="varspell" title="girded">girt</span> <span class="varspell" title="Isles">Iles</span><br />
+That like to rich, and various <span class="varspell" title="gems">gemms</span> inlay<br />
+The unadorned bosom of the Deep,<br />
+Which he to grace his <a href="" id="tributary" class="annotBtn">tributary gods</a><br />
+
+By course commits to <span class="varspell" title="several">severall</span> <span class="varspell" title="government">goverment</span>,<span class="line" id="line25"> [ 25 ]</span><br />
+And gives them leave to wear their <span class="varspell" title="Sapphire">Saphire</span> crowns,<br />
+And <span class="varspell"  title="wield">weild</span> their little tridents, but this <span class="varspell" title="Isle">Ile</span><br />
+The greatest, and the best of all the <a href="" id="main" class="annotBtn">main</a><br />
+He quarters to his <a href="" id="blue.haird" class="annotBtn"><span class="varspell" title="blue">blu</span>-<span class="varspell" title="haired">hair'd</span> deities</a>,<br />
+
+And all <a href="" id="tract" class="annotBtn">this tract</a> that fronts the falling Sun<span class="line" id="line30"> [ 30 ]</span><br />
+A noble Peer of <a href="" id="mickle" class="annotBtn">mickle</a> trust, and power<br />
+Has in his charge, with <span class="varspell" title="tempered">temper'd</span> awe to guide<br />
+An old, and haughty Nation <a href="" id="proud" class="annotBtn">proud in Arms:</a><br />
+Where his fair off-spring <span class="varspell" title="nursed">nurs't</span> in Princely lore,<br />
+
+Are coming to attend their <span class="varspell" title="Father's">Fathers</span> state,<span class="line" id="line35"> [ 35 ]</span><br />
+And new-entrusted Scepter,  but their way<br />
+Lies through the <span class="varspell" title="perplexed">perplex't</span> paths of this <a href="" id="drear" class="annotBtn">drear Wood</a>,<br />
+The nodding horror of whose shady brows<br />
+Threats the forlorn and <span class="varspell" title="wandering">wand'ring</span> <span class="varspell" title="Passenger">Passinger</span>.<br />
+
+And here their tender age might suffer <span class="varspell" title="peril">perill</span>,<span class="line" id="line40"> [ 40 ]</span><br />
+But that by quick command from <span class="varspell" title="Sovereign">Soveran</span> <span class="mi">Jove</span><br />
+I was <span class="varspell" title="dispatched">dispatcht</span> for their defence, and guard;<br />
+And listen why, for I will tell ye now<br />
+What <a href="" id="never" class="annotBtn">never yet was heard</a> in Tale or Song<br />
+
+From old, or modern Bard in Hall, or <span class="varspell" title="Bower">Bowr</span>.<span class="line" id="line45"> [ 45 ]</span>
+</p>
+<p>
+<a href="" id="bacchus" class="annotBtn"><span class="mi">Bacchus</span></a> that first from out the purple Grape,<br />
+<span class="varspell" title="Crushed">Crush't</span> the sweet <span class="varspell" title="poison">poyson</span> of <span class="varspell" title="misused">mis-used</span> Wine<br />
+After the <span class="mi">Tuscan</span> <a href="" id="mariners" class="annotBtn">Mariners <span class="varspell" title="transformed">transform'd</span></a><br />
+Coasting the <a href="" id="tyrrhene" class="annotBtn"><span class="mi">Tyrrhene</span> shore</a>, as the winds listed,<br />
+
+On <a href="" id="circes.island" class="annotBtn"><span class="mi"><span class="varspell" title="Circe's">Circes</span></span> <span class="varspell" title="Island">Iland</span></a> fell (who knows not <a name="circe"><span class="mi">Circe</span></a><span class="line" id="line50"> [ 50 ]</span><br />
+<a href="" id="daughter.sun" class="annotBtn">The daughter of the Sun?</a> Whose charmed Cup<br />
+Whoever tasted, lost his upright shape,<br />
+And downward fell into a <a href="" id="swine" class="annotBtn">groveling Swine</a>)<br />
+This Nymph that <span class="varspell" title="gazed">gaz'd</span> upon his <span class="varspell" title="clustering">clustring</span> locks,<br />
+
+With Ivy berries <span class="varspell" title="wreathed">wreath'd</span>, and his blithe youth,<span class="line" id="line55"> [ 55 ]</span><br />
+Had by him, ere he parted thence, a Son<br />
+Much like his Father, but his Mother more,<br />
+Whom <span class="varspell" title="therefore">therfore</span> she brought up and <span class="mi">Comus</span> <span class="varspell" title="named">nam'd</span>,<br />
+Who ripe, and <span class="varspell" title="frolic">frolick</span> of his full grown age,<br />
+
+<span class="varspell" title="Roving">Roaving</span> the <span class="mi"><span class="varspell" title="Celtic">Celtick</span></span>, and <span class="mi">Iberian</span> fields,<span class="line" id="line60"> [ 60 ]</span><br />
+At last betakes him to this ominous Wood,<br />
+And in thick shelter of black shades <span class="varspell" title="embowered">imbowr'd</span>,<br />
+<span class="varspell" title="Excels">Excells</span> his Mother at her mighty Art,<br />
+<span class="varspell" title="Offering">Offring</span> to every weary <span class="varspell" title="Traveller">Travailer</span>,<br />
+
+His <a href="" id="orient" class="annotBtn">orient</a> liquor in a Crystal <span class="varspell" title="Glass">Glasse</span>,<span class="line" id="line65"> [ 65 ]</span><br />
+To quench the <a href="" id="drought" class="annotBtn"><span class="varspell" title="drought">drouth</span> of <span class="mi">Phoebus</span></a>, which as they taste<br />
+(For most do taste through fond intemperate thirst)<br />
+Soon as the Potion works, their human <span class="varspell" title="countenance">count'nance</span>,<br />
+<span class="varspell" title="The">Th'</span> express resemblance of the gods, is <span class="varspell" title="changed">chang'd</span><br />
+
+Into some brutish form of <span class="varspell" title="Wolf">Woolf</span>, or Bear,<span class="line" id="line70"> [ 70 ]</span><br />
+Or <a href="" id="ounce" class="annotBtn">Ounce</a>, or Tiger, Hog, or bearded Goat,<br />
+All other parts remaining as they were,<br />
+And they, so <a href="" id="perfect" class="annotBtn">perfect</a> is their misery,<br />
+Not once perceive their foul disfigurement,<br />
+
+But boast themselves more comely <span class="varspell" title="than">then</span> before<span class="line" id="line75"> [ 75 ]</span><br />
+And all their friends, and native home forget<br />
+To <a name="rowl"><span class="varspell" title="roll">roule</span></a> with pleasure in a sensual sty.<br />
+<span class="varspell" title="Therefore">Therfore</span> when any <span class="varspell" title="favored">favour'd</span> of high <span class="mi">Jove</span>,<br />
+Chances to pass through this <span class="varspell" title="adventurous">adventrous</span> glade,<br />
+
+Swift as the Sparkle of a glancing Star,<span class="line" id="line80"> [ 80 ]</span><br />
+I shoot from <span class="varspell" title="Heaven">Heav'n</span> to give him safe convoy,<br />
+As now I do:  But first I must put off<br />
+These my <span class="varspell" title="sky">skie</span> <a name="iris">robes</a> spun out of <a href="" id="rainbow" class="annotBtn"><span class="mi">Iris</span> <span class="varspell" title="Woof">Wooff</span></a>,<br />
+And take the <a href="" id="weeds" class="annotBtn">Weeds</a> and <span class="varspell" title="likeness">likenes</span> of a Swain,<br />
+
+That to <a href="" id="service" class="annotBtn">the service</a> of this house belongs,<span class="line" id="line85"> [ 85 ]</span><br />
+Who with his <a name="orpheus">soft Pipe</a>, and smooth-dittied Song,<br />
+Well knows to still the <span class="varspell" title="wild">wilde</span> winds when they roar,<br />
+And hush the waving Woods, nor of <span class="varspell" title="less">lesse</span> faith,<br />
+And in this office of his Mountain watch,<br />
+
+Likeliest, and <span class="varspell" title="nearest">neerest</span> to the present <a href="" id="line90" class="annotBtn"><span class="varspell" title="aid">ayd</span></a><span class="line" id="line90"> [ 90 ]</span><br />
+Of this occasion. But I hear the tread<br />
+Of <a href="" id="hatefull" class="annotBtn"><span class="varspell" title="hateful">hatefull</span></a> steps, I must be viewless now.
+</p>
+<br />
+<p class="sd">
+<a href="" id="clowdie" class="annotBtn"><span class="reversem">Comus</span></a> enters with a Charming Rod in one hand, his Glass in the other, with him a rout of Monsters headed like sundry sorts of <span class="varspell" title="wild">wilde</span> Beasts, but otherwise like Men and Women, their Apparel glistering, they <span class="varspell" title="come">com</span> in making a riotous and unruly noise, with Torches in their hands.
+</p>
+<br />
+<p>
+<span class="sp">Comus.</span> The <a href="" id="morning.star" class="annotBtn">Star</a> that bids the Shepherd fold,<br />
+Now the top of <span class="varspell" title="Heaven">Heav'n</span> doth hold,<br />
+
+And the gilded Car of Day,<span class="line" id="line95"> [ 95 ]</span><br />
+His glowing Axle doth allay<br />
+In the steep <span class="mi"><span class="varspell" title="Atlantic">Atlantick</span> </span> stream,<br />
+And the slope Sun his upward beam<br />
+Shoots against the <a href="" id="dusky" class="annotBtn">dusky</a> <a name="pole">Pole</a>,<br />
+
+Pacing toward the other <span class="varspell" title="goal">gole</span><span class="line" id="line100"> [ 100 ]</span><br />
+Of his Chamber in the East.<br />
+Mean while <span class="varspell" title="welcome">welcom</span> Joy, and Feast,<br />
+Midnight shout, and revelry,<br />
+<span class="varspell" title="Tipsy">Tipsie</span> dance and <a href="" id="Jollity" class="annotBtn">Jollity.</a><br />
+
+Braid your Locks with <span class="varspell" title="rosy">rosie</span> Twine<span class="line" id="line105"> [ 105 ]</span><br />
+Dropping <span class="varspell" title="odors">odours</span>, dropping Wine.<br />
+Rigor now is gone to bed,<br />
+And Advice with scrupulous head,<br />
+Strict Age, and <span class="varspell" title="sour">sowre</span> Severity,<br />
+
+With their grave <a href="" id="saws" class="annotBtn">Saws</a> in slumber <span class="varspell" title="lie">ly</span>.<span class="line" id="line110"> [ 110 ]</span><br />
+We that are of purer fire<br />
+Imitate the Starry <span class="varspell" title="Choir">Quire</span>,<br />
+Who in their nightly <span class="varspell" title="watchful">watchfull</span> <span class="varspell" title="Spheres">Sphears</span>,<br />
+Lead in swift round the Months and Years.<br />
+
+The Sounds, and Seas with all their <a href="" id="finny" class="annotBtn">finny drove</a><span class="line" id="line115"> [ 115 ]</span><br />
+Now to the Moon in wavering <a href="" id="morris" class="annotBtn"><span class="varspell" title="Morris">Morrice</span></a> move,<br />
+And on the Tawny Sands and Shelves,<br />
+Trip the pert Fairies and the dapper Elves;<br />
+By dimpled Brook, and Fountain brim,<br />
+
+The Wood-Nymphs <span class="varspell" title="decked">deckt</span> with Daisies trim,<span class="line" id="line120"> [ 120 ]</span><br />
+Their <a href="" id="wakes" class="annotBtn">merry wakes</a> and pastimes keep:<br />
+What hath night to do with sleep?<br />
+Night hath better sweets to prove,<br />
+<span class="mi">Venus</span> now wakes, and <span class="varspell" title="wakens">wak'ns</span> Love.<br />
+
+<span class="varspell" title="Come">Com</span> let us our <a href="" id="rights" class="annotBtn"><span class="varspell" title="rites">rights</span></a> begin,<span class="line" id="line125"> [ 125 ]</span><br />
+Tis <span class="varspell" title="only">onely</span> <span class="varspell" title="daylight">day-light</span> that makes Sin,<br />
+Which these dun shades will <span class="varspell" title="never">ne're</span> report.<br />
+Hail <span class="varspell" title="Goddess">Goddesse</span> of Nocturnal sport<br />
+Dark <span class="varspell" title="veiled">vaild</span> <a href="" id="cotytto" class="annotBtn"><span class="mi">Cotytto,</span></a> <span class="varspell" title="to">t'</span> whom the secret flame<br />
+
+Of <span class="varspell" title="midnight">mid-night</span> Torches burns; mysterious Dame<span class="line" id="line130"> [ 130 ]</span><br />
+That <span class="varspell" title="never">ne're</span> art <span class="varspell" title="called">call'd</span>, but when the Dragon <a href="" id="line132" class="annotBtn"><span class="varspell" title="womb">woom</span></a><br />
+Of Stygian <span class="varspell" title="darkness">darknes</span> <span class="varspell" title="spits">spets</span> her thickest gloom,<br />
+And makes one blot of all the <span class="varspell" title="air">ayr</span>,<br />
+<a href="" id="Stay" class="annotBtn">Stay</a> thy cloudy <a href="" id="chair" class="annotBtn">Ebon chair</a>,<br />
+
+<span class="varspell" title="Wherein">Wherin</span> thou <span class="varspell" title="ridest">rid'st</span> with <a href="" id="hecate" class="annotBtn"><span class="mi"><span class="varspell" title="Hecate">Hecat'</span></span></a>, and befriend<span class="line" id="line135"> [ 135 ]</span><br />
+Us thy <span class="varspell" title="vowed">vow'd</span> Priests, till utmost end<br />
+Of all thy dues be done, and none left out,<br />
+Ere the blabbing <a href="" id="scout" class="annotBtn">Eastern scout</a>,<br />
+The nice Morn on <a href="" id="steep" class="annotBtn"><span class="varspell" title="the">th'</span> <span class="mi">Indian</span> steep</a><br />
+
+From her <span class="varspell" title="cabined">cabin'd</span> loop hole peep,<span class="line" id="line140"> [ 140 ]</span><br />
+And to the <span class="varspell" title="tell-tale">tel-tale</span> Sun <span class="varspell" title="descry">discry</span><br />
+Our <span class="varspell" title="concealed">conceal'd</span> <a name="solemnity">Solemnity.</a><br />
+<span class="varspell" title="Come">Com</span>, knit hands, and beat the ground,<br />
+In a light <span class="varspell" title="fantastic">fantastick</span> round.
+</p>
+<br />
+<p class="sd">
+<a href="" id="measure" class="annotBtn">The Measure.</a>
+</p>
+<br />
+ <p class="resume">                            
+
+Break off, break off, I <a href="" id="feel" class="annotBtn">feel</a> the different pace,<span class="line" id="line145"> [ 145 ]</span><br />
+Of <span class="varspell" title="some">som</span> <span class="varspell" title="chaste">chast</span> footing <span class="varspell" title="near">neer</span> about this ground.<br />
+Run to your shrouds, within these Brakes and Trees,<br />
+Our number may affright: <span class="varspell" title="Some">Som</span> Virgin sure<br />
+(For so I can distinguish by mine Art)<br />
+
+Benighted in these Woods. Now to my charms,<span class="line" id="line150"> [ 150 ]</span><br />
+And to my wily <a href="" id="trains" class="annotBtn">trains</a>, I shall <span class="varspell" title="ere">e're</span> long<br />
+Be well <span class="varspell" title="stocked">stock't</span> with as fair a herd as <span class="varspell" title="grazed">graz'd</span><br />
+About my Mother <span class="mi">Circe.</span> &nbsp; Thus I hurl<br />
+My <span class="varspell" title="dazzling">dazling</span> Spells into the <span class="varspell" title="spongy">spungy</span> <span class="varspell" title="air">ayr</span>,<br />
+
+Of power to cheat the eye with blear illusion,<span class="line" id="line155"> [ 155 ]</span><br />
+And give it false presentments, lest the place<br />
+And my <a href="" id="habits" class="annotBtn">quaint habits</a> breed astonishment,<br />
+And put the Damsel to suspicious flight,<br />
+Which must not be, for that's against my course;<br />
+
+I under fair pretence of friendly ends,<span class="line" id="line160"> [ 160 ]</span><br />
+And well-<span class="varspell" title="placed">plac't</span> words of <a href="" id="glozing" class="annotBtn">glozing</a> <span class="varspell" title="courtesy">courtesie</span>,<br />
+Baited with reasons not unplausible<br />
+Wind me into the <span class="varspell" title="easy">easie</span>-hearted man,<br />
+And <span class="varspell" title="hug">hugg</span> him into <a name="snares">snares.</a>  When once her eye<br />
+
+Hath met the <span class="varspell" title="virtue">vertue</span> of this <span class="varspell" title="Magic">Magick</span> dust,<span class="line" id="line165"> [ 165 ]</span><br />
+I shall <a name="disguise">appear</a> <span class="varspell" title="some">som</span> <span class="varspell" title="harmless">harmles</span> Villager<br />
+Whom thrift keeps up about his Country gear,<br />
+But here she comes, I fairly step aside<br />
+And hearken, if I may, her <span class="varspell" title="business">busines</span> <a href="" id="here" class="annotBtn">here.</a>
+</p>
+<br />
+<p class="sd">The Lady enters.
+</p>
+<br />
+<p class="resume">
+
+This way the noise was, if mine ear be true,<span class="line" id="line170"> [ 170 ]</span><br />
+My best guide now, me thought it was the sound<br />
+Of Riot, and ill-<span class="varspell" title="managed">manag'd</span> Merriment,<br />
+Such as the jocund Flute, or <span class="varspell" title="gamesome">gamesom</span> Pipe<br />
+Stirs up among the loose <a href="" id="hinds" class="annotBtn"><span class="varspell" title="unlettered">unleter'd</span> Hinds</a>,<br />
+
+When for their teeming Flocks, and granges full<span class="line" id="line175"> [ 175 ]</span><br />
+In wanton dance they praise the bounteous <a href="" id="pan" class="annotBtn"><span class="mi">Pan,</span></a><br />
+And thank the gods amiss.  I should be loath<br />
+To meet the rudeness, and <span class="varspell" title="swilled">swill'd</span> insolence<br />
+Of such late <a href="" id="wassailers" class="annotBtn">Wassailers</a>; yet O where <span class="varspell" title="else">els</span><br />
+
+Shall I inform my unacquainted <a name="feet">feet</a><span class="line" id="line180"> [ 180 ]</span><br />
+In the blind mazes of this <span class="varspell" title="tangled">tangl'd</span> Wood?<br />
+My Brothers when they saw me wearied out<br />
+With this long way, resolving here to lodge<br />
+Under the spreading <span class="varspell" title="favor">favour</span> of these Pines,<br />
+
+<span class="varspell" title="Stepped">Stept</span> as they <span class="varspell" title="said">se'd</span> to the next Thicket side<span class="line" id="line185"> [ 185 ]</span><br />
+To bring me Berries, or such cooling fruit<br />
+As the kind hospitable Woods provide.<br />
+They left me then, when the gray-hooded <span class="varspell" title="Even">Eev'n</span><br />
+Like a <a href="" id="votarist" class="annotBtn">sad Votarist</a> in <a href="" id="palmer" class="annotBtn"><span class="varspell" title="Palmer's">Palmers</span> weed</a><br />
+
+Rose from the hindmost wheels of <a href="" id="wain" class="annotBtn"><span class="mi"><span class="varspell" title="Phoebus'">Phoebus</span></span> wain</a>.<span class="line" id="line190"> [ 190 ]</span><br />
+But where they are, and why they came not back,<br />
+Is now the <span class="varspell" title="labor">labour</span> of my thoughts; 'tis likeliest<br />
+They had <span class="varspell" title="engaged">ingag'd</span> their <span class="varspell" title="wandering">wandring</span> steps too far,<br />
+And envious <span class="varspell" title="darkness">darknes</span>, <span class="varspell" title="ere">e're</span> they could return,<br />
+
+Had stole them from me, <span class="varspell" title="else">els</span> O <span class="varspell" title="thievish">theevish</span> Night<span class="line" id="line195"> [ 195 ]</span><br />
+Why <span class="varspell" title="shouldest">shouldst</span> thou, but for <span class="varspell" title="some">som</span> <span class="varspell" title="felonious">fellonious</span> end,<br />
+In thy dark lantern thus close up the Stars,<br />
+That nature hung in <span class="varspell" title="Heaven">Heav'n</span>, and <span class="varspell" title="filled">fill'd</span> their Lamps<br />
+With everlasting oil, to give due light<br />
+
+To the misled and lonely <span class="varspell" title="Traveler">Travailer</span>?<span class="line" id="line200"> [ 200 ]</span><br />
+This is the place, as well as I may guess,<br />
+Whence <span class="varspell" title="even">eev'n</span> now the tumult of loud Mirth<br />
+Was rife, and <a href="" id="perfet" class="annotBtn"><span class="varspell" title="perfect">perfet</span></a> in my <span class="varspell" title="listening">list'ning</span> ear,<br />
+Yet nought but <a href="" id="single" class="annotBtn">single</a> <span class="varspell" title="darkness">darknes</span> do I find.<br />
+
+What might this be? A thousand fantasies<span class="line" id="line205"> [ 205 ]</span><br />
+Begin to throng into my memory<br />
+Of calling shapes and <span class="varspell" title="beckoning">beckning</span> shadows dire,<br />
+And airy tongues, that syllable <span class="varspell" title="men's">mens</span> names<br />
+On Sands, and <span class="varspell" title="Shores">Shoars</span>, and desert Wildernesses.<br />
+
+These thoughts may startle well, but not astound<span class="line" id="line210"> [ 210 ]</span><br />
+The <span class="varspell" title="virtuous">vertuous</span> mind, that ever walks attended<br />
+By a strong siding champion Conscience.&mdash;&mdash;<br />
+O <span class="varspell" title="welcome">welcom</span> pure-<span class="varspell" title="eyed">ey'd</span> Faith, white-handed Hope,<br />
+Thou <span class="varspell" title="hovering">hov'ring</span> Angel <span class="varspell" title="girded">girt</span> with golden wings,<br />
+
+And thou <span class="varspell" title="unblemished">unblemish't</span> form of <a href="" id="chastity" class="annotBtn">Chastity</a>,<span class="line" id="line215"> [ 215 ]</span><br />
+I see ye <a href="" id="visibly" class="annotBtn">visibly</a>, and now <span class="varspell" title="believe">beleeve</span><br />
+That he, the Supreme good, <span class="varspell" title="to">t'</span> whom all things ill<br />
+Are but as slavish officers of vengeance,<br />
+Would send a <span class="varspell" title="glistering">glistring</span> Guardian if need were<br />
+
+To keep my life and <span class="varspell" title="honor">honour</span> <span class="varspell" title="unassailed">unassail'd</span>.<span class="line" id="line220"> [ 220 ]</span><br />
+Was I <span class="varspell" title="deceived">deceiv'd</span>, or did a sable cloud<br />
+Turn forth her silver lining on the night?<br />
+I did not err, there does a sable cloud<br />
+Turn forth her silver lining on the night,<br />
+
+And casts a gleam over this tufted Grove.<span class="line" id="line225"> [ 225 ]</span><br />
+I cannot hallo to my Brothers, but<br />
+Such noise as I can make to be heard farthest<br />
+<span class="varspell" title="I'll">Ile</span> <span class="varspell" title="venture">venter</span>, for my new <span class="varspell" title="enlivened">enliv'n'd</span> spirits<br />
+Prompt me; and they perhaps are not far off.</p>
+<br />
+<p class="song">
+<span class="songtitle"><a name="nightingale">SONG.</a></span>
+<br /><br />                  
+
+<span class="mindent">Sweet <a href="" id="echo" class="annotBtn">Echo</a>, sweetest Nymph that <span class="varspell" title="livest">liv'st</span> unseen</span><span class="line" id="line230"> <span class="reversem">[ 230 ]</span></span><br />
+<span class="m9em">Within thy airy shell</span><br />
+<span class="m6em">By slow <a href="" id="meander" class="annotBtn">Meander's</a> margent green,</span><br />
+<span class="mindent">And in the violet <span class="varspell" title="embroidered">imbroider'd</span> vale</span><br />
+<span class="m6em">Where the love-lorn <a href="" id="nightingale" class="annotBtn">Nightingale</a></span><br />
+
+<span class="mindent">Nightly to thee her sad Song mourneth well.</span><span class="line" id="line235"> <span class="reversem">[ 235 ]</span></span><br />
+<span class="mindent">Canst thou not tell me of a gentle Pair</span><br />
+<span class="m6em">That likest thy Narcissus are?</span><br />
+<span class="m9em">O if thou have</span><br />
+<span class="m6em">Hid them in some <span class="varspell" title="flowery">flowry</span> Cave,</span><br />
+
+<span class="m9em">Tell me but where</span><span class="line" id="line240"> <span class="reversem">[ 240 ]</span></span><br />
+ <span class="mindent">Sweet Queen of <span class="varspell" title="Parlay">Parly</span>, Daughter of the <span class="varspell" title="Sphere">Sphear</span>,</span><br />
+ <span class="mindent">So maist thou be <a href="" id="translated" class="annotBtn">translated</a> to the skies,</span><br />
+And give resounding grace to all <span class="varspell" title="Heaven's">Heav'ns</span> Harmonies.
+</p>
+<br />
+<p><span class="sp" title="Comus">Com.</span> Can any mortal mixture of <span class="varspell" title="Earth's">Earths</span> <a href="" id="mould" class="annotBtn">mould</a><br />
+
+Breath such Divine <span class="varspell" title="enchanting">inchanting</span> <a href="" id="ravishment" class="annotBtn">ravishment?</a><span class="line" id="line245"> [ 245 ]</span><br />
+Sure <span class="varspell" title="something">somthing</span> holy lodges in that <span class="varspell" title="breast">brest</span>,<br />
+And with these raptures moves the vocal air<br />
+To <span class="varspell" title="testify">testifie</span> his <span class="varspell" title="hidden">hidd'n</span> residence;<br />
+How sweetly did they float upon the wings<br />
+
+Of silence, through the empty-vaulted night<span class="line" id="line250"> [ 250 ]</span><br />
+At every fall smoothing the Raven <a href="" id="doune" class="annotBtn"><span class="varspell" title="down">doune</span></a><br />
+Of <span class="varspell" title="darkness">darknes</span> till it <span class="varspell" title="smiled">smil'd</span>: I have oft heard<br />
+My mother <span class="mi">Circe</span> with the <a href="" id="sirens" class="annotBtn">Sirens</a> three,<br />
+Amidst the <span class="varspell" title="flowery">flowry</span>-<span class="varspell" title="kirtled">kirtl'd</span> <a href="" id="naiades" class="annotBtn"><span class="mi">Naiades</span></a><br />
+
+Culling their Potent <span class="varspell" title="herbs">hearbs</span>, and <span class="varspell" title="baleful">balefull</span> drugs,<span class="line" id="line255"> [ 255 ]</span><br />
+Who as they sung, would take the <span class="varspell" title="prisoned">prison'd</span> soul,<br />
+And lap it in <span class="mi">Elysium,</span> <a href="" id="scylla" class="annotBtn"><span class="mi">Scylla</span></a>  wept,<br />
+And chid her barking waves into attention,<br />
+And fell <a href="" id="charybdis" class="annotBtn"><span class="mi">Charybdis</span></a> <span class="varspell" title="murmered">murmur'd</span> soft applause:<br />
+
+Yet they in pleasing slumber <span class="varspell" title="lulled">lull'd</span> the sense,<span class="line" id="line260"> [ 260 ]</span><br />
+And in sweet <span class="varspell" title="madness">madnes</span> <span class="varspell" title="robbed">rob'd</span> it of it self,<br />
+But such a sacred, and home-felt delight,<br />
+Such sober certainty of waking bliss<br />
+I never heard till now. <span class="varspell" title="I'll">Ile</span> speak to her<br />
+
+And she shall be my Queen. <a href="" id="forren" class="annotBtn">Hail <span class="varspell" title="foreign">forren</span> wonder</a><span class="line" id="line265"> [ 265 ]</span><br />
+Whom certain these rough shades did never breed<br />
+<a href="" id="unless" class="annotBtn"><span class="varspell" title="Unless">Unlesse</span> the <span class="varspell" title="Goddess">Goddes</span></a> that in <span class="varspell" title="rural">rurall</span> shrine<br />
+<span class="varspell" title="Dwellest">Dwell'st</span> here with <a href="" id="pan" class="annotBtn"><span class="mi">Pan</span></a>, or <a href="" id="silvan" class="annotBtn"><span class="mi">Silvan</span></a>, by <span class="varspell" title="blessed">blest</span> Song<br />
+Forbidding every bleak unkindly Fog<br />
+
+To touch the prosperous growth of this tall Wood.<span class="line" id="line270"> [ 270 ]</span>
+</p>
+<p>
+
+<span class="sp" title="Lady">La.</span> Nay gentle Shepherd ill is lost that praise<br />
+That is <span class="varspell" title="addressed">addrest</span> to unattending Ears,<br />
+Not any boast of skill, but extreme shift<br />
+How to regain my <span class="varspell" title="severed">sever'd</span> company<br />
+
+<span class="varspell" title="Compelled">Compell'd</span> me to awake the courteous <a href="" id="echo" class="annotBtn">Echo</a><span class="line" id="line275"> [ 275 ]</span><br />
+To give me answer from her <span class="varspell" title="mossy">mossie</span> Couch.
+</p>
+<p>
+<span class="sp" title="Comus">Co.</span> What chance good Lady hath bereft you <a href="" id="lines.277" class="annotBtn">thus?</a>
+</p>
+<p>
+<span class="sp" title="Lady">La.</span> Dim <span class="varspell" title="darkness">darknes</span>, and this heavy Labyrinth.
+</p>
+<p>
+	<span class="sp" title="Comus">Co.</span> Could that divide you from <span class="varspell" title="near">neer</span>-ushering guides?
+</p>
+
+<p>
+<span class="sp" title="Lady">La.</span> They left me weary on a <span class="varspell" title="grassy">grassie</span> <span class="varspell" title="turf">terf</span>.<span class="line" id="line280"> [ 280 ]</span>
+</p>
+<p>
+<span class="sp" title="Comus">Co.</span> By <span class="varspell" title="falsehood">falshood</span>, or <span class="varspell" title="discourtesy">discourtesie</span>, or why?
+</p>
+<p>
+<span class="sp" title="Lady">La.</span> To seek <span class="varspell" title="in the">i'th</span> <span class="varspell" title="valley">vally</span> <span class="varspell" title="some">som</span> cool friendly Spring.
+</p>
+<p>
+<span class="sp" title="Comus">Co.</span>And left your fair side all unguarded, Lady?
+</p>
+<p>
+<span class="sp" title="Lady">La.</span> They were but twain, and <span class="varspell" title="purposed">purpos'd</span> quick return.
+</p>
+
+
+<p>
+<span class="sp" title="Comus">Co.</span> Perhaps fore-stalling night prevented them.<span class="line" id="line285"> [ 285 ]</span>
+</p>
+<p>
+<span class="sp" title="Lady">La.</span> How <span class="varspell" title="easy">easie</span> my misfortune is to <a href="" id="hit" class="annotBtn">hit!</a>
+</p>
+<p>
+<span class="sp" title="Comus">Com.</span> Imports their loss, beside the present need?
+</p>
+<p>
+<span class="sp" title="Lady">La.</span> No less <span class="varspell" title="than">then</span> if I should my brothers <span class="varspell" title="lose">loose</span>.
+</p>
+<p>
+<span class="sp" title="Comus">Co.</span> Were they of manly prime, or youthful bloom?
+</p>
+
+<p>
+<span class="sp" title="Lady">La.</span> As smooth as <span class="mi">Hebe's</span> their <span class="varspell" title="unrazored">unrazor'd</span> <a href="" id="lips" class="annotBtn">lips</a>.<span class="line" id="line290"> [ 290 ]</span>
+</p>
+<p>
+<span class="sp" title="Comus">Co.</span> Two such I saw, what time the <span class="varspell" title="labored">labour'd</span> <span class="varspell" title="Ox">Oxe</span><br />
+In his loose <a href="" id="traces" class="annotBtn">traces</a> from the furrow came,<br />
+And the <a href="" id="swink" class="annotBtn"><span class="varspell" title="swinked">swink't</span></a> hedger at his Supper <span class="varspell" title="sat">sate</span>;<br />
+I saw them under a green mantling vine<br />
+
+That crawls along the side of yon small hill,<span class="line" id="line295"> [ 295 ]</span><br />
+Plucking ripe clusters from the tender shoots,<br />
+Their <a href="" id="port" class="annotBtn">port</a> was more <span class="varspell" title="than">then</span> human, as they stood;<br />
+I took it for a <span class="varspell" title="fairy">fa&euml;ry</span> vision<br />
+Of <span class="varspell" title="some">som</span> gay <a name="element">creatures</a> of the <a href="" id="element" class="annotBtn">element</a> <br />
+
+That in the <span class="varspell" title="colors">colours</span> of the Rainbow live<span class="line" id="line300"> [ 300 ]</span><br />
+And play <span class="varspell" title="in the">i'th</span> <a href="" id="plighted" class="annotBtn">plighted</a> clouds. I was <span class="varspell" title="awe">aw</span>-<span class="varspell" title="struck">strook</span>,<br />
+And as I <span class="varspell" title="passed">past</span>, I <span class="varspell" title="worshipped">worshipt</span>: if those you seek,<br />
+It were a journey like the path to <span class="varspell" title="Heaven">Heav'n</span><br />
+To help you find them.  &nbsp;<span class="sp" title="Lady">La.</span>  Gentle villager<br />
+
+What readiest way would bring me to that place?<span class="line" id="line305"> [ 305 ]</span>
+</p>
+<p>
+<span class="sp" title="Comus">Co.</span> Due west it rises from this shrubby point.
+</p>
+<p>
+<span class="sp" title="Lady">La.</span> To find out that, good Shepherd, I suppose,<br />
+In such a scant allowance of Star-light,<br />
+Would overtask the best Land-<span class="varspell" title="Pilot's">Pilots</span> art,<br />
+
+Without the sure guess of well-<span class="varspell" title="practiced">practiz'd</span> feet.<span class="line" id="line310"> [ 310 ]</span>
+</p>
+<p>
+<span class="sp" title="Comus">Co.</span> I know each lane, and every alley green<br />
+<a href="" id="dingle" class="annotBtn">Dingle</a> or bushy dell of this <span class="varspell" title="wild">wilde</span> Wood,<br />
+And every <a href="" id="bosky" class="annotBtn">bosky <span class="varspell" title="burn">bourn</span></a> from side to side<br />
+My daily walks and ancient <span class="varspell" title="neighborhood">neighbourhood</span>,<br />
+
+And if your stray attendance be yet <span class="varspell" title="lodged">lodg'd</span>,<span class="line" id="line315"> [ 315 ]</span><br />
+Or shroud within these limits, I shall know<br />
+Ere morrow wake, or the <a href="" id="roosted" class="annotBtn">low roosted lark</a><br />
+From her <span class="varspell" title="thatched">thach't</span> <span class="varspell" title="pallet">pallat</span> <span class="varspell" title="rouse">rowse</span>, if otherwise<br />
+I can conduct you Lady to a low<br />
+
+But loyal cottage, where you may be safe<span class="line" id="line320"> [ 320 ]</span><br />
+Till further <span class="varspell" title="question">quest'</span>.  &nbsp;<span class="sp" title="Lady">La.</span> Shepherd I take thy word,<br />
+And trust thy honest <span class="varspell" title="offered">offer'd</span> <span class="varspell" title="courtesy">courtesie</span>,<br />
+Which oft is sooner found in lowly sheds<br />
+With <span class="varspell" title="smokey">smoaky</span> rafters, <span class="varspell" title="than">then</span> in <span class="varspell" title="tapestry">tapstry</span> Halls<br />
+
+And Courts of Princes, where it first was <span class="varspell" title="named">nam'd</span>,<span class="line" id="line325"> [ 325 ]</span><br />
+And yet is most pretended: In a place<br />
+Less warranted <span class="varspell" title="than">then</span> this, or less secure<br />
+I cannot be, that I should fear to change it,<br />
+<span class="varspell" title="Eye">Eie</span> me blest Providence, and <a href="" id="square" class="annotBtn">square</a> my <span class="varspell" title="trial">triall</span><br />
+
+To my <span class="varspell" title="proportioned">proportion'd</span> strength.  Shepherd lead on.&mdash;&mdash;<span class="line" id="line330"> [ 330 ]</span>
+</p>
+<br />
+<p class="sd">The two Brothers.</p>
+ <br />                         
+<p><span class="sp" title="Elder Brother">Eld. Bro.</span> Unmuffle ye faint stars, and thou fair Moon <br />
+That <a href="" id="wont.st" class="annotBtn"><span class="varspell" title="wontest">wontst</span></a> to love the <span class="varspell" title="traveller's">travailers</span> <a href="" id="benison" class="annotBtn"><span class="varspell" title="benison">benizon</span></a>,<br />
+Stoop thy pale visage through an amber cloud,<br />
+And disinherit <span class="mi">Chaos</span>, that <span class="varspell" title="reigns">raigns</span> here<br />
+
+In <a name="doublenight">double</a> night of <span class="varspell" title="darkness">darknes</span>, and of shades;<span class="line" id="line335"> [ 335 ]</span><br />
+Or if <a href="" id="influence" class="annotBtn">your influence</a> be quite <span class="varspell" title="dammed">damm'd</span> up<br />
+With black usurping mists, <span class="varspell" title="some">som</span> gentle taper<br />
+Though a rush Candle from the wicker hole<br />
+Of <span class="varspell" title="some">som</span> clay habitation visit us<br />
+
+With thy long <span class="varspell" title="levelled">levell'd</span> rule of streaming light,<span class="line" id="line340"> [ 340 ]</span><br />
+And thou shalt be our <a href="" id="arcady" class="annotBtn">star of <span class="mi">Arcady</span></a>,<br />
+Or <a href="" id="cynosure" class="annotBtn"><span class="mi">Tyrian</span> Cynosure</a>.  &nbsp;  <span class="sp" title="Second Brother">2 Bro. </span> Or if our eyes<br />
+Be <span class="varspell" title="barred">barr'd</span> that <span class="varspell" title="happiness">happines</span>, might we but hear<br />
+The folded flocks <span class="varspell" title="penned">pen'd</span> in their <a href="" id="cotes" class="annotBtn"><span class="varspell" title="wattled">watled</span> cotes</a>,<br />
+
+Or sound of pastoral reed with oaten stops,<span class="line" id="line345"> [ 345 ]</span><br />
+Or whistle from the Lodge, or village cock<br />
+Count the night watches to his feathery Dames,<br />
+<span class="varspell" title="It">T'</span> would be <span class="varspell" title="some">som</span> solace yet, <span class="varspell" title="some">som</span> little <span class="varspell" title="cheering">chearing</span><br />
+In this close dungeon of innumerous <span class="varspell" title="boughs">bowes</span>.<br />
+
+But O that <span class="varspell" title="hapless">haples</span> virgin our lost sister<span class="line" id="line350"> [ 350 ]</span><br />
+Where may she wander now, whether betake her<br />
+From the chill dew, amongst rude burrs and thistles?<br />
+Perhaps <span class="varspell" title="some">som</span> cold bank is her <span class="varspell" title="bolster">boulster</span> now<br />
+Or <span class="varspell" title="against">'gainst</span> the rugged bark of <span class="varspell" title="some">som</span> broad <a href="" id="line354" class="annotBtn">Elm</a><br />
+
+Leans her <span class="varspell" title="unpillowed">unpillow'd</span> head fraught with sad fears.<span class="line" id="line355"> [ 355 ]</span><br />
+What if in wild amazement, and affright,<br />
+Or while we speak within the direful grasp<br />
+Of Savage hunger, or of Savage heat?
+</p>
+<p>
+<span class="sp" title="Elder Brother">Eld. Bro.</span> Peace brother, be not over-exquisite<br />
+
+To cast the fashion of uncertain evils;<span class="line" id="line360"> [ 360 ]</span><br />
+For grant they be so, while they rest unknown,<br />
+What need a man forestall his date of grief,<br />
+And run to meet what he would most avoid?<br />
+Or if they be but false alarms of Fear,<br />
+
+How bitter is such self-delusion?<span class="line" id="line365"> [ 365 ]</span><br />
+I do not think my sister so to seek,<br />
+Or so <span class="varspell" title="unprincipled">unprincipl'd</span> in <span class="varspell" title="virtue's">vertue's</span> book,<br />
+And the sweet peace that <span class="varspell" title="goodness">goodnes</span> <span class="varspell" title="bosoms">boosoms</span> ever,<br />
+As that the single want of light and noise<br />
+
+(Not being in danger, as I trust she is not)<span class="line" id="line370"> [ 370 ]</span><br />
+Could stir the constant mood of her calm thoughts,<br />
+And put them into mis-becoming plight.<br />
+<a href="" id="line373" class="annotBtn"><span class="varspell" title="Virtue">Vertue</span> could see</a> to do what <span class="varspell" title="virtue">vertue</span> would<br />
+By her own radiant light, though Sun and Moon<br />
+
+Were in the flat Sea sunk. And <span class="varspell" title="Wisdom's">Wisdoms</span> self<span class="line" id="line375"> [ 375 ]</span><br />
+Oft seeks to sweet retired Solitude,<br />
+Where with her best nurse Contemplation<br />
+She plumes her feathers, and lets grow her wings<br />
+That in <a href="" id="bussle" class="annotBtn">the various <span class="varspell" title="bustle">bussle</span> of resort</a><br />
+
+Were all to <span class="varspell" title="ruffled">ruffl'd</span>, and <span class="varspell" title="sometimes">somtimes</span> <span class="varspell" title="impaired">impair'd</span>.<span class="line" id="line380"> [ 380 ]</span><br />
+He that has <a name="line_381">light</a> within his own <span class="varspell" title="clear">cleer</span> <span class="varspell" title="breast">brest</span><br />
+May sit <span class="varspell" title="in the">i'th</span> <a href="" id="center" class="annotBtn">center</a>, and enjoy bright day,<br />
+But he that hides a dark soul, and foul thoughts<br />
+Benighted walks under the mid-day Sun;<br />
+
+Himself is <a href="" id="dungeon" class="annotBtn">his own dungeon.</a><span class="line" id="line385"> [ 385 ]</span>
+</p>
+<p>
+<span class="sp" title="Second Brother">2 Bro.</span> Tis most true<br />
+That musing meditation most affects<br />
+The Pensive secrecy of desert cell,<br />
+Far from the <span class="varspell" title="cheerful">cheerfull</span> haunt of men, and herds,<br />
+And sits as safe as in a <span class="varspell" title="Senate">Senat</span> house,<br />
+
+For who would rob a Hermit of his <a href="" id="weeds" class="annotBtn">Weeds</a>,<span class="line" id="line390"> [ 390 ]</span><br />
+His few Books, or his <a href="" id="beads" class="annotBtn">Beads</a>, or Maple Dish,<br />
+Or do his gray hairs any violence?<br />
+But beauty like the fair <a href="" id="hesperian" class="annotBtn">Hesperian Tree</a><br />
+Laden with blooming gold, had need the guard<br />
+
+Of dragon watch with <a href="" id="eye" class="annotBtn"><span class="varspell" title="unenchanted">uninchanted</span> eye</a>,<span class="line" id="line395"> [ 395 ]</span><br />
+To save her blossoms, and defend her fruit<br />
+From the rash hand of bold <a href="" id="incontinence" class="annotBtn">Incontinence.</a><br />
+You may as well <span class="varspell" title="spread">spred</span> out the <span class="varspell" title="unsunned">unsun'd</span> heaps<br />
+Of <span class="varspell" title="Miser's">Misers</span> treasure by an <span class="varspell" title="outlaw's">out-laws</span> den,<br />
+
+And tell me it is safe, as bid me hope<span class="line" id="line400"> [ 400 ]</span><br />
+Danger will wink on Opportunity,<br />
+And let a single helpless maiden pass<br />
+<span class="varspell" title="Uninjured">Uninjur'd</span> in this <span class="varspell" title="wild">wilde</span> surrounding <span class="varspell" title="waste">wast</span>.<br />
+Of night, or <span class="varspell" title="loneliness">lonelines</span> it recks me not,<br />
+
+I fear the <span class="varspell" title="dread">dred</span> events that dog them both,<span class="line" id="line405"> [ 405 ]</span><br />
+Lest <span class="varspell" title="some">som</span> ill greeting touch attempt the person<br />
+Of our <a href="" id="unowned" class="annotBtn">unowned</a> sister.
+</p>
+<p>
+<span class="sp" title="Elder Brother">Eld. Bro.</span> I do not brother,<br />
+<span class="varspell" title="Infer">Inferr</span> as if I thought my <span class="varspell" title="sister's">sisters</span> <a href="" id="line408" class="annotBtn">state</a><br />
+Secure without all doubt, or <span class="varspell" title="controversy">controversie</span>:<br />
+
+Yet where an <span class="varspell" title="equal">equall</span> poise of hope and fear<span class="line" id="line410"> [ 410 ]</span><br />
+Does arbitrate <span class="varspell" title="the">th'</span> event, my nature is<br />
+That I <span class="varspell" title="incline">encline</span> to hope, rather <span class="varspell" title="than">then</span> fear,<br />
+And gladly banish squint suspicion.<br />
+My sister is not so <span class="varspell" title="defenseless">defenceless</span> left<br />
+
+As you imagine, she has a hidden strength<span class="line" id="line415"> [ 415 ]</span><br />
+Which you remember not.
+</p>
+<p>
+<span class="sp" title="Second Brother">2 Bro.</span> What hidden strength,<br />
+Unless the strength of <span class="varspell" title="Heaven">Heav'n</span>, if you mean that?
+</p>
+<p>
+<span class="sp" title="Elder Brother">Eld. Bro.</span> I mean that too, but yet a hidden strength<br />
+Which if <span class="varspell" title="Heaven">Heav'n</span> gave it, may be <span class="varspell" title="termed">term'd</span> her own:<br />
+
+'Tis chastity, my brother, chastity:<span class="line" id="line420"> [ 420 ]</span><br />
+She that has that, is clad in <span class="varspell" title="complete">compleat</span> steel,<br />
+And like a <a href="" id="diana" class="annotBtn"><span class="varspell" title="quivered">quiver'd</span> Nymph</a> with Arrows keen<br />
+May trace huge Forests, and <span class="varspell" title="unharbored">unharbour'd</span> Heaths,<br />
+Infamous Hills, and sandy perilous <span class="varspell" title="wilds">wildes</span>,<br />
+
+Where through the sacred <span class="varspell" title="rays">rayes</span> of Chastity,<span class="line" id="line425"> [ 425 ]</span><br />
+No savage fierce, <span class="varspell" title="Bandit">Bandite</span>, or <span class="varspell" title="mountaineer">mountaneer</span><br />
+Will dare to <span class="varspell" title="soil">soyl</span> her Virgin purity,<br />
+Yea there, where very desolation <span class="varspell" title="dwells">dwels</span><br />
+By grots, and caverns <span class="varspell" title="shagged">shag'd</span> with horrid shades,<br />
+
+She may pass on with <a href="" id="unblench.t" class="annotBtn"><span class="varspell" title="unblanched">unblench't</span></a> majesty,<span class="line" id="line430"> [ 430 ]</span><br />
+Be it not <span class="varspell" title="done">don</span> in pride, or in presumption.<br />
+<span class="varspell" title="Some">Som</span> say no evil thing that walks by night<br />
+In fog, or fire, by lake, or moorish fen,<br />
+<span class="varspell" title="Blue">Blew</span> meager Hag, or stubborn unlaid ghost,<br />
+
+That breaks his <span class="varspell" title="magic">magick</span> chains at <span class="mi"><span class="varspell" title="curfew">curfeu</span></span> time,<span class="line" id="line435"> [ 435 ]</span><br />
+No goblin or <a href="" id="swart" class="annotBtn">swart <span class="varspell" title="Fairy">Fa&euml;ry</span></a> of the mine,<br />
+Hath <a href="" id="line432" class="annotBtn"><span class="varspell" title="hurtful">hurtfull</span> power</a>  <span class="varspell" title="over">o're</span> true virginity.<br />
+Do ye <span class="varspell" title="believe">beleeve</span> me yet, or shall I call<br />
+Antiquity from the old Schools of Greece<br />
+
+To <span class="varspell" title="testify">testifie</span> <a href="" id="arms" class="annotBtn">the arms of Chastity</a>?<span class="line" id="line440"> [ 440 ]</span><br />
+Hence had the <a name="power">huntress</a> <span class="mi"><span class="varspell" title="Diana">Dian</span></span> her <span class="varspell" title="dread">dred</span> bow,<br />
+Fair silver-shafted Queen for ever chaste,<br />
+Wherwith she <span class="varspell" title="tamed">tam'd</span> the <a href="" id="brinded" class="annotBtn">brinded</a> lioness<br />
+And spotted mountain <a href="" id="pard" class="annotBtn">pard</a>, but set at nought<br />
+
+The frivolous bolt of <span class="mi">Cupid</span>, gods and men<span class="line" id="line445"> [ 445 ]</span><br />
+<span class="varspell" title="Feared">Fear'd</span> her stern frown, and she was queen <span class="varspell" title=" of the">oth'</span> Woods.<br />
+What was that snaky-headed <a href="" id="medusa" class="annotBtn"><span class="mi">Gorgon</span> <span class="varspell" title="shield">sheild</span> ></a><br />
+That wise <span class="mi">Minerva</span> wore, <span class="varspell" title="unconquered">unconquer'd</span> Virgin,<br />
+Wherwith she <span class="varspell" title="freezed">freez'd</span> her foes to <span class="varspell" title="congealed">congeal'd</span> stone?<br />
+
+But rigid looks of Chaste austerity<span class="line" id="line450"> [ 450 ]</span><br />
+And noble grace that <span class="varspell" title="dashed">dash't</span> brute violence<br />
+With sudden adoration, and blank <span class="varspell" title="awe">aw</span>.<br />
+So dear to <span class="varspell" title="Heaven">Heav'n</span> is Saintly chastity,<br />
+That when a soul is found <a name="sincerely">sincerely</a> so,<br />
+
+A thousand liveried Angels <a href="" id="lacky" class="annotBtn"><span class="varspell" title="lackey">lacky</span></a> her,<span class="line" id="line455"> [ 455 ]</span><br />
+Driving far off each thing of sin and guilt,<br />
+And in <span class="varspell" title="clear">cleer</span> dream, and solemn vision<br />
+Tell her of things that no gross ear can hear,<br />
+Till oft <span class="varspell" title="converse">convers</span> with <span class="varspell" title="heavenly">heav'nly</span> habitants<br />
+
+Begin to cast a beam on <span class="varspell" title="the">th'</span> outward shape,<span class="line" id="line460"> [ 460 ]</span><br />
+The unpolluted <a href="" id="temple" class="annotBtn">temple of the mind</a>,<br />
+And turns it by degrees to the <span class="varspell" title="soul's">souls</span> essence,<br />
+Till <a href="" id="purely.spirit" class="annotBtn">all be made immortal</a>: but when lust<br />
+By unchaste looks, loose gestures, and foul talk,<br />
+
+But most by <span class="varspell" title="lewd">leud</span> and lavish act of sin,<span class="line" id="line465"> [ 465 ]</span><br />
+Lets in defilement to the inward parts,<br />
+The soul grows clotted by contagion,<br />
+<span class="varspell" title="Embodies">Imbodies</span>, and <span class="varspell" title="embrutes">imbrutes</span>, till <a href="" id="she" class="annotBtn">she</a> quite <span class="varspell" title="lose">loose</span><br />
+The divine property of her first being.<br />
+
+Such are those thick and gloomy shadows damp<span class="line" id="line470"> [ 470 ]</span><br />
+Oft seen in <a href="" id="vaults" class="annotBtn"><span class="varspell" title="Charnel">Charnell</span> vaults</a>, and Sepulchers<br />
+Lingering, and <a href="" id="sitting" class="annotBtn">sitting by a new made grave</a>,<br />
+As loath to leave the body that it <span class="varspell" title="loved">lov'd</span>,<br />
+And <span class="varspell" title="linked">link't</span> it self by carnal <span class="varspell" title="sensuality">sensualty</span><br />
+
+To a degenerate and degraded state.<span class="line" id="line475"> [ 475 ]</span>
+</p>
+<p>
+<span class="sp" title="Second Brother">2 Bro.</span> <a href="" id="line476" class="annotBtn">How charming</a> is divine Philosophy!<br />
+Not harsh, and crabbed as dull fools suppose,<br />
+But musical as is <span class="mi">Apollo's</span> lute,<br />
+And a perpetual feast of <span class="varspell" title="nectared">nectar'd</span> sweets,<br />
+
+Where no crude <span class="varspell" title="surfeit">surfet</span> <span class="varspell" title="reigns">raigns</span>. &nbsp; <span class="sp" title="Elder Brother">Eld. Bro.</span> List, list, I hear<span class="line" id="line480"> [ 480 ]</span><br />
+<span class="varspell" title="Some">Som</span> far off hallow break the silent Air.
+</p>
+<p>
+<span class="sp" title="Second Brother">2 Bro.</span> Methought so too; what should it be?
+</p>
+<p>
+<span class="sp" title="Elder Brother">Eld. Bro.</span> For certain<br />
+Either <span class="varspell" title="some">som</span> one like us night-<span class="varspell" title="foundered">founder'd</span> here,<br />
+Or <span class="varspell" title="else">els</span> <span class="varspell" title="some">som</span> <span class="varspell" title="neighbor">neighbour</span> Wood-man, or at worst,<br />
+
+<span class="varspell" title="Some">Som</span> <span class="varspell" title="roving">roaving</span> Robber calling to his fellows.<span class="line" id="line485"> [ 485 ]</span>
+</p>
+<p>
+<span class="sp" title="Second Brother">2 Bro.</span> <span class="varspell" title="Heaven">Heav'n</span> keep my sister, <span class="varspell" title="again">agen</span> <span class="varspell" title="again">agen</span> and <span class="varspell" title="near">neer</span>,<br />
+Best draw, and stand upon our guard.
+</p>
+<p>
+<span class="sp" title="Elder Brother">Eld. Bro.</span> <span class="varspell" title="I'll">Ile</span> hallow,<br />
+If he be friendly he comes well, if not,<br />
+Defence is a good cause, and <span class="varspell" title="Heaven">Heav'n</span> be for us.
+</p>
+<br />
+<p class="sd">The attendant Spirit habited like a Shepherd.</p>
+<br />
+<p class="resume">
+
+That hallow I should know, what are you? speak;<span class="line" id="line490"> [ 490 ]</span><br />
+<span class="varspell" title="Come">Com</span> not too <span class="varspell" title="near">neer</span>, you fall on iron stakes else.
+</p>
+<p>
+<span class="sp" title="Spirit">Spir.</span> What voice is that, my young Lord? speak <span class="varspell" title="again">agen</span>.
+</p>
+<p>
+<span class="sp" title="Second Brother">2 Bro.</span> O brother, 'tis my <a href="" id="line493" class="annotBtn"><span class="varspell" title="father's">fathers</span></a> <a name="t.shepherd">Shepherd</a> sure.
+</p>
+<p>
+<span class="sp" title="Elder Brother">Eld. Bro.</span>  <a href="" id="thyrsis" class="annotBtn"><span class="mi">Thyrsis?</span></a> Whose artful strains have oft <span class="varspell" title="delayed">delaid</span><br />
+
+The huddling brook to hear his <a href="" id="madrigal" class="annotBtn">madrigal</a>, <span class="line" id="line495"> [ 495 ]</span><br />
+And <span class="varspell" title="sweetened">sweeten'd</span> every muskrose of the <a href="" id="line.495" class="annotBtn">dale</a>,<br />
+How <span class="varspell" title="camest">cam'st</span> thou here good Swain? hath any ram<br />
+<span class="varspell" title="Slipped">Slip't</span> from the fold, or young Kid lost his dam,<br />
+Or straggling <a href="" id="weather" class="annotBtn"><span class="varspell" title="wether">weather</span></a> the <span class="varspell" title="penned">pen't</span> flock forsook?<br />
+
+How <span class="varspell" title="couldest">couldst</span> thou find this dark <span class="varspell" title="sequestered">sequester'd</span> nook?<span class="line" id="line500"> [ 500 ]</span>
+</p>
+<p>
+<span class="sp" title="Spirit">Spir.</span> O my <span class="varspell" title="loved">lov'd</span> <span class="varspell" title="master's">masters</span> heir, and his next joy,<br />
+I came not here on such a trivial toy<br />
+As a <span class="varspell" title="strayed">stray'd</span> Ewe, or to pursue the stealth<br />
+Of pilfering <span class="varspell" title="Wolf">Woolf</span>, not all the fleecy wealth<br />
+
+That doth enrich these Downs, is worth a thought<span class="line" id="line505"> [ 505 ]</span><br />
+To this my errand, and the care it brought.<br />
+But O my Virgin Lady, where is she?<br />
+How chance she is not in your company?
+</p>
+<p>
+<span class="sp" title="Elder Brother">Eld. Bro.</span> To tell thee sadly Shepherd, without blame,<br />
+
+Or our neglect, we lost her as we came.<span class="line" id="line510"> [ 510 ]</span>
+</p>
+<p>
+<span class="sp">Spirit.</span> Ay <a href="" id="unhappy" class="annotBtn">me unhappy</a>! then my fears are true.
+</p>
+<p>
+<span class="sp" title="Elder Brother">Eld. Bro.</span> What fears good <span class="mi">Thyrsis</span>? <span class="varspell" title="Prithee">Prethee</span> briefly <span class="varspell" title="show">shew</span>.
+</p>
+<p>
+<span class="sp" title="Spirit">Spir.</span> <span class="varspell" title="I'll">Ile</span> tell ye, 'tis not vain, or fabulous,<br />
+(Though so <span class="varspell" title="esteemed">esteem'd</span> by shallow ignorance)<br />
+
+What the sage <span class="varspell" title="Poets">Po&euml;ts</span> taught by <span class="varspell" title="the">th'</span> <span class="varspell" title="heavenly">heav'nly</span> Muse,<span class="line" id="line515"> [ 515 ]</span><br />
+Storied of old in high immortal <span class="varspell" title="verse">vers</span><br />
+Of dire <a href="" id="chimeras" class="annotBtn"><span class="mi"><span class="varspell" title="Chimeras">Chimera's</span></span></a> and <a href="" id="inchanted" class="annotBtn"><span class="varspell" title="enchanted">inchanted</span> <span class="varspell" title="Isles">Iles</span></a>,<br />
+And rifted Rocks whose entrance leads to hell,<br />
+For such there be, but unbelief is blind.
+</p>
+
+<p>
+Within the <span class="varspell" title="navel">navil</span> of this hideous Wood,<span class="line" id="line520"> [ 520 ]</span><br />
+<span class="varspell" title="Immured">Immur'd</span> in cypress shades a Sorcerer <span class="varspell" title="dwells">dwels</span><br />
+Of <span class="mi">Bacchus</span>, and of <span class="mi">Circe</span> born, great <span class="mi">Comus</span>,<br />
+Deep <span class="varspell" title="skilled">skill'd</span> in all his <span class="varspell" title="mother's">mothers</span> witcheries,<br />
+And here to every <a name="thirsty">thirsty</a> wanderer,<br />
+
+By sly enticement gives his <span class="varspell" title="baneful">banefull</span> cup,<span class="line" id="line525"> [ 525 ]</span><br />
+With many <a href="" id="murmurs" class="annotBtn">murmurs</a> <span class="varspell" title="mixed">mixt</span>, whose pleasing poison<br />
+The visage quite transforms of him that drinks,<br />
+And the inglorious <span class="varspell" title="likeness">likenes</span> of a beast<br />
+Fixes instead, <span class="varspell" title="unmolding">unmoulding</span> <span class="varspell" title="reason's">reasons</span> mintage<br />
+
+<span class="varspell" title="Charactered">Character'd</span> in the face; this have I <span class="varspell" title="learned">learn't</span><span class="line" id="line530"> [ 530 ]</span><br />
+Tending my flocks hard by <span class="varspell" title="in the">i'th</span> hilly <a href="" id="crofts" class="annotBtn">crofts</a>,<br />
+That brow this bottom glade, whence night by night<br />
+He and his monstrous rout are heard to howl<br />
+Like <span class="varspell" title="stabled">stabl'd</span> wolves, or tigers at their prey,<br />
+
+Doing abhorred rites to <a href="" id="hecate" class="annotBtn"><span class="mi">Hecate</span></a><span class="line" id="line535"> [ 535 ]</span><br />
+In their obscured haunts of inmost <span class="varspell" title="bowers">bowres</span>.<br />
+Yet have they many baits, and guileful spells<br />
+To inveigle and invite <span class="varspell" title="the">th'</span> unwary sense<br />
+Of them that pass <a href="" id="unweeting" class="annotBtn">unweeting</a> by the way.<br />
+
+This evening late by then the chewing flocks<span class="line" id="line540"> [ 540 ]</span><br />
+Had <span class="varspell" title="taken">ta'n</span> their supper on the <span class="varspell" title="savory">savoury</span> Herb<br />
+Of Knot-grass dew-besprent, and were in fold,<br />
+I <span class="varspell" title="sat">sate</span> me down to watch upon a bank<br />
+With Ivy canopied, and interwove<br />
+
+With flaunting <span class="varspell" title="Honey">Hony</span>-suckle, and began<span class="line" id="line545"> [ 545 ]</span><br />
+<span class="varspell" title="Rapt">Wrapt</span> in a pleasing fit of melancholy<br />
+To meditate my rural <span class="varspell" title="minstrelsy">minstrelsie</span>,<br />
+Till fancy had her fill, but ere a close<br />
+The wonted roar was up amidst the Woods,<br />
+
+And <span class="varspell" title="filled">fill'd</span> the Air with barbarous dissonance,<span class="line" id="line550"> [ 550 ]</span><br />
+At which I <span class="varspell" title="ceased">ceas't</span>, and <span class="varspell" title="listened">listen'd</span> them a while,<br />
+Till an unusual stop of sudden silence<br />
+Gave respite to the <span class="varspell" title="drowsy">drowsie</span> <a href="" id="frighted" class="annotBtn">frighted</a> steeds<br />
+That draw the litter of close-<span class="varspell" title="curtained">curtain'd</span> sleep.<br />
+
+At last a soft and solemn breathing sound<span class="line" id="line555"> [ 555 ]</span><br />
+Rose like a steam of rich <span class="varspell" title="distilled">distill'd</span> Perfumes,<br />
+And stole upon the Air, that even Silence<br />
+Was took <span class="varspell" title="ere">e're</span> she was <span class="varspell" title="aware">ware</span>, and <span class="varspell" title="wished">wish't</span> she might<br />
+Deny her nature, and be never more<br />
+
+Still to be so <span class="varspell" title="displaced">displac't</span>.  I was all <span class="varspell" title="ear">eare</span>,<span class="line" id="line560"> [ 560 ]</span><br />
+And took in strains that might create a soul<br />
+Under the ribs of Death; but O ere long<br />
+Too well I did perceive it was the voice<br />
+Of my most <span class="varspell" title="honored">honour'd</span> Lady, your dear sister.<br />
+
+<span class="varspell" title="Amazed">Amaz'd</span> I stood, <span class="varspell" title="harrowed">harrow'd</span> with grief and fear,<span class="line" id="line565"> [ 565 ]</span><br />
+And O poor hapless Nightingale thought I,<br />
+How sweet thou <span class="varspell" title="singest">sing'st</span>, how <span class="varspell" title="near">neer</span> <a href="" id="deadly" class="annotBtn">the deadly snare!</a><br />
+Then down the Lawns I ran with headlong <span class="varspell" title="haste">hast</span><br />
+Through paths, and turnings <span class="varspell" title="often">oft'n</span> trod by day,<br />
+
+Till guided by mine ear I found the place<span class="line" id="line570"> [ 570 ]</span><br />
+Where that <span class="varspell" title="damned">damn'd</span> <span class="varspell" title="wizard">wisard</span> hid in sly disguise<br />
+(For so by certain <span class="varspell" title="signs">signes</span> I knew) had met<br />
+Already, ere my best speed could <span class="varspell" title="prevent">pr&aelig;vent</span>,<br />
+The aidless innocent Lady his <span class="varspell" title="wished">wish't</span> prey,<br />
+
+Who gently <span class="varspell" title="asked">ask't</span> if he had seen such two,<span class="line" id="line575"> [ 575 ]</span><br />
+Supposing him <span class="varspell" title="some">som</span> <span class="varspell" title="neighbor">neighbour</span> villager;<br />
+Longer I durst not stay, but soon I <span class="varspell" title="guessed">guess't</span><br />
+Ye were the two she <span class="varspell" title="meant">mean't</span>, with that I sprung<br />
+Into swift flight, till I had found you here,<br />
+
+But <span class="varspell" title="further">furder</span> know I not.  &nbsp; <span class="sp" title="Second Brother">2 Bro.</span> O night and shades,<span class="line" id="line580"> [ 580 ]</span><br />
+How are ye <span class="varspell" title="joined">joyn'd</span> with hell in triple knot<br />
+Against <span class="varspell" title="the">th'</span> unarmed weakness of one Virgin<br />
+Alone, and helpless! Is this the confidence<br />
+You gave me Brother? &nbsp; <span class="sp" title="Elder Brother">Eld. Bro.</span> Yes, and keep it still,<br />
+
+Lean on it safely, not a <a href="" id="period" class="annotBtn">period</a><span class="line" id="line585"> [ 555 ]</span><br />
+Shall be unsaid for me: against the threats<br />
+Of malice or of sorcery, or that power<br />
+Which erring men call Chance, this I hold firm;<br />
+<span class="varspell" title="Virtue">Vertue</span> may be <span class="varspell" title="assailed">assail'd</span>, but never hurt,<br />
+
+<span class="varspell" title="Surprised">Surpriz'd</span> by unjust force, but not <span class="varspell" title="enthralled">enthrall'd</span>,<span class="line" id="line590"> [ 590 ]</span><br />
+Yea even that which mischief meant most harm,<br />
+Shall in the happy trial prove most glory.<br />
+But <a name="evil">evil</a> on it self shall <a href="" id="line.593" class="annotBtn">back <span class="varspell" title="recoil">recoyl</span></a>,<br />
+And mix no more with goodness, when at last<br />
+
+<span class="varspell" title="Gathered">Gather'd</span> like scum, and <span class="varspell" title="settled">setl'd</span> to it self<span class="line" id="line595"> [ 595 ]</span><br />
+It shall be in eternal restless change<br />
+Self-fed, and self-<span class="varspell" title="consumed">consum'd</span>; <a href="" id="fail" class="annotBtn">if this fail</a>,<br />
+The <span class="varspell" title="pillared">pillar'd</span> firmament is <span class="varspell" title="rottenness">rott'nness</span>,<br />
+And <span class="varspell" title="earth's">earths</span> base built on stubble. But <span class="varspell" title="come">com</span> let's on.<br />
+
+Against <span class="varspell" title="the">th'</span> opposing will and arm of <span class="varspell" title="Heaven">Heav'n</span><span class="line" id="line600"> [ 600 ]</span><br />
+May never this just sword be lifted up,<br />
+But for that <span class="varspell" title="damned">damn'd</span> magician, let him be <span class="varspell" title="girded">girt</span><br />
+With all the <span class="varspell" title="grisly">greisly</span> legions that troop<br />
+Under the sooty flag of <a href="" id="acheron" class="annotBtn"><span class="mi">Acheron</span></a>,<br />
+
+<a href="" id="harpies" class="annotBtn"><span class="mi"><span class="varspell" title="Harpies">Harpyies</span></span></a> and <a href="" id="hydra" class="annotBtn"><span class="mi"><span class="varspell" title="Hydras">Hydra's</span></span></a>, or all the monstrous forms<span class="line" id="line605"> [ 605 ]</span><br />
+'Twixt <span class="mi">Africa</span>, and <span class="mi"><span class="varspell" title="India">Inde</span></span>, <span class="varspell" title="I'll">Ile</span> find him out,<br />
+And force him to restore his <a href="" id="purchase" class="annotBtn">purchase</a> back,<br />
+Or drag him <a href="" id="curls" class="annotBtn">by the curls</a>, to a foul death,<br />
+<span class="varspell" title="Cursed">Curs'd</span> as his life.
+</p>
+<p>
+<span class="sp" title="Spirit">Spir.</span> Alas good <span class="varspell" title="venturous">ventrous</span> youth,<br />
+
+I love thy courage yet and bold <a href="" id="emprise" class="annotBtn">Emprise</a>,<span class="line" id="line610"> [ 610 ]</span><br />
+But here thy sword can do thee little stead;<br />
+<span class="varspell" title="Far">Farr</span> other arms, and other weapons must<br />
+Be those that quell the might of hellish charms,<br />
+He with his bare wand can <span class="varspell" title="unthread">unthred</span> thy <span class="varspell" title="joints">joynts</span>,<br />
+
+And crumble all thy sinews.<span class="line" id="line615"> [ 615 ]</span>
+</p>
+<p>
+<span class="sp" title="Elder Brother">Eld. Bro.</span> Why, <span class="varspell" title="prithee">prethee</span> Shepherd<br />
+How durst thou then thy self approach so <span class="varspell" title="near">neer</span><br />
+As to make this relation?
+</p>
+<p>
+<span class="sp" title="Spirit">Spir.</span> Care and utmost shifts<br />
+How to secure the Lady from surprisal,<br />
+Brought to my mind a certain Shepherd Lad<br />
+
+Of small regard to see to, yet well <span class="varspell" title="skilled">skill'd</span><span class="line" id="line620"> [ 620 ]</span><br />
+In every <span class="varspell" title="virtuous">vertuous</span> plant and healing herb<br />
+That spreads her verdant leaf to <span class="varspell" title="the">th'</span> morning ray,<br />
+He <span class="varspell" title="loved">lov'd</span> me well, and oft would beg me sing,<br />
+Which when I did, he on the tender grass<br />
+
+Would sit, and hearken even to <span class="varspell" title="ecstasy">ecstasie</span>,<span class="line" id="line625"> [ 625 ]</span><br />
+And in <span class="varspell" title="requital">requitall</span> <span class="varspell" title="open">ope</span> his <span class="varspell" title="leathern">leather'n</span> scrip,<br />
+And <span class="varspell" title="show">shew</span> me simples of a thousand names<br />
+Telling their strange and vigorous faculties;<br />
+Amongst the rest a small unsightly root,<br />
+
+But of divine effect, he <span class="varspell" title="culled">cull'd</span> me out;<span class="line" id="line630"> [ 630 ]</span><br />
+The leaf was darkish, and had prickles on it,<br />
+But in another <span class="varspell" title="Country">Countrey</span>, as he said,<br />
+Bore a bright golden <span class="varspell" title="flower">flowre</span>, but not in this <span class="varspell" title="soil">soyl</span>:<br />
+Unknown, and like <span class="varspell" title="esteemed">esteem'd</span>, and the dull <span class="varspell" title="swain">swayn</span><br />
+
+Treads on it daily with his <a href="" id="clouted" class="annotBtn">clouted <span class="varspell" title="shoes">shoon</span></a>,<span class="line" id="line635"> [ 635 ]</span><br />
+And yet more <span class="varspell" title="medicinial">med'cinal</span> is it <span class="varspell" title="than">then</span> that <a href="" id="moly" class="annotBtn"><span class="mi">Moly</span></a><br />
+That <span class="mi">Hermes</span> once to wise <span class="mi">Ulysses</span> gave;<br />
+He <span class="varspell" title="called">call'd</span> it <a href="" id="haemony" class="annotBtn"><span class="mi"><span class="varspell" title="Haemony">H&aelig;mony</span></span></a>, and gave it me,<br />
+And bade me keep it as of <span class="varspell" title="sovereign">sovran</span> use<br />
+
+<span class="varspell" title="Against">'Gainst</span> all <span class="varspell" title="enchantments">inchantments</span>, <a href="" id="mildew" class="annotBtn">mildew blast</a>, or damp<span class="line" id="line640"> [ 640 ]</span><br />
+Or <span class="varspell" title="ghastly">gastly</span> <span class="varspell" title="fury's">furies</span> apparition;<br />
+I <span class="varspell" title="pursed">purs't</span> it up, but little <span class="varspell" title="reckoning">reck'ning</span> made,<br />
+Till now that this extremity <span class="varspell" title="compelled">compell'd</span>,<br />
+But now I find it true; for by this means<br />
+
+I knew the foul <span class="varspell" title="enchanter">inchanter</span> though <span class="varspell" title="disguised">disguis'd</span>,<span class="line" id="line645"> [ 645 ]</span><br />
+<span class="varspell" title="Entered">Enter'd</span> the very <a href="" id="lime" class="annotBtn">lime-twigs</a> of his spells,<br />
+And yet came off: if you have this about you<br />
+(As I will give you when we go) you may<br />
+Boldly assault the <span class="varspell" title="necromancer's">necromancers</span> hall;<br />
+
+Where if he be, with dauntless hardihood,<span class="line" id="line650"> [ 650 ]</span><br />
+And <a href="" id="blade" class="annotBtn"><span class="varspell" title="brandished">brandish't</span> blade</a> rush on him, break his glass,<br />
+And shed the <span class="varspell" title="luscious">lushious</span> liquor on the ground,<br />
+But <span class="varspell" title="seize">sease</span> his wand; though he and his <span class="varspell" title="cursed">curst</span> crew<br />
+Feirce <span class="varspell" title="sign">signe</span> of <span class="varspell" title="battle">battail</span> make, and menace high,<br />
+
+Or like the sons of <a href="" id="vulcan" class="annotBtn"><span class="mi">Vulcan</span></a> vomit <span class="varspell" title="smoke">smoak</span>,<span class="line" id="line655"> [ 655 ]</span><br />
+Yet will they soon retire, if he but shrink.
+</p>
+<p>
+<span class="sp" title="Elder Brother">Eld. Bro.</span> <span class="mi">Thyrsis</span> lead on apace, <span class="varspell" title="I'll">Ile</span> follow thee,<br />
+And <span class="varspell" title="some">som</span> good angel bear a <span class="varspell" title="shield">sheild</span>
+ before us.
+</p>
+<br />
+<p class="sd">The Scene changes to a stately Palace, set out with all manner of 
+deliciousness; soft <span class="varspell" title="Music">Musick</span>, Tables <span class="varspell" title="spread">spred</span> with all dainties. <span class="reversem">Comus</span>
+appears with his rabble, and the Lady set in an <span class="varspell" title="enchanted">inchanted</span> Chair, to
+whom he offers his Glass, which she puts by, and goes about to rise.
+</p>
+<br />
+<p>
+<span class="sp">Comus.</span> Nay Lady sit; if I but wave this wand,<br />
+
+Your <span class="varspell" title="nerves">nervs</span> are all <span class="varspell" title="chained">chain'd</span> up in Alabaster,<span class="line" id="line660"> [ 660 ]</span><br />
+And you a statue; or as <a href="" id="daphne" class="annotBtn"><span class="mi">Daphne</span></a> was<br />
+Root-bound, that fled <span class="mi">Apollo</span>,
+</p>
+<p>
+<span class="sp" title="Lady">La.</span> Fool do not boast,<br />
+Thou canst not touch the freedom of my <span class="varspell" title="mind">minde</span><br />
+With all thy charms, although this <a href="" id="rinde" class="annotBtn">corporal <span class="varspell" title="rind">rinde</span></a><br />
+
+Thou <span class="varspell" title="hast">haste</span> <span class="varspell" title="immanacled">immanacl'd</span>, while <span class="varspell" title="Heaven">Heav'n</span> sees good.<span class="line" id="line665"> [ 665 ]</span>
+</p>
+<p>
+<span class="sp" title="Comus">Co.</span> Why are you <span class="varspell" title="vexed">vext</span>, Lady? why do you frown?<br />
+Here dwell no frowns, nor anger, from these gates<br />
+Sorrow flies <span class="varspell" title="far">farr</span>: See here be all the pleasures<br />
+That fancy can beget on youthful thoughts,<br />
+
+When the fresh blood grows lively, and returns<span class="line" id="line670"> [ 670 ]</span><br />
+Brisk as the <span class="mi">April</span> buds in Primrose-season.<br />
+And first behold this cordial <a href="" id="Julep" class="annotBtn">Julep</a> here<br />
+That flames, and dances in his crystal bounds<br />
+With spirits of balm, and fragrant <span class="varspell" title="Syrups">Syrops</span> <span class="varspell" title="mixed">mixt</span>.<br />
+
+Not that <a href="" id="nepenthes" class="annotBtn"><span class="mi">Nepenthes</span></a> which the wife of <span class="mi">Thone</span>,<span class="line" id="line675"> [ 675 ]</span><br />
+In <span class="mi">Egypt</span> gave to <a href="" id="helen" class="annotBtn"><span class="mi">Jove</span>-born <span class="mi">Helena</span></a><br />
+Is of such power to stir up joy as this,<br />
+To life so friendly, or so cool to thirst.<br />
+Why should you be so cruel to your self,<br />
+
+And to those dainty <span class="varspell" title="limbs">limms</span> which nature lent<span class="line" id="line680"> [ 680 ]</span><br />
+For gentle usage, and soft delicacy?<br />
+But you invert the <span class="varspell" title="covenants">cov'nants</span> of her trust,<br />
+And harshly deal like an ill borrower<br />
+With that which you <span class="varspell" title="received">receiv'd</span> on other terms,<br />
+
+Scorning the unexempt condition<span class="line" id="line685"> [ 685 ]</span><br />
+By which all mortal frailty must subsist,<br />
+Refreshment after toil, ease after pain,<br />
+That have been <span class="varspell" title="tired">tir'd</span> all day without repast,<br />
+And timely rest have wanted, but fair Virgin<br />
+
+This will restore all soon.<span class="line" id="line690"> [ 690 ]</span>
+</p>
+<p>
+<span class="sp" title="Lady">La.</span> 'Twill not, false traitor,<br />
+'Twill not restore the truth and honesty<br />
+That thou hast <span class="varspell" title="banished">banish't</span> from thy tongue with lies,<br />
+Was this the cottage, and the safe abode<br />
+Thou <span class="varspell" title="toldest">told'st</span> me of? What grim aspects are these,<br />
+
+These <span class="varspell" title="ugly">oughly</span>-headed Monsters? Mercy guard me!<span class="line" id="line695"> [ 695 ]</span><br />
+Hence with thy <span class="varspell" title="brewed">brew'd</span> <span class="varspell" title="enchantments">inchantments</span>, foul deceiver,<br />
+Hast thou <span class="varspell" title="betrayed">betrai'd</span> my credulous innocence<br />
+With <span class="varspell" title="visored">visor'd</span> <span class="varspell" title="falsehood">falshood</span> and base forgery,<br />
+And <span class="varspell" title="wouldest">wouldst</span> thou seek again to trap me here<br />
+
+With <a href="" id="lickerish" class="annotBtn"><span class="varspell" title="liquorish">lickerish</span></a> baits fit to ensnare a brute?<span class="line" id="line700"> [ 700 ]</span><br />
+Were it a draft for <span class="mi">Juno</span> when she banquets,<br />
+I would not taste thy treasonous offer; none<br />
+But such as are <a href="" id="line703" class="annotBtn">good men</a> can give good things,<br />
+And that which is not good, is not delicious<br />
+
+To a <span class="varspell" title="well">wel</span>-<span class="varspell" title="governed">govern'd</span> and wise appetite.<span class="line" id="line705"> [ 705 ]</span>
+</p>
+<p>
+<span class="sp" title="Comus">Co.</span> O foolishness of men! that lend their ears<br />
+To those <a href="" id="budge" class="annotBtn">budge doctors</a> of the <a href="" id="Stoick" class="annotBtn"><span class="mi"><span class="varspell" title="Stoic">Stoick</span></span> <span class="varspell" title="Fur">Furr</span></a>,<br />
+And fetch their precepts from the <a href="" id="cynic" class="annotBtn"><span class="mi"><span class="varspell" title="Cynic">Cynick</span></span> Tub</a>,<br />
+Praising the lean and sallow Abstinence.<br />
+
+Wherefore did <a name="nature">Nature</a> <span class="varspell" title="pour">powre</span> her bounties forth,<span class="line" id="line710"> [ 710 ]</span><br />
+With such a full and unwithdrawing hand,<br />
+Covering the earth with <span class="varspell" title="odors">odours</span>, fruits, and flocks,<br />
+Thronging the Seas with spawn innumerable,<br />
+But all <a href="" id="please" class="annotBtn">to please</a>, and sate the curious taste?<br />
+
+And set to work millions of spinning Worms,<span class="line" id="line715"> [ 715 ]</span><br />
+That in their green shops weave the smooth-<span class="varspell" title="haired">hair'd</span> silk<br />
+To deck her Sons; and that no corner might<br />
+Be vacant of her plenty, in her own <span class="varspell" title="loins">loyns</span><br />
+She <span class="varspell" title="hutched">hutch't</span> <span class="varspell" title="the">th'</span> all-<span class="varspell" title="worshipped">worshipt</span> ore and precious gems<br />
+
+To store her children with; if all the world<span class="line" id="line720"> [ 720 ]</span><br />
+Should in a <a href="" id="pet" class="annotBtn">pet</a> of temperance feed on <a href="" id="pulse" class="annotBtn">Pulse</a>,<br />
+Drink the clear stream, and nothing wear but <a href="" id="frieze" class="annotBtn">Frieze</a>,<br />
+<span class="varspell" title="The">Th'</span> all-giver would be <span class="varspell" title="unthanked">unthank't</span>, would be <span class="varspell" title="unpraised">unprais'd</span>,<br />
+Not half his riches known, and yet <span class="varspell" title="despised">despis'd</span>,<br />
+
+And we should serve him as a grudging master,<span class="line" id="line725"> [ 725 ]</span><br />
+As a penurious niggard of his wealth,<br />
+And live like <span class="varspell" title="Nature's">Natures</span> bastards, not her sons,<br />
+Who would be quite <span class="varspell" title="surcharged">surcharg'd</span> with her own weight,<br />
+And <span class="varspell" title="strangled">strangl'd</span> with her waste fertility;<br />
+
+<span class="varspell" title="The">Th'</span> earth <a href="" id="cumber.d" class="annotBtn"><span class="varspell" title="cumbered">cumber'd</span></a>, and the <span class="varspell" title="winged">wing'd</span> air <span class="varspell" title="darked">dark't</span> with plumes,<span class="line" id="line730"> [ 730 ]</span><br />
+The herds would over-multitude their Lords,<br />
+The Sea <span class="varspell" title="orefraught">o'refraught</span> would swell, <span class="varspell" title="and">&amp;</span> <span class="varspell" title="the">th'</span> unsought diamonds<br />
+Would so emblaze the <a href="" id="deep" class="annotBtn"><span class="varspell" title="forehead">forhead</span> of the Deep</a>,<br />
+And so <span class="varspell" title="bestud">bestudd</span> with Stars, that they below<br />
+
+Would grow <span class="varspell" title="inured">inur'd</span> to light, and <span class="varspell" title="come">com</span> at last<span class="line" id="line735"> [ 735 ]</span><br />
+To gaze upon the Sun with shameless brows.<br />
+List Lady be not coy, and be not <a href="" id="cozen.d" class="annotBtn"><span class="varspell" title="cozened">cosen'd</span></a><br />
+With that same vaunted name Virginity,<br />
+Beauty is nature's <span class="varspell" title="coin">coyn</span>, must not be <span class="varspell" title="hoarded">hoorded</span>,<br />
+
+But must be <a href="" id="currant" class="annotBtn"><span class="varspell" title="current">currant</span></a>, and the good thereof<span class="line" id="line740"> [ 740 ]</span><br />
+Consists in mutual and <span class="varspell" title="partaken">partak'n</span> bliss,<br />
+<span class="varspell" title="Unsavory">Unsavoury</span> in <span class="varspell" title="the">th'</span> <span class="varspell" title="enjoyment">injoyment</span> of it self.<br />
+If you let slip time, like a neglected rose<br />
+It withers on the stalk with <span class="varspell" title="languished">languish't</span> head.<br />
+
+Beauty is <span class="varspell" title="nature's">natures</span> brag, and must be shown<span class="line" id="line745"> [ 745 ]</span><br />
+In courts, at feasts, and high solemnities<br />
+Where most may wonder at the workmanship;<br />
+It is for homely features to keep home,<br />
+They had their name thence; <span class="varspell" title="coarse">course</span> complexions<br />
+
+And cheeks of sorry grain will serve to ply<span class="line" id="line750"> [ 750 ]</span><br />
+The sampler, and to <span class="varspell" title="tease">teize</span> the <span class="varspell" title="housewife's">huswifes</span> <span class="varspell" title="wool">wooll</span>.<br />
+What need a <a href="" id="vermeil" class="annotBtn">vermeil</a>-<span class="varspell" title="tinctured">tinctur'd</span> lip for that<br />
+Love-darting eyes, or tresses like the Morn?<br />
+There was another meaning in these gifts,<br />
+
+Think what, and be <span class="varspell" title="advised">adviz'd</span>, you are but young yet.<span class="line" id="line755"> [ 755 ]</span>
+</p>
+<p>
+<span class="sp" title="Lady">La.</span> I had not thought to have <span class="varspell" title="unlocked">unlockt</span> my lips<br />
+In this <span class="varspell" title="unhallowed">unhallow'd</span> air, but that <a href="" id="Jugler" class="annotBtn">this <span class="varspell" title="Juggler">Jugler</span></a><br />
+Would think to charm my judgement, as mine eyes,<br />
+Obtruding false rules <span class="varspell" title="pranked">pranckt</span> in <span class="varspell" title="reason's">reasons</span> garb.<br />
+
+I hate when vice can <a href="" id="bolt" class="annotBtn">bolt</a> her arguments,<span class="line" id="line760"> [ 760 ]</span><br />
+And <span class="varspell" title="virtue">vertue</span> has no tongue to check her pride:<br />
+Impostor do not charge most <a href="" id="line762" class="annotBtn">innocent nature</a>,<br />
+As if she would her children should be riotous<br />
+With her abundance, she good cateress<br />
+
+Means her provision <span class="varspell" title="only">onely</span> to the good<span class="line" id="line765"> [ 765 ]</span><br />
+That live according to her sober laws,<br />
+And holy dictate of spare <a href="" id="line767" class="annotBtn">Temperance:</a><br />
+If every just man that now pines with want<br />
+Had but a moderate and beseeming share<br />
+
+Of that which lewdly-<span class="varspell" title="pampered">pamper'd</span> Luxury<span class="line" id="line770"> [ 770 ]</span><br />
+Now heaps upon <a href="" id="lines767_772" class="annotBtn"><span class="varspell" title="some">som</span> few</a> with vast excess,<br />
+<span class="varspell" title="Nature's">Natures</span> full blessings would be well <span class="varspell" title="dispensed">dispenc't</span><br />
+In unsuperfluous <span class="varspell" title="even">eeven</span> proportion,<br />
+And she no whit <span class="varspell" title="encumbered">encomber'd</span> with her store,<br />
+
+And then the <a href="" id="giver" class="annotBtn">giver</a> would be better <span class="varspell" title="thanked">thank't</span>,<span class="line" id="line775"> [ 775 ]</span><br />
+His praise due paid, for swinish gluttony<br />
+<span class="varspell" title="Never">Ne're</span> looks to <span class="varspell" title="Heaven">Heav'n</span> amidst his gorgeous feast,<br />
+But with besotted base ingratitude<br />
+<span class="varspell" title="Crams">Cramms</span>, and blasphemes his feeder.  Shall I go on?<br />
+
+Or have I said <span class="varspell" title="enough">anough</span>?  To him that dares<span class="line" id="line780"> [ 780 ]</span><br />
+Arm his profane tongue with contemptuous words<br />
+Against the Sun-clad power of Chastity,<br />
+Fain would I <span class="varspell" title="something">somthing</span> say, yet to what end?<br />
+Thou hast <a href="" id="Eare" class="annotBtn">nor <span class="varspell" title="Ear">Eare</span></a> nor Soul to apprehend<br />
+
+The sublime notion, and high mystery<span class="line" id="line785"> [ 785 ]</span><br />
+That must be <span class="varspell" title="uttered">utter'd</span> to unfold the sage<br />
+And serious doctrine of Virginity,<br />
+And thou art worthy that thou <span class="varspell" title="shouldest">shouldst</span> not know<br />
+More <span class="varspell" title="happiness">happines</span> <span class="varspell" title="than">then</span> this thy present lot.<br />
+
+Enjoy your deer Wit, and gay <span class="varspell" title="Rhetoric">Rhetorick</span><span class="line" id="line790"> [ 790 ]</span><br />
+That hath so well been taught her <span class="varspell" title="dazzling">dazling</span> fence,<br />
+Thou art not fit to hear thy self <span class="varspell" title="convinced">convinc't</span>;<br />
+Yet should I try, the <span class="varspell" title="uncontrolled">uncontrouled</span> worth<br />
+Of this pure cause would kindle my <span class="varspell" title="rapt">rap't</span> spirits<br />
+
+To such a flame of sacred vehemence,<span class="line" id="line795"> [ 795 ]</span><br />
+That dumb things would be <span class="varspell" title="moved">mov'd</span> to sympathize,<br />
+And the <a href="" id="brute" class="annotBtn">brute Earth</a> would lend her nerves, and shake,<br />
+Till all thy <span class="varspell" title="magic">magick</span> structures <span class="varspell" title="reared">rear'd</span> so high,<br />
+Were <span class="varspell" title="shattered">shatter'd</span> into heaps <span class="varspell" title="over">o're</span> thy false head.
+</p>
+
+
+<p>
+<span class="sp" title="Comus">Co.</span> She fables not, I feel that I do fear<span class="line" id="line800"> [ 800 ]</span><br />
+Her words set off by <span class="varspell" title="some">som</span> superior power;<br />
+And though not mortal, yet a cold <span class="varspell" title="shuddering">shuddring</span> dew<br />
+Dips me all <span class="varspell" title="over">o're</span>, as when the wrath of <span class="mi">Jove</span><br />
+<a href="" id="thunder" class="annotBtn">Speaks thunder</a>, and the chains of <a href="" id="erebus" class="annotBtn"><span class="mi">Erebus</span></a><br />
+
+To <span class="varspell" title="some">som</span> of <a href="" id="saturn.crew" class="annotBtn"><span class="mi">Saturn's</span> crew</a>. I must dissemble,<span class="line" id="line805"> [ 805 ]</span><br />
+And try her yet more strongly. <span class="varspell" title="Come">Com</span>, no more,<br />
+This is <span class="varspell" title="mere">meer</span> moral babble, and direct<br />
+Against the <a href="" id="canon" class="annotBtn">canon laws</a> of our foundation;<br />
+I must not suffer this, yet 'tis but the lees<br />
+
+And <span class="varspell" title="settlings">setlings</span> of a melancholy blood;<span class="line" id="line810"> [ 810 ]</span><br />
+But this will cure all <span class="varspell" title="straight">streight</span>, one sip of this<br />
+Will bathe the drooping spirits in delight<br />
+Beyond the bliss of dreams. Be wise, and taste.
+</p>
+<br />
+<p class="sd">The Brothers rush in with Swords drawn, wrest his Glass out of his
+hand, and break it against the ground; his rout make <span class="varspell" title="sign">signe</span> of
+resistance, but are all driven in; The attendant Spirit comes in.
+</p>
+<br />
+<p>
+<span class="sp" title="Spirit">Spir.</span> What, have you let the false enchanter scape?<br />
+
+O ye mistook, ye should have <span class="varspell" title="snatched">snatcht</span> his wand<span class="line" id="line815"> [ 815 ]</span><br />
+And bound him fast; without his rod <a href="" id="revers.t" class="annotBtn"><span class="varspell" title="reversed">revers't</span></a>,<br />
+And backward mutters of dissevering power,<br />
+We cannot free the Lady that sits here<br />
+In stony fetters <span class="varspell" title="fixed">fixt</span> and motionless;<br />
+
+Yet stay, be not <span class="varspell" title="disturbed">disturb'd</span>, now I bethink me,<span class="line" id="line820"> [ 820 ]</span><br />
+<span class="varspell" title="Some">Som</span> other means I have which may be <span class="varspell" title="used">us'd</span>,<br />
+Which once of <a href="" id="meliboeus" class="annotBtn"><span class="mi"><span class="varspell" title="Meloebius">Melib&oelig;us</span></span></a> old I <span class="varspell" title="learned">learnt</span><br />
+The <a href="" id="soothest" class="annotBtn">soothest</a> Shepherd that <span class="varspell" title="ever">ere</span> <span class="varspell" title="piped">pip't</span> on plains.
+</p>
+<p>
+There is a gentle Nymph not <span class="varspell" title="far">farr</span> from hence,<br />
+
+That with <a href="" id="line825" class="annotBtn">moist curb sways</a> the smooth Severn stream,<span class="line" id="line825"> [ 825 ]</span><br />
+<a href="" id="sabrina" class="annotBtn"><span class="mi">Sabrina</span></a> is her name, a Virgin pure,<br />
+<a href="" id="whilom" class="annotBtn"><span class="varspell" title="Whilome">Whilom</span></a> she was the daughter of <span class="mi">Locrine</span>,<br />
+That had the Scepter from his father <a href="" id="brutus" class="annotBtn"><span class="mi">Brute</span></a>.<br />
+The guiltless <span class="varspell" title="damsel">damsell</span> flying the mad pursuit<br />
+
+Of her enraged stepdam <span class="mi"><span class="varspell" title="Gwendolen">Guendolen</span></span>,<span class="line" id="line830"> [ 830 ]</span><br />
+Commended her innocence to the flood<br />
+That <span class="varspell" title="stayed">stay'd</span> her flight with his cross-flowing course,<br />
+The water Nymphs that in the bottom <span class="varspell" title="played">plaid</span>,<br />
+Held up their pearled wrists and took her in,<br />
+
+Bearing her straight to aged <a href="" id="nereus" class="annotBtn"><span class="mi"><span class="varspell" title="Nereus'">Nereus</span></span></a> Hall,<span class="line" id="line835"> [ 835 ]</span><br />
+Who piteous of her woes, <span class="varspell" title="reared">rear'd</span> her <a href="" id="lank" class="annotBtn">lank</a> head,<br />
+And gave her to his <a href="" id="nereids" class="annotBtn">daughters</a> to <span class="varspell" title="embathe">imbathe</span><br />
+In <span class="varspell" title="nectared">nectar'd</span> lavers <span class="varspell" title="strewed">strew'd</span> with <a href="" id="asphodel" class="annotBtn"><span class="varspell" title="Asphodel">Asphodil</span></a>,<br />
+And through the porch and inlet of each sense<br />
+
+<span class="varspell" title="Dropped">Dropt</span> in Ambrosial Oils till she <span class="varspell" title="revived">reviv'd</span>,<span class="line" id="line840"> [ 840 ]</span><br />
+And underwent a quick immortal change<br />
+Made Goddess of the River; still she retains<br />
+Her <span class="varspell" title="maiden">maid'n</span> <span class="varspell" title="gentleness">gentlenes</span>, and oft at <span class="varspell" title="Eve">Eeve</span><br />
+Visits the herds along the twilight meadows,<br />
+
+Helping all <a href="" id="urchin" class="annotBtn">urchin blasts</a>, and ill luck <span class="varspell" title="signs">signes</span><span class="line" id="line845"> [ 845 ]</span><br />
+That the shrewd <span class="varspell" title="meddling">medling</span> Elf delights to make,<br />
+Which she with <span class="varspell" title="precious">pretious</span> <span class="varspell" title="vialed">viold</span> liquors heals.<br />
+For which the Shepherds at their festivals<br />
+<span class="varspell" title="Carol">Carrol</span> her <span class="varspell" title="goodness">goodnes</span> loud in <span class="varspell" title="rustic">rustick</span> <a href="" id="lays" class="annotBtn"><span class="varspell" title="lays">layes</span></a>,<br />
+
+And throw sweet garland wreaths into her stream<span class="line" id="line850"> [ 850 ]</span><br />
+Of <span class="varspell" title="pansies">pancies</span>, pinks, and gaudy <span class="varspell" title="Daffodils">Daffadils</span>.<br />
+And, as the old Swain said, she can unlock<br />
+The clasping charm, and thaw the <span class="varspell" title="numbing">numming</span> spell,<br />
+If she be right <span class="varspell" title="invoked">invok't</span> in warbled Song,<br />
+
+For <span class="varspell" title="maidenhood">maid'nhood</span> she loves, and will be swift<span class="line" id="line855"> [ 855 ]</span><br />
+To aid a Virgin, such as was her self<br />
+In hard besetting need,  this will I try<br />
+And <span class="varspell" title="add">adde</span> the power of <span class="varspell" title="some">som</span> adjuring verse.</p>
+<br />
+<p class="song">
+<span class="songtitle">SONG.</span><br />
+<br />
+
+<span class="m3em">Sabrina fair</span><br />
+
+<span class="m6em">Listen where thou art sitting</span><span class="line" id="line860"> <span class="reversem">[ 860 ]</span></span><br />
+<span class="m3em">Under the <span class="varspell" title="glassy">glassie</span>, cool, translucent wave</span>,<br />
+<span class="m6em">In twisted braids of Lillies knitting</span><br />
+<span class="m3em">The loose train of thy amber-dropping hair</span>,<br />
+<span class="m6em">Listen for dear <span class="varspell" title="honor's">honours</span> sake</span>,<br />
+
+<span class="m6em">Goddess of the silver lake</span>,<span class="line" id="line865"> <span class="reversem">[ 865 ]</span></span><br />
+<span class="m9em">Listen and save.</span></p>
+<br />
+<p class="resume">
+<a name="dieties">Listen</a> and appear to us<br />
+In name of great <a href="" id="oceanus" class="annotBtn"><span class="mi">Oceanus</span></a>,<br />
+By the earth-shaking <span class="mi">Neptune's</span> mace,<br />
+
+And <a href="" id="tethys" class="annotBtn"><span class="mi"><span class="varspell" title="Tethys'">Tethys</span></span></a> grave <span class="varspell" title="majestic">majestick</span> pace,<span class="line" id="line870"> [ 870 ]</span><br />
+By hoary <a href="" id="nereus" class="annotBtn"><span class="mi"><span class="varspell" title="Nereus'">Nereus</span></span></a> <span class="varspell" title="wrinkled">wrincled</span> look,<br />
+And the <a href="" id="carpathian.wizard" class="annotBtn"><span class="mi">Carpathian</span> <span class="varspell" title="wizard's">wisard's</span> hook</a>,<br />
+By scaly <a href="" id="triton" class="annotBtn"><span class="mi"><span class="varspell" title="Triton's">Tritons</span></span></a> winding shell,<br />
+And old sooth-saying <a href="" id="glaucus" class="annotBtn"><span class="mi"><span class="varspell" title="Glaucus'">Glaucus</span></span></a> spell,<br />
+
+By <a href="" id="leucothea" class="annotBtn"><span class="mi">Leucothea's</span></a> lovely hands,<span class="line" id="line875"> [ 875 ]</span><br />
+And <a href="" id="melicertes" class="annotBtn">her son</a> that rules the strands,<br />
+By <a href="" id="thetis" class="annotBtn"><span class="mi"><span class="varspell" title="Thetis'">Thetis</span></span></a> tinsel-<span class="varspell" title="slippered">slipper'd</span> feet,<br />
+And the Songs of <a href="" id="sirens" class="annotBtn"><span class="mi">Sirens</span></a> sweet,<br />
+By dead <a href="" id="parthenope" class="annotBtn"><span class="mi">Parthenope's</span></a>  dear tomb,<br />
+
+And fair <a href="" id="ligea" class="annotBtn"><span class="mi">Ligea's</span></a>golden comb,<span class="line" id="line880"> [ 880 ]</span><br />
+<span class="varspell" title="Wherewith">Wherwith</span> she sits on diamond rocks<br />
+Sleeking her soft alluring locks,<br />
+By all the <span class="mi">Nymphs</span>  that nightly dance<br />
+Upon thy streams with wily glance,<br />
+
+Rise, rise, and heave thy <span class="varspell" title="rosy">rosie</span> head<span class="line" id="line885"> [ 885 ]</span><br />
+From thy coral-<span class="varspell" title="paven">pav'n</span> bed,<br />
+And bridle in thy headlong wave,<br />
+Till thou our summons <span class="varspell" title="answered">answer'd</span> have.<br />
+<span class="m9em">Listen and save.</span>
+</p>
+<br />
+<p class="sd">
+Sabrina rises, attended by water-<span class="varspell" title="Nymphs">Nymphes</span>, and sings.</p>
+<br />
+
+
+<p class="song">
+<span class="m3em">By the rushy-fringed bank</span>,<span class="line" id="line890"> <span class="reversem">[ 890 ]</span></span><br />
+Where grows the Willow and the Osier dank,<br />
+<span class="m6em">My sliding Chariot <span class="varspell" title="stays">stayes</span></span>,<br />
+Thick set with <span class="varspell" title="Agate">Agat</span> and the <span class="varspell" title="azure">azurn</span> sheen<br />
+<span class="m3em">Of <a href="" id="Turkis" class="annotBtn"><span class="varspell" title="Turkish">Turkis</span></a> <span class="varspell" title="blue">blew</span>, and <span class="varspell" title="Emerald">Emrauld</span> green</span><br />
+
+<span class="m9em">That in the <span class="varspell" title="channel">channell</span> <span class="varspell" title="strays">strayes</span></span>,<span class="line" id="line895"> <span class="reversem">[ 895 ]</span></span><br />
+<span class="m6em">Whilst from off the waters fleet</span><br />
+<span class="m6em">Thus I set my <a href="" id="printless" class="annotBtn">printless feet</a></span><br />
+<span class="m6em"><span class="varspell" title="Over">O're</span> the <span class="varspell" title="Cowslip's">Cowslips</span> Velvet head</span>,<br />
+<span class="m9em">That bends not as I tread</span>,<br />
+
+<span class="m6em">Gentle swain at thy request</span><span class="line" id="line900"> <span class="reversem">[ 900 ]</span></span><br />
+<span class="m9em">I am here.</span>
+</p>
+<br />
+<p>
+<span class="sp" title="Spirit">Spir.</span> Goddess dear<br />
+We implore thy powerful hand<br />
+To <span class="varspell" title="undo">undoe</span> the charmed band<br />
+
+Of true Virgin here <span class="varspell" title="distressed">distrest</span>,<span class="line" id="line905"> [ 905 ]</span><br />
+Through the force, and through the wile<br />
+Of <span class="varspell" title="unblessed">unblest</span> <span class="varspell" title="enchanter">inchanter</span> vile.
+</p>
+<p>
+<span class="sp" title="Sabrina">Sab.</span> Shepherd 'tis my office best<br />
+To help <span class="varspell" title="ensnared">insnared</span> chastity;<br />
+
+<a name="magic">Brightest</a> Lady look on me,<span class="line" id="line910"> [ 910 ]</span><br />
+Thus I sprinkle on thy <span class="varspell" title="breast">brest</span><br />
+Drops that from my fountain pure,<br />
+I have kept of <span class="varspell" title="precious">pretious</span> cure,<br />
+Thrice upon thy <span class="varspell" title="finger's">fingers</span> tip,<br />
+
+Thrice upon thy rubied lip,<span class="line" id="line915"> [ 915 ]</span><br />
+Next this marble <span class="varspell" title="venomed">venom'd</span> seat<br />
+<span class="varspell" title="Smeared">Smear'd</span> with <span class="varspell" title="gums">gumms</span> of glutenous heat<br />
+I touch with chaste palms moist and cold,<br />
+Now the spell hath lost his hold;<br />
+
+And I must haste ere morning hour<span class="line" id="line920"> [ 920 ]</span><br />
+To wait in <a href="" id="amphitrite" class="annotBtn"><span class="mi">Amphitrite's</span></a> <span class="varspell" title="bower">bow'r</span>.</p>
+<br />
+<p class="sd">Sabrina descends, and the Lady rises out of her seat.
+</p>
+<br />
+<p>
+<span class="sp" title="Spirit">Spir.</span> Virgin, daughter of <span class="mi">Locrine</span><br />
+Sprung of old <a href="" id="anchises" class="annotBtn"><span class="mi"><span class="varspell" title="Anchises'">Anchises</span></span></a> line,<br />
+May thy brimmed waves for this<br />
+
+Their full tribute never miss<span class="line" id="line925"> [ 925 ]</span><br />
+From a thousand petty rills,<br />
+That tumble down the snowy hills:<br />
+Summer <span class="varspell" title="drought">drouth</span>, or singed air<br />
+Never scorch thy tresses fair,<br />
+
+Nor wet <span class="mi"><span class="varspell" title="October's">Octobers</span></span> torrent flood<span class="line" id="line930"> [ 930 ]</span><br />
+Thy molten crystal fill with <span class="varspell" title="mud">mudd</span>;<br />
+May thy billows <span class="varspell" title="roll">rowl</span> <span class="varspell" title="ashore">ashoar</span><br />
+The <a href="" id="beryl" class="annotBtn">beryl</a>, and the golden ore,<br />
+May thy lofty head be <span class="varspell" title="crowned">crown'd</span><br />
+
+With many a tower and <span class="varspell" title="terrace">terrass</span> round,<span class="line" id="line935"> [ 935 ]</span><br />
+And here and there thy banks upon<br />
+With Groves of <span class="varspell" title="myrrh">myrrhe</span>, and cinnamon.<br /><br />
+<span class="varspell" title="Come">Com</span> Lady while Heaven lends us grace,<br />
+Let us fly this cursed place,<br />
+
+Lest the Sorcerer us <span class="varspell" title="entice">intice</span><span class="line" id="line940"> [ 940 ]</span><br />
+With <span class="varspell" title="some">som</span> other new device.<br />
+Not a waste, or needless sound<br />
+Till we <span class="varspell" title="come">com</span> to holier ground,<br />
+I shall be your <span class="varspell" title="faithful">faithfull</span> guide<br />
+
+Through this gloomy covert wide,<span class="line" id="line945"> [ 945 ]</span><br />
+And not many furlongs thence<br />
+Is your <span class="varspell" title="Father's">Fathers</span> residence,<br />
+Where this night are met <a href="" id="state" class="annotBtn">in state</a><br />
+Many a friend to <span class="varspell" title="congratulate">gratulate</span><br />
+
+His <span class="varspell" title="wished">wish't</span> presence, and beside<span class="line" id="line950"> [ 950 ]</span><br />
+All the Swains that there abide,<br />
+With <span class="varspell" title="Jigs">Jiggs</span>, and rural dance resort,<br />
+We shall catch them at their sport,<br />
+And our sudden coming there<br />
+
+Will double all their mirth and <span class="varspell" title="cheer">chere</span>;<span class="line" id="line955"> [ 955 ]</span><br />
+<span class="varspell" title="Come">Com</span> let us haste, the Stars grow high,<br />
+But night sits monarch yet in the mid sky.
+</p>
+<br />
+<p class="sd">
+The Scene changes presenting <span class="reversem">Ludlow</span> Town and the <span class="varspell" title="President's">Presidents</span> Castle, then <span class="varspell" title="come">com</span> in <span class="varspell" title="Country">Countrey</span>-Dancers, after them the attendant Spirit, with
+the two Brothers and the Lady.</p>
+<br />
+<p class="song">
+
+<span class="songtitle">SONG.</span>
+<br />
+<span class="sp"><span class="reversem">Spir.</span></span> Back Shepherds, back, <span class="varspell" title="enough">anough</span> your play,<br />
+<span class="mindent">Till next Sun-shine holiday</span>,<br />
+
+<span class="mindent">Here be without duck or nod</span><span class="line" id="line960"> <span class="reversem">[ 960 ]</span></span><br />
+<span class="mindent">Other <a href="" id="trippings" class="annotBtn">trippings</a> to be trod<br />
+<span class="mindent">Of lighter toes, and such Court guise</span><br />
+<span class="mindent">As <a href="" id="lyre" class="annotBtn">Mercury</a> did first devise</span><br />
+<span class="mindent">With the mincing</span> <a href="" id="dryades" class="annotBtn"><span class="reversem">Dryades</span></a></span><br />
+
+<span class="mindent">On the Lawns, and on the Leas.</span><span class="line" id="line965"> <span class="reversem">[ 965 ]</span></span>
+</p>
+<br />
+<p class="sd">
+<span class="reversem">This second Song presents them to their<br />
+father and mother.</span></p>
+<br />
+<p class="song">
+Noble Lord, and Lady bright,<br />
+I have brought ye new delight,<br />
+Here behold so goodly grown<br />
+Three fair branches of your own,<br />
+
+<span class="varspell" title="Heaven">Heav'n</span> hath timely <span class="varspell" title="tried">tri'd</span> their youth,<span class="line" id="line970"> <span class="reversem">[ 970 ]</span></span><br />
+Their faith, their patience, and their truth,<br />
+And sent them here through hard assays<br />
+With a crown of deathless Praise,<br />
+<span class="mindent">To triumph in victorious dance</span><br />
+
+<span class="varspell" title="Over">O're</span> sensual Folly, and Intemperance.<span class="line" id="line975"> <span class="reversem">[ 975 ]</span></span>
+</p>
+     <br />       
+      <p class="sd">The dances ended,the Spirit Epiloguizes.
+      </p>
+      <br />
+<p>
+    <span class="sp" title="Spirit">Spir.</span> To the Ocean now I fly,<br />
+And those happy climes that <span class="varspell" title="lie">ly</span><br />
+Where day never shuts his eye,<br />
+Up in the broad fields of the sky:<br />
+
+There I suck the liquid <span class="varspell" title="air">ayr</span><span class="line" id="line980"> [ 980 ]</span><br />
+All amidst the Gardens fair<br />
+Of <span class="mi">Hesperus</span>, and his daughters three<br />
+That sing about <a href="" id="hesperian" class="annotBtn">the golden tree</a>:<br />
+Along the <a href="" id="crisped" class="annotBtn">crisped</a> shades and <span class="varspell" title="bowers">bowres</span><br />
+
+Revels the spruce and <span class="varspell" title="jocund">jocond</span> Spring,<span class="line" id="line985"> [ 985 ]</span><br />
+The Graces, and the <span class="varspell" title="rosy">rosie</span>-<span class="varspell" title="bosomed">boosom'd</span> <a href="" id="line.986" class="annotBtn"><span class="varspell" title="Hours">Howres</span></a>,<br />
+Thither all their bounties bring,<br />
+<a href="" id="that" class="annotBtn">That</a> there eternal Summer <span class="varspell" title="dwells">dwels</span>,<br />
+And West winds with musky wing<br />
+
+About the <span class="varspell" title="cedarn">cedar'n</span> alleys fling<span class="line" id="line990"> [ 990 ]</span><br />
+<a href="" id="nard" class="annotBtn"><span class="mi">Nard</span>, and <span class="mi">Cassia's</span></a> balmy <span class="varspell" title="smells">smels</span>.<br />
+<a href="" id="iris" class="annotBtn"><span class="mi">Iris</span></a> there with humid bow,<br />
+Waters the odorous banks that blow<br />
+Flowers of more mingled <span class="varspell" title="hue">hew</span><br />
+
+<span class="varspell" title="Than">Then</span> her <a href="" id="purfl.d" class="annotBtn"><span class="varspell" title="purfled">purfl'd</span></a> scarf can <span class="varspell" title="show">shew</span>,<span class="line" id="line995"> [ 995 ]</span><br />
+And drenches with <a href="" id="elysian" class="annotBtn"><span class="mi">Elysian</span></a> dew<br />
+(List mortals, if your ears be true)<br />
+Beds of <span class="mi">Hyacinth</span> and roses<br />
+Where young <a href="" id="adonis" class="annotBtn"><span class="mi">Adonis</span></a> oft reposes,<br />
+
+ Waxing well of his deep wound<span class="line" id="line1000"> [ 1000 ]</span><br />
+In slumber soft, and on the ground<br />
+Sadly sits <span class="varspell" title="the">th'</span> <a href="" id="assyrian" class="annotBtn"><span class="mi">Assyrian</span> Queen</a>;<br />
+But far above in spangled sheen<br />
+Celestial <span class="mi">Cupid</span> her <span class="varspell" title="famed">fam'd</span> son <span class="varspell" title="advanced">advanc't</span>,<br />
+
+Holds his dear <span class="mi">Psyche</span>  sweet <span class="varspell" title="entranced">intranc't</span><span class="line" id="line1005"> [ 1005 ]</span><br />
+After her <span class="varspell" title="wandering">wandring</span> <span class="varspell" title="labors">labours</span> long,<br />
+Till free consent the gods among<br />
+Make her his <a href="" id="psyche" class="annotBtn">eternal Bride</a>,<br />
+And from her fair unspotted side<br />
+
+Two blissful twins are to be born,<span class="line" id="line1010"> [ 1010 ]</span><br />
+Youth and Joy; so <span class="mi">Jove</span> hath sworn.
+</p>
+<p>
+But now my task is smoothly <span class="varspell" title="done">don</span>,<br />
+I can fly, or I can run<br />
+Quickly to the green <span class="varspell" title="earth's">earths</span> end,<br />
+
+Where the <a href="" id="welkin" class="annotBtn"><span class="varspell" title="bowed">bow'd</span> welkin</a> slow doth bend,<span class="line" id="line1015"> [ 1015 ]</span><br />
+And from thence can soar as soon<br />
+To the corners of the Moon.
+</p>
+<p>
+Mortals that would follow me,<br />
+Love <span class="varspell" title="virtue">vertue</span>, she alone is free,<br />
+
+She can teach ye how to <span class="varspell" title="climb">clime</span><span class="line" id="line1020"> [ 1020 ]</span><br />
+Higher <span class="varspell" title="than">then</span> the <a href="" id="line1021" class="annotBtn"><span class="varspell" title="Sphery">Spheary</span> chime</a>;<br />
+Or if <span class="varspell" title="Virtue">Vertue</span> feeble were,<br />
+<span class="varspell" title="Heaven">Heav'n</span> it self would stoop to her.</p>
+</div>
+
+<br />
+<br />
+
+<div class="title"><span class="mi">The End</span></div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+</body> 
+</html> 

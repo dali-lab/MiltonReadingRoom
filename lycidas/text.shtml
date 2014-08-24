@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Lycidas: Text</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner">Lycidas</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Lycidas: Text</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+	<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="intro.shtml">Introduction</a>
+				</li>
+				<li>
+					<a href="text.shtml"><b>Text</b></a>
+				</li>
+				
+			</ul>	
+	</div>
+
+<div id="container">
+
+<div id="content">
+<div class="poemTitle"><h2><a href="" id="intro" class="annotBtn">Lycidas</a></h2>
+</div>
+<div class="verse">
+<p class="poemTitle">
+In this <a href="" id="Monody" class="annotBtn">Monody</a> the Author bewails a<br />
+learned <a href="" id="friend" class="annotBtn">Friend</a>, <span class="varspell" title="unfortunately">unfortunatly</span> <span class="varspell" title="drowned">drown'd</span> in his Passage<br />
+from <span class="mi">Chester</span> on the <span class="mi">Irish</span> Seas, 1637.  And by<br />
+occasion <span class="varspell" title="foretells">fortels</span> the <span class="varspell" title="ruin">ruine</span> of our corrupted<br />
+Clergy then in their <a href="" id="height" class="annotBtn">height</a>.
+</p>
+
+
+<p class="first">
+<span class="varspell" title="Yet"><span class="minitial">Y</span>et</span> once more, O ye Laurels, and once more<br />
+Ye Myrtles brown, with Ivy <a href="" id="evergreen" class="annotBtn">never-<span class="varspell" title="sere">sear</span></a>,<br />
+I <span class="varspell" title="come">com</span> to pluck your Berries harsh and crude,<br />
+And with <span class="varspell" title="forced">forc'd</span> fingers rude,<br />
+Shatter your leaves before the mellowing year.<span class="line" id="line5"> [ 5 ]</span><br />
+Bitter constraint, and sad occasion dear,<br />
+Compels me to disturb your season due:<br />
+For <a href="" id="name" class="annotBtn"><span class="mi">Lycidas</span></a> is dead, dead ere his prime,<br />
+Young <span class="mi">Lycidas</span>, and hath not left his peer:<br />
+Who would not sing for <a href="" id="virgil" class="annotBtn"><span class="mi">Lycidas</span></a>? he knew<span class="line" id="line10"> [ 10 ]</span><br />
+Himself to sing, and build the lofty rhyme.<br />
+He must not <span class="varspell" title="float">flote</span> upon his <span class="varspell" title="watery">watry</span> <a href="" id="bear" class="annotBtn"><span class="varspell" title="bier">bear</span></a><br />
+Unwept, and welter to the parching wind,<br />
+Without the meed of <span class="varspell" title="some">som</span> melodious tear.
+</p>
+<p>
+<a href="" id="invocation" class="annotBtn">Begin then, Sisters</a> of the sacred well,<span class="line" id="line15"> [ 15 ]</span><br />
+That from beneath the seat of <span class="mi">Jove</span> doth spring,<br />
+Begin, and <span class="varspell" title="somewhat">somwhat</span> loudly sweep the string.<br />
+Hence with denial vain, and coy excuse,<br />
+So may <span class="varspell" title="some">som</span> gentle Muse<br />
+With <a href="" id="lucky" class="annotBtn">lucky</a> words <span class="varspell" title="favor">favour</span> my <span class="varspell" title="destined">destin'd</span> Urn,<span class="line" id="line20"> [ 20 ]</span><br />
+And as he passes turn,<br />
+And bid fair peace be to my sable <span class="varspell" title="shroud">shrowd</span>.<br />
+For we were <span class="varspell" title="nursed">nurst</span> upon the self-same hill,<br />
+Fed the same flock, by fountain, shade, and rill.
+</p>
+<p>
+Together both, ere the high Lawns <span class="varspell" title="appeared">appear'd</span><span class="line" id="line25"> [ 25 ]</span><br />
+Under the <a href="" id="opening" class="annotBtn">opening</a> eye-lids of the morn,<br />
+We drove a field, and both together heard<br />
+What time the Gray-fly winds her sultry horn,<br />
+<a href="" id="battning" class="annotBtn"><span class="varspell" title="Battening">Batt'ning</span></a> our flocks with the fresh dews of night,<br />
+Oft till the <a href="" id="star" class="annotBtn">Star</a> that rose, at <span class="varspell" title="Evening">Ev'ning</span>, bright<span class="line" id="line30"> [ 30 ]</span><br />
+Toward <span class="varspell" title="Heaven's">Heav'ns</span> descent had <span class="varspell" title="sloped">slop'd</span> his <a href="" id="westering" class="annotBtn">westering</a> wheel.<br />
+Mean while the Rural ditties were not mute,<br />
+<span class="varspell" title="Tempered">Temper'd</span> to <a href="" id="Pan" class="annotBtn"><span class="varspell" title="the">th'</span> Oaten Flute</a>,<br />
+Rough <a href="" id="satyr" class="annotBtn"><span class="mi">Satyrs</span></a> <span class="varspell" title="danced">danc'd</span>, and <span class="mi">Fauns</span> with <span class="varspell" title="cloven">clov'n</span> heel,<br />
+From the glad sound would not be absent long,<span class="line" id="line35"> [ 35 ]</span><br />
+And old <a href="" id="damaetas" class="annotBtn"><span class="mi"><span class="varspell" title="Damoetas">Dam&oelig;tas</span></span></a> <span class="varspell" title="loved">lov'd</span> <a href="" id="line36" class="annotBtn">to hear our song.</a>
+</p>
+<p>
+But O the heavy change, now thou art <span class="varspell" title="gone">gon</span>,<br />
+Now thou art <span class="varspell" title="gone">gon</span>, and never must return!<br />
+Thee Shepherd, thee the Woods, and desert Caves,<br />
+With <span class="varspell" title="wild">wilde</span> Thyme and the <a href="" id="gadding" class="annotBtn">gadding</a> Vine <span class="varspell" title="overgrown">o'regrown</span>,<span class="line" id="line40"> [ 40 ]</span><br />
+And all their echoes mourn.<br />
+The Willows, and the <span class="varspell" title="Hazel">Hazle</span> Copses green,<br />
+Shall now no more be seen,<br />
+Fanning their joyous Leaves to thy soft <span class="varspell" title="lays">layes</span>.<br />
+As killing as the <a href="" id="Canker" class="annotBtn">Canker</a> to the Rose,<span class="line" id="line45"> [ 45 ]</span><br />
+Or <a href="" id="taint" class="annotBtn">Taint-worm</a> to the <a href="" id="wean" class="annotBtn">weanling</a> Herds that graze,<br />
+Or Frost to Flowers, that their gay <a href="" id="wardrop" class="annotBtn"><span class="varspell" title="wardrobe">wardrop</span></a> wear,<br />
+When first the White thorn <a href="" id="blows" class="annotBtn">blows</a>;<br />
+Such, <span class="mi">Lycidas</span>, thy loss to <span class="varspell" title="Shepherd's">Shepherds</span> ear.
+</p>
+<p>
+Where were ye Nymphs when the remorseless deep<span class="line" id="line50"> [ 50 ]</span><br />
+<span class="varspell" title="Closed">Clos'd</span> <span class="varspell" title="ore">o're</span> the head of your <span class="varspell" title="loved">lov'd</span> <span class="mi">Lycidas</span>?<br />
+For neither were ye playing on the steep,<br />
+Where your old <a href="" id="bards" class="annotBtn"><span class="mi">Bards</span></a>, the famous <span class="mi">Druids</span> <span class="varspell" title="lie">ly</span>,<br />
+Nor on the shaggy top of <a href="" id="geography" class="annotBtn"><span class="mi">Mona</span></a> high,<br />
+Nor yet where <a href="" id="deva" class="annotBtn"><span class="mi">Deva</span></a> spreads her <span class="varspell" title="wizard">wisard</span> stream:<span class="line" id="line55"> [ 55 ]</span><br />
+Ay me, I <a href="" id="fondly" class="annotBtn">fondly</a> dream!<br />
+Had ye <span class="varspell" title="been">bin</span> there &mdash; for what could that have <span class="varspell" title="done">don</span>?<br />
+What could the Muse her self that <a name="orpheus"><span class="mi">Orpheus</span></a> bore,<br />
+The Muse her self, for her <span class="varspell" title="enchanting">inchanting</span> son<br />
+Whom Universal nature did lament,<span class="line" id="line60"> [ 60 ]</span><br />
+When by the rout that made the hideous roar,<br />
+His <span class="varspell" title="gory">goary</span> visage down the stream was sent,<br />
+Down the swift <span class="mi">Hebrus</span> to the <a href="" id="orpheus" class="annotBtn"><span class="mi">Lesbian</span> shore</a>.
+</p>
+
+<p>
+Alas! What boots it with uncessant care<br />
+To tend the homely slighted <span class="varspell" title="Shepherd's">Shepherds</span> trade,<span class="line" id="line65"> [ 65 ]</span><br />
+And <a href="" id="strictly" class="annotBtn">strictly</a> meditate the <span class="varspell" title="thankless">thankles</span> Muse,<br />
+Were it not better <span class="varspell" title="done">don</span> as others use,<br />
+To sport with <a href="" id="amaryllis" class="annotBtn"><span class="mi">Amaryllis</span></a> in the shade,<br />
+<a href="" id="with" class="annotBtn">
+Or with</a> the tangles of <span class="mi"><span class="varspell" title="Neaera's">Ne&aelig;ra's</span></span> hair?<br />
+<a name="fame"><span class="mi">Fame</span></a> is the spur that the clear spirit doth raise<span class="line" id="line70"> [ 70 ]</span><br />
+(That last infirmity of Noble mind)<br />
+To scorn delights, and live laborious <span class="varspell" title="days">dayes</span>;<br />
+But the fair <a href="" id="reward" class="annotBtn">Guerdon</a> when we hope to find,<br />
+And think to burst out into <a name="glory">sudden</a> blaze,<br />
+Comes the blind <a href="" id="fury" class="annotBtn"><span class="mi">Fury</span></a> with <span class="varspell" title="the">th'</span> abhorred shears,<span class="line" id="line75"> [ 75 ]</span><br />
+And slits the thin spun life. But not the praise,<br />
+<a href="" id="ears" class="annotBtn"><span class="mi"><span class="varspell" title="Phoebus">Ph&oelig;bus</span></span></a> <span class="varspell" title="replied">repli'd</span>, and <span class="varspell" title="touched">touch'd</span> my trembling ears;<br />
+<span class="mi">Fame</span> is no plant that grows on mortal soil,<br />
+Nor in the glistering <a href="" id="foil" class="annotBtn">foil</a><br />
+Set off to <span class="varspell" title="the">th'</span> world, nor in broad <span class="varspell" title="rumor">rumour</span> lies,<span class="line" id="line80"> [ 80 ]</span><br />
+But lives and <span class="varspell" title="spreads">spreds</span> aloft by those pure eyes,<br />
+And <span class="varspell" title="pefect">perfet</span> <span class="varspell" title="witness">witnes</span> of all judging <span class="mi">Jove</span>;<br />
+As he pronounces lastly on each deed,<br />
+Of so much fame in <span class="varspell" title="Heaven">Heav'n</span> expect thy meed.
+</p>
+
+<p>
+O Fountain <a href="" id="Arethuse" class="annotBtn"><span class="mi">Arethuse</span></a>, and thou <span class="varspell" title="honored">honour'd</span> flood,<span class="line" id="line85"> [ 85 ]</span><br />
+Smooth-sliding <span class="mi">Mincius</span>, <span class="varspell" title="crowned">crown'd</span> with <span class="varspell" title="vocal">vocall</span> reeds,<br />
+That strain I heard was of a <a href="" id="epic" class="annotBtn">higher mood</a>:<br />
+But now my <span class="varspell" title="Oat">Oate</span> proceeds,<br />
+And listens to the <a href="" id="herald" class="annotBtn">Herald</a> of the Sea<br />
+That came in <span class="mi">Neptune's</span> <a href="" id="plea" class="annotBtn">plea</a>,<span class="line" id="line90"> [ 90 ]</span><br />
+He <span class="varspell" title="asked">ask'd</span> the Waves, and <span class="varspell" title="asked">ask'd</span> the <span class="varspell" title="Felon">Fellon</span> winds,<br />
+What hard mishap hath <span class="varspell" title="doomed">doom'd</span> this gentle <a href="" id="swain" class="annotBtn">swain</a>?<br />
+And <span class="varspell" title="questioned">question'd</span> every gust of rugged wings<br />
+That blows from off each beaked Promontory,<br />
+They knew not of his story,<span class="line" id="line95"> [ 95 ]</span><br />
+And sage <a href="" id="hippotades" class="annotBtn"><span class="mi">Hippotades</span></a> their answer brings,<br />
+That not a blast was from his dungeon <span class="varspell" title="strayed">stray'd</span>,<br />
+The <span class="varspell" title="Air">Ayr</span> was calm, and on the level brine,<br />
+Sleek <a href="" id="panope" class="annotBtn"><span class="mi">Panope</span></a> with all her sisters <span class="varspell" title="played">play'd</span>.<br />
+It was that <span class="varspell" title="fatal">fatall</span> and perfidious <a href="" id="Bark" class="annotBtn">Bark</a><span class="line" id="line100"> [ 100 ]</span><br />
+Built in <a href="" id="eclipse" class="annotBtn"><span class="varspell" title="the">th'</span> eclipse</a>, and <span class="varspell" title="rigged">rigg'd</span> with curses dark,<br />
+That sunk so low that sacred head of thine.
+</p>
+
+<p>
+Next <a href="" id="Camus" class="annotBtn"><span class="mi">Camus</span></a>, reverend Sire, went footing slow,<br />
+His Mantle hairy, and his Bonnet sedge,<br />
+Inwrought with figures dim, and on the edge<span class="line" id="line105"> [ 105 ]</span><br />
+Like to that <a href="" id="hyacinth" class="annotBtn">sanguine flower</a> <span class="varspell" title="inscribed">inscrib'd</span> with woe.<br />
+Ah! Who hath reft (quoth he) my dearest pledge?<br />
+Last came, and last did go,<br />
+<a href="" id="pilot" class="annotBtn">The Pilot</a> of the <span class="mi">Galilean</span> lake,<br />
+Two massy <span class="varspell" title="Keys">Keyes</span> he bore of metals twain,<span class="line" id="line110"> [ 110 ]</span><br />
+(The Golden opes, the Iron shuts amain)<br />
+He shook his <a href="" id="miterd" class="annotBtn"> <span class="varspell" title="Mitered">Miter'd</span> ></a> locks, and stern bespake,<br />
+How well could I have <span class="varspell" title="spared">spar'd</span> for thee young swain<a href="" id="line113" class="annotBtn">,</a><br />
+<a href="" id="Anow" class="annotBtn"><span class="varspell" title="Enough">Anow</span></a> of <a name="hirelings">such</a> as for their <span class="varspell" title="bellies'">bellies</span> sake,<br />
+Creep and intrude, and climb <a href="" id="john" class="annotBtn">into the fold</a>?<span class="line" id="line115"> [ 115 ]</span><br />
+Of other care they little <span class="varspell" title="reckoning">reck'ning</span> make,<br />
+<span class="varspell" title="Than">Then</span> how to scramble at the <span class="varspell" title="shearer's">shearers</span> feast,<br />
+And shove away the worthy bidden guest.<br />
+Blind <span class="varspell" title="mouths">mouthes</span>! that scarce themselves know how to hold<br />
+A Sheep-hook, or have <span class="varspell" title="learned">learn'd</span> ought <span class="varspell" title="else">els</span> the least<span class="line" id="line120"> [ 120 ]</span><br />
+That to the <span class="varspell" title="faithful">faithfull</span> <span class="varspell" title="Herdsman's">Herdmans</span> art belongs!<br />
+What recks it them? What need they? They are sped;<br />
+And when they list, their lean and flashy songs<br />
+Grate on their <a href="" id="scrannel" class="annotBtn">scrannel</a> Pipes of wretched straw,<br />
+<a href="" id="straw" class="annotBtn">The hungry Sheep look up</a>, and are not fed,<span class="line" id="line125"> [ 125 ]</span><br />
+But <span class="varspell" title="swollen">swoln</span> with wind, and the rank mist they draw,<br />
+Rot inwardly, and foul contagion spread:<br />
+Besides what the grim <a href="" id="wolf" class="annotBtn"><span class="varspell" title="Wolf">Woolf</span></a> with <a href="" id="privy" class="annotBtn">privy</a> paw<br />
+Daily devours apace, and <a href="" id="nothing" class="annotBtn">nothing</a> <a href="" id="sed" class="annotBtn"><span class="varspell" title="said">sed</span></a>,<br />
+But that <a href="" id="engine" class="annotBtn">two-handed engine</a> at the door,<span class="line" id="line130"> [ 130 ]</span><br />
+Stands ready to <a href="" id="smite" class="annotBtn">smite</a> once, and smite no more.
+</p>
+
+<p>
+Return <a href="" id="Alpheus" class="annotBtn"><span class="mi">Alpheus</span></a>, the dread voice is past,<br />
+That shrunk thy streams; Return <a name="sicilian"><span class="mi">Sicilian</span> Muse</a>,<br />
+And call the Vales, and bid them hither cast<br />
+Their <span class="varspell" title="Bells">Bels</span>, and <span class="varspell" title="Flowerets">Flourets</span> of a thousand hues.<span class="line" id="line135"> [ 135 ]</span><br />
+Ye valleys low where the <span class="varspell" title="mild">milde</span> whispers use,<br />
+Of shades and wanton winds, and gushing brooks,<br />
+On whose fresh lap the <a href="" id="swart" class="annotBtn">swart Star</a> sparely looks,<br />
+Throw hither all your quaint <span class="varspell" title="enameled">enameld</span> eyes,<br />
+That on the green <span class="varspell" title="turf">terf</span> suck the honied <span class="varspell" title="showers">showres</span>,<span class="line" id="line140"> [ 140 ]</span><br />
+And purple all the ground with vernal <span class="varspell" title="flowers">flowres</span>.<br />
+Bring the <a href="" id="rathe" class="annotBtn">rathe</a> Primrose that forsaken dies.<br />
+The tufted <a href="" id="Crow" class="annotBtn">Crow-toe</a>, and pale <a href="" id="Gessamine" class="annotBtn">Jasmine</a>,<br />
+The white Pink, and the <span class="varspell" title="Pansy">Pansie</span> <a href="" id="freakt" class="annotBtn"><span class="varspell" title="freaked">freakt</span></a> with <span class="varspell" title="jet">jeat</span>,<br />
+The glowing Violet.<span class="line" id="line145"> [ 145 ]</span><br />
+The Musk-rose, and the well <span class="varspell" title="attired">attir'd</span> Woodbine,<br />
+With Cowslips <a href="" id="wan" class="annotBtn">wan</a> that hang the pensive <span class="varspell" title="head">hed</span>,<br />
+And every flower that sad embroidery wears:<br />
+Bid <a href="" id="Amaranthus" class="annotBtn"><span class="mi">Amaranthus</span></a> all his beauty shed,<br />
+And <a href="" id="line142" class="annotBtn"><span class="varspell" title="Daffodils">Daffadillies</span></a> fill their cups with tears,<span class="line" id="line150"> [ 150 ]</span><br />
+To strew the <span class="varspell" title="Laureate">Laureat</span> <span class="varspell" title="Hearse">Herse</span> where <span class="mi"><span class="varspell" title="Lycidas">Lycid</span></span> lies.<br />
+For so to interpose a little ease,<br />
+Let our frail thoughts dally with false surmise.<br />
+Ay me! Whilst thee the shores and sounding Seas<br />
+Wash far away, where ere thy bones are <span class="varspell" title="hurled">hurld</span>,<span class="line" id="line155"> [ 155 ]</span><br />
+Whether beyond the stormy <a href="" id="hebrides" class="annotBtn"><span class="mi">Hebrides</span></a>,<br />
+Where thou perhaps under the <a href="" id="whelming" class="annotBtn">whelming</a> tide<br />
+<span class="varspell" title="Visitest">Visit'st</span> the bottom of the monstrous world;<br />
+Or whether thou to our <a href="" id="moist" class="annotBtn">moist</a> vows <span class="varspell" title="denied">deny'd</span>,<br />
+<span class="varspell" title="Sleepest">Sleep'st</span> by the fable of <a href="" id="bellerus" class="annotBtn"><span class="mi">Bellerus</span></a> old,<span class="line" id="line160"> [ 160 ]</span><br />
+Where the great vision of the <a href="" id="guarded" class="annotBtn">guarded Mount</a><br />
+Looks toward <span class="mi">Namancos</span> and <span class="mi">Bayona's</span> hold;<br />
+<a href="" id="homeward" class="annotBtn">Look homeward</a> Angel now, and melt with ruth.<br />
+And, O ye <a href="" id="Dolphins" class="annotBtn"><span class="mi">Dolphins</span></a>, waft the <span class="varspell" title="hapless">haples</span> youth.
+</p>
+
+<p>
+Weep no more, <span class="varspell" title="woeful">woful</span> Shepherds <a href="" id="repetition" class="annotBtn">weep no more</a>,<span class="line" id="line165"> [ 165 ]</span><br />
+For <span class="mi">Lycidas</span> your sorrow is not dead,<br />
+Sunk though he be beneath the <span class="varspell" title="watery">watry</span> <span class="varspell" title="floor">floar</span>,<br />
+So sinks the day-star in the Ocean bed,<br />
+And yet anon repairs his drooping head,<br />
+And tricks his beams, and with new-spangled Ore,<span class="line" id="line170"> [ 170 ]</span><br />
+Flames in the forehead of the morning sky:<br />
+So <span class="mi">Lycidas</span> sunk low, but <a name="mounted">mounted</a> high,<br />
+Through the dear might of <a href="" id="him" class="annotBtn">him</a> that <span class="varspell" title="walked">walk'd</span> the waves;<br />
+Where other groves, and other streams along,<br />
+With <span class="mi">Nectar</span> pure his oozy <span class="varspell" title="Locks">Lock's</span> he laves,<span class="line" id="line175"> [ 175 ]</span><br />
+And hears the <a href="" id="nuptial" class="annotBtn">unexpressive <span class="varspell" title="nuptial">nuptiall</span> Song</a>,<br />
+<a href="" id="line177" class="annotBtn">In the <span class="varspell" title="blessed">blest</span> Kingdoms meek of joy and love.</a><br />
+There entertain him all the Saints above,<br />
+In solemn troops, and sweet Societies<br />
+That sing, and singing in their glory move,<span class="line" id="line180"> [ 180 ]</span><br />
+And <a href="" id="tears" class="annotBtn">wipe the tears</a> for ever from his eyes.<br />
+Now <span class="mi">Lycidas</span> the Shepherds weep no more;<br />
+Hence forth thou art the <a href="" id="genius" class="annotBtn">Genius</a> of the shore,<br />
+In thy large recompense, and shalt be good<br />
+To all that wander in that perilous flood.<span class="line" id="line185"> [ 185 ]</span>
+</p>
+<p>
+Thus sang the uncouth Swain to <span class="varspell" title="the">th'</span> <span class="varspell" title="Oaks">Okes</span> and rills,<br />
+While the still morn went out with Sandals gray,<br />
+He <span class="varspell" title="touched">touch'd</span> the tender stops of various <a href="" id="Quills" class="annotBtn">Quills</a>,<br />
+With eager thought <a name="doric">warbling</a> his <a href="" id="doric" class="annotBtn"><span class="mi"><span class="varspell" title="Doric">Dorick</span></span></a> lay:<br />
+And now the Sun had <span class="varspell" title="stretched">stretch'd</span> out all the hills,<span class="line" id="line190"> [ 190 ]</span><br />
+And now was <span class="varspell" title="dropped">dropt</span> into the Western bay;<br />
+At last he rose, and <span class="varspell" title="twitched">twitch'd</span> his Mantle <span class="varspell" title="blue">blew</span>:<br />
+To morrow to fresh Woods, and <a href="" id="close" class="annotBtn">Pastures new.</a>
+</p>
+
+
+
+
+</div>
+
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Comus: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+	<a href=""><img id="search" src="../../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+
+	<div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Comus</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+		<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Comus: Introduction</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+
+	<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" >
+						<a href="../intro/text.shtml"><b>Introduction</b></a>
+					</i>
+					<li id="notLast" class="newGroup">
+						<a href="../title_1645/text.shtml">Title Page (1645)</a>
+					</i>
+					<li id="notLast">
+						<a href="../title_1637/text.shtml">Title Page (1637)</a>
+					</i>
+					<li id="notLast">
+						<a href="../front_matter/text.shtml">Front Matter</a>
+					</i>
+					<li>
+						<a href="../text.shtml">Text</a>
+					</i>
+				
+				</ul>	
+			</div>
+	
+
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+<p class="poemTitle">Introduction</p>
+
+<span class="booktitle">A Mask Presented at Ludlow Castle</span> was written on commission to celebrate the first visit of <a href="http://en.wikipedia.org/wiki/John_Egerton,_1st_Earl_of_Bridgewater" target="main">John Egerton, the first Earl of Bridgewater</a> to his (relatively) new administrative seat, <a href="http://www.ludlowcastle.com/" target="main">Ludlow Castle in Shropshire</a>; it was performed for the first time on the night of Michaelmas (September 29) in 1634. Egerton had been appointed Lord President of Wales and Lord Lieutenant of Wales and the Marches of Herefordshire, Monmouthshire, Shropshire and Worcestershire in 1631, but he first visited Ludlow in 1634.  <span class="booktitle">A Mask</span> is the only masque Milton wrote and it was the second of his poetic works to be published (anonymously in 1637). Had Milton never achieved fame as author of <span class="booktitle">Paradise Lost</span>, <span class="booktitle">A Mask</span> might have been forgotten in history as a minor performance in an age that saw much grander courtly spectacles of this now disused sort. Milton's subversions of the genre's conventions, however, as well as his puritan formulation of a classical ideal of self-governance, distinguish <span class="booktitle">A Mask</span> as a complex and fascinating piece of dramatic literature.</p>
+<p class="next">
+<a href="http://en.wikipedia.org/wiki/Masque" target="main">Masques</a> were popular courtly entertainments in Caroline England. They consisted of elaborate performances in which a mixed cast of professional actors and royal individuals acted, sang, and danced in lavish stage sets, until the performance culminated in a revel or ball. Playwright and poet <a href="http://en.wikipedia.org/wiki/Ben_Jonson" target="main">Ben Jonson</a> and architect <a href="http://en.wikipedia.org/wiki/Inigo_Jones" target="main">Inigo Jones</a> enjoyed a fruitful partnership as the creators of masques for the courts of Queen Anne and Queen Maria Henrietta, and the pair was responsible for the consolidation of many of the genre's conventions. The typical Jonsonian masque was divided in three parts: the anti-masque, the masque, and the revels. The anti-masque often consisted of the unleashing of a grotesque, burlesque crowd of demimonde characters that enacted plots of anarchy, mischief, and betrayal. Their threatening forces were dispelled by the refinement of the masque, which introduced the members of the court as restorers of order and royal authority. The revels marked the point in which the dramatic apparatus of the masque was dissolved, and presenters and spectators together celebrated the occasion or state affair. The overall structure of the masque served to neutralize potential threatening energies in the political unconscious of the court, and the authority of the king was reasserted through the imagery of absolutist patriarchy represented by the virtuous body of the Queens and their attendant ladies. </p> 
+<p class="next"><span class="booktitle">A Mask</span> only partially subscribes to the Jonsonian format. Milton's masque is also organized according to a tripartite structure, and there is a distinction between the grotesque anti-masque revelers, played by professional male actors, and the virtuous aristocratic protagonists, played by the Egerton children&mdash;Alice age 15, John age 11 and Thomas age 8. <a href="http://en.wikipedia.org/wiki/Henry_Lawes" target="main">Henry Lawes</a>, Gentleman of the Royal Chapel, was commissioned to compose the music for <span class="booktitle">A Mask</span>, and he played the role of the Attendant Spirit. <span class="booktitle">A Mask</span> deviates from the conventional Jonsonian mold in ways that ignore the absolutist authority of the king in favor of a puritan-leaning but classically-rooted sense of self-governance or temperance. In traditional masques, the Queen is able to neutralize the negative forces of the anti-masque revelers because her virtue emanates from the King; therefore, the woman is simply a vessel for the absolute power of the monarch. In his book, <span class="booktitle">Lady in the Labyrinth: Milton's Comus as Initiation</span> (2008), William Shullenberger argues that in <span class="booktitle">A Mask</span> it is the Lady alone who acts as an "exemplary agent and embodiment of virtue," without ever a mention of her father, the king's proxy, or King Charles himself (<a href="../bibliography/r-s/text.shtml#william_shullenberger" target="main">Shullenberger</a> 68). This choice may indicate Milton's dissent from the conflation of spiritual education and politics in the structure of court masques, which leads Maryann Cale McGuire to classify <span class="booktitle">A Mask</span> as a "dissident masque," or the "work of a Protestant radical who rejected absolutist institutional authority, emphasized the primacy of the individual pursuit of enlightenment, and posited that stasis is impossible in the fallen world" (<a href="../bibliography/l-m/text.shtml#maryann_mcguire">McGuire</a> 76). Moreover, <span class="booktitle">A Mask</span> seems to be critical of the very court culture that generated and patronized masques. Unlike the lavish settings of Inigo Jones, <span class="booktitle">A Mask</span> opens on a plain dark setting, and the masque only makes use of ornamental artifice during the bacchanal Comus throws for his half-bestial guests. Shullenberger writes, "Milton's association of the <span class="booktitle">Mask</span>'s Lord of Misrule, Comus, with the extravagances and libertinism of traditional aristocracy ... subtly relocates the social center of anxiety represented by the antimasque from <i>outside</i> the court culture to <i>inside</i> the court culture" (<a href="../bibliography/r-s/text.shtml#william_shullenberger" target="main">Shullenberger</a> 69).</p>
+<p class="next"><span class="booktitle">A Mask</span> has a complicated publishing history. It was first printed in 1637&mdash;<a href="http://www.dartmouth.edu/~milton/reading_room/comus/title_1637/text.shtml" target="main"><span class="booktitle">A Maske Presented at Ludlow Castle</span></a>&mdash;without any authorial attribution. Milton included a somewhat different version in his first collection, <a href="http://eebo.chadwyck.com/search/full_rec?SOURCE=pgimages.cfg&amp;ACTION=ByID&amp;ID=99896497&amp;FILE=../session/1371221445_2474&amp;SEARCHSCREEN=CITATIONS&amp;VID=135061&amp;PAGENO=1&amp;ZOOM=&amp;VIEWPORT=&amp;SEARCHCONFIG=var_spell.cfg&amp;DISPLAY=AUTHOR&amp;HIGHLIGHT_KEYWORD=" target="main"><span class="booktitle">Poems of Mr. John Milton</span></a> in 1645; it appears there as the last of his English poems with its own title page&mdash;<a href="http://www.dartmouth.edu/~milton/reading_room/comus/title_1645/text.shtml" target="main"><span class="booktitle">A Mask of the Same Author Presented at Ludlow-Castle, 1634</span></a>. It appeared again in the last edition of Milton's collected <span class="booktitle">Poems</span> in 1673. Besides the printed versions, two manuscripts also survive, one copy in the Trinity manuscript (1632) of early poems in Milton's own hand, and another in the Bridgewater manuscript, made in 1634 by another hand and kept by the Bridgewater family. This edition follows the 1645 printed edition and notes some variations from the two manuscripts.</p>
+	
+	
+<p class="next">Since 1984, with the publication of John Creaser's <span class="booktitle">Notes and Queries</span> article, "Milton's <span class="booktitle">Comus</span>: The Irrelevance of the Castlehaven Scandal" (republished in <a href="../bibliography/c-e/text.shtml#john_creaser" target="main"><span class="booktitle">Milton Quarterly</span> in 1987</a>), Milton scholars have argued about whether or not Milton's treatment of female chastity threatened by seduction and violent assault, was meant to respond in any way to the scandal of Mervin Touchet, second Earl of Castlehaven. Creaser argues that Milton scholars and readers had known about the scandal for centuries but never suggested its relevance to the composition, performance and publication of Milton's masque until <a href="../bibliography/f-h/text.shtml#bernard_falk" target="main">Bernard Falk</a> speculated on it in 1942 and <a href="../bibliography/a-b/text.shtml#barbara_breasted" target="main">Barbara Breasted</a> mounted a full-scale re-interpretation in light of the scandal in 1971. Though Creaser seems to argue that the scandal is utterly irrelevant to the masque's composition and should be irrelevant to our reading of both the masque and its reception, he pretty much gives the store away when he concludes,</p>
+<blockquote>
+Milton has, it seems, dealt most adroitly with an invidious issue. While it would have been tactless of him to have incorporated the scandal unmistakeably into his text, it would have been imprudent of him not to have provided against any irresponsible cynics determined to recall it. his affirmation that virtue inheres in the will comes with the authority of tradition and deflects any criticism which such malicious observers might wish to extend to Bridgewater and his family. (<a href="../bibliography/c-e/text.shtml#john_creaser" target="main">Creaser</a> 32)
+</blockquote>
+<p>That no one thought until 1942 of reading Milton's masque in light of one of the most notorious sex scandals of the 17th century is testimony, according to Creaser, to Milton's extraordinarily prudent adroitness in composing a piece that "tactfully short-circuit[ed]" any possibility of evoking the scandal and allowed the Bridgewater family to "adopt an unruffled air of being above suspicion" (31). In other words, the scandal could hardly be more relevant to how we read the piece today and how its aristocratic audience received it in 1634.</p>
+<p class="next">Mervin Touchet, second Earl of Castlehaven, was tried and executed in 1631 for sexual misconduct in his own private household. He was convicted of arranging the repeated rape of his wife and stepdaughter by his male servants, and of having homosexual relations with some of those servants. Given that Castlehaven's abused wife, Lady Ann Stanley, was the older sister of Francis Egerton, the Countess of Bridgewater, the scandal may well have embarrassed the Egertons. When Sir John Egerton became Lord President of Wales and chose to celebrate his appointment with a masque about the virtues of chastity, it seemed as if he was intent on distinguishing his family from his wife's "tainted relatives" (<a href="../bibliography/a-b/text.shtml#barbara_breasted" target="main">Barbara Breasted</a> 203). </p>
+	<p class="next">Of course Milton's own personal interest in the topic of chastity was already quite keen in 1634; we needn't assume that current events determined or even overtly shaped his theme, but this was a commissioned work, performed three years after Bridgewater's appointment and also after the notorious Castlehaven trial. What's more, Leah Marcus suggested in 1983 that yet another notorious instance of sexual assault in 1631 may have prompted Bridgewater to commission a masque precisely on the theme of chastity, not just to distinguish his reputation from the shadow of his wife's brother-in-law, but as strong champion of precisely this virtue in his roles of Lord President and exemplary father of sons and a daughter. On this issue of political contexts, Shullenberger comes to a reasonable conclusion: "The Lady also takes up the cry for justice of the serving girl Margery Evans, whose rape in Ludlow forest and subsequent legal neglect and victimization might have rendered her just one more anonymous and forgotten female victim, had not her persistent claims for legal redress provided the Earl of Bridgewater an early opportunity to exercise his judicial concern for victims of injustice in his own administrative district" (<a href="../bibliography/r-s/text.shtml#william_shullenberger" target="main">Shullenberger</a> 224).</p>
+	<p class="next">In her 1989 book, <a href="../bibliography/l-m/text.shtml#leah_marcus" target="main"><span class="booktitle">The Politics of Mirth: Jonson, Herrick, Milton, Marvell, and the Defense of Old Holiday Pastimes</span></a>, Marcus also makes a broader case for <span class="booktitle">A Mask</span>'s intervention into contemporary debates about state-approved and even state-sponsored revelry. And more recently, Shullenberger reminds us that "Michaelmas Eve, on which Comus was performed, was a traditional occasion for lawless revelry in the area" surrounding Ludlow Castle and the Welsh marches in general (<a href="../bibliography/r-s/text.shtml#william_shullenberger" target="main">Shullenberger</a> 112).</p>
+	<span class="author">Guilherme Ferraz and Thomas H. Luxon</span>
+
+
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+
+</body> 
+</html> 

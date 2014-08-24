@@ -1,0 +1,1 @@
+var annotList = {"bauk":"<span class=\"annotation\"><i>bauk.</i>  The word appears as \"bank\" on page 69 of <a href=\"http://wwwlib.umi.com/eebo/image/60223/39\" target=\"main\">1673</a>, and has been corrected from the <a href=\"http://wwwlib.umi.com/eebo/image/60223/5\" target=\"main\">Errata</a> facing page 1.</span>"}

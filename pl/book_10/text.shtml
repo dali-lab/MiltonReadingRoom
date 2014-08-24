@@ -1,0 +1,1671 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Paradise Lost: Book 10</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oranienbaum' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../../miltonNav.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+		
+	</head>
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+
+			<div id="headerPL">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span><br><span id="poemBanner">Paradise Lost</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="">Paradise Lost: Book 10</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="../intro/text.shtml">Introduction</a>
+					</li>
+					<li id="notLast">
+						<a href="../note/text.shtml">Front Matter</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_1/text.shtml">Book 1</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_2/text.shtml">Book 2</a>
+					</li >
+					<li id="notLast">
+						<a href="../book_3/text.shtml">Book 3</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_4/text.shtml">Book 4</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_5/text.shtml">Book 5</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_6/text.shtml">Book 6</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_7/text.shtml">Book 7</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_8/text.shtml">Book 8</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_9/text.shtml">Book 9</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_10/text.shtml"><b>Book 10</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../book_11/text.shtml">Book 11</a>
+					</li>
+					<li>
+						<a href="../book_12/text.shtml">Book 12</a>
+					</li>
+				</ul>
+			</div>
+			
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+<h2 class="msubhead">BOOK 10</h2>
+<h3 class="msubsubhead">THE ARGUMENT</h3>
+
+<div class="prose">
+<p class="margument">
+<span class="varspell" title="Man's">Mans</span> transgression known, the Guardian Angels forsake Paradise,
+and return up to Heaven to approve <span class="varspell" title="their">thir</span> vigilance, and are <span class="varspell" title="approved">approv'd</span>,
+God declaring that The entrance of <span class="reversem">Satan</span> could not be by them
+prevented. He sends his Son to judge the Transgressors, who descends
+and gives Sentence accordingly; then in pity <span class="varspell" title="clothes">cloaths</span> them both, and
+reascends. <span class="reversem">Sin</span> and <span class="reversem">Death</span> sitting till then at the Gates of Hell, by
+wondrous <span class="varspell" title="sympathy">sympathie</span> feeling the success of <span class="reversem">Satan</span> in this <a href="" id="newworld" class="annotBtn">new World</a>, and
+the sin by Man there committed, resolve to sit no longer <span class="varspell" title="confined">confin'd</span> in
+Hell, but to follow <span class="reversem">Satan</span> <span class="varspell" title="their">thir</span> Sire up to the place of Man: To make
+the way easier from Hell to this World to and fro, they pave a broad
+Highway or Bridge over <span class="reversem">Chaos</span>, according to the Track that <span class="reversem">Satan</span>
+first made; then preparing for Earth, they meet him proud of his
+success returning to Hell; <span class="varspell" title="their">thir</span> mutual gratulation. <span class="reversem">Satan</span> arrives at
+<span class="reversem">Pandemonium</span>, in full of assembly relates with boasting his success
+against Man; instead of applause is entertained with a general hiss by
+all his audience, <span class="varspell" title="transformed">transform'd</span> with himself also suddenly into
+Serpents, according to his doom <span class="varspell" title="given">giv'n</span> in Paradise; then deluded with a
+<span class="varspell" title="show">shew</span> of the forbidden Tree springing up before them, they greedily
+reaching to take of the Fruit, chew dust and bitter ashes. The
+proceedings of <span class="reversem">Sin</span> and <span class="reversem">Death</span>; God <span class="varspell" title="foretells">foretels</span> the final Victory of his
+Son over them, and the renewing of all things; but for the present
+commands his Angels to make several alterations in the Heavens and
+Elements. <span class="reversem">Adam</span> more and more perceiving his <span class="varspell" title="fallen">fall'n</span> condition heavily
+<span class="varspell" title="bewails">bewailes</span>, rejects the condolement of <span class="reversem">Eve</span>; she persists and at length
+appeases him: then to evade the Curse likely to fall on <span class="varspell" title="their">thir</span> <span class="varspell" title="Offspring">Ofspring</span>,
+proposes to <span class="reversem">Adam</span> <a href="" id="violentwayes" class="annotBtn">violent <span class="varspell" title="ways">wayes</span></a> which he approves not, but
+conceiving better hope, puts her in mind of the <a name="covenant1">late Promise</a> made
+them, that her Seed should be <span class="varspell" title="revenged">reveng'd</span> on the Serpent, and exhorts her
+with him to seek Peace of the offended Deity, by repentance and
+supplication.</p>
+</div>
+
+
+<div class="verse_epic">
+<p class="first">
+<span class="varspell" title="Meanwhile"><span class="minitial">M</span>Eanwhile</span> the <span class="varspell" title="heinous">hainous</span> and <span class="varspell" title="despiteful">despightfull</span> act<br />
+Of <span class="mi">Satan</span> done in Paradise, and how<br />
+<span class="varspell" title="He">Hee</span> in the Serpent, had perverted <span class="mi">Eve</span>,<br />
+Her Husband <span class="varspell" title="she">shee</span>, to taste the <span class="varspell" title="fatal">fatall</span> fruit,<br />
+
+Was known in <span class="varspell" title="Heaven">Heav'n</span>; for what can <span class="varspell" title="escape">scape</span> the Eye<span class="line" id="line5"> [ 5 ]</span><br />
+Of God All-seeing, or <span class="varspell" title="deceive">deceave</span> his Heart<br />
+Omniscient, who in all things wise and just,<br />
+<span class="varspell" title="Hindered">Hinder'd</span> not <span class="mi">Satan</span> to attempt the <span class="varspell" title="mind">minde</span><br />
+Of Man, with strength <a href="" id="entire" class="annotBtn">entire</a>, and free will <span class="varspell" title="armed">arm'd</span>,<br />
+
+<a href="" id="complete" class="annotBtn">Complete</a> to have <span class="varspell" title="discovered">discover'd</span> and <span class="varspell" title="repulsed">repulst</span><span class="line" id="line10"> [ 10 ]</span><br />
+Whatever wiles of Foe or seeming Friend.<br />
+For still they knew, and ought to have still <span class="varspell" title="remembered">remember'd</span><br />
+The high Injunction not to taste that Fruit,<br />
+Whoever tempted; which they not obeying,<br />
+
+<span class="varspell" title="Incurred">Incurr'd</span>, what could they less, the <span class="varspell" title="penalty">penaltie</span>,<span class="line" id="line15"> [ 15 ]</span><br />
+And manifold in sin, <span class="varspell" title="deserved">deserv'd</span> to fall.<br />
+Up into <span class="varspell" title="Heaven">Heav'n</span> from Paradise in haste<br />
+<span class="varspell" title="The">Th'</span> Angelic Guards ascended, mute and sad<br />
+For Man, for of his state <a href="" id="line19" class="annotBtn">by this</a> they knew,<br />
+
+Much <span class="varspell" title="wondering">wondring</span> how the <span class="varspell" title="subtle">suttle</span> Fiend had  <span class="varspell" title="stolen">stoln</span><span class="line" id="line20"> [ 20 ]</span><br />
+<a href="" id="unseen" class="annotBtn">Entrance unseen</a>. Soon as <span class="varspell" title="the">th'</span> unwelcome news<br />
+From Earth <span class="varspell" title="arrived">arriv'd</span> at Heaven Gate, <span class="varspell" title="displeased">displeas'd</span><br />
+All were who heard, dim <a name="angeltears">sadness</a> did not spare<br />
+That time <a href="" id="visages" class="annotBtn">Celestial visages</a>, yet <span class="varspell" title="mixed">mixt</span><br />
+
+With <span class="varspell" title="pity">pitie</span>, <a href="" id="bliss" class="annotBtn">violated not <span class="varspell" title="their">thir</span> bliss</a>.<span class="line" id="line25"> [ 25 ]</span><br />
+About the new-<span class="varspell" title="arrived">arriv'd</span>, in multitudes<br />
+<span class="varspell" title="The">Th'</span> <a href="" id="ethereal" class="annotBtn">ethereal People</a> ran, to hear and know<br />
+How all befell: they towards the Throne <span class="varspell" title="Supreme">Supream</span><br />
+Accountable made haste to make appear<br />
+
+With righteous plea, <span class="varspell" title="their">thir</span> utmost vigilance,<span class="line" id="line30"> [ 30 ]</span><br />
+And easily <a href="" id="approvd" class="annotBtn"><span class="varspell" title="approved">approv'd</span></a>; when the most High<br />
+Eternal Father from his secret Cloud,<br />
+Amidst <a href="" id="rev4:5" class="annotBtn">in Thunder</a> <span class="varspell" title="uttered">utter'd</span> thus his voice.
+</p>
+<p>
+<span class="varspell" title="Assembled">Assembl'd</span> Angels, and ye <a href="" id="powers" class="annotBtn">Powers</a> <span class="varspell" title="returned">return'd</span><br />
+
+From unsuccessful charge, be not <span class="varspell" title="dismayed">dismaid</span>,<span class="line" id="line35"> [ 35 ]</span><br />
+Nor <span class="varspell" title="troubled">troubl'd</span> at these tidings from the Earth,<br />
+Which your sincerest care could not prevent,<br />
+Foretold so lately what would come to pass,<br />
+When first this Tempter <span class="varspell" title="crossed">cross'd</span> the Gulf from Hell.<br />
+
+I told ye then he should prevail and <a href="" id="speed" class="annotBtn">speed</a><span class="line" id="line40"> [ 40 ]</span><br />
+On his bad Errand, Man should be <span class="varspell" title="seduced">seduc't</span><br />
+And <span class="varspell" title="flattered">flatter'd</span> out of all, believing lies<br />
+Against his Maker; no Decree of mine<br />
+Concurring to necessitate his Fall,<br />
+
+Or touch with <a href="" id="impulse" class="annotBtn">lightest moment of impulse</a><span class="line" id="line45"> [ 45 ]</span><br />
+<a href="" id="free" class="annotBtn">His free Will</a>, to her own inclining left<br />
+In <span class="varspell" title="even">eevn</span> scale. But <span class="varspell" title="fallen">fall'n</span> he is, and now<br />
+What rests but that the mortal Sentence pass<br />
+On his transgression Death <span class="varspell" title="denounced">denounc't</span> that day,<br />
+
+Which <a href="" id="vain" class="annotBtn">he presumes already vain</a> and void,<span class="line" id="line50"> [ 50 ]</span><br />
+Because not yet inflicted, as he <span class="varspell" title="feared">fear'd</span>,<br />
+By some immediate <span class="varspell" title="stroke">stroak</span>; but soon shall find<br />
+Forbearance no <a href="" id="acquittance" class="annotBtn">acquittance</a> ere day end.<br />
+Justice shall not return as <a href="" id="scorned" class="annotBtn"><span class="varspell" title="bounty">bountie</span> <span class="varspell" title="scorned">scorn'd</span></a>.<br />
+
+But whom send I to judge them? whom but thee<span class="line" id="line55"> [ 55 ]</span><br />
+<a href="" id="vice" class="annotBtn">Vicegerent</a> Son, to thee I have <span class="varspell" title="transferred">transferr'd</span><br />
+All Judgement whether in <span class="varspell" title="Heaven">Heav'n</span>, or Earth, or Hell.<br />
+<span class="varspell" title="Easy">Easie</span> it <a href="" id="may" class="annotBtn">might</a> be seen that I intend<br />
+<span class="varspell" title="Mercy">Mercie</span> <span class="varspell" title="colleague">collegue</span> with Justice, sending thee<br />
+
+<span class="varspell" title="Man's">Mans</span> Friend his Mediator, his <span class="varspell" title="designed">design'd</span><span class="line" id="line60"> [ 60 ]</span><br /> 
+Both Ransom and Redeemer <a href="" id="voluntarie" class="annotBtn"><span class="varspell" title="voluntary">voluntarie</span></a>,<br />
+And <span class="varspell" title="destined">destin'd</span> Man himself to judge Man <span class="varspell" title="fallen">fall'n</span>.
+</p>
+<p>
+So spake the Father, and <span class="varspell" title="unfolding">unfoulding</span> bright<br />
+Toward the right hand his <span class="varspell" title="Glory">Glorie</span>, on the Son<br />
+
+<span class="varspell" title="Blazed">Blaz'd</span> forth unclouded <span class="varspell" title="Deity">Deitie</span>; he full<span class="line" id="line65"> [ 65 ]</span><br />
+Resplendent all his Father manifest<br />
+<span class="varspell" title="Expressed">Express'd</span>, and thus divinely <span class="varspell" title="answered">answer'd</span> <span class="varspell" title="mild">milde</span>.
+
+</p>
+<p>
+Father Eternal, thine is to decree,<br />
+Mine both in <span class="varspell" title="Heaven">Heav'n</span> and Earth to do thy will<br />
+
+<span class="varspell" title="Supreme">Supream</span>, that thou in <span class="varspell" title="me">mee</span> thy Son <span class="varspell" title="beloved">belov'd</span><span class="line" id="line70"> [ 70 ]</span><br />
+<span class="varspell" title="Mayest">Mayst</span> ever rest <a href="" id="pleased" class="annotBtn">well <span class="varspell" title="pleased">pleas'd</span></a>. I go to judge<br />
+On Earth these thy transgressors, but thou <span class="varspell" title="knowest">knowst</span>,<br />
+Whoever <span class="varspell" title="judged">judg'd</span>, the worst on <span class="varspell" title="me">mee</span> must light,<br />
+When time shall be, for <a href="" id="undertook" class="annotBtn">so I undertook</a><br />
+
+Before thee; and not repenting, this <span class="varspell" title="obtain">obtaine</span><span class="line" id="line75"> [ 75 ]</span><br />
+Of right, that I may mitigate <span class="varspell" title="their">thir</span> doom<br />
+On me <a href="" id="derived" class="annotBtn"><span class="varspell" title="derived">deriv'd</span></a>, yet I shall temper so<br />
+<a href="" id="portia" class="annotBtn">Justice with <span class="varspell" title="Mercy">Mercie</span></a>, as may illustrate most<br />
+Them fully satisfied, and thee appease.<br />
+
+Attendance none shall need, nor Train, where none<span class="line" id="line80"> [ 80 ]</span><br />
+Are to behold the Judgement, but the <span class="varspell" title="judged">judg'd</span>,<br />
+Those two; <a href="" id="third" class="annotBtn">the third</a> best absent is <span class="varspell" title="condemned">condemn'd</span>,<br />
+<a href="" id="convict" class="annotBtn">Convict</a> by flight, and Rebel to all Law<br />
+Conviction to <a href="" id="serpent" class="annotBtn">the Serpent</a> none belongs.
+</p>
+<p>
+Thus saying, from his radiant Seat he rose<span class="line" id="line85"> [ 85 ]</span><br />
+Of high collateral <span class="varspell" title="glory">glorie</span>: him Thrones and Powers,<br />
+Princedoms, and Dominations ministrant<br />
+Accompanied to Heaven Gate, from whence<br />
+<span class="mi">Eden</span> and all the Coast in prospect lay.<br />
+
+Down he descended <a href="" id="desstrait" class="annotBtn"><span class="varspell" title="straight">strait</span></a>; the speed of Gods<span class="line" id="line90"> [ 90 ]</span><br />
+Time counts not, though with swiftest minutes <span class="varspell" title="winged">wing'd</span>.<br />
+Now was the Sun in Western <a href="" id="cadence" class="annotBtn">cadence</a> low<br />
+From Noon, and gentle <span class="varspell" title="Airs">Aires</span> due at <span class="varspell" title="their">thir</span> hour<br />
+To fan the Earth now <span class="varspell" title="waked">wak'd</span>, and usher in<br />
+
+The <a href="" id="line97" class="annotBtn"><span class="varspell" title="Evening">Eevning</span> <span class="varspell" title="cool">coole</span></a>, when he from <span class="varspell" title="wrath">wrauth</span> more <span class="varspell" title="cool">coole</span><span class="line" id="line95"> [ 95 ]</span><br />
+Came the mild Judge and Intercessor both<br />
+To sentence Man: the <a href="" id="voice" class="annotBtn">voice of God</a> they heard<br />
+Now walking in the Garden, by soft <span class="varspell" title="winds">windes</span><br />
+Brought to <span class="varspell" title="their">thir</span> Ears, while day <span class="varspell" title="declined">declin'd</span>, they heard,<br />
+
+And from his presence hid themselves among<span class="line" id="line100"> [ 100 ]</span><br />
+The thickest Trees, both Man and Wife, till God<br />
+Approaching, thus to <span class="mi">Adam</span> <span class="varspell" title="called">call'd</span> aloud.
+
+</p>
+<p>
+Where art thou <span class="mi">Adam</span>, <a href="" id="wont" class="annotBtn">wont</a> with joy to meet<br />
+My coming seen far off? <a href="" id="miss" class="annotBtn">I miss thee here</a>,<br />
+
+Not <span class="varspell" title="pleased">pleas'd</span>, thus <span class="varspell" title="entertained">entertaind</span> with solitude,<span class="line" id="line105"> [ 105 ]</span><br />
+Where obvious <span class="varspell" title="duty">dutie</span> erewhile <span class="varspell" title="appeared">appear'd</span> <span class="varspell" title="unsought">unsaught</span>:<br />
+Or come I less conspicuous, or what change<br />
+Absents thee, or what chance detains? Come forth.<br />
+He came, and with him <span class="mi">Eve</span>, more <span class="varspell" title="loath">loth</span>, though first<br />
+
+To offend, <span class="varspell" title="discountenanced">discount'nanc't</span> both, and <span class="varspell" title="discomposed">discompos'd</span>;<span class="line" id="line110"> [ 110 ]</span><br />
+Love was not in <span class="varspell" title="their">thir</span> looks, either to God<br />
+Or to each other, but apparent guilt,<br />
+And shame, and perturbation, and <span class="varspell" title="despair">despaire</span>,<br />
+Anger, and <span class="varspell" title="obstinacy">obstinacie</span>, and hate, and guile.<br />
+
+Whence <span class="mi">Adam</span> <span class="varspell" title="faltering">faultring</span> long, thus <span class="varspell" title="answered">answer'd</span> brief.<span class="line" id="line115"> [ 115 ]</span>
+</p>
+<p>
+I heard thee in the Garden, and of thy voice<br />
+<span class="varspell" title="Afraid">Affraid</span>, being naked, hid my self. To whom<br />
+The gracious Judge without <a href="" id="revile" class="annotBtn">revile</a> <span class="varspell" title="replied">repli'd</span>.
+</p>
+<p>
+My voice thou oft hast heard, and hast not <span class="varspell" title="feared">fear'd</span>,<br />
+
+But still <span class="varspell" title="rejoiced">rejoyc't</span>, how is it now become<span class="line" id="line120"> [ 120 ]</span><br />
+So dreadful to thee? that thou art naked, who<br />
+Hath told thee? hast thou eaten of the Tree<br />
+Whereof <a href="" id="theecharge" class="annotBtn">I gave thee charge</a> thou <span class="varspell" title="shouldest">shouldst</span> not eat?
+</p>
+<p>
+To whom thus <span class="mi">Adam</span> sore beset <span class="varspell" title="replied">repli'd</span>.<br />
+
+O <span class="varspell" title="Heaven">Heav'n</span>! in evil <a href="" id="strait" class="annotBtn">strait</a> this day I stand<span class="line" id="line125"> [ 125 ]</span><br />
+Before my Judge, either to <span class="varspell" title="undergo">undergoe</span><br />
+My self the total Crime, or to accuse<br />
+My <a href="" id="other" class="annotBtn">other self</a>, the partner of my life;<br />
+Whose failing, while her Faith to me <span class="varspell" title="remains">remaines</span>,<br />
+
+I should conceal, and not expose to blame<span class="line" id="line130"> [ 130 ]</span><br />
+By my complaint; but strict <a href="" id="plea" class="annotBtn"><span class="varspell" title="necessity">necessitie</span></a><br />
+Subdues me, and calamitous constraint<br />
+<a name="sharepunish"><span class="varspell" title="Lest">Least</span> on my head both sin and punishment</a>,<br />
+However insupportable, be all<br />
+
+<span class="varspell" title="Devolved">Devolv'd</span>; though should I hold my peace, yet thou<span class="line" id="line135"> [ 135 ]</span><br />
+<span class="varspell" title="Wouldest">Wouldst</span> easily detect what I <span class="varspell" title="conceal">conceale</span>.<br />
+This Woman whom thou <span class="varspell" title="madest">mad'st</span> to be my help,<br />
+And <span class="varspell" title="gavest">gav'st</span> me as thy <span class="varspell" title="perfect">perfet</span> gift, so good,<br />
+So fit, so acceptable, so <a href="" id="divine" class="annotBtn">Divine</a>,<br />
+
+That from her hand I could suspect no ill,<span class="line" id="line140"> [ 140 ]</span><br />
+And what she did, whatever in it self,<br />
+Her doing <a href="" id="justifie" class="annotBtn"><span class="varspell" title="seemed">seem'd</span> to <span class="varspell" title="justify">justifie</span></a> the deed;<br />
+<span class="varspell" title="She">Shee</span> gave me of the Tree, and I did <span class="varspell" title="eat">eate</span>.
+
+</p>
+<p>
+To whom the <span class="varspell" title="sovereign">sovran</span> Presence thus <span class="varspell" title="replied">repli'd</span>.<br />
+
+Was <span class="varspell" title="she">shee</span> <a href="" id="line145" class="annotBtn">thy God</a>, that her thou <span class="varspell" title="diddest">didst</span> obey<span class="line" id="line145"> [ 145 ]</span><br />
+Before his voice, or was <span class="varspell" title="she">shee</span> made thy guide,<br />
+Superior, or but equal, that to her<br />
+Thou <span class="varspell" title="diddest">did'st</span> <span class="varspell" title="resign">resigne</span> thy Manhood, and the Place<br />
+Wherein God set thee above her made of thee,<br />
+
+And for thee, whose <a href="" id="farr" class="annotBtn">perfection <span class="varspell" title="far">farr</span> <span class="varspell" title="excelled">excell'd</span></a><span class="line" id="line150"> [ 150 ]</span><br />
+Hers in all real <span class="varspell" title="dignity">dignitie</span>: <span class="varspell" title="Adorned">Adornd</span><br />
+She was indeed, and lovely to attract<br />
+Thy Love, not thy Subjection, and her Gifts<br />
+Were such as under Government well <span class="varspell" title="seemed">seem'd</span>,<br />
+
+Unseemly to <span class="varspell" title="bear">beare</span> rule, which was thy <a href="" id="part" class="annotBtn">part</a><span class="line" id="line155"> [ 155 ]</span><br />
+<a href="" id="part" class="annotBtn">And person</a>, hadst thou <a href="" id="self" class="annotBtn">known thy self</a> aright.
+</p>
+<p>
+So having said, he thus to <span class="mi">Eve</span> in few:<br />
+<a href="" id="say" class="annotBtn">Say Woman</a>, what is this which thou hast done?
+</p>
+<p>
+To whom sad <span class="mi">Eve</span> with shame nigh <span class="varspell" title="overwhelmed">overwhelm'd</span>,<br />
+
+Confessing soon, yet not before her Judge<span class="line" id="line160"> [ 160 ]</span><br />
+Bold or loquacious, thus <span class="varspell" title="abashed">abasht</span> <span class="varspell" title="replied">repli'd</span>.
+</p>
+<p>
+The Serpent me <span class="varspell" title="beguiled">beguil'd</span> and I did <span class="varspell" title="eat">eate</span>.
+</p>
+<p>
+Which when the Lord God heard, without delay<br />
+To Judgement he proceeded on <span class="varspell" title="the">th'</span> <span class="varspell" title="accused">accus'd</span><br />
+
+Serpent though brute, unable to <span class="varspell" title="transfer">transferre</span><span class="line" id="line165"> [ 165 ]</span><br />
+The Guilt on him who made him instrument<br />
+Of <a href="" id="line167" class="annotBtn">mischief</a>, and polluted from the end<br />
+Of his Creation; justly then <span class="varspell" title="accursed">accurst</span>,<br />
+As vitiated in Nature: more to know<br />
+
+<span class="varspell" title="Concerned">Concern'd</span> not Man (since he no further knew)<span class="line" id="line170"> [ 170 ]</span><br />
+Nor <span class="varspell" title="altered">alter'd</span> his offence; yet God at last<br />
+To Satan first in sin his doom <span class="varspell" title="applied">apply'd</span><br />
+Though <a href="" id="mysterious" class="annotBtn">in mysterious terms</a>, <span class="varspell" title="judged">judg'd</span> as then best:<br />
+And on the Serpent thus his curse let fall.
+
+
+</p>
+<p>
+Because thou hast done this, thou art <span class="varspell" title="accursed">accurst</span><span class="line" id="line175"> [ 175 ]</span><br />
+Above all Cattle, each Beast of the Field;<br />
+Upon thy Belly groveling thou shalt <span class="varspell" title="go">goe</span>,<br />
+And dust shalt eat all the <span class="varspell" title="days">dayes</span> of thy Life.<br />
+<a name="enmity">Between</a> Thee and the Woman I will put<br />
+
+<span class="varspell" title="Enmity">Enmitie</span>, and between thine and her Seed;<span class="line" id="line180"> [ 180 ]</span><br />
+Her Seed shall bruise thy head, thou bruise his heel.
+</p>
+<p>
+So spake this Oracle, then <span class="varspell" title="verified">verifi'd</span><br />
+When <span class="mi">Jesus</span> son of <span class="mi">Mary</span> second <span class="mi">Eve</span>,<br />
+Saw <span class="mi">Satan</span> fall <a href="" id="like" class="annotBtn">like Lightning</a> down from <span class="varspell" title="Heaven">Heav'n</span>,<br />
+
+<a href="" id="airprince" class="annotBtn">Prince of the <span class="varspell" title="Air">Aire</span></a>; <a name="prince">then</a> rising from his Grave<span class="line" id="line185"> [ 185 ]</span><br />
+<span class="varspell" title="Spoiled">Spoild</span> <a href="" id="principalities" class="annotBtn">Principalities and Powers</a>, <span class="varspell" title="triumphed">triumpht</span><br />
+In open <span class="varspell" title="show">shew</span>, and with <span class="varspell" title="ascension">ascention</span> bright<br />
+<a href="" id="captivity" class="annotBtn">Captivity led captive</a> through the <span class="varspell" title="Air">Aire</span>,<br />
+The Realm it self of <span class="mi">Satan</span> long <span class="varspell" title="usurped">usurpt</span>,<br />
+
+Whom he shall tread at last under our feet;<span class="line" id="line190"> [ 190 ]</span><br />
+<span class="varspell" title="Even">Eevn</span> <span class="varspell" title="he">hee</span> who now foretold his <a href="" id="fatal" class="annotBtn">fatal bruise</a>,<br />
+And to the Woman thus his Sentence <span class="varspell" title="turned">turn'd</span>.
+</p>
+<p>
+Thy sorrow I will greatly <span class="varspell" title="multiply">multiplie</span><br />
+By thy Conception; Children thou shalt bring<br />
+
+In sorrow forth, and to thy <span class="varspell" title="Husband's">Husbands</span> will<span class="line" id="line195"> [ 195 ]</span><br />
+<a href="" id="submit" class="annotBtn">Thine shall submit</a>, <span class="varspell" title="he">hee</span> over thee shall rule.
+</p>
+<p>
+On <span class="mi">Adam</span> last thus judgement he <span class="varspell" title="pronounced">pronounc'd</span>.<br />
+Because thou hast <span class="varspell" title="hearkened">heark'nd</span> to the voice of thy Wife,<br />
+And eaten of the Tree concerning which<br />
+
+I <span class="varspell" title="charged">charg'd</span> thee, saying: Thou shalt not <span class="varspell" title="eat">eate</span> thereof,<span class="line" id="line200"> [ 200 ]</span><br />
+<span class="varspell" title="Cursed">Curs'd</span> is the ground for thy sake, thou in sorrow<br />
+Shalt <span class="varspell" title="eat">eate</span> thereof all the days of thy Life;<br />
+Thorns also and Thistles it shall bring thee forth<br />
+Unbid, and thou shalt <span class="varspell" title="eat">eate</span> <span class="varspell" title="the">th'</span> Herb of <span class="varspell" title="the">th'</span> Field,<br />
+
+In the sweat of thy Face shalt thou eat Bread,<span class="line" id="line205"> [ 205 ]</span><br />
+Till thou return unto the ground, for thou<br />
+Out of the ground wast taken, know thy Birth,<br />
+For dust thou art, and shalt <a href="" id="line208" class="annotBtn">to dust <span class="varspell" title="return">returne</span></a>.
+</p>
+<p>
+So <span class="varspell" title="judged">judg'd</span> he Man, both Judge and <span class="varspell" title="Savior">Saviour</span> sent,<br />
+
+And <span class="varspell" title="the">th'</span> instant stroke of Death <span class="varspell" title="denounced">denounc't</span> that day<span class="line" id="line210"> [ 210 ]</span><br />
+<span class="varspell" title="Removed">Remov'd</span> <span class="varspell" title="far">farr</span> off; then <span class="varspell" title="pitying">pittying</span> how they stood<br />
+Before him naked to the <span class="varspell" title="air">aire</span>, that now<br />
+<a href="" id="suffer" class="annotBtn">Must suffer change</a>, <span class="varspell" title="disdained">disdain'd</span> not to begin<br />
+Thenceforth the form of servant to assume,<br />
+
+As <a href="" id="washd" class="annotBtn">when he <span class="varspell" title="washed">wash'd</span></a> his <span class="varspell" title="servants">servants</span> feet so now<span class="line" id="line215"> [ 215 ]</span><br />
+As Father of his <span class="varspell" title="Family">Familie</span> he clad<br />
+<span class="varspell" title="Their">Thir</span> nakedness with Skins of Beasts, <a href="" id="slain" class="annotBtn">or slain</a>,<br />
+Or as the Snake with youthful <span class="varspell" title="Coat">Coate</span> repaid;<br />
+And thought not much to <span class="varspell" title="clothe">cloath</span> his Enemies:<br />
+
+Nor <span class="varspell" title="he">hee</span> <span class="varspell" title="their">thir</span> outward <span class="varspell" title="only">onely</span> with the Skins<span class="line" id="line220"> [ 220 ]</span><br />
+Of Beasts, but inward nakedness, much more<br />
+<a href="" id="opprobrious" class="annotBtn">Opprobrious</a>, with his <a href="" id="robe" class="annotBtn">Robe of righteousness</a>,<br />
+<span class="varspell" title="Arraying">Araying</span> <span class="varspell" title="covered">cover'd</span> from his <span class="varspell" title="Father's">Fathers</span> sight.<br />
+To him with swift ascent he up <span class="varspell" title="returned">returnd</span>,<br />
+
+Into his blissful bosom <span class="varspell" title="reassumed">reassum'd</span><span class="line" id="line225"> [ 225 ]</span><br />
+In glory as of old, to him <span class="varspell" title="appeased">appeas'd</span><br />
+All, though all-knowing, what had <span class="varspell" title="passed">past</span> with Man<br />
+Recounted, mixing intercession sweet.<br />
+Meanwhile ere thus was <span class="varspell" title="sinned">sin'd</span> and <span class="varspell" title="judged">judg'd</span> on Earth,<br />
+
+Within the Gates of Hell <span class="varspell" title="sat">sate</span> Sin and Death,<span class="line" id="line230"> [ 230 ]</span><br />
+<a href="" id="counterview" class="annotBtn">In counterview</a> within the Gates, that now<br />
+Stood open wide, belching outrageous flame<br />
+<span class="varspell" title="Far">Farr</span> into <span class="mi">Chaos</span>, since the Fiend <span class="varspell" title="passed">pass'd</span> through,<br />
+<a href="" id="sinopening" class="annotBtn">Sin opening</a>, who thus now to Death began.
+
+
+
+</p>
+<p>
+O Son, why sit we here each other viewing<span class="line" id="line235"> [ 235 ]</span><br />
+<span class="varspell" title="Idly">Idlely</span>, while <span class="mi">Satan</span> our great Author thrives<br />
+In other Worlds, and happier Seat provides<br />
+For us his <span class="varspell" title="offspring">ofspring</span> <span class="varspell" title="dear">deare</span>? It cannot be<br />
+But that success attends him; if mishap,<br />
+
+Ere this he had <span class="varspell" title="returned">return'd</span>, with fury <span class="varspell" title="driven">driv'n</span><span class="line" id="line240"> [ 240 ]</span><br />
+By his Avengers, since no place like this<br />
+Can fit his punishment, or their revenge.<br />
+Methinks I feel new strength within me rise,<br />
+<a href="" id="wingsgrow" class="annotBtn">Wings growing</a>, and Dominion <span class="varspell" title="given">giv'n</span> me large<br />
+
+Beyond this Deep; whatever <span class="varspell" title="draws">drawes</span> me on,<span class="line" id="line245"> [ 245 ]</span><br />
+<a href="" id="or" class="annotBtn">Or</a> <span class="varspell" title="sympathy">sympathie</span>, or <span class="varspell" title="some">som</span> <a href="" id="connatural" class="annotBtn">connatural force</a><br />
+Powerful at greatest distance to unite<br />
+With secret amity things of like <span class="varspell" title="kind">kinde</span><br />
+By secretest conveyance. Thou my Shade<br />
+
+Inseparable <a href="" id="mustwith" class="annotBtn">must with</a> <span class="varspell" title="me">mee</span> along:<span class="line" id="line250"> [ 250 ]</span><br />
+For Death from Sin no power can separate.<br />
+But <span class="varspell" title="lest">least</span> the <span class="varspell" title="difficulty">difficultie</span> of passing back<br />
+Stay his return perhaps over this <span class="varspell" title="Gulf">Gulfe</span><br />
+Impassable, Impervious, let us try<br />
+
+<span class="varspell" title="Adventurous">Adventrous</span> work, yet to thy power and mine<span class="line" id="line255"> [ 255 ]</span><br />
+Not unagreeable, to found a path<br />
+Over this <a href="" id="main" class="annotBtn"><span class="varspell" title="Main">Maine</span></a> from Hell to that new World<br />
+Where <span class="mi">Satan</span> now <span class="varspell" title="prevails">prevailes</span>, a Monument<br />
+Of <a href="" id="merit" class="annotBtn">merit high</a> to all <span class="varspell" title="the">th'</span> infernal Host,<br />
+
+Easing <span class="varspell" title="their">thir</span> passage hence, for <a href="" id="intercourse" class="annotBtn">intercourse</a>,<span class="line" id="line260"> [ 260 ]</span><br />
+Or <a href="" id="transmigration" class="annotBtn">transmigration</a>, as <span class="varspell" title="their">thir</span> lot shall lead.<br />
+Nor can I miss the way, so strongly drawn<br />
+By this new felt attraction and <a name="instinct">instinct</a>.
+
+</p>
+<p>
+Whom thus the meager Shadow <span class="varspell" title="answered">answerd</span> soon.<br />
+
+<span class="varspell" title="Go">Goe</span> whither Fate and inclination strong<span class="line" id="line265"> [ 265 ]</span><br />
+Leads thee, I shall not lag <span class="varspell" title="behind">behinde</span>, nor <span class="varspell" title="err">erre</span><br />
+The way, thou leading, such a <span class="varspell" title="scent">sent</span> I draw<br />
+Of carnage, prey innumerable, and taste<br />
+The <span class="varspell" title="savor">savour</span> of Death from all things there that live:<br />
+
+Nor shall I to the work thou enterprisest<span class="line" id="line270"> [ 270 ]</span><br />
+Be wanting, but afford thee equal aid,
+</p>
+<p>
+So saying, with delight he <span class="varspell" title="sniffed">snuff'd</span> the smell<br />
+Of mortal change on Earth. As when a flock<br />
+Of ravenous Fowl, though many a League remote,<br />
+
+<a href="" id="against" class="annotBtn">Against</a> the day of <span class="varspell" title="Battle">Battel</span>, to a Field,<span class="line" id="line275"> [ 275 ]</span><br />
+Where Armies lie <span class="varspell" title="encamped">encampt</span>, come flying, <span class="varspell" title="lured">lur'd</span><br />
+With <span class="varspell" title="scent">sent</span> of living Carcasses <span class="varspell" title="designed">design'd</span><br />
+For death, the following day, in <span class="varspell" title="bloody">bloodie</span> fight.<br />
+So <span class="varspell" title="scented">sented</span> the grim <a href="" id="feature" class="annotBtn">Feature</a>, and <span class="varspell" title="upturned">upturn'd</span><br />
+
+His Nostril wide into the <span class="varspell" title="murky">murkie</span> Air,<span class="line" id="line280"> [ 280 ]</span><br />
+<a href="" id="sagacious" class="annotBtn">Sagacious</a> of his Quarry from so <span class="varspell" title="far">farr</span>.<br />
+Then Both from out Hell Gates into the waste<br />
+Wide <span class="varspell" title="Anarchy">Anarchie</span> of <span class="mi">Chaos</span> damp and dark<br />
+Flew divers, and with Power (<span class="varspell" title="their">thir</span> Power was great)<br />
+
+<a href="" id="line285" class="annotBtn">Hovering upon the Waters</a>; what they met<span class="line" id="line285"> [ 285 ]</span><br />
+Solid or <span class="varspell" title="slimy">slimie</span>, as in raging Sea<br />
+<span class="varspell" title="Tossed">Tost</span> up and down, together crowded drove<br />
+From each side <a href="" id="shoaling" class="annotBtn">shoaling</a> towards the mouth of Hell.<br />
+As when two Polar Winds blowing adverse<br />
+
+Upon the <a href="" id="cronian" class="annotBtn"><span class="mi">Cronian</span> Sea</a>, together drive<span class="line" id="line290"> [ 290 ]</span><br />
+Mountains of Ice, that stop <a href="" id="imagind" class="annotBtn"><span class="varspell" title="the">th'</span> <span class="varspell" title="imagined">imagin'd</span> way</a><br />
+Beyond <a href="" id="petsora" class="annotBtn"><span class="mi">Petsora</span></a> Eastward, to the rich<br />
+<a href="" id="cathay" class="annotBtn"><span class="mi">Cathaian</span></a> Coast. The <a name="bridgetohell">aggregated</a> <span class="varspell" title="Soil">Soyle</span><br />
+Death with his <a href="" id="petros" class="annotBtn">Mace petrific</a>, <a href="" id="cold" class="annotBtn">cold and dry</a>,<br />
+
+As with a Trident smote, and <span class="varspell" title="fixed">fix't</span> as firm<span class="line" id="line295"> [ 295 ]</span><br />
+As <a href="" id="delos" class="annotBtn"><span class="mi">Delos</span> floating</a> once; the rest his look<br />
+Bound with <a href="" id="rigor" class="annotBtn"><span class="mi">Gorgonian</span> rigor</a> not to move,<br />
+And with <a href="" id="slime" class="annotBtn"><span class="mi">Asphaltic</span> slime</a>; broad as the Gate,<br />
+Deep to the Roots of Hell the <span class="varspell" title="gathered">gather'd</span> beach<br />
+
+They <span class="varspell" title="fastened">fasten'd</span>, and the <a href="" id="mole" class="annotBtn">Mole</a> immense <span class="varspell" title="wrought">wraught</span> on<span class="line" id="line300"> [ 300 ]</span><br />
+Over the foaming deep high <span class="varspell" title="Arched">Archt</span>, a Bridge<br />
+Of length prodigious <span class="varspell" title="joining">joyning</span> to the <a href="" id="wall" class="annotBtn">Wall</a><br />
+Immovable of this now <a href="" id="fences" class="annotBtn">fenceless</a> world<br />
+Forfeit to Death; from hence a passage broad,<br />
+
+Smooth, <span class="varspell" title="easy">easie</span>, <a href="" id="inoffensive" class="annotBtn">inoffensive</a> down to Hell.<span class="line" id="line305"> [ 305 ]</span><br />
+So, if great things to small may be <span class="varspell" title="compared">compar'd</span>,<br />
+<span class="mi">Xerxes</span>, the <span class="varspell" title="Liberty">Libertie</span> of <span class="mi">Greece</span> to yoke,<br />
+From <a href="" id="susa" class="annotBtn"> <span class="mi">Susa</span></a> his <span class="mi">Memnonian</span> Palace high<br />
+Came to the Sea, and over <a href="" id="hellespont" class="annotBtn"><span class="mi">Hellespont</span></a><br />
+
+Bridging his way, <span class="mi">Europe</span> with <span class="mi">Asia</span> <span class="varspell" title="joined">joyn'd</span>,<span class="line" id="line310"> [ 310 ]</span><br />
+And <a href="" id="line311" class="annotBtn"><span class="varspell" title="scourged">scourg'd</span> with many a <span class="varspell" title="stroke">stroak</span></a> <span class="varspell" title="the">th'</span> indignant waves.<br />
+Now had they brought the work by wondrous Art<br />
+<a href="" id="pontifical" class="annotBtn">Pontifical</a>, a ridge of pendent Rock<br />
+Over the <span class="varspell" title="vexed">vext</span> Abyss, following the track<br />
+
+Of <span class="mi">Satan</span>, to the self same place where <span class="varspell" title="he">hee</span><span class="line" id="line315"> [ 315 ]</span><br />
+First lighted from his Wing, and landed safe<br />
+From out of <span class="mi">Chaos</span> to <a href="" id="bare" class="annotBtn">the out side bare</a><br />
+Of this round World: with <span class="varspell" title="Pins">Pinns</span> of <a href="" id="adamant" class="annotBtn">Adamant</a><br />
+And Chains they made all fast, too fast they made<br />
+
+And durable; and now in little space<span class="line" id="line320"> [ 320 ]</span><br />
+The confines met of Empyrean <span class="varspell" title="Heaven">Heav'n</span><br />
+And of this World, and <a href="" id="left" class="annotBtn">on the left hand Hell</a><br />
+With long reach <span class="varspell" title="interposed">interpos'd</span>; <a href="" id="three" class="annotBtn">three <span class="varspell" title="several">sev'ral</span> <span class="varspell" title="ways">wayes</span></a><br />
+In sight, to each of these three places led.<br />
+
+And now <span class="varspell" title="their">thir</span> way to Earth they had <span class="varspell" title="descried">descri'd</span>,<span class="line" id="line325"> [ 325 ]</span><br />
+To Paradise first tending, when behold<br />
+<span class="mi">Satan</span> in likeness of an Angel bright<br />
+Betwixt the <a href="" id="cands" class="annotBtn"><span class="mi"><span class="varspell" title="Centaur">Centaure</span></span> and the <span class="mi">Scorpion</span></a> <span class="varspell" title="steering">stearing</span><br />
+His <span class="mi">Zenith</span>, while the Sun in <span class="mi">Aries</span> rose:<br />
+
+<span class="varspell" title="Disguised">Disguis'd</span> he came, but those his Children dear<span class="line" id="line330"> [ 330 ]</span><br />
+<span class="varspell" title="Their">Thir</span> Parent soon <span class="varspell" title="discerned">discern'd</span>, though in disguise.<br />
+<span class="varspell" title="He">Hee</span> after <span class="mi">Eve</span> <span class="varspell" title="seduced">seduc't</span>, unminded slunk<br />
+Into the Wood fast by, and changing shape<br />
+To observe the sequel, saw his guileful act<br />
+
+By <span class="mi">Eve</span>, though all <a href="" id="unweeting" class="annotBtn">unweeting</a>, seconded<span class="line" id="line335"> [ 335 ]</span><br />
+Upon her Husband, saw <span class="varspell" title="their">thir</span> shame that sought<br />
+Vain covertures; but when he saw descend<br />
+The Son of God to <a name="judge">judge</a> them <span class="varspell" title="terrified">terrifi'd</span><br />
+<span class="varspell" title="He">Hee</span> fled, not hoping to escape, but shun<br />
+
+The present, fearing <span class="varspell" title="guilty">guiltie</span> what his <span class="varspell" title="wrath">wrauth</span><span class="line" id="line340"> [ 340 ]</span><br />
+Might suddenly inflict; that past, <span class="varspell" title="returned">return'd</span><br />
+By Night, and <a href="" id="where" class="annotBtn">listening where</a> the hapless <span class="varspell" title="Pair">Paire</span><br />
+<span class="varspell" title="Sat">Sate</span> in <span class="varspell" title="their">thir</span> sad discourse, and various plaint,<br />
+Thence <span class="varspell" title="gathered">gatherd</span> his own doom, which understood<br />
+
+Not instant, but of future time.  With joy<span class="line" id="line345"> [ 345 ]</span><br />
+And tidings fraught, to Hell he now <span class="varspell" title="returned">return'd</span>,<br />
+And at the brink of <span class="mi">Chaos</span>, <span class="varspell" title="near">neer</span> the foot<br />
+Of this new wondrous Pontifice, <span class="varspell" title="unhoped">unhop't</span><br />
+Met who to meet him came, his <span class="varspell" title="Offspring">Ofspring</span> dear.<br />
+
+Great joy was at <span class="varspell" title="their">thir</span> meeting, and at sight<span class="line" id="line350"> [ 350 ]</span><br />
+Of that <span class="varspell" title="stupendous">stupendious</span> Bridge his joy <span class="varspell" title="increased">encreas'd</span>.<br />
+Long <span class="varspell" title="he">hee</span> admiring stood, till Sin, his <a href="" id="enchanting" class="annotBtn"><span class="varspell" title="fair">faire</span></a><br />
+<a href="" id="enchanting" class="annotBtn"><span class="varspell" title="Enchanting">Inchanting</span> Daughter</a>, thus the silence broke.
+
+</p>
+<p>
+O Parent, these are thy magnific deeds,<br />
+
+Thy Trophies, which thou <span class="varspell" title="viewest">view'st</span> as not thine own,<span class="line" id="line355"> [ 355 ]</span><br />
+Thou art <span class="varspell" title="their">thir</span> <a href="" id="architect" class="annotBtn">Author and prime Architect</a>:<br />
+For I no sooner in my Heart <span class="varspell" title="divined">divin'd</span>,<br />
+My Heart, which by a <a href="" id="harmonie" class="annotBtn">secret <span class="varspell" title="harmony">harmonie</span></a><br />
+Still moves with thine, <span class="varspell" title="joined">join'd</span> in <a href="" id="sweet" class="annotBtn"><span class="varspell" title="connection">connexion</span> sweet</a>,<br />
+
+That thou on Earth hadst <span class="varspell" title="prospered">prosper'd</span>, which thy looks<span class="line" id="line360"> [ 360 ]</span><br />
+Now also evidence, but straight I felt<br />
+Though distant from thee Worlds between, yet felt<br />
+That I <a href="" id="mustafter" class="annotBtn">must after</a> thee with this thy Son;<br />
+Such fatal <a href="" id="consequence" class="annotBtn">consequence</a> unites us three:<br />
+
+Hell could no longer hold us in her bounds,<span class="line" id="line365"> [ 365 ]</span><br />
+Nor this unvoyageable Gulf obscure<br />
+Detain from following thy illustrious track.<br />
+Thou hast <span class="varspell" title="achieved">atchiev'd</span> our <span class="varspell" title="liberty">libertie</span>, <span class="varspell" title="confined">confin'd</span><br />
+Within Hell Gates till now, thou us <span class="varspell" title="empowered">impow'rd</span><br />
+
+To <span class="varspell" title="fortify">fortifie</span> thus <span class="varspell" title="far">farr</span>, and overlay<span class="line" id="line370"> [ 370 ]</span><br />
+With this <a href="" id="portentous" class="annotBtn">portentous</a> Bridge the dark Abyss.<br />
+Thine now is all this World, thy <a href="" id="vertue" class="annotBtn"><span class="varspell" title="virtue">vertue</span></a> hath won<br />
+What thy hands builded not, thy Wisdom <span class="varspell" title="gained">gain'd</span><br />
+With odds what <span class="varspell" title="War">Warr</span> hath lost, and fully <span class="varspell" title="avenged">aveng'd</span><br />
+
+Our <span class="varspell" title="foil">foile</span> in <span class="varspell" title="Heaven">Heav'n</span>; here thou shalt Monarch reign,<span class="line" id="line375"> [ 375 ]</span><br />
+There didst not; there let him still Victor sway,<br />
+As <span class="varspell" title="Battle">Battel</span> hath <span class="varspell" title="adjudged">adjudg'd</span>, from this new World<br />
+Retiring, by his own doom alienated,<br />
+And henceforth <span class="varspell" title="Monarchy">Monarchie</span> with thee divide<br />
+
+Of all things parted by <span class="varspell" title="the">th'</span> Empyreal bounds,<span class="line" id="line380"> [ 380 ]</span><br />
+His <a href="" id="quad" class="annotBtn">Quadrature</a>, from thy Orbicular World,<br />
+Or <span class="varspell" title="try">trie</span> thee now more <span class="varspell" title="dangerous">dang'rous</span> to his Throne.
+</p>
+<p>
+Whom thus the Prince of Darkness <span class="varspell" title="answered">answerd</span> glad.<br />
+Fair Daughter, and thou <a href="" id="sweet" class="annotBtn">Son and Grandchild both</a>,<br />
+
+High proof ye now have <span class="varspell" title="given">giv'n</span> to be the Race<span class="line" id="line385"> [ 385 ]</span><br />
+Of <span class="mi">Satan</span> (for I <span class="varspell" title="glory">glorie</span> in the name,<br />
+<a href="" id="antagonist" class="annotBtn">Antagonist</a> of <span class="varspell" title="Heaven's">Heav'ns</span> <span class="varspell" title="Almighty">Almightie</span> King)<br />
+Amply have merited of me, of all<br />
+<span class="varspell" title="The">Th'</span> <a href="" id="infernalempire" class="annotBtn">Infernal Empire</a>, that so <span class="varspell" title="near">neer</span> <span class="varspell" title="Heaven's">Heav'ns</span> <span class="varspell" title="door">dore</span><br />
+
+Triumphal with triumphal act have met,<span class="line" id="line390"> [ 390 ]</span><br />
+Mine with this glorious Work, and made one Realm<br />
+Hell and this World, one Realm, one Continent<br />
+Of <span class="varspell" title="easy">easie</span> <span class="varspell" title="thoroughfare">thorough-fare</span>. Therefore while I<br />
+Descend through Darkness, on your <span class="varspell" title="Road">Rode</span> with ease<br />
+
+To my associate Powers, them to acquaint<span class="line" id="line395"> [ 395 ]</span><br />
+With these successes, and with them <span class="varspell" title="rejoice">rejoyce</span>,<br />
+You two this way, among these numerous Orbs<br />
+All yours, right down to Paradise descend;<br />
+There dwell and Reign in bliss, thence on the Earth<br />
+
+Dominion exercise and in the <span class="varspell" title="Air">Aire</span>,<span class="line" id="line400"> [ 400 ]</span><br />
+Chiefly on Man, sole Lord of all <span class="varspell" title="declared">declar'd</span>,<br />
+Him first make sure your thrall, and lastly kill.<br />
+My Substitutes I send ye, and Create<br />
+<a href="" id="pleni" class="annotBtn">Plenipotent</a> on Earth, of matchless might<br />
+
+Issuing from <span class="varspell" title="me">mee</span>: on your <span class="varspell" title="joint">joynt</span> vigor now<span class="line" id="line405"> [ 405 ]</span><br />
+My hold of this new Kingdom all depends,<br />
+Through Sin to Death <span class="varspell" title="exposed">expos'd</span> by my exploit.<br />
+If your <span class="varspell" title="joint">joynt</span> power <span class="varspell" title="prevails">prevailes</span>, <span class="varspell" title="the">th'</span> <span class="varspell" title="affairs">affaires</span> of Hell<br />
+No detriment need <span class="varspell" title="fear">feare</span>, <a href="" id="bestrong" class="annotBtn"><span class="varspell" title="go">goe</span> and be strong</a>.
+
+
+
+</p>
+<p>
+So saying he <span class="varspell" title="dismissed">dismiss'd</span> them, they with speed<span class="line" id="line410"> [ 410 ]</span><br />
+<span class="varspell" title="Their">Thir</span> course through thickest Constellations held<br />
+Spreading <span class="varspell" title="their">thir</span> bane; the blasted <span class="varspell" title="Stars">Starrs</span> <span class="varspell" title="looked">lookt</span> wan,<br />
+And Planets, <a href="" id="strook" class="annotBtn">Planet-<span class="varspell" title="struck">strook</span></a>, real <span class="varspell" title="Eclipse">Eclips</span><br />
+Then <span class="varspell" title="suffered">sufferd</span>. <span class="varspell" title="The">Th'</span> other way <span class="mi">Satan</span> went down<br />
+
+The <a href="" id="causey" class="annotBtn">Causey</a> to Hell Gate; on either side<span class="line" id="line415"> [ 415 ]</span><br />
+Disparted <span class="mi">Chaos</span> over built <span class="varspell" title="exclaimed">exclaimd</span>,<br />
+And with rebounding surge the <span class="varspell" title="bars">barrs</span> <span class="varspell" title="assailed">assaild</span>,<br />
+That <span class="varspell" title="scorned">scorn'd</span> his indignation: through the Gate,<br />
+Wide open and unguarded, <span class="mi">Satan</span> <span class="varspell" title="passed">pass'd</span>,<br />
+
+And all about found desolate; for those<span class="line" id="line420"> [ 420 ]</span><br />
+<a href="" id="charge" class="annotBtn">Appointed to sit there</a>, had left <span class="varspell" title="their">thir</span> charge,<br />
+Flown to the upper World; the rest were all<br />
+<span class="varspell" title="Far">Farr</span> to the inland <span class="varspell" title="retired">retir'd</span>, about the walls<br />
+Of <a href="" id="pandemonium" class="annotBtn"><span class="mi"><span class="varspell" title="Pandaemonium">Pand&aelig;monium</span></span></a>, <span class="varspell" title="City">Citie</span> and proud <span class="varspell" title="seat">seate</span><br />
+
+Of <span class="mi">Lucifer</span>, so <a href="" id="allusion" class="annotBtn">by allusion <span class="varspell" title="called">calld</span></a>,<span class="line" id="line425"> [ 425 ]</span><br />
+Of that bright <span class="varspell" title="Star">Starr</span> to <span class="mi">Satan</span> <a href="" id="paragond" class="annotBtn"><span class="varspell" title="paragoned">paragond</span></a>.<br />
+There kept <span class="varspell" title="their">thir</span> Watch the Legions, while the <a href="" id="grand" class="annotBtn">Grand</a><br />
+In Council <span class="varspell" title="sat">sate</span>, <span class="varspell" title="solicitous">sollicitous</span> what chance<br />
+Might intercept <span class="varspell" title="their">thir</span> <span class="varspell" title="Emperor">Emperour</span> sent, so <span class="varspell" title="he">hee</span><br />
+
+Departing gave command, and they <a href="" id="obsobey" class="annotBtn"><span class="varspell" title="observed">observ'd</span></a>.<span class="line" id="line430"> [ 430 ]</span><br />
+As when the <span class="mi">Tartar</span> from his <span class="mi">Russian</span> Foe<br />
+By <a href="" id="astracan" class="annotBtn"><span class="mi">Astracan</span></a> over the <span class="varspell" title="Snowy">Snowie</span> <span class="varspell" title="Plains">Plaines</span><br />
+Retires, or <a href="" id="sophy" class="annotBtn"><span class="mi">Bactrian</span> <span class="varspell" title="Sophy">Sophi</span></a> from the <span class="varspell" title="horns">hornes</span><br />
+Of <span class="mi">Turkish</span> Crescent, leaves all waste beyond<br />
+
+The Realm of <a href="" id="aladule" class="annotBtn"><span class="mi">Aladule</span></a>, in his <span class="varspell" title="retreat">retreate</span><span class="line" id="line435"> [ 435 ]</span><br />
+To <a href="" id="torc" class="annotBtn"><span class="mi"><span class="varspell" title="Tabriz">Tauris</span></span> or <span class="mi"><span class="varspell" title="Kazvin">Casbeen</span></span></a>. So these the late<br />
+<span class="varspell" title="Heaven">Heav'n</span>-<span class="varspell" title="banished">banisht</span> Host, left desert utmost Hell<br />
+Many a dark League, <span class="varspell" title="reduced">reduc't</span> in careful Watch<br />
+Round <span class="varspell" title="their">thir</span> Metropolis, and now expecting<br />
+
+Each hour <span class="varspell" title="their">thir</span> great adventurer from the search<span class="line" id="line440"> [ 440 ]</span><br />
+Of <span class="varspell" title="Foreign">Forrein</span> Worlds: he through the midst <span class="varspell" title="unmarked">unmarkt</span>,<br />
+In <span class="varspell" title="show">shew</span> Plebeian Angel militant<br />
+Of lowest order, <span class="varspell" title="passed">past</span>; and from the <span class="varspell" title="door">dore</span><br />
+Of that <a href="" id="pluto" class="annotBtn"><span class="mi">Plutonian</span></a> Hall, invisible<br />
+
+Ascended his high Throne, which under <a href="" id="state" class="annotBtn">state</a><span class="line" id="line445"> [ 445 ]</span><br />
+Of richest texture <span class="varspell" title="spread">spred</span>, at <span class="varspell" title="the">th'</span> upper end<br />
+Was <span class="varspell" title="placed">plac't</span> in regal <span class="varspell" title="luster">lustre</span>. Down a while<br />
+He <span class="varspell" title="sat">sate</span>, and round about him saw unseen:<br />
+At last as from a Cloud his <a href="" id="fulgent" class="annotBtn">fulgent</a> head<br />
+
+And shape <span class="varspell" title="Star">Starr</span> bright <span class="varspell" title="appeared">appeer'd</span>, or brighter, clad<span class="line" id="line450"> [ 450 ]</span><br />
+With what <a href="" id="glory" class="annotBtn">permissive glory</a> since his fall<br />
+Was left him, or false glitter: All <span class="varspell" title="amazed">amaz'd</span><br />
+At that so sudden blaze the <a href="" id="styx" class="annotBtn"><span class="mi">Stygian</span></a> throng<br />
+<a href="" id="aspect" class="annotBtn">Bent <span class="varspell" title="their">thir</span> aspect</a>, and whom they <span class="varspell" title="wished">wish'd</span> beheld,<br />
+
+<span class="varspell" title="Their">Thir</span> mighty Chief <span class="varspell" title="returned">returnd</span>: loud was <span class="varspell" title="the">th'</span> <span class="varspell" title="acclaim">acclaime</span>:<span class="line" id="line455"> [ 455 ]</span><br />
+Forth <span class="varspell" title="rushed">rush'd</span> in haste the great consulting Peers,<br />
+<span class="varspell" title="Raised">Rais'd</span> from <span class="varspell" title="their">thir</span> dark <a href="" id="divan" class="annotBtn"><span class="mi">Divan</span></a>, and with like joy<br />
+Congratulant <span class="varspell" title="approached">approach'd</span> him, who with hand<br />
+Silence, and with these words attention won.
+
+
+
+</p>
+<p>
+Thrones, Dominations, Princedoms, <span class="varspell" title="Virtues">Vertues</span>, Powers,<span class="line" id="line460"> [ 460 ]</span><br />
+For in possession such, not <span class="varspell" title="only">onely</span> of right,<br />
+I call ye and declare ye now, <span class="varspell" title="returned">returnd</span><br />
+Successful beyond hope, to lead ye forth<br />
+Triumphant out of this infernal Pit<br />
+
+Abominable, <span class="varspell" title="accursed">accurst</span>, the house of woe,<span class="line" id="line465"> [ 465 ]</span><br />
+And Dungeon of our Tyrant: Now possess,<br />
+As Lords, a spacious World, to our native Heaven<br />
+Little <span class="varspell" title="inferior">inferiour</span>, by my adventure hard<br />
+With peril great <span class="varspell" title="achieved">atchiev'd</span>. Long were to tell<br />
+
+What I have <span class="varspell" title="done">don</span>, what <span class="varspell" title="suffered">sufferd</span>, with what <span class="varspell" title="pain">paine</span><span class="line" id="line470"> [ 470 ]</span><br />
+<span class="varspell" title="Voyaged">Voyag'd</span> <span class="varspell" title="the">th'</span> unreal, vast, unbounded deep<br />
+Of horrible confusion, over which<br />
+By Sin and Death a broad way now is <span class="varspell" title="paved">pav'd</span><br />
+To expedite your glorious march; but I<br />
+
+<span class="varspell" title="Toiled">Toild</span> out my <a href="" id="uncouth" class="annotBtn">uncouth passage</a>, <span class="varspell" title="forced">forc't</span> to ride<span class="line" id="line475"> [ 475 ]</span><br />
+<span class="varspell" title="The">Th'</span> untractable <span class="varspell" title="Abyss">Abysse</span>, <span class="varspell" title="plunged">plung'd</span> in the womb<br />
+Of <a href="" id="unoriginal" class="annotBtn">unoriginal</a> <span class="mi">Night</span> and <span class="mi">Chaos</span> <span class="varspell" title="wild">wilde</span>,<br />
+That jealous of <span class="varspell" title="their">thir</span> secrets <a href="" id="fierce" class="annotBtn">fiercely <span class="varspell" title="opposed">oppos'd</span></a><br />
+My journey strange, with clamorous <span class="varspell" title="uproar">uproare</span><br />
+
+Protesting Fate <span class="varspell" title="supreme">supreame</span>; thence how I found<span class="line" id="line480"> [ 480 ]</span><br />
+The new created World, which fame in <span class="varspell" title="Heaven">Heav'n</span><br />
+Long had foretold, a <span class="varspell" title="Fabric">Fabrick</span> wonderful<br />
+Of absolute perfection, therein Man<br />
+<span class="varspell" title="Placed">Plac't</span> in a Paradise, by our exile<br />
+
+Made <span class="varspell" title="happy">happie</span>: Him by fraud I have <span class="varspell" title="seduced">seduc'd</span><span class="line" id="line485"> [ 485 ]</span><br />
+From his Creator, and the more to increase<br />
+Your wonder, with <a href="" id="apple" class="annotBtn">an Apple</a>; he thereat<br />
+Offended, worth your laughter, hath <span class="varspell" title="given">giv'n</span> up<br />
+Both his beloved Man and all his World,<br />
+
+To Sin and Death a prey, and so to us,<span class="line" id="line490"> [ 490 ]</span><br />
+Without our hazard, <span class="varspell" title="labor">labour</span>, or <span class="varspell" title="alarm">allarme</span>,<br />
+To range in, and to dwell, and over Man<br />
+To rule, as over all he should have <span class="varspell" title="ruled">rul'd</span>.<br />
+True is, <span class="varspell" title="me">mee</span> also he hath <span class="varspell" title="judged">judg'd</span>, or rather<br />
+
+<span class="varspell" title="Me">Mee</span> not, but the brute Serpent in whose shape<span class="line" id="line495"> [ 495 ]</span><br />
+Man I <span class="varspell" title="deceived">deceav'd</span>: that which to <span class="varspell" title="me">mee</span> belongs,<br />
+Is enmity, which he will put between<br />
+<span class="varspell" title="Me">Mee</span> and <span class="varspell" title="Mankind">Mankinde</span>; I am to bruise his heel;<br />
+His Seed, when is not set, shall bruise my head:<br />
+
+A World who would not purchase <a href="" id="withbruise" class="annotBtn">with a bruise</a>,<span class="line" id="line500"> [ 500 ]</span><br />
+Or much more grievous pain? Ye have <span class="varspell" title="the">th'</span> account<br />
+Of my performance: What remains, ye Gods,<br />
+But up and enter now into full bliss.
+</p>
+<p>
+So having said, a while he stood, expecting<br />
+
+<span class="varspell" title="Their">Thir</span> universal shout and high applause<span class="line" id="line505"> [ 505 ]</span><br />
+To fill his <span class="varspell" title="ear">eare</span>, when contrary he hears<br />
+On all sides, from innumerable tongues<br />
+A dismal universal hiss, the sound<br />
+Of public scorn; he <span class="varspell" title="wondered">wonderd</span>, but not long<br />
+
+Had <span class="varspell" title="leisure">leasure</span>, <span class="varspell" title="wondering">wondring</span> at himself now more;<span class="line" id="line510"> [ 510 ]</span><br />
+His Visage drawn he felt to sharp and spare,<br />
+His <span class="varspell" title="Arms">Armes</span> clung to his Ribs, his <span class="varspell" title="Legs">Leggs</span> entwining<br />
+Each other, till <a href="" id="supplant" class="annotBtn">supplanted</a> down he fell<br />
+A <a href="" id="line533" class="annotBtn">monstrous Serpent</a> on his Belly prone,<br />
+
+Reluctant, but in <span class="varspell" title="vain">vaine</span>: a greater power<span class="line" id="line515"> [ 515 ]</span><br />
+Now <span class="varspell" title="ruled">rul'd</span> him, <span class="varspell" title="punished">punisht</span> in the shape he <span class="varspell" title="sinned">sin'd</span>,<br />
+According to his doom: he would have spoke,<br />
+But hiss for hiss <span class="varspell" title="returned">returnd</span> with forked tongue<br />
+To forked tongue, for now were all <span class="varspell" title="transformed">transform'd</span><br />
+
+Alike, to Serpents all as accessories<span class="line" id="line520"> [ 520 ]</span><br />
+To his bold Riot: dreadful was the din<br />
+Of hissing through the Hall, thick swarming now<br />
+With <a href="" id="complicated" class="annotBtn">complicated</a> monsters head and <span class="varspell" title="tail">taile</span>,<br />
+Scorpion and Asp, and <a href="" id="amphisb" class="annotBtn"><span class="mi"><span class="varspell" title="Amphisbaena">Amphisb&aelig;na</span></span></a> dire,<br />
+
+<a href="" id="cerastes" class="annotBtn"><span class="mi">Cerastes</span></a> <span class="varspell" title="horned">hornd</span>, <a href="" id="hydrus" class="annotBtn"><span class="mi">Hydrus</span>, and <span class="mi">Ellops</span></a> drear,<span class="line" id="line525"> [ 525 ]</span><br />
+And <a href="" id="dipsas" class="annotBtn"><span class="mi">Dipsas</span></a> (not so thick <span class="varspell" title="swarmed">swarm'd</span> once the <a href="" id="soil" class="annotBtn">Soil</a><br />
+<span class="varspell" title="Bedropped">Bedropt</span> with blood of <span class="mi">Gorgon</span>, or the Isle<br />
+<a href="" id="ophiusa" class="annotBtn"><span class="mi">Ophiusa</span></a>) but still greatest <span class="varspell" title="he">hee</span> the midst,<br />
+Now Dragon grown, larger <span class="varspell" title="than">then</span> whom the Sun<br />
+
+<span class="varspell" title="Engendered">Ingenderd</span> in the <span class="mi">Pythian</span> Vale on slime,<span class="line" id="line530"> [ 530 ]</span><br />
+Huge <a href="" id="line531" class="annotBtn"><span class="mi">Python</span></a>, and his Power no less he <span class="varspell" title="seemed">seem'd</span><br />
+Above the rest still to retain; they all<br />
+Him <span class="varspell" title="followed">follow'd</span> issuing forth to <span class="varspell" title="the">th'</span> open Field,<br />
+Where all yet left of that revolted Rout<br />
+
+<span class="varspell" title="Heaven">Heav'n</span>-<span class="varspell" title="fallen">fall'n</span>, in station stood or just array,<span class="line" id="line535"> [ 535 ]</span><br />
+<a href="" id="sublime" class="annotBtn">Sublime</a> with expectation when to see<br />
+In Triumph issuing forth <span class="varspell" title="their">thir</span> glorious Chief;<br />
+They saw, but other sight instead, a crowd<br />
+Of ugly Serpents; horror on them fell,<br />
+
+And horrid <span class="varspell" title="sympathy">sympathie</span>; for what they saw,<span class="line" id="line540"> [ 540 ]</span><br />
+They felt <span class="varspell" title="themselves">themselvs</span> <a href="" id="now" class="annotBtn">now changing</a>; down <span class="varspell" title="their">thir</span> arms,<br />
+Down fell both Spear and Shield, down they as fast,<br />
+And the dire hiss <span class="varspell" title="renewed">renew'd</span>, and the dire form<br />
+<span class="varspell" title="Catched">Catcht</span> by Contagion, like in punishment,<br />
+
+As in <span class="varspell" title="their">thir</span> crime. Thus was <span class="varspell" title="the">th'</span> applause they meant,<span class="line" id="line545"> [ 545 ]</span><br />
+<span class="varspell" title="Turned">Turn'd</span> to <a href="" id="explode" class="annotBtn">exploding</a> hiss, triumph to shame<br />
+Cast on themselves from <span class="varspell" title="their">thir</span> own mouths. There stood<br />
+A Grove hard by, sprung up with this <span class="varspell" title="their">thir</span> change,<br />
+His will who reigns above, to aggravate<br />
+
+<span class="varspell" title="Their">Thir</span> penance, laden with Fruit like that<span class="line" id="line550"> [ 550 ]</span><br />
+Which grew in Paradise, the <a href="" id="bait" class="annotBtn">bait of <span class="mi">Eve</span></a><br />
+<span class="varspell" title="Used">Us'd</span> by the Tempter: on that prospect strange<br />
+<span class="varspell" title="Their">Thir</span> earnest eyes they <span class="varspell" title="fixed">fix'd</span>, imagining<br />
+For one forbidden Tree a multitude<br />
+
+Now <span class="varspell" title="risen">ris'n</span>, to work them <span class="varspell" title="further">furder</span> woe or shame;<span class="line" id="line555"> [ 555 ]</span><br />
+Yet <span class="varspell" title="parched">parcht</span> with scalding <span class="varspell" title="thirst">thurst</span> and hunger fierce,<br />
+Though to delude them sent, could not abstain,<br />
+But on <a href="" id="line558" class="annotBtn">they</a> <span class="varspell" title="rolled">rould</span> in heaps, and up the Trees<br />
+Climbing, sat thicker <span class="varspell" title="than">then</span> the <span class="varspell" title="snaky">snakie</span> locks<br />
+
+That <span class="varspell" title="curled">curld</span> <a href="" id="goddess" class="annotBtn"><span class="mi"><span class="varspell" title="Megaera">Meg&aelig;ra</span></span></a>: greedily they <span class="varspell" title="plucked">pluck'd</span><span class="line" id="line560"> [ 560 ]</span><br />
+The Frutage fair to sight, like that which grew<br />
+<span class="varspell" title="Near">Neer</span> <a href="" id="blake" class="annotBtn">that bituminous Lake</a> where <span class="mi">Sodom</span> <span class="varspell" title="flamed">flam'd</span>;<br />
+This more delusive, not the touch, but taste<br />
+<span class="varspell" title="Deceived">Deceav'd</span>; they fondly thinking to allay<br />
+
+<span class="varspell" title="Their">Thir</span> appetite with gust, instead of Fruit<span class="line" id="line565"> [ 565 ]</span><br />
+<span class="varspell" title="Chewed">Chewd</span> bitter Ashes, which <span class="varspell" title="the">th'</span> offended taste<br />
+With spattering noise rejected: oft they <span class="varspell" title="assayed">assayd</span>,<br />
+Hunger and thirst constraining, <a href="" id="drugged" class="annotBtn"><span class="varspell" title="drugged">drugd</span></a> as oft,<br />
+With hatefullest disrelish <span class="varspell" title="writhed">writh'd</span> <span class="varspell" title="their">thir</span> jaws<br />
+
+With soot and cinders <span class="varspell" title="filled">fill'd</span>; so oft they fell<span class="line" id="line570"> [ 570 ]</span><br />
+Into the same illusion, not as Man<br />
+Whom they <span class="varspell" title="triumphed">triumph'd</span> once <span class="varspell" title="lapsed">lapst</span>. Thus were they <span class="varspell" title="plagued">plagu'd</span><br />
+And worn with <span class="varspell" title="Famine">Famin</span>, long and <span class="varspell" title="ceaseless">ceasless</span> hiss,<br />
+Till <span class="varspell" title="their">thir</span> lost shape, permitted, they <span class="varspell" title="resumed">resum'd</span>,<br />
+
+Yearly <span class="varspell" title="enjoined">enjoynd</span>, some say, to undergo<span class="line" id="line575"> [ 575 ]</span><br />
+This annual humbling certain <span class="varspell" title="numbered">number'd</span> days,<br />
+To dash <span class="varspell" title="their">thir</span> pride, and joy for Man <span class="varspell" title="seduced">seduc't</span>.<br />
+However some tradition they <span class="varspell" title="dispersed">dispers'd</span><br />
+Among the Heathen of <span class="varspell" title="their">thir</span> purchase got,<br />
+
+And <span class="varspell" title="Fabled">Fabl'd</span> how the Serpent, whom they <span class="varspell" title="called">calld</span><span class="line" id="line580"> [ 580 ]</span><br />
+<a href="" id="owithe" class="annotBtn"><span class="mi">Ophion</span> with <span class="mi">Eurynome</span></a>, the wide-<br />
+<a href="" id="perhaps" class="annotBtn">Encroaching <span class="mi">Eve</span> perhaps</a>, had first the rule<br />
+Of high <span class="mi">Olympus</span>, thence by <span class="mi">Saturn</span> <span class="varspell" title="driven">driv'n</span><br />
+And <a href="" id="oops" class="annotBtn"><span class="mi">Ops</span></a>, ere yet <span class="mi"><span class="varspell" title="Dictaean">Dict&aelig;an</span> Jove</span> was born.<br />
+
+Mean while in Paradise the hellish <a name="sinanddeath">pair</a><span class="line" id="line585"> [ 585 ]</span><br />
+Too soon <span class="varspell" title="arrived">arriv'd</span>, <span class="mi">Sin</span> there in power before,<br />
+Once actual, <a href="" id="body" class="annotBtn">now in body</a>, and to dwell<br />
+Habitual habitant; behind her <span class="mi">Death</span><br />
+Close following pace for pace, not mounted yet<br />
+
+On his <a href="" id="horse" class="annotBtn">pale Horse</a>: to whom <span class="mi">Sin</span> thus began.<span class="line" id="line590"> [ 590 ]</span>
+</p>
+<p>
+Second of <span class="mi">Satan</span> sprung, all conquering <span class="mi">Death</span>,<br />
+What <span class="varspell" title="thinkest">thinkst</span> thou of our Empire now, though <span class="varspell" title="earned">earnd</span><br />
+With travail difficult, not better <span class="varspell" title="far">farr</span><br />
+<span class="varspell" title="Than">Then</span> <span class="varspell" title="still">stil</span> at <span class="varspell" title="Hell's">Hels</span> dark threshold to have <span class="varspell" title="sat">sate</span> watch,<br />
+
+<span class="varspell" title="Unnamed">Unnam'd</span>, undreaded, and thy self half <span class="varspell" title="starved">starv'd</span>?<span class="line" id="line595"> [ 595 ]</span>
+</p>
+<p>
+Whom thus the Sin-born Monster <span class="varspell" title="answered">answerd</span> soon.<br />
+To <span class="varspell" title="me">mee</span>, who with eternal <span class="varspell" title="Famine">Famin</span> pine,<br />
+Alike is Hell, or Paradise, or Heaven,<br />
+There best, where most with <a href="" id="ravin" class="annotBtn">ravin</a> I may meet;<br />
+
+Which here, though plenteous, all too little seems<span class="line" id="line600"> [ 600 ]</span><br />
+To stuff this Maw, this vast unhide-bound <span class="varspell" title="Corpse">Corps</span>.
+</p>
+<p>
+To whom <span class="varspell" title="the">th'</span> incestuous Mother thus <span class="varspell" title="replied">repli'd</span>.<br />
+Thou therefore on these Herbs, and Fruits, and <span class="varspell" title="Flowers">Flours</span><br />
+Feed first, on each Beast next, and Fish, and <span class="varspell" title="Fowl">Fowle</span>,<br />
+
+No homely morsels, and whatever thing<span class="line" id="line605"> [ 605 ]</span><br />
+The <span class="varspell" title="Scythe">Sithe</span> of Time <span class="varspell" title="mows">mowes</span> down, devour <span class="varspell" title="unspared">unspar'd</span>,<br />
+Till <a href="" id="inman" class="annotBtn">I in Man residing</a> through the Race,<br />
+His thoughts, his looks, words, actions all infect,<br />
+And season him thy last and sweetest prey.
+</p>
+<p>
+This said, they both betook them several <span class="varspell" title="ways">wayes</span>,<span class="line" id="line610"> [ 610 ]</span><br />
+Both to destroy, or unimmortal make<br />
+All kinds, and for destruction to mature<br />
+Sooner or later; which <span class="varspell" title="the">th'</span> <span class="varspell" title="Almighty">Almightie</span> seeing,<br />
+From his transcendent Seat the Saints among,<br />
+
+To those bright Orders <span class="varspell" title="uttered">utterd</span> thus his voice.<span class="line" id="line615"> [ 615 ]</span>
+
+</p>
+<p>
+See with what heat these Dogs of Hell advance<br />
+To waste and <a href="" id="havoc" class="annotBtn">havoc</a> yonder World, which I<br />
+So fair and good created, and had still<br />
+Kept in that State, had not the folly of Man<br />
+
+Let in these <span class="varspell" title="wasteful">wastful</span> Furies, who impute<span class="line" id="line620"> [ 620 ]</span><br />
+<a href="" id="follymee" class="annotBtn">Folly to <span class="varspell" title="me">mee</span></a>, so doth the Prince of Hell<br />
+And his Adherents, that with so much ease<br />
+I suffer them to enter and possess<br />
+A place so <span class="varspell" title="heavenly">heav'nly</span>, and <a href="" id="conniving" class="annotBtn">conniving</a> <a name="conniving">seem</a><br />
+
+To <span class="varspell" title="gratify">gratifie</span> my scornful Enemies,<span class="line" id="line625"> [ 625 ]</span><br />
+That laugh, as if transported with some fit<br />
+Of Passion, I to them had quitted all,<br />
+At random yielded up to their misrule;<br />
+And know not that I <span class="varspell" title="called">call'd</span> and drew them thither<br />
+
+My Hell-hounds, to lick up the <a href="" id="draff" class="annotBtn">draff</a> and filth<span class="line" id="line630"> [ 630 ]</span><br />
+Which <span class="varspell" title="man's">mans</span> polluting Sin with taint hath shed<br />
+On what was pure, till <span class="varspell" title="crammed">cramm'd</span> and <span class="varspell" title="gorged">gorg'd</span>, nigh burst<br />
+With <span class="varspell" title="sucked">suckt</span> and glutted offal, at one sling<br />
+Of thy victorious Arm, well-pleasing Son,<br />
+
+Both <span class="mi">Sin</span>, and <span class="mi">Death</span>, and yawning <span class="mi">Grave</span> at last<span class="line" id="line635"> [ 635 ]</span><br />
+Through <span class="mi">Chaos</span> <span class="varspell" title="hurled">hurld</span>, obstruct the mouth of Hell<br />
+For ever, and seal up his ravenous <span class="varspell" title="Jaws">Jawes</span>.<br />
+Then <a href="" id="heaven" class="annotBtn"><span class="varspell" title="Heaven">Heav'n</span> and Earth <span class="varspell" title="renewed">renewd</span></a> shall be made pure<br />
+To <span class="varspell" title="sanctity">sanctitie</span> that shall receive no <span class="varspell" title="stain">staine</span>:<br />
+
+Till then the Curse <span class="varspell" title="pronounced">pronounc't</span> on both precedes.<span class="line" id="line640"> [ 640 ]</span>
+</p>
+<p>
+He ended, and the <span class="varspell" title="heavenly">Heav'nly</span> Audience loud<br />
+Sung <span class="mi">Halleluia</span>, as the sound of Seas,<br />
+Through <a href="" id="line642" class="annotBtn">multitude</a> that sung: <a href="" id="just" class="annotBtn">Just are thy ways</a>,<br />
+Righteous are thy Decrees on all thy Works;<br />
+
+Who can <a href="" id="extenuate" class="annotBtn">extenuate thee?</a> Next, to the Son,<span class="line" id="line645"> [ 645 ]</span><br />
+<span class="varspell" title="Destined">Destin'd</span> restorer of Mankind, by whom<br />
+New <span class="varspell" title="Heaven">Heav'n</span> and Earth shall to the Ages rise,<br />
+Or down <a href="" id="descend" class="annotBtn">from <span class="varspell" title="Heaven">Heav'n</span> descend</a>. Such was <span class="varspell" title="their">thir</span> song,<br />
+While the Creator calling forth by name<br />
+
+His <span class="varspell" title="mighty">mightie</span> Angels gave them several charge,<span class="line" id="line650"> [ 650 ]</span><br />
+As sorted best with present things. The Sun<br />
+Had first his <a href="" id="precept" class="annotBtn">precept</a> so to move, so shine,<br />
+As might affect the Earth with cold and heat<br />
+Scarce <span class="varspell" title="tolerable">tollerable</span>, and from the North to call<br />
+
+Decrepit Winter, from the South to bring<span class="line" id="line655"> [ 655 ]</span><br />
+Solstitial <span class="varspell" title="summer's">summers</span> heat. To the <a href="" id="mont" class="annotBtn"><span class="varspell" title="blank">blanc</span></a> <span class="varspell" title="Moon">Moone</span><br />
+Her office they <span class="varspell" title="prescribed">prescrib'd</span>, to <a href="" id="planets" class="annotBtn"><span class="varspell" title="the">th'</span> other five</a><br />
+<span class="varspell" title="Their">Thir</span> <span class="varspell" title="planetary">planetarie</span> motions and aspects<br />
+In <a href="" id="signs" class="annotBtn"><span class="mi">Sextile, Square</span>, and <span class="mi">Trine</span>, and <span class="mi">Opposite</span></a>,<br />
+
+Of <a href="" id="nox" class="annotBtn">noxious <span class="varspell" title="efficacy">efficacie</span></a>, and when to <span class="varspell" title="join">joyne</span><span class="line" id="line660"> [ 660 ]</span><br />
+In <a href="" id="synod" class="annotBtn">Synod</a> <span class="varspell" title="unbenign">unbenigne</span>, and taught the <span class="varspell" title="fixed">fixt</span><br />
+<span class="varspell" title="Their">Thir</span> influence malignant when to <span class="varspell" title="shower">showre</span>,<br />
+Which of them rising with the Sun, or falling,<br />
+Should prove tempestuous: To the Winds they set<br />
+
+<a href="" id="corners" class="annotBtn"><span class="varspell" title="Their">Thir</span> corners</a>, when with bluster to confound<span class="line" id="line665"> [ 665 ]</span><br />
+Sea, <span class="varspell" title="Air">Aire</span>, and <span class="varspell" title="Shore">Shoar</span>, the Thunder when to <span class="varspell" title="roll">rowle</span><br />
+With terror through the dark Aereal Hall.<br />
+Some say he bid his Angels <span class="varspell" title="turn">turne</span> <span class="varspell" title="askance">ascanse</span><br />
+The Poles of Earth twice ten degrees and more<br />
+
+From the <span class="varspell" title="Sun's">Suns</span> Axle; they with <span class="varspell" title="labor">labour</span> <span class="varspell" title="pushed">push'd</span><span class="line" id="line670"> [ 670 ]</span><br />
+Oblique the Centric Globe: <a href="" id="somsay" class="annotBtn"><span class="varspell" title="Some">Som</span> say</a> the Sun<br />
+Was bid turn <a href="" id="reines" class="annotBtn"><span class="varspell" title="Reins">Reines</span></a> from <span class="varspell" title="the">th'</span> Equinoctial <span class="varspell" title="Road">Rode</span><br />
+Like distant breadth to <a href="" id="taurus" class="annotBtn"><span class="mi">Taurus</span></a> with the <span class="varspell" title="Seven">Seav'n</span><br />
+<span class="mi"><span class="varspell" title="Atlantic">Atlantick</span></span> Sisters, and the <span class="mi">Spartan</span> Twins<br />
+
+Up to the <span class="mi">Tropic</span> Crab; thence down <span class="varspell" title="amain">amaine</span><span class="line" id="line675"> [ 675 ]</span><br />
+By <span class="mi">Leo</span> and the <span class="mi">Virgin</span> and the <span class="mi">Scales</span>,<br />
+As deep as <span class="mi"><span class="varspell" title="Capricorn">Capricorne</span></span>, to bring in change<br />
+Of Seasons to each Clime; else had the Spring<br />
+Perpetual <span class="varspell" title="smiled">smil'd</span> on Earth with <a href="" id="vernant" class="annotBtn">vernant</a> <span class="varspell" title="Flowers">Flours</span>,<br />
+
+<a href="" id="line680" class="annotBtn">Equal in Days and Nights</a>, except to those<span class="line" id="line680"> [ 680 ]</span><br />
+Beyond the Polar Circles; to them Day<br />
+Had unbenighted <span class="varspell" title="shone">shon</span>, while the low Sun<br />
+To <span class="varspell" title="recompense">recompence</span> his distance, in <span class="varspell" title="their">thir</span> sight<br />
+Had rounded still <span class="varspell" title="the">th'</span> <span class="mi">Horizon</span>, and not known<br />
+
+Or East or West, which had forbid the Snow<span class="line" id="line685"> [ 685 ]</span><br />
+From cold <a href="" id="estotiland" class="annotBtn"><span class="mi">Estotiland</span></a>, and South as <span class="varspell" title="far">farr</span><br />
+Beneath <a href="" id="magel" class="annotBtn"><span class="mi">Magellan</span></a>.  At that tasted Fruit<br />
+The Sun, as from <a href="" id="banquet" class="annotBtn"><span class="mi">Thyestean</span> Banquet</a>, <span class="varspell" title="turned">turn'd</span><br />
+His course intended; else how had the World<br />
+
+Inhabited, though sinless, more <span class="varspell" title="than">then</span> now,<span class="line" id="line690"> [ 690 ]</span><br />
+Avoided pinching cold and scorching <span class="varspell" title="heat">heate</span>?<br />
+These changes in the <span class="varspell" title="Heavens">Heav'ns</span>, though slow, <span class="varspell" title="produced">produc'd</span><br />
+Like change on Sea and Land, <a href="" id="blast" class="annotBtn">sideral blast</a>,<br />
+<span class="varspell" title="Vapor">Vapour</span>, and Mist, and Exhalation hot,<br />
+
+Corrupt and Pestilent: Now from the North<span class="line" id="line695"> [ 695 ]</span><br />
+Of <a href="" id="camden" class="annotBtn"><span class="mi">Norumbega</span></a>, and the <a href="" id="samoed" class="annotBtn"><span class="mi">Samoed</span> <span class="varspell" title="shore">shoar</span></a><br />
+Bursting <span class="varspell" title="their">thir</span> brazen <a href="" id="dungeon" class="annotBtn">Dungeon</a>, <span class="varspell" title="armed">armd</span> with ice<br />
+And snow and <span class="varspell" title="hail">haile</span> and <span class="varspell" title="stormy">stormie</span> gust and <a href="" id="flaw" class="annotBtn">flaw</a>,<br />
+<a href="" id="bandcanda" class="annotBtn"><span class="mi">Boreas</span> and <span class="mi"><span class="varspell" title="Caecius">C&aelig;cias</span></span> and <span class="mi">Argestes</span></a> loud<br />
+
+And <span class="mi">Thrascias</span> rend the Woods and Seas upturn;<span class="line" id="line700"> [ 700 ]</span><br />
+With adverse blast up-turns them from the South<br />
+<span class="mi">Notus</span> and <span class="mi">Afer</span> black with <span class="varspell" title="thunderous">thundrous</span> Clouds<br />
+From <a href="" id="serraliona" class="annotBtn"><span class="mi">Serraliona</span></a>; thwart of these as fierce<br />
+Forth rush the <a href="" id="landp" class="annotBtn"><span class="mi">Levant</span> and the <span class="mi">Ponent</span></a> <span class="varspell" title="Winds">Windes</span><br />
+
+<span class="mi">Eurus</span> and <span class="mi">Zephir</span> with <span class="varspell" title="their">thir</span> lateral noise,<span class="line" id="line705"> [ 705 ]</span><br />
+<a href="" id="sandl" class="annotBtn"><span class="mi">Sirocco</span>, and <span class="mi">Libecchio</span></a>. Thus began<br />
+Outrage from liveless things; but <a href="" id="discord" class="annotBtn">Discord</a> first<br />
+Daughter of Sin, among <span class="varspell" title="the">th'</span> irrational,<br />
+Death <span class="varspell" title="introduced">introduc'd</span> through fierce <span class="varspell" title="antipathy">antipathie</span>:<br />
+
+Beast now with Beast gan war, and <span class="varspell" title="Fowl">Fowle</span> with <span class="varspell" title="Fowl">Fowle</span>,<span class="line" id="line710"> [ 710 ]</span><br />
+And Fish with Fish; <a href="" id="veg" class="annotBtn">to graze the Herb</a> all leaving,<br />
+<span class="varspell" title="Devoured">Devourd</span> each other; nor stood much in awe<br />
+Of Man, but fled him, or with <span class="varspell" title="countenance">count'nance</span> grim<br />
+<span class="varspell" title="Glared">Glar'd</span> on him passing: these were from without<br />
+
+The growing miseries, which <span class="mi">Adam</span> saw<span class="line" id="line715"> [ 715 ]</span><br />
+<span class="varspell" title="Already">Alreadie</span> in part, though hid in gloomiest shade,<br />
+To sorrow <span class="varspell" title="abandoned">abandond</span>, but worse felt within,<br />
+And in a <a href="" id="troubld" class="annotBtn"><span class="varspell" title="troubled">troubl'd</span> Sea</a> of passion <span class="varspell" title="tossed">tost</span>,<br />
+Thus to <span class="varspell" title="disburden">disburd'n</span> sought with <a href="" id="sadcomplaint" class="annotBtn">sad complaint</a>.
+</p>
+<p>
+O miserable of <span class="varspell" title="happy">happie</span>!  is this the end<span class="line" id="line720"> [ 720 ]</span><br />
+Of this new glorious World, and <span class="varspell" title="me">mee</span> so late<br />
+The Glory of that Glory, who now <span class="varspell" title="become">becom</span><br />
+<span class="varspell" title="Accursed">Accurst</span> of blessed, hide me from the face<br />
+Of God, whom to behold was then my <span class="varspell" title="height">highth</span><br />
+
+Of happiness: yet well, if here would end<span class="line" id="line725"> [ 725 ]</span><br />
+The <span class="varspell" title="misery">miserie</span>, I <span class="varspell" title="deserved">deserv'd</span> it, and would <span class="varspell" title="bear">beare</span><br />
+My own deservings; but this will not serve;<br />
+All that I eat or drink, or shall beget,<br />
+Is <a href="" id="curse" class="annotBtn">propagated curse</a>. O voice once heard<br />
+
+Delightfully, <a href="" id="increase" class="annotBtn"><span class="mi"><span class="varspell" title="Increase">Encrease</span> and multiply</span></a>,<span class="line" id="line730"> [ 730 ]</span><br />
+Now death to <span class="varspell" title="hear">hear</span>! for what can I <span class="varspell" title="increase">encrease</span><br />
+Or <span class="varspell" title="multiply">multiplie</span>, but curses on my head?<br />
+Who of all Ages to succeed, but feeling<br />
+The evil on him brought by me, will curse<br />
+
+My Head, <a href="" id="fare" class="annotBtn">Ill fare our Ancestor impure</a>,<span class="line" id="line735"> [ 735 ]</span><br />
+For this we may thank <span class="mi">Adam</span>; but his thanks<br />
+Shall be the execration; so besides<br />
+<a href="" id="mine" class="annotBtn">Mine own</a> that bide upon me, all from <span class="varspell" title="me">mee</span><br />
+Shall with a fierce reflux on <span class="varspell" title="me">mee</span> redound,<br />
+
+On <span class="varspell" title="me">mee</span> as on <span class="varspell" title="their">thir</span> natural center light<span class="line" id="line740"> [ 740 ]</span><br />
+<span class="varspell" title="Heavy">Heavie</span>, though in <span class="varspell" title="their">thir</span> place. O fleeting <span class="varspell" title="joys">joyes</span><br />
+Of Paradise, <span class="varspell" title="dear">deare</span> bought with lasting woes!<br />
+Did I request thee, <a href="" id="maker" class="annotBtn">Maker</a>, from my Clay<br />
+To <span class="varspell" title="mold">mould</span> me Man, did I <span class="varspell" title="solicit">sollicite</span> thee<br />
+
+From darkness to promote me, or here place<span class="line" id="line745"> [ 745 ]</span><br />
+In this delicious Garden? as my Will<br />
+<span class="varspell" title="Concurred">Concurd</span> not to my being, it were but right<br />
+<a href="" id="andequal" class="annotBtn">And equal</a> to reduce me to my dust,<br />
+Desirous to <span class="varspell" title="resign">resigne</span>, and render back<br />
+
+All I <span class="varspell" title="received">receav'd</span>, unable to <span class="varspell" title="perform">performe</span><span class="line" id="line750"> [ 750 ]</span><br />
+Thy terms too hard, by which I was to hold<br />
+The good I sought not. To the loss of that,<br />
+Sufficient <span class="varspell" title="penalty">penaltie</span>, why hast thou added<br />
+The sense of endless woes? inexplicable<br />
+
+Thy Justice seems; yet to say truth, too late,<span class="line" id="line755"> [ 755 ]</span><br />
+I thus contest; then should have been <span class="varspell" title="refused">refusd</span><br />
+Those terms whatever, when they were <span class="varspell" title="proposed">propos'd</span>:<br />
+<a href="" id="thou" class="annotBtn">Thou <span class="varspell" title="diddest">didst</span> accept them</a>; wilt thou enjoy the good,<br />
+Then cavil the conditions? and though God<br />
+
+Made thee without thy leave, what if thy Son<span class="line" id="line760"> [ 760 ]</span><br />
+Prove disobedient, and <span class="varspell" title="reproved">reprov'd</span>, retort,<br />
+Wherefore <span class="varspell" title="diddest">didst</span> thou <a href="" id="beget" class="annotBtn">beget</a> me? I sought it not<br />
+<span class="varspell" title="Wouldest">Wouldst</span> thou admit for his contempt of thee<br />
+That proud excuse? yet him not thy <a href="" id="election" class="annotBtn">election</a>,<br />
+
+But Natural necessity begot.<span class="line" id="line765"> [ 765 ]</span><br />
+God made thee of choice his own, and of his own<br />
+To serve him, thy reward was of his grace,<br />
+Thy punishment then justly is at his Will.<br />
+Be it so, for I submit, his doom is fair,<br />
+
+That dust I am, and shall to dust <span class="varspell" title="return">returne</span>:<span class="line" id="line770"> [ 770 ]</span><br />
+O <span class="varspell" title="welcome">welcom</span> hour whenever! why <span class="varspell" title="delays">delayes</span><br />
+His hand to execute what his Decree<br />
+<a href="" id="fixedday" class="annotBtn"><span class="varspell" title="Fixed">Fixd</span> on this day?</a> why do I overlive,<br />
+Why am I <span class="varspell" title="mocked">mockt</span> with death, and <span class="varspell" title="lengthened">length'nd</span> out<br />
+
+To deathless pain? how gladly would I meet<span class="line" id="line775"> [ 775 ]</span><br />
+<span class="varspell" title="Mortality">Mortalitie</span> my sentence, and be Earth<br />
+Insensible, how glad would lay me down<br />
+As in my <a href="" id="molap" class="annotBtn"><span class="varspell" title="Mother's">Mothers</span> lap!</a> There I should rest<br />
+And sleep secure; his dreadful voice no more<br />
+
+Would Thunder in my ears, no fear of worse<span class="line" id="line780"> [ 780 ]</span><br />
+To <span class="varspell" title="me">mee</span> and to my <span class="varspell" title="offspring">ofspring</span> would torment me<br />
+With cruel expectation. Yet one doubt<br />
+Pursues me still, <span class="varspell" title="lest">least</span> all I cannot die,<br />
+<span class="varspell" title="Lest">Least</span> that pure breath of Life, the Spirit of Man<br />
+
+Which God <span class="varspell" title="inspired">inspir'd</span>, cannot together perish<span class="line" id="line785"> [ 785 ]</span><br />
+With this corporeal Clod; then in the Grave,<br />
+Or in some other dismal place who knows<br />
+But I shall <a name="livingdeath">die</a> a <a href="" id="living" class="annotBtn">living Death</a>? O thought<br />
+Horrid, if true! yet why? it was but breath<br />
+
+Of Life that <span class="varspell" title="sinned">sinn'd</span>; what dies but what had life<span class="line" id="line790"> [ 790 ]</span><br />
+And sin? the <span class="varspell" title="Body">Bodie</span> properly hath neither.<br />
+<a href="" id="allofme" class="annotBtn">All of me then shall die</a>: let this appease<br />
+The doubt, since <span class="varspell" title="human">humane</span> reach no further knows.<br />
+For though the Lord of all be infinite,<br />
+
+Is his <span class="varspell" title="wrath">wrauth</span> also? be it, man is not so,<span class="line" id="line795"> [ 795 ]</span><br />
+But mortal <span class="varspell" title="doomed">doom'd</span>. How can he exercise<br />
+Wrath without end on Man whom Death must end?<br />
+Can he make deathless Death? that were to make<br />
+Strange contradiction, which to God himself<br />
+
+Impossible is held, as Argument<span class="line" id="line800"> [ 800 ]</span><br />
+Of weakness, not of Power. Will he<a href="" id="line801" class="annotBtn">,</a> draw out,<br />
+For <span class="varspell" title="anger's">angers</span> sake, finite to infinite<br />
+In <span class="varspell" title="punished">punisht</span> man, to <span class="varspell" title="satisfy">satisfie</span> his <span class="varspell" title="rigor">rigour</span><br />
+<span class="varspell" title="Satisfied">Satisfi'd</span> never; that were to extend<br />
+
+His Sentence beyond dust and <a href="" id="nature" class="annotBtn"><span class="varspell" title="Nature's">Natures</span> Law</a>,<span class="line" id="line805"> [ 805 ]</span><br />
+By which all Causes else according still<br />
+To the reception of <span class="varspell" title="their">thir</span> matter act,<br />
+Not to <span class="varspell" title="the">th'</span> extent of <span class="varspell" title="their">thir</span> own <span class="varspell" title="Sphere">Spheare</span>. But say<br />
+That Death be not one <span class="varspell" title="stroke">stroak</span>, as I <span class="varspell" title="supposed">suppos'd</span>,<br />
+
+<a href="" id="bereaving" class="annotBtn">Bereaving sense</a>, but endless <span class="varspell" title="misery">miserie</span><span class="line" id="line810"> [ 810 ]</span><br />
+From this day onward, which I feel begun<br />
+Both in me, and without me, and so last<br />
+To <span class="varspell" title="perpetuity">perpetuitie</span>; Ay me, that fear<br />
+Comes <span class="varspell" title="thundering">thundring</span> back with dreadful revolution<br />
+
+On my <span class="varspell" title="defenseless">defensless</span> head; both Death and I<span class="line" id="line815"> [ 815 ]</span><br />
+Am found Eternal, and <a href="" id="incorp" class="annotBtn">incorporate</a> both,<br />
+Nor I on my part single, in <span class="varspell" title="me">mee</span> all<br />
+<span class="varspell" title="Posterity">Posteritie</span> stands <span class="varspell" title="cursed">curst</span>: Fair <span class="varspell" title="Patrimony">Patrimonie</span><br />
+That I must leave ye, Sons; O were I able<br />
+
+To waste it all my self, and leave ye none!<span class="line" id="line820"> [ 820 ]</span><br />
+So disinherited how would ye bless<br />
+Me now your curse! Ah, why should all mankind<br />
+For one <span class="varspell" title="man's">mans</span> fault thus guiltless be <span class="varspell" title="condemned">condemn'd</span>,<br />
+If guiltless? But from <span class="varspell" title="me">mee</span> what can proceed,<br />
+
+But all corrupt, both <a href="" id="mindwill" class="annotBtn">Mind and Will <span class="varspell" title="depraved">deprav'd</span></a>,<span class="line" id="line825"> [ 825 ]</span><br />
+Not to do <span class="varspell" title="only">onely</span>, but to will the same<br />
+With me? how can they then acquitted stand<br />
+In sight of God? Him after all Disputes<br />
+<a href="" id="absolve" class="annotBtn"><span class="varspell" title="Forced">Forc't</span> I absolve</a>: all my evasions vain<br />
+
+And reasonings, though through Mazes, lead me still<span class="line" id="line830"> [ 830 ]</span><br />
+But to my own conviction: first and last<br />
+<a href="" id="adamme" class="annotBtn">On <span class="varspell" title="me">mee</span>, <span class="varspell" title="me">mee</span> <span class="varspell" title="only">onely</span></a>, as the <span class="varspell" title="source">sourse</span> and spring<br />
+Of all corruption, all the blame lights due;<br />
+So might the <span class="varspell" title="wrath">wrauth</span>. Fond wish! <span class="varspell" title="couldest">couldst</span> thou support<br />
+
+That burden heavier <span class="varspell" title="than">then</span> the Earth to bear<span class="line" id="line835"> [ 835 ]</span><br />
+<span class="varspell" title="Than">Then</span> all the World much heavier, though divided<br />
+With that bad Woman? Thus what thou <span class="varspell" title="desirest">desir'st</span>,<br />
+And what thou <span class="varspell" title="fearest">fearst</span>, alike <span class="varspell" title="destroys">destroyes</span> all hope<br />
+Of refuge, and concludes thee miserable<br />
+
+Beyond all past example and future,<span class="line" id="line840"> [ 840 ]</span><br />
+<a href="" id="like2" class="annotBtn">To <span class="mi">Satan</span> only like</a> both crime and doom.<br />
+O Conscience, into what Abyss of fears<br />
+And horrors hast thou <span class="varspell" title="driven">driv'n</span> me; out of which<br />
+I find no way, from deep to deeper <span class="varspell" title="plunged">plung'd</span>!
+
+
+
+</p>
+<p>
+Thus <span class="mi">Adam</span> to himself lamented loud<span class="line" id="line845"> [ 845 ]</span><br />
+Through the still Night, not now, as ere man fell,<br />
+<span class="varspell" title="Wholesome">Wholsom</span> and cool, and mild, but with black Air<br />
+Accompanied, with damps and dreadful gloom,<br />
+Which to his evil Conscience represented<br />
+
+All things with double terror: On the ground<span class="line" id="line850"> [ 850 ]</span><br />
+<span class="varspell" title="Outstretched">Outstretcht</span> he lay, on the cold ground, and oft<br />
+<span class="varspell" title="Cursed">Curs'd</span> his Creation, Death as oft <span class="varspell" title="accused">accus'd</span><br />
+Of <span class="varspell" title="tardy">tardie</span> execution, since <a href="" id="denounced" class="annotBtn"><span class="varspell" title="denounced">denounc't</span></a><br />
+The day of his offence. Why comes not Death,<br />
+
+Said <span class="varspell" title="he">hee</span>, with one thrice acceptable stroke<span class="line" id="line855"> [ 855 ]</span><br />
+To end me? Shall Truth fail to keep her word,<br />
+Justice Divine not <span class="varspell" title="hasten">hast'n</span> to be just?<br />
+But Death comes not at call, Justice Divine<br />
+Mends not her slowest pace for prayers or cries.<br />
+
+O Woods, O Fountains, Hillocks, Dales and <span class="varspell" title="Bowers">Bowrs</span>,<span class="line" id="line860"> [ 860 ]</span><br />
+With other echo late I taught your Shades<br />
+To answer, and resound <span class="varspell" title="far">farr</span> other Song.<br />
+Whom thus afflicted when sad <span class="mi">Eve</span> beheld,<br />
+Desolate where she <span class="varspell" title="sat">sate</span>, approaching nigh,<br />
+
+Soft words to his fierce passion she <span class="varspell" title="Assayed">assay'd</span>:<span class="line" id="line865"> [ 865 ]</span><br />
+But her with stern regard he thus <span class="varspell" title="repelled">repell'd</span>.
+</p>
+<p>
+Out of my sight, <a href="" id="thou2" class="annotBtn">thou Serpent</a>, that name best<br />
+Befits thee with him <span class="varspell" title="leagued">leagu'd</span>, thy self as false<br />
+And hateful; nothing wants, but that thy shape,<br />
+
+Like his, and <span class="varspell" title="color">colour</span> Serpentine may <span class="varspell" title="show">shew</span><span class="line" id="line870"> [ 870 ]</span><br />
+Thy inward fraud, to warn all Creatures from thee<br />
+Henceforth; <span class="varspell" title="lest">least</span> that too <span class="varspell" title="heavenly">heav'nly</span> form, <a href="" id="pretend" class="annotBtn">pretended</a><br />
+To hellish <span class="varspell" title="falsehood">falshood</span>, snare them. But for thee<br />
+I had persisted <span class="varspell" title="happy">happie</span>, had not thy pride<br />
+
+And <span class="varspell" title="wandering">wandring</span> <span class="varspell" title="vanity">vanitie</span>, when <span class="varspell" title="least">lest</span> was safe,<span class="line" id="line875"> [ 875 ]</span><br />
+Rejected my forewarning, and <span class="varspell" title="disdained">disdain'd</span><br />
+Not to be trusted, <a href="" id="longing" class="annotBtn">longing to be seen</a><br />
+Though by the Devil himself, him <a href="" id="overween" class="annotBtn">overweening</a><br />
+To over-reach, but with the Serpent meeting<br />
+
+<span class="varspell" title="Fooled">Fool'd</span> and <span class="varspell" title="beguiled">beguil'd</span>, by him thou, I by thee,<span class="line" id="line880"> [ 880 ]</span><br />
+To trust thee from my side, <span class="varspell" title="imagined">imagin'd</span> wise,<br />
+Constant, mature, proof against all assaults,<br />
+And understood not all was <a href="" id="shew" class="annotBtn">but a <span class="varspell" title="show">shew</span></a><br />
+Rather <span class="varspell" title="than">then</span> solid <span class="varspell" title="virtue">vertu</span>, all but a Rib<br />
+
+Crooked by nature, bent, as now appears,<span class="line" id="line885"> [ 885 ]</span><br />
+More to the <a href="" id="lefties" class="annotBtn">part sinister</a> from me drawn,<br />
+Well if thrown out, as <a href="" id="super" class="annotBtn"><span class="varspell" title="supernumerary">supernumerarie</span></a><br />
+To my just number found. <a name="androgenesis">O</a> why did God,<br />
+Creator wise, that <span class="varspell" title="peopled">peopl'd</span> highest <span class="varspell" title="Heaven">Heav'n</span><br />
+
+With Spirits Masculine, create at last<span class="line" id="line890"> [ 890 ]</span><br />
+This <a href="" id="novelty" class="annotBtn"><span class="varspell" title="novelty">noveltie</span></a> on Earth, this fair defect<br />
+Of Nature, and not fill the World at once<br />
+With Men as Angels <a href="" id="feminine" class="annotBtn">without Feminine</a>,<br />
+Or find some other way to generate<br />
+
+Mankind? this mischief had not then <span class="varspell" title="befallen">befall'n</span>,<span class="line" id="line895"> [ 895 ]</span><br />
+And more that shall befall, innumerable<br />
+Disturbances on Earth through <span class="varspell" title="Female">Femal</span> snares,<br />
+And <a href="" id="sex" class="annotBtn"><span class="varspell" title="strait">straight</span> conjunction</a> with this Sex: for either<br />
+He never shall find out <a href="" id="mate" class="annotBtn">fit Mate</a>, but such<br />
+
+As some misfortune brings him, or mistake,<span class="line" id="line900"> [ 900 ]</span><br />
+Or whom he wishes most shall seldom gain<br />
+Through her <span class="varspell" title="perverseness">perversness</span>, but shall see her <span class="varspell" title="gained">gaind</span><br />
+By a <span class="varspell" title="far">farr</span> worse, or if she love, withheld<br />
+By Parents, or his happiest choice too late<br />
+
+Shall meet, <span class="varspell" title="already">alreadie</span> <span class="varspell" title="linked">linkt</span> and Wedlock-bound<span class="line" id="line905"> [ 905 ]</span><br />
+To a fell <span class="varspell" title="Adversary">Adversarie</span>, his hate or shame:<br />
+Which infinite <span class="varspell" title="calamity">calamitie</span> shall cause<br />
+To <span class="varspell" title="Human">Humane</span> life, and <span class="varspell" title="household">houshold</span> peace confound.
+</p>
+<p>
+He added not, and from her <span class="varspell" title="turned">turn'd</span>, but <span class="mi">Eve</span><br />
+
+Not so <span class="varspell" title="repulsed">repulst</span>, with Tears that <span class="varspell" title="ceased">ceas'd</span> not flowing,<span class="line" id="line910"> [ 910 ]</span><br />
+And <a href="" id="tresses" class="annotBtn">tresses all <span class="varspell" title="disordered">disorderd</span></a>, at his feet<br />
+Fell humble, and <span class="varspell" title="embracing">imbracing</span> them, <span class="varspell" title="besought">besaught</span><br />
+His peace, and thus proceeded in her plaint.
+</p>
+<p>
+Forsake me not thus, <span class="mi">Adam</span>, witness <span class="varspell" title="Heaven">Heav'n</span><br />
+
+What love sincere, and reverence in my heart<span class="line" id="line915"> [ 915 ]</span><br />
+I <span class="varspell" title="bear">beare</span> thee, and unweeting have offended,<br />
+<span class="varspell" title="Unhappily">Unhappilie</span> <a href="" id="deceived" class="annotBtn"><span class="varspell" title="deceived">deceav'd</span></a>; thy suppliant<br />
+I beg, and clasp thy knees; bereave me not,<br />
+Whereon I live, thy gentle looks, thy aid,<br />
+
+Thy counsel in this uttermost distress,<span class="line" id="line920"> [ 920 ]</span><br />
+My <span class="varspell" title="only">onely</span> strength and stay: forlorn of thee,<br />
+Whither shall I betake me, where subsist?<br />
+While yet we live, <span class="varspell" title="scarce">scarse</span> one short hour perhaps,<br />
+Between us two let there be peace, both <span class="varspell" title="joining">joyning</span>,<br />
+
+As <span class="varspell" title="joined">joyn'd</span> in injuries, one <span class="varspell" title="enmity">enmitie</span><span class="line" id="line925"> [ 925 ]</span><br />
+Against a Foe by doom express <span class="varspell" title="assigned">assign'd</span> us,<br />
+That cruel Serpent: On me exercise not<br />
+Thy hatred for this <span class="varspell" title="misery">miserie</span> <span class="varspell" title="befallen">befall'n</span>,<br />
+On me <span class="varspell" title="already">alreadie</span> lost, <span class="varspell" title="me">mee</span> <span class="varspell" title="than">then</span> thy self<br />
+
+More miserable; both have <span class="varspell" title="sinned">sin'd</span>, but thou<span class="line" id="line930"> [ 930 ]</span><br />
+Against God <span class="varspell" title="only">onely</span>, I against God and thee,<br />
+And to the place of judgment will return,<br />
+There with my cries importune Heaven, that all<br />
+The sentence from thy head <span class="varspell" title="removed">remov'd</span> may light<br />
+
+<a name="eveme">On me, sole cause to thee of all this woe</a>,<span class="line" id="line935"> [ 935 ]</span><br />
+<a href="" id="eveme" class="annotBtn"><span class="varspell" title="Me">Mee</span> <span class="varspell" title="me">mee</span> <span class="varspell" title="only">onely</span></a> just object of his ire.
+
+</p>
+<p>
+She ended weeping, and her <span class="varspell" title="lowly">lowlie</span> plight,<br />
+Immovable till peace <span class="varspell" title="obtained">obtain'd</span> from fault<br />
+<span class="varspell" title="Acknowledged">Acknowledg'd</span> and <span class="varspell" title="deplored">deplor'd</span>, in <span class="mi">Adam</span> <span class="varspell" title="wrought">wraught</span><br />
+
+Commiseration; soon his heart relented<span class="line" id="line940"> [ 940 ]</span><br />
+Towards her, his life so late and sole delight,<br />
+Now at his feet submissive in distress,<br />
+Creature so <span class="varspell" title="fair">faire</span> his reconcilement seeking,<br />
+His counsel whom she had <span class="varspell" title="displeased">displeas'd</span>, <a href="" id="hisaide" class="annotBtn">his <span class="varspell" title="aid">aide</span></a>;<br />
+
+As one <span class="varspell" title="disarmed">disarm'd</span>, his anger all he lost,<span class="line" id="line945"> [ 945 ]</span><br />
+And thus with peaceful words <span class="varspell" title="upraised">uprais'd</span> her soon.
+
+</p>
+<p>
+<span class="varspell" title="Unwary">Unwarie</span>, and too desirous, as before,<br />
+So now of what thou <span class="varspell" title="knowest">knowst</span> not, who <span class="varspell" title="desirest">desir'st</span><br />
+The punishment all on thy self; alas,<br />
+
+<span class="varspell" title="Bear">Beare</span> thine own first, ill able to <span class="varspell" title="sustain">sustaine</span><span class="line" id="line950"> [ 950 ]</span><br />
+His full <span class="varspell" title="wrath">wrauth</span> whose thou <span class="varspell" title="feelest">feelst</span> as yet <a href="" id="lest" class="annotBtn"><span class="varspell" title="least">lest</span> part</a>,<br />
+And my displeasure <span class="varspell" title="bearest">bearst</span> so ill. If Prayers<br />
+Could alter high Decrees, I to that place<br />
+Would speed before thee, and be louder heard,<br />
+
+That <a href="" id="adamshead" class="annotBtn">on my head</a> all might be visited,<span class="line" id="line955"> [ 955 ]</span><br />
+Thy <span class="varspell" title="frailty">frailtie</span> and infirmer Sex <span class="varspell" title="forgiven">forgiv'n</span>,<br />
+To me committed and by me <span class="varspell" title="exposed">expos'd</span>.<br />
+But rise, let us no more contend, nor <a name="blame">blame</a><br />
+Each other, <span class="varspell" title="blamed">blam'd</span> enough elsewhere, but strive<br />
+
+In offices of Love, how we may <span class="varspell" title="lighten">light'n</span><span class="line" id="line960"> [ 960 ]</span><br />
+Each <span class="varspell" title="other's">others</span> burden in our share of woe;<br />
+Since this <span class="varspell" title="day's">days</span> Death <span class="varspell" title="denounced">denounc't</span>, if ought I see,<br />
+Will prove no sudden, but a slow-<span class="varspell" title="paced">pac't</span> <span class="varspell" title="evil">evill</span>,<br />
+A long <span class="varspell" title="day's">days</span> dying to augment our <span class="varspell" title="pain">paine</span>,<br />
+
+And to our Seed (O hapless Seed!) <a href="" id="derived2" class="annotBtn"><span class="varspell" title="derived">deriv'd</span></a>.<span class="line" id="line965"> [ 965 ]</span>
+</p>
+<p>
+To whom thus <span class="mi">Eve</span>, recovering heart, <span class="varspell" title="replied">repli'd</span>.<br />
+<span class="mi">Adam</span>, by sad experiment I know<br />
+How little weight my words with thee can <span class="varspell" title="find">finde</span>,<br />
+Found so erroneous, thence by just event<br />
+
+Found so unfortunate; nevertheless,<span class="line" id="line970"> [ 970 ]</span><br />
+<span class="varspell" title="Restored">Restor'd</span> by thee, vile as I am, to place<br />
+Of new acceptance, hopeful to <span class="varspell" title="regain">regaine</span><br />
+Thy Love, the sole contentment of my heart<br />
+<a href="" id="livedie" class="annotBtn">Living or dying</a>, from thee I will not hide<br />
+
+What thoughts in my unquiet <span class="varspell" title="breast">brest</span> are <span class="varspell" title="risen">ris'n</span>,<span class="line" id="line975"> [ 975 ]</span><br />
+Tending to some relief of our extremes,<br />
+Or end, though sharp and sad, yet tolerable,<br />
+<a href="" id="evils" class="annotBtn">As in our evils</a>, and of easier choice.<br />
+If care of our <a href="" id="descent" class="annotBtn">descent</a> perplex us most,<br />
+
+Which must be born to certain woe, <span class="varspell" title="devoured">devourd</span><span class="line" id="line980"> [ 980 ]</span><br />
+By Death at last, and miserable it is<br />
+To be to others cause of misery,<br />
+Our own begotten, and of our <span class="varspell" title="Loins">Loines</span> to bring<br />
+Into this cursed World a <span class="varspell" title="woeful">woful</span> Race,<br />
+
+That after wretched Life must be at last<span class="line" id="line985"> [ 985 ]</span><br />
+Food for so <span class="varspell" title="foul">foule</span> a Monster, in thy power<br />
+It lies, yet ere Conception to prevent<br />
+The Race <span class="varspell" title="unblessed">unblest</span>, to being <a href="" id="unbegot" class="annotBtn">yet unbegot</a>.<br />
+Childless thou art, Childless <span class="varspell" title="remain">remaine</span>: <br />
+
+<a href="" id="death" class="annotBtn">So Death</a> shall be <span class="varspell" title="deceived">deceav'd</span> his glut, and with us two<span class="line" id="line990"> [ 990 ]</span><br />
+Be <span class="varspell" title="forced">forc'd</span> to <span class="varspell" title="satisfy">satisfie</span> his <span class="varspell" title="Ravenous">Rav'nous</span> Maw.<br />
+But if thou judge it hard and difficult,<br />
+<a href="" id="conversing" class="annotBtn">Conversing</a>, looking, loving, to abstain<br />
+From Loves due Rites, Nuptial <span class="varspell" title="embraces">imbraces</span> sweet,<br />
+
+And with desire to languish without hope,<span class="line" id="line995"> [ 995 ]</span><br />
+Before the <a href="" id="present" class="annotBtn">present object</a> languishing<br />
+With like desire, which would be <a href="" id="miserie" class="annotBtn"><span class="varspell" title="misery">miserie</span></a><br />
+And torment less <span class="varspell" title="than">then</span> none of what we dread,<br />
+<span class="varspell" title="Than">Then</span> both our selves and Seed at once to free<br />
+
+From what we fear for both, let us make short,<span class="line" id="line1000"> [ 1000 ]</span><br />
+Let us seek Death, or he not found, supply<br />
+With our own hands his Office on our selves;<br />
+Why stand we longer shivering under <span class="varspell" title="fears">feares</span>,<br />
+That <span class="varspell" title="show">shew</span> no end but Death, and have the power,<br />
+
+Of many ways to die the shortest choosing,<span class="line" id="line1005"> [ 1005 ]</span><br />
+Destruction with destruction to destroy.
+</p>
+<p>
+She ended <span class="varspell" title="here">heer</span>, or vehement <span class="varspell" title="despair">despaire</span><br />
+Broke off the rest; so much of Death her thoughts<br />
+Had <span class="varspell" title="entertained">entertaind</span>, as <span class="varspell" title="dyed">di'd</span> her Cheeks with pale.<br />
+
+But <span class="mi">Adam</span> with such counsel nothing <span class="varspell" title="swayed">sway'd</span>,<span class="line" id="line1010"> [ 1010 ]</span><br />
+To better hopes <a href="" id="attentive" class="annotBtn">his more attentive <span class="varspell" title="mind">minde</span></a><br />
+<span class="varspell" title="Laboring">Labouring</span> had <span class="varspell" title="raised">rais'd</span>, and thus to <span class="mi">Eve</span> <span class="varspell" title="replied">repli'd</span>.
+</p>
+<p>
+<span class="mi">Eve</span>, thy contempt of life and pleasure seems<br />
+To argue in thee <span class="varspell" title="something">somthing</span> more sublime<br />
+
+And excellent <span class="varspell" title="than">then</span> what thy <span class="varspell" title="mind">minde</span> <span class="varspell" title="contemns">contemnes</span>;<span class="line" id="line1015"> [ 1015 ]</span><br />
+But self-destruction therefore <span class="varspell" title="sought">saught</span>, refutes<br />
+That excellence thought in thee, and implies,<br />
+Not thy contempt, but anguish and regret<br />
+For loss of life and pleasure <span class="varspell" title="overloved">overlov'd</span>.<br />
+
+Or if thou covet death, as utmost end<span class="line" id="line1020"> [ 1020 ]</span><br />
+Of <span class="varspell" title="misery">miserie</span>, so thinking to evade<br />
+The <span class="varspell" title="penalty">penaltie</span> <span class="varspell" title="pronounced">pronounc't</span>, doubt not but God<br />
+Hath wiselier <span class="varspell" title="armed">arm'd</span> his vengeful ire <span class="varspell" title="than">then</span> so<br />
+To be <span class="varspell" title="forestalled">forestall'd</span>; <a name="beneficial">much</a> more I fear <span class="varspell" title="lest">least</span> Death<br />
+
+So <span class="varspell" title="snatched">snatcht</span> will not exempt us from the <span class="varspell" title="pain">paine</span><span class="line" id="line1025"> [ 1025 ]</span><br />
+We are by doom to pay; rather such acts<br />
+Of <a href="" id="contumacy" class="annotBtn"><span class="varspell" title="contumacy">contumacie</span></a> will provoke the highest<br />
+To make death in us live: Then let us seek<br />
+Some safer resolution, which methinks<br />
+
+I have in view, calling to <span class="varspell" title="mind">minde</span> with heed<span class="line" id="line1030"> [ 1030 ]</span><br />
+Part of our Sentence, that thy Seed shall <a name="bruise">bruise</a><br />
+The <span class="varspell" title="Serpent's">Serpents</span> head; piteous amends, unless<br />
+Be meant, whom I conjecture, our grand Foe<br />
+<span class="mi">Satan</span>, who in the Serpent hath <span class="varspell" title="contrived">contriv'd</span><br />
+
+Against us this deceit: to crush his head<span class="line" id="line1035"> [ 1035 ]</span><br />
+Would be revenge indeed; which will be lost<br />
+By death brought on our selves, or childless days<br />
+<span class="varspell" title="Resolved">Resolv'd</span>, as thou proposest; so our Foe<br />
+Shall <span class="varspell" title="escape"> scape</span> his punishment <span class="varspell" title="ordained">ordain'd</span>, and <span class="varspell" title="we">wee</span><br />
+
+Instead shall double ours upon our heads.<span class="line" id="line1040"> [ 1040 ]</span><br />
+No more be <span class="varspell" title="mentioned">mention'd</span> then of violence<br />
+Against our selves, and <span class="varspell" title="wilfull">wilful</span> barrenness,<br />
+That cuts us off from hope, and <span class="varspell" title="savors">savours</span> <span class="varspell" title="only">onely</span><br />
+Rancor and pride, impatience and despite,<br />
+
+<a href="" id="reluctance" class="annotBtn">Reluctance</a> against God and his just yoke<span class="line" id="line1045"> [ 1045 ]</span><br />
+Laid on our Necks. Remember with what mild<br />
+And gracious temper he both heard and <span class="varspell" title="judged">judg'd</span><br />
+Without <span class="varspell" title="wrath">wrauth</span> or reviling; <span class="varspell" title="we">wee</span> expected<br />
+Immediate dissolution, which we thought<br />
+
+Was meant by Death that day, when lo, to thee<span class="line" id="line1050"> [ 1050 ]</span><br />
+Pains <span class="varspell" title="only">onely</span> in Child-bearing were foretold,<br />
+And bringing forth, soon <span class="varspell" title="recompensed">recompenc't</span> with joy,<br />
+<a href="" id="fruit" class="annotBtn">Fruit of thy Womb</a>: On <span class="varspell" title="me">mee</span> the Curse <a href="" id="aslope" class="annotBtn">aslope</a><br />
+<span class="varspell" title="Glanced">Glanc'd</span> on the ground, with <span class="varspell" title="labor">labour</span> I must <span class="varspell" title="earn">earne</span><br />
+
+My bread; what harm? Idleness had <span class="varspell" title="been">bin</span> worse;<span class="line" id="line1055"> [ 1055 ]</span><br />
+My <span class="varspell" title="labor">labour</span> will sustain me; and <span class="varspell" title="lest">least</span> Cold<br />
+Or Heat should injure us, his timely care<br />
+Hath <span class="varspell" title="unbesought">unbesaught</span> provided, and his hands<br />
+<span class="varspell" title="Clothed">Cloath'd</span> us <span class="varspell" title="unworthy">unworthie</span>, pitying while he <span class="varspell" title="judged">judg'd</span>;<br />
+
+How much more, if we pray him, will his ear<span class="line" id="line1060"> [ 1060 ]</span><br />
+Be open, and his heart to <span class="varspell" title="pity">pitie</span> incline,<br />
+And teach us further by what means to shun<br />
+<span class="varspell" title="The">Th'</span> inclement Seasons, Rain, Ice, Hail and Snow,<br />
+Which now the <span class="varspell" title="Sky">Skie</span> with various Face begins<br />
+
+To <span class="varspell" title="show">shew</span> us in this Mountain, while the Winds<span class="line" id="line1065"> [ 1065 ]</span><br />
+Blow moist and keen, shattering the graceful locks<br />
+Of these fair spreading Trees; which bids us seek<br />
+<span class="varspell" title="Some">Som</span> better shroud, <span class="varspell" title="some">som</span> better warmth to cherish<br />
+Our Limbs <span class="varspell" title="benumbed">benumm'd</span>, ere <a href="" id="sunshine" class="annotBtn">this diurnal <span class="varspell" title="Star">Starr</span></a><br />
+
+Leave cold the Night, how we his <span class="varspell" title="gathered">gather'd</span> beams<span class="line" id="line1070"> [ 1070 ]</span><br />
+Reflected, may <a href="" id="sere" class="annotBtn">with matter sere foment</a>,<br />
+Or by collision of two bodies <span class="varspell" title="grind">grinde</span><br />
+The Air <a href="" id="attrite" class="annotBtn">attrite</a> to Fire, as late the Clouds<br />
+<span class="varspell" title="Jostling">Justling</span> or <span class="varspell" title="pushed">pusht</span> with Winds rude in <span class="varspell" title="their">thir</span> shock<br />
+
+<a href="" id="tine" class="annotBtn">Tine</a> the slant Lightning, whose <a href="" id="stop" class="annotBtn">thwart</a> flame <span class="varspell" title="driven">driv'n</span> down<span class="line" id="line1075"> [ 1075 ]</span><br />
+Kindles the <span class="varspell" title="gummy">gummie</span> bark of <span class="varspell" title="Fir">Firr</span> or Pine,<br />
+And sends a comfortable heat from <span class="varspell" title="far">farr</span>,<br />
+Which might <a href="" id="supplie" class="annotBtn"><span class="varspell" title="supply">supplie</span> the Sun</a>: such Fire to use,<br />
+And what may else be <span class="varspell" title="remedy">remedie</span> or cure<br />
+
+To evils which our own misdeeds have wrought,<span class="line" id="line1080"> [ 1080 ]</span><br />
+<a name="repentance"><span class="varspell" title="He">Hee</span></a> will instruct us praying, and of Grace<br />
+Beseeching him, so as we need not fear<br />
+To pass commodiously this life, <span class="varspell" title="sustained">sustain'd</span><br />
+By him with many comforts, till we end<br />
+
+In dust, our final rest and native home.<span class="line" id="line1085"> [ 1085 ]</span><br />
+What better can we do, <span class="varspell" title="than">then</span> to the place<br />
+Repairing where he <span class="varspell" title="judged">judg'd</span> us, prostrate fall<br />
+Before him reverent, and there confess<br />
+Humbly our faults, and pardon beg, with tears<br />
+
+Watering the ground, and with our sighs the Air<span class="line" id="line1090"> [ 1090 ]</span><br />
+<a href="" id="oftening" class="annotBtn">Frequenting</a>, sent from hearts contrite, in sign<br />
+Of sorrow <span class="varspell" title="unfeigned">unfeign'd</span>, and humiliation meek.<br />
+Undoubtedly he will relent and turn<br />
+From his displeasure; in whose look serene,<br />
+
+When angry most he <span class="varspell" title="seemed">seem'd</span> and most severe,<span class="line" id="line1095"> [ 1095 ]</span><br />
+What else but favor, grace, and <span class="varspell" title="mercy">mercie</span> <span class="varspell" title="shone">shon</span>?
+</p>
+<p>
+So spake our Father penitent, nor <span class="mi">Eve</span><br />
+Felt less remorse: they forthwith to the place<br />
+Repairing where he <span class="varspell" title="judged">judg'd</span> them prostrate fell<br />
+
+Before him reverent, and both <span class="varspell" title="confessed">confess'd</span><span class="line" id="line1100"> [ 1100 ]</span><br />
+<a href="" id="romeo" class="annotBtn">Humbly <span class="varspell" title="their">thir</span> faults</a>, and pardon <span class="varspell" title="begged">beg'd</span>, with tears<br />
+Watering the ground, and with <span class="varspell" title="their">thir</span> sighs the Air<br />
+Frequenting, sent from hearts contrite, in sign<br />
+Of sorrow <span class="varspell" title="unfeigned">unfeign'd</span>, and humiliation meek.</p>
+</div>
+
+<br /><br />
+
+<div class="title">
+<span class="mi">The End of the Tenth Book.</span>
+</div>
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

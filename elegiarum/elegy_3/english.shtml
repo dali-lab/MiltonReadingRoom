@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<!--Copyright 2003, all rights reserved-->
+
+<title>Milton: Elegy 3</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/prose/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/prose/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">The Third Elegy</a><br />At the Age of Seventeen<br />
+On the Death of the Bishop of Winchester
+</p>
+<br /><br />
+<div class="verse_latin">
+ 
+<p class="first">
+<span class="varspell" title="Silent"><span class="minitial">S</span>ilent</span> and alone I sat in sorrowful mood, and many griefs laid hold upon my soul, when suddenly arose the phantom of the deadly plague which <a href="" id="libitina" class="annotBtn">Libitina</a> sent upon England, when bitter Death, fearful with her sepulchral torch, entered the gleaming marble palaces of the great, smote the walls heavy with jasper and gold, and feared not with her scythe to mow down troops of nobles. Then I remembered that famous duke and his revered brother-in-arms, whose bones were consumed on untimely pyres; I remembered the heroes that all Belgia saw caught up to heaven, the <a href="" id="lostleaders" class="annotBtn">lost leaders</a> whom she wept.
+</p>
+ <p>
+But I chiefly lamented for you, most noble Bishop, once the crowning glory of your beloved Winchester. I melted in tears, and thus sadly complained: "Cruel Death, goddess next in power to <a href="" id="tartarean" class="annotBtn">Tartarean Jove</a>, is it not enough that the forests suffer under your wrath, that power is given you over the grass of the field, that the lily, the crocus, and the rose sacred to lovely <a href="" id="cypris" class="annotBtn">Cypris</a>, droop at the touch of your withering breath? Nor do you permit the oak that stands by the river to gaze for ever at the flow of the passing water. And the birds, as many as are borne on wings through the liquid heaven, although they are diviners of the future; all the thousand wild beasts that wander in the dark forests; the <a href="" id="seals" class="annotBtn">dumb herds</a> that find shelter in the caves of Proteus; all succumb to you. You are envious? But, endowed with such power, what joy is it to stain your hands with human blood, to sharpen your unerring bolts to pierce a noble breast, and to drive a soul half-divine from its home?"
+</p>
+ <p>
+While thus in tears I pondered such matters deep in my heart, dewy <a href="" id="hesperus" class="annotBtn">Hesperus</a> arose from the Western sea, and Phoebus, having finished his course from the shores of dawn, had submerged his chariot in the Iberian ocean. Straightway I laid myself on my yielding bed to find repose, and night and sleep had closed my eyes, when, as it seemed, I was wandering in a wide field &mdash; but, alas! I have no gift to tell what I saw. There all things glowed with a purple light, as when the mountain-peaks grow red in the morning sun; and, even, as when the <a href="" id="iris" class="annotBtn">daughter of Thaumas</a> has scattered her rich offspring, the earth was luxuriant in many-colored robes. <a href="" id="chloris" class="annotBtn">Chloris</a>, the goddess beloved of gentle Zephyr, did not adorn the <a href="" id="alcinous" class="annotBtn">garden of Alcinous</a> with flowers so varied. Through verdant fields flowed silver streams whose sands shone a richer gold than those of <a href="" id="tagus" class="annotBtn">Hesperian Tagus</a>. Through the fragrant leaves the soft breath of <a href="" id="favonius" class="annotBtn">Favonius</a> trembled, the moist breath born beneath countless roses. Such a place, it is supposed, is the home of royal <a href="" id="lucifer" class="annotBtn">Lucifer</a>, in a land on the farthest shores of the Ganges. As I gazed in wonder at these sunlit spaces everywhere, and the deep shadows under the clustering vines, suddenly before me stood the Bishop of Winchester. From his face shone a heavenly light like the radiance of the stars, his robe of dazzling white swept down to his golden sandals, and a white band encircled his divine head. As the venerable man in such raiment advanced, the flowery earth trembled with joyous sound. The heavenly hosts clapped their jeweled wings, and the clear air resounded with the triumphal horn. Each saluted his new companion with embrace and song, and one with placid lips uttered these words: "Come, my son, take of the joy and gladness of your Father's kingdom, and <a href="" id="joy" class="annotBtn">from hard labor henceforth and for ever be free</a>." He spoke, and the winged companies touched their harps. But my golden peace was dispelled with the night, and I wept for my dreams shattered by the <a href="" id="cephalus" class="annotBtn">mistress of Cephalus</a>. <a href="" id="amores" class="annotBtn">May such dreams often return</a>. 
+</p>
+
+
+</div>
+</body>
+</html>

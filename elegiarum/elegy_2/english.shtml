@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<!--Copyright 2003, all rights reserved-->
+
+<title>Milton: Elegy 2</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/prose/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/prose/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">The Second Elegy</a><br />At the Age of Seventeen<br />
+On the Death of the Beadle of the University of Cambridge
+</p>
+<br /><br />
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="You"><span class="minitial">Y</span>ou</span>, conspicuous with your shining staff, were wont so often to summon the <a href="" id="palladian" class="annotBtn">Palladian band</a>; but, beadle as you were, fell Death, the last of all beadles, has seized you, and shows no favor even to his own office. Although your temples were whiter than the downy feathers under which we have heard that <a href="" id="swan" class="annotBtn">Jove disguised himself</a>, still  you were worthy to renew your youth with a <a href="" id="haemonian" class="annotBtn">Haemonian potion</a>, worthy like Aeson to relive your early days, worthy that <a href="" id="coronis" class="annotBtn">Coronis's son</a>, at the insistent prayer of a goddess, should with his healing art recall you from the waves of Styx. Whenever you were sent by <a href="" id="apollo" class="annotBtn">your Apollo</a> to go as a swift messenger to summon the gowned ranks, you stood like <a href="" id="cyllenius" class="annotBtn">wing-footed Cyllenius</a> in the Trojan halls, sent from the ethereal citadel of his father; or stood like <a href="" id="eurybates" class="annotBtn">Eurybates</a>, when before the face of angry Achilles he announced the stern commands of his lord, the son of Atreus.  O great <a href="" id="queen" class="annotBtn">queen of sepulchres</a>, attendant of <a href="" id="avernus" class="annotBtn">Avernus</a>, too cruel to the Muses, too cruel to Pallas, why not seize those who are useless burdens to this earth? At that crowd should you aim your shafts. Therefore, Academia, mourn in sable raiments for this man, and let his dark bier be wet with your tears. Let plaintive Elegy herself pour forth  sad measures, and let a melancholy dirge sound through all the schools. </p>
+
+</div>
+</body>
+</html>
+

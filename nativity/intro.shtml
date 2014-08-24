@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>On the Morning of Christ's Nativity: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner">On the Morning of Christ's Nativity</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">On the Morning of Christ's Nativity: Introduction</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+	<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="intro.shtml"><b>Introduction</b></a>
+				</li>
+				<li>
+					<a href="text.shtml">Text</a>
+				</li>
+				
+			</ul>	
+	</div>
+
+<div id="container">
+
+<div id="content">
+
+<p class="poemTitle">Introduction</p>
+
+<p>
+John Milton's "On the Morning of Christ's Nativity" is significant for its merit alone, though this remarkable poem is also important in the context of the artist's career. His first major work in English, the nativity ode reflects "his desire to attempt the highest subjects and to take on the role of bardic Poet-Priest" (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="main">Barbara Lewalski, <cite>Life of John Milton</cite></a> 38). Milton himself declares such ambition in a letter to his friend Charles Diodati: "I sing to the peace-bringing God descended from heaven, and the blessed generations covenanted in the sacred books,. . . I sing the starry axis and the singing hosts in the sky, and of the gods suddenly destroyed in their own shrines." (<a href="../elegiarum/elegy_6/text.shtml" target="main">"Elegia sexta"</a>). Milton's lofty tone suits the elevation of his artistry, as the nativity ode is the "first realization" of Milton's high poetic aspirations (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="main">Lewalski</a> 37).</p>
+<p class="next">Stella Revard writes that the poem "marks Milton's coming of age as a Christian English writer" (<a href="../bibliography/r-s/text.shtml#stella_revard" target="main"><cite>Milton and the Tangles of Neaera's Hair: The Making of the 1645 Poems</cite></a> 64). Milton's header, "Compos'd 1629," dates the poem as written in Milton's twenty-first year, leading A.S.P. Woodhouse to call the Ode a coming-of-age poem (<a href="../bibliography/t-z/text.shtml#a_woodhouse" target="main"><cite>Variorum Commentary</cite></a> 41).  This is perhaps what Milton intended: the poem appears first in his 1645 <cite>Poems</cite>, after a frontispiece engraving of himself supposedly at twenty-one. Moreover, as Barbara Lewalski explains, the poem "displays elements that remain constants in Milton's poetry: allusiveness, revisionism, mixture of genres, stunning originality, cosmic scope, prophetic voice" (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="main">Lewalski</a> 46). According to Stanley Fish, Milton's works all voice the same concerns (<a href="../bibliography/f-h/text.shtml#stanley_fish" target="main">Fish</a> 3). It makes sense, then, that Milton's first major work speaks to his life-long preoccupations.</p> 
+<p class="next">The poem is formally divided into two sections. The first four stanzas make up the proem. Each of these stanzas consists of six lines of iambic pentameter, which conclude in an alexandrine. This echoes Chaucerian and Spenserian tradition, and also imitates the form practiced in Milton's earlier poem "On the Death of Fair Infant Dying of a Cough." The second half of the poem, in which Milton creates his own form, has been alternately called the "hymn" and the "ode." In this section, the eight lines of each stanza vary in length (6, 6, 19, 6, 6, 10, 8, 12), each terminating in an alexandrine. The rhyme scheme follows the pattern aabccbdd. Whether this section is an ode or a hymn, J. Martin Evans points out that either "automatically implies a choric rather than an individual speaker" (<a href="../bibliography/c-e/text.shtml#james_evans" target="main"><cite>The Miltonic Moment</cite></a> 12). This is critical to Evans's thesis that the Ode is the most "rigorously depersonalized of all Milton's nondramatic works" (<a href="../bibliography/c-e/text.shtml#james_evans" target="main">Evans</a> 12).</p>
+	<p class="next">Stylistically, "On the Morning of Christ's Nativity" demonstrates a conflation of various genres. Woodhouse remarks: </p>
+<blockquote>
+Milton's ode has been called Spenserian, Italianate, Baroque, or Mannerist . . . Later Milton himself, surveying the genres in his defence of the religious and moral aims of poetry, spoke of both classical and Biblical models and linked odes with hymns. (<a href="../bibliography/t-z/text.shtml#a_woodhouse" target="main">Woodhouse</a> 39)
+</blockquote>
+
+<p class="next">Not surprisingly, critics often discuss Milton's relationship with the classics. Most believe that Milton expected the poem to be read in the tradition of Virgil's fourth ecologue, "which heralds the return of the Golden Age under Augustus and associates it with the birth of a child" (<a href="../bibliography/t-z/text.shtml#a_woodhouse" target="main">Woodhouse</a> 34). However, Milton's appropriation of classical elements is not pagan. As Woodhouse goes on to explain, "through many centuries of the Christian era Virgil's poem was interpreted as an unconscious prophecy of the birth of Christ" (<a href="../bibliography/t-z/text.shtml#a_woodhouse" target="main">Woodhouse</a> 35). </p>
+<p class="next">Thematically, the poem does not discuss Christmas, but rather examines the cosmic significance of the incarnation.  It is worth noting that Milton wrote the poem as a Trinitarian ("Trinal Unity" line 11), a point of doctrine he later abandoned. Most critics observe that pagan and Christian stories co-inhabit the poem, especially in the last section, where the purging of idols suggests modern reformation (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="main">Lewalski</a> 48). The extensive list of idols suggests "the long and difficult process that must precede it: completing a reformation of the church by ridding humankind of all its idols, lovely as well as hideous" (<a href="../bibliography/l-m/text.shtml#barbara_lewalski" target="main">Lewalski</a> 48). </p>
+<p class="next">Critics disagree as to how successfully Milton appropriates the classics. David Quint argues that the pagan influence of the poem undermines its theological message, characterizing the Ode as "the story of great expectations that fail to be realized in the way they are initially projected" (<a href="../bibliography/n-q/text.shtml#david_quint" target="main">Quint, "Expectation and Prematurity in Milton's Nativity Ode"</a> 195). He believes that the poem expresses "a longing to escape from or put an end to history" and for "a purified poetry that separates itself from a fleshly, pagan inspiration" (<a href="../bibliography/n-q/text.shtml#david_quint" target="main">Quint</a> 195). Quint further claims that:</p>
+<blockquote>
+the double problem posed to Milton's poem by its models and analogues- that its celebration of the birth of the true God repeats the pattern of a pagan nativity hymn, that pagan error has the potential to return after his supposedly been definitively banished- is, in fact, built into its subject and unfolding argument. (<a href="../bibliography/n-q/text.shtml#david_quint" target="main">Quint</a> 200)
+</blockquote>
+
+<p>However, given Milton's open admiration for the classics, Quint's thesis somewhat misses the mark. Rosemond Tuve is more accurate in her explanation of the pagan-Christian collision in the Ode: "there is no conflict between these realms of reference . . . because the power of Milton's basic theme of the redemptive promise of the Incarnation had centuries before him Christianized these and other classical images" (<a href="../bibliography/t-z/text.shtml#tuve" target="main"><cite>Images and Themes in Five Poems by Milton</cite></a> 41). Furthermore, Tuve explains Milton's intent in framing his Christian message in the pagan tradition: "Milton commonly uses inherited figures when he wishes to make sure of some refinement within a conception" (<a href="../bibliography/t-z/text.shtml#tuve" target="main">Tuve</a> 43). </p>
+<p class="next">While Evans takes a look at popular views of the nativity ode as a conversion poem&mdash;"from pagan illusion to Christian truth"&mdash;he rejects this "confessional autobiography" reading of the poem, and instead compares Milton's work to contemporary nativity poems of the period, observing that, in contrast to the norm, "what strikes us immediately is the absence of any reference in Milton's poem to the effect of Christ's birth on the poet himself" (<a href="../bibliography/c-e/text.shtml#james_evans" target="main">Evans</a> 13). Evans is correct in noting that neither poet, nor magi, nor holy family appear in this "completely dehumanized poem," where the only figures are "personified abstractions" (<a href="../bibliography/c-e/text.shtml#james_evans" target="main">Evans</a> 15-16). This effect, combined with the immediacy created by the "collapsed tenses," creates what Evans calls a "timeless present" (<a href="../bibliography/c-e/text.shtml#james_evans" target="main">Evans</a> 16). Unlike other critics, Evans believes that, if a conversion takes place in the poem, it is the reader's, stressing that the poem is more about "cosmic revolution" than anything else (<a href="../bibliography/c-e/text.shtml#james_evans" target="main">Evans</a> 17). </p>
+	<p class="author">Alison Moe and Thomas H. Luxon</p>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

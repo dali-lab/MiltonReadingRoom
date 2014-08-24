@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Paradise Lost: Front Matter</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oranienbaum' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../../miltonNav.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+		
+	</head>
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+
+			<div id="headerPL">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span><br><br><span id="poemBanner">Paradise Lost</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="">Paradise Lost: Front Matter</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="../intro/text.shtml">Introduction</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../note/text.shtml"><b>Front Matter</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../book_1/text.shtml">Book 1</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_2/text.shtml">Book 2</a>
+					</li >
+					<li id="notLast">
+						<a href="../book_3/text.shtml">Book 3</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_4/text.shtml">Book 4</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_5/text.shtml">Book 5</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_6/text.shtml">Book 6</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_7/text.shtml">Book 7</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_8/text.shtml">Book 8</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_9/text.shtml">Book 9</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_10/text.shtml">Book 10</a>
+					</li>
+					<li id="notLast">
+						<a href="../book_11/text.shtml">Book 11</a>
+					</li>
+					<li>
+						<a href="../book_12/text.shtml">Book 12</a>
+					</li>
+				</ul>
+			</div>
+			
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+<div class="verse_other">
+
+<p class="poemTitle" lang="la">
+<h2 >IN</h2>
+<h2>Paradisum Amissam<br />
+Summi <span class="varspell" title="Poetae">Poet&aelig;</span></h2>
+<h2>JOHANNIS MILTONI</h2>
+</p>
+
+
+
+<p class="first" lang="la">
+<span class="mi">
+<span class="varspell" title="Qui"><span class="minitial"><span class="reversem">Q</span></span>Ui</span> legis Amissam Paradisum, grandia magni<br />
+<span class="mindent"></span>Carmina <span class="reversem">Miltoni</span>, quid nisi cuncta legis?<br />
+
+Res cunctas, <span class="varspell" title="et">&amp;</span> cunctarum primordia rerum,<br />
+<span class="mindent"></span>Et fata, <span class="varspell" title="et"><span class="varspell" title="et">&amp;</span></span> fines continet iste liber.<br />
+Intima panduntur magni penetralia mundi, <span class="line"><span class="reversem">[ 5 ]</span></span><br />
+<span class="mindent"></span> Scribitur <span class="varspell" title="et">&amp;</span> toto quicquid in Orbe latet.<br />
+ <span class="varspell" title="Terraeque">Terr&aelig;que</span>, tractusque maris, coelumque profundum<br />
+<span class="mindent"></span> Sulphureumque <a href="" id="Erebi" class="annotBtn">Erebi</a>, flammivomumque specus.<br />
+<span class="varspell" title="Quaeque">Qu&aelig;que</span> colunt terras, Portumque <span class="varspell" title="et">&amp;</span> Tartara <span class="varspell" title="caeca">c&aelig;ca</span>,<br />
+<span class="mindent"></span> <span class="varspell" title="Quaeque">Qu&aelig;que</span> colunt summi lucida regna Poli. <span class="line"><span class="reversem">[ 10 ]</span></span><br />
+Et quodcunque ullis conclusum est finibus usquam,<br />
+<span class="mindent"></span> Et sine fine Chaos, <span class="varspell" title="et">&amp;</span> sine fine Deus:<br />
+Et sine fine magis, si quid magis est sine fine,<br />
+<span class="mindent"></span> In Christo erga homines conciliatus amor.<br />
+ <span class="varspell" title="Haec">H&aelig;c</span> qui speraret quis crederet esse futurum? <span class="line"><span class="reversem">[ 15 ]</span></span><br />
+<span class="mindent"></span> Et tamen <span class="varspell" title="haec">h&aelig;c</span> hodie terra <span class="reversem">Britanna</span> legit.<br />
+O quantos in bella Duces!  <span class="varspell" title="quae">qu&aelig;</span> protulit arma!<br />
+<span class="mindent"></span> <span class="varspell" title="Quae">Qu&aelig;</span> canit, <span class="varspell" title="et">&amp;</span> quanta <span class="varspell" title="praelia">pr&aelig;lia</span> dira tuba.<br />
+Coelestes acies! atque in certamine Coelum!<br />
+<span class="mindent"></span> Et <span class="varspell" title="quae">qu&aelig;</span> Coelestes pugna deceret agros! <span class="line"><span class="reversem">[ 20 ]</span></span><br />
+Quantus in <span class="varspell" title="aetheriis">&aelig;theriis</span> tollit se <span class="reversem">Lucifer</span> armis!<br />
+<span class="mindent"></span> Atque ipso graditur vix <span class="reversem">Michaele</span> minor!<br />
+Quantis, <span class="varspell" title="et">&amp;</span> quam funestis concurritur iris<br />
+<span class="mindent"></span> Dum ferus hic stellas protegit, ille rapit!<br />
+Dum vulsos Montes ceu Tela reciproca torquent, <span class="line"><span class="reversem">[ 25 ]</span></span><br />
+<span class="mindent"></span> Et non mortali desuper igne pluunt:<br />
+Stat dubius cui se parti concedat Olympus,<br />
+<span class="mindent"></span> Et metuit <span class="varspell" title="pugnae">pugn&aelig;</span> non superesse <span class="varspell" title="suae">su&aelig;</span>.<br />
+At simul in coelis <span class="varspell" title="Messiae">Messi&aelig;</span> insignia fulgent,<br />
+<span class="mindent"></span> Et currus animes, armaque digna Deo, <span class="line"><span class="reversem">[ 30 ]</span></span><br />
+Horrendumque <span class="varspell" title="rotae">rot&aelig;</span> strident, <span class="varspell" title="et">&amp;</span> <span class="varspell" title="saeva">s&aelig;va</span> rotarum<br />
+<span class="mindent"></span> Erumpunt torvis fulgura luminibus,<br />
+ Et <span class="varspell" title="flammae">flamm&aelig;</span> vibrant, <span class="varspell" title="et">&amp;</span> vera tonitrua rauco<br />
+<span class="mindent"></span> Admistis flammis insonuere Polo:<br />
+Excidit attonitis mens omnis, <span class="varspell" title="et">&amp;</span> impetus omnis <span class="line"><span class="reversem">[ 35 ]</span></span><br />
+<span class="mindent"></span> Et cassis dextris irrita Tela cadunt.<br />
+Ad poenas fugiunt, <span class="varspell" title="et">&amp;</span> ceu foret Orcus asylum<br />
+<span class="mindent"></span> Infernis certant condere se tenebris.<br />
+Cedite Romani Scriptores, cedite Graii<br />
+<span class="mindent"></span> Et quos fama recens vel celebravit anus. <span class="line"><span class="reversem">[ 40 ]</span></span><br />
+<span class="varspell" title="Haec">H&aelig;c</span> quicunque leget tantum cecinesse putabit<br />
+<span class="mindent"></span> <span class="varspell" title="Maeonidem">M&aelig;onidem</span> ranas, <span class="reversem">Virgilium</span> culices.</span>
+</p>
+</div>
+<br />
+<p class="author">
+<a href="" id="barrow" class="annotBtn">S.B</a>.  M.D.
+</p>
+
+<hr align="center" />
+
+<div class="verse_other">
+<p class="poemTitle"><h2>ON</h2>
+<h2>Paradise Lost</h2>
+</p>
+
+<p class="first">
+<span class="varspell" title="varspell"><span class="minitial">W</span>Hen</span> I beheld the Poet blind, yet bold,<br />
+In slender Book his vast Design unfold,<br />
+Messiah <span class="varspell" title="Crowned">Crown'd</span>, <span class="varspell" title="God's">Gods</span> <span class="varspell" title="Reconciled">Reconcil'd</span> Decree,<br />
+Rebelling Angels, the Forbidden Tree,<br />
+<span class="varspell" title="Heaven">Heav'n</span>, Hell, Earth, Chaos, All;  the Argument <span class="line">[ 5 ]</span><br />
+Held me a while misdoubting his Intent,<br />
+That he would <span class="varspell" title="ruin">ruine</span> (for I saw him strong)<br />
+The sacred Truths to Fable and old Song<br />
+(So Sampson <span class="varspell" title="groped">groap'd</span> the <span class="varspell" title="Temple's">Temples</span> Posts in <span class="varspell" title="spite">spight</span>)<br />
+The World <span class="varspell" title="overwhelming">o'rewhelming</span> to revenge his sight. <span class="line">[ 10 ]</span><br />
+<span class="mindent"></span> Yet as I read, soon growing less severe,<br />
+I <span class="varspell" title="liked">lik'd</span> his project, the success did fear;<br />
+Through that wide Field how he his way should find<br />
+<span class="varspell" title="Over">O're</span> which lame Faith leads Understanding blind;<br />
+Lest he <span class="varspell" title="perplexed">perplex'd</span> the things he would explain, <span class="line">[ 15 ]</span><br />
+And what was <span class="varspell" title="easy">easie</span> he should render vain.<br />
+<span class="mindent"></span>Or if a Work so infinite he <span class="varspell" title="spanned">spann'd</span><br />
+Jealous I was that some less <span class="varspell" title="skillful">skilful</span> hand<br />
+(Such as disquiet always what is well,<br />
+And by ill imitating would <span class="varspell" title="excel">excell</span>) <span class="line">[ 20 ]</span><br />
+Might hence presume the whole <span class="varspell" title="Creation's">Creations</span> day<br />
+To change in Scenes, and <a href="" id="Play" class="annotBtn">show it in a Play</a>.<br />
+<span class="mindent"></span>Pardon me, Mighty Poet, nor despise<br />
+My causeless, yet not impious, surmise.<br />
+But I am now <span class="varspell" title="convinced">convinc'd</span>, and none will dare <span class="line">[ 25 ]</span><br />
+Within thy <span class="varspell" title="labors">labours</span> to pretend a share.<br />
+Thou <span class="varspell" title="has">hast</span> not <span class="varspell" title="missed">miss'd</span> one thought that could be fit,<br />
+And all that was improper <span class="varspell" title="does">dost</span> omit:<br />
+So that no room is here for Writers left,<br />
+But to detect their Ignorance or Theft. <span class="line">[ 30 ]</span><br />
+<span class="mindent"></span>That Majesty which through thy Work doth Reign<br />
+Draws the devout, deterring the Profane.<br />
+And things divine thou <span class="varspell" title="treats">treatst</span> of in such state<br />
+As them preserves, and thee, inviolate.<br />
+At once delight and <span class="varspell" title="horror">horrour</span> on us <span class="varspell" title="seize">seise</span>, <span class="line">[ 35 ]</span><br />
+Thou <span class="varspell" title="sings">singst</span> with so much gravity and ease;<br />
+And above <span class="varspell" title="human">humane</span> flight <span class="varspell" title="does">dost</span> soar aloft<br />
+With plume so strong, so equal, and so soft.<br />
+The <a href="" id="Bird" class="annotBtn">Bird <span class="varspell" title="named">nam'd</span> from that Paradise</a> you sing<br />
+So never <span class="varspell" title="flags">flaggs</span>, but always keeps on Wing. <span class="line">[ 40 ]</span><br />
+<span class="mindent"></span>Where <span class="varspell" title="could">couldst</span> thou words of such a compass find?<br />
+Whence furnish such a vast <span class="varspell" title="expense">expence</span> of mind?<br />
+Just <span class="varspell" title="Heaven">Heav'n</span> thee like <a href="" id="Tiresias" class="annotBtn">Tiresias</a> to requite<br />
+Rewards with <span class="varspell" title="Prophecy">Prophesie</span> thy loss of sight.<br />
+<span class="mindent"></span>Well <span class="varspell" title="might">mightst</span> thou scorn thy Readers to allure <span class="line">[ 45 ]</span><br />
+With tinkling <span class="varspell" title="Rhyme">Rhime</span>, of thy own sense secure;<br />
+While the <a href="" id="Bayes" class="annotBtn">Town-Bayes</a> writes all the while and <a href="" id="spells" class="annotBtn">spells</a>,<br />
+And like a Pack-horse tires without his Bells:<br />
+Their Fancies like our <a href="" id="Bushy" class="annotBtn">Bushy-points</a> appear,<br />
+The poets tag them, we for fashion wear. <span class="line">[ 50 ]</span><br />
+I too transported by the Mode offend,<br />
+And while I meant to Praise thee must Commend.<br />
+Thy Verse created like thy Theme sublime,<br />
+In Number, Weight, and Measure, needs not <span class="varspell" title="Rhyme">Rhime</span>.</p>
+</div>
+<br />
+<p class="author"><a href="" id="marvell" class="annotBtn">A. M</a>.</p><br />
+
+<hr align="center" />
+
+<div class="prose">
+<p class="poemTitle">
+<h3>THE</h3>
+<h2>VERSE</h2>
+</p>
+
+
+<p class="margument">
+<span class="minitial"><span class="reversem">T</span></span>HE Measure is <span class="reversem">English</span> Heroic Verse without <span class="varspell" title="Rhyme">Rime</span>, as that of <span class="reversem">Homer</span> in <span class="reversem">Greek</span>, and <span class="reversem">Virgil</span> in <span class="reversem">Latin</span>; <span class="varspell" title="Rhyme">Rhime</span> being no necessary Adjunct or true Ornament of Poem or good Verse, in longer Works especially, but the Invention of <a href="" id="barbarous" class="annotBtn">a barbarous Age</a>, to set off wretched matter and lame <span class="varspell" title="Meter">Meeter</span>; <span class="varspell" title="graced">grac't</span> indeed since by the use of some famous modern Poets, carried away by Custom, but much to thir own vexation, hindrance, and constraint to express many things otherwise, and for the most part worse then else they would have <span class="varspell" title="expressed">exprest</span> them.  Not without cause therefore some both <span class="reversem">Italian</span>, and <span class="reversem">Spanish</span> Poets of prime note have rejected <span class="varspell" title="Rhyme">Rhime</span> both in longer and shorter Works, as have also long since our best <span class="reversem">English</span> Tragedies, as a thing of itself, to all judicious ears, <span class="varspell" title="trivial">triveal</span>, and of no true musical delight; which consists <span class="varspell" title="only">onely</span> in <a href="" id="numbers" class="annotBtn">apt Numbers</a>, fit quantity of Syllables, and the sense <a href="" id="various" class="annotBtn">variously drawn out</a> from one Verse into another, not in the jingling sound of like endings, a fault <span class="varspell" title="avoided">avoyded</span> by the learned Ancients both in Poetry and all good Oratory.  This neglect then of <span class="varspell" title="Rhyme">Rhime</span> so little is to be taken for a defect, though it may seem so perhaps to vulgar Readers, that it rather is to be <span class="varspell" title="esteemed">esteem'd</span> an example set, the first in <span class="reversem">English</span>, of<a href="" id="liberty" class="annotBtn"> ancient liberty <span class="varspell" title="recovered">recover'd</span></a> to heroic Poem from the <span class="varspell" title="troublesome">troublesom</span> and modern bondage of <span class="varspell" title="Rhyming">Rimeing</span>.
+</p>
+
+</div>
+
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

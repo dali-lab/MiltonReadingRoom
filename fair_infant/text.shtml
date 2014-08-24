@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>On the Death of a Fair Infant Dying of a Cough: Text</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner">On the Death of a Fair Infant Dying of a Cough</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1673"><i>Poems</i> (1673)</a> > <a href="">On the Death of a Fair Infant Dying of a Cough: Text</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+	<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="intro.shtml">Introduction</a>
+				</li>
+				<li>
+					<a href="text.shtml"><b>Text</b></a>
+				</li>
+				
+			</ul>	
+	</div>
+	
+
+<div id="container">
+
+<div id="content" class="lengthyWork">
+<div class="verse">
+
+<p class="poemTitle">
+Anno &aelig;tatis 17.<br />
+On the Death of a Fair Infant Dying of a Cough<br />
+</p>
+
+<p>
+<b>I.</b>
+</p>
+
+
+<p class="stanza first">
+<span class="minitial">O</span> Fairest flower no sooner blown but blasted,<br />
+Soft silken Primrose fading <span class="varspell" title="timelessly">timelesslie</span>,<br />
+<span class="varspell" title="Summer's">Summers</span> chief <span class="varspell" title="honor">honour</span> if thou hadst out-lasted<br />
+Bleak <span class="varspell" title="winter's">winters</span> force that made thy <span class="varspell" title="blossom">blossome</span> <span class="varspell" title="dry">drie</span>;<br />
+For he being amorous on that lovely <span class="varspell" title="dye">die</span><span class="line" id="line5"> [ 5 ]</span><br />
+<span class="mindent">That did thy cheek envermeil, thought to kiss</span><br />
+But <span class="varspell" title="killed">kill'd</span> alas, and then <span class="varspell" title="bewailed">bewayl'd</span> his fatal bliss.
+</p>
+
+<p><b>II.</b>
+</p>
+
+<p class="stanza">
+For since grim Aquilo his <span class="varspell" title="charioteer">charioter</span><br />
+By <span class="varspell" title="boisterous">boistrous</span> rape <span class="varspell" title="the">th'</span> Athenian damsel got,<br />
+He thought it <span class="varspell" title="touched">toucht</span> his <span class="varspell" title="Deity">Deitie</span> full <span class="varspell" title="near">neer</span>,<span class="line" id="line10"> [ 10 ]</span><br />
+If likewise he some fair one wedded not,<br />
+Thereby to wipe away <span class="varspell" title="the">th'</span> infamous blot,<br />
+<span class="mindent">Of long-uncoupled bed, and childless eld,</span><br />
+Which <span class="varspell" title="amongst">'mongst</span> the wanton gods a foul reproach was held.
+</p>
+
+<p><b>III.</b></p>
+So mounting up in <span class="varspell" title="icy">ycie</span>-pearled <span class="varspell" title="car">carr</span>,<span class="line" id="line15"> [ 15 ]</span><br />
+Through middle empire of the freezing <span class="varspell" title="air">aire</span><br />
+He <span class="varspell" title="wandered">wanderd</span> long, till thee he <span class="varspell" title="spied">spy'd</span> from <span class="varspell" title="far">farr</span>,<br />
+There ended was his quest, there <span class="varspell" title="ceased">ceast</span> his care.<br />
+Down he descended from his Snow-soft <span class="varspell" title="chair">chaire</span>,<br />
+<span class="mindent">But all <span class="varspell" title="unawares">unwares</span> with his cold-kind embrace</span><span class="line" id="line20"> [ 20 ]</span><br />
+<span class="varspell" title="Unhoused">Unhous'd</span> thy Virgin Soul from her fair biding place.<br />
+<br />
+<p><b>IV.</b></p>
+<p class="stanza">
+Yet art thou not inglorious in thy fate;<br />
+For so <span class="mi">Apollo,</span> with unweeting hand<br />
+Whilome did slay his dearly-loved mate<br />
+Young <span class="mi">Hyacinth</span> born on <span class="mi"><span class="varspell" title="Eurota's">Eurotas</span></span> strand,<span class="line" id="line25"> [ 25 ]</span><br />
+Young <span class="mi">Hyacinth</span> the pride of <span class="mi">Spartan</span> land;<br />
+<span class="mindent">But then <span class="varspell" title="transformed">transform'd</span> him to a purple flower</span><br />
+Alack that so to change thee winter had no power.
+</p>
+
+<p><b>V.</b></p>
+<p class="stanza">
+Yet can I not <span class="varspell" title="persuade">perswade</span> me thou art dead<br />
+Or that thy <span class="varspell" title="corpse">coarse</span> corrupts in <span class="varspell" title="earth's">earths</span> dark <span class="varspell" title="womb">wombe</span>,<span class="line" id="line30"> [ 30 ]</span><br />
+Or that thy beauties lie in <span class="varspell" title="wormy">wormie</span> bed,<br />
+Hid from the world in a low delved <span class="varspell" title="tomb">tombe</span>;<br />
+Could <span class="varspell" title="Heaven">Heav'n</span> for <span class="varspell" title="pity">pittie</span> thee so strictly doom?<br />
+<span class="mindent">Oh no? for something in thy face did shine</span><br />
+Above <span class="varspell" title="mortality">mortalitie</span> that <span class="varspell" title="showed">shew'd</span> thou wast divine.<span class="line" id="line35"> [ 35 ]</span>
+</p>
+
+<p><b>VI.</b></p>
+<p class="stanza">
+Resolve me then oh Soul most surely <span class="varspell" title="blessed">blest</span><br />
+(If so it be that thou these plaints dost hear)<br />
+Tell me bright Spirit where <span class="varspell" title="ever">e're</span> thou hoverest<br />
+Whether above that high first-moving <span class="varspell" title="Sphere">Spheare</span><br />
+Or in the <span class="varspell" title="Elysian">Elisian</span> fields (if such there were.)<span class="line" id="line40"> [ 40 ]</span><br />
+<span class="mindent">Oh say me true if thou wert mortal wight</span><br />
+And why from us so quickly thou didst take thy flight.
+</p>
+
+<p><b>VII.</b></p>
+<p class="stanza">
+Wert thou some <span class="varspell" title="Star">Starr</span> which from the <span class="varspell" title="ruined">ruin'd</span> roof<br />
+Of <span class="varspell" title="shaked">shak't</span> Olympus by mischance <span class="varspell" title="diddest">didst</span> fall;<br />
+Which <span class="varspell" title="careful">carefull</span> <span class="mi">Jove</span> in <span class="varspell" title="nature's">natures</span> true <span class="varspell" title="behoof">behoofe</span><span class="line" id="line45"> [ 45 ]</span><br />
+Took up, and in fit place did reinstall?<br />
+Or did of late <span class="varspell" title="earth's">earths</span> <span class="varspell" title="Sons">Sonnes</span> besiege the wall<br />
+<span class="mindent">Of <span class="varspell" title="sheeny">sheenie</span> <span class="varspell" title="Heaven">Heav'n</span>, and thou some goddess fled</span><br />
+Amongst us here below to hide thy <span class="varspell" title="nectared">nectar'd</span> head.
+</p>
+
+<p><b>VIII.</b></p>
+<p class="stanza">
+Or wert thou that just Maid who once before<span class="line" id="line50"> [ 50 ]</span><br />
+Forsook the hated earth, O tell me sooth,<br />
+And <span class="varspell" title="camest">cam'st</span> again to visit us once more?<br />
+Or wert thou that sweet smiling Youth!<br />
+Or that <span class="varspell" title="crowned">crown'd</span> Matron sage white-robed truth?<br />
+<span class="mindent">Or any other of that <span class="varspell" title="heavenly">heav'nly</span> brood</span><span class="line" id="line55"> [ 55 ]</span><br />
+Let down in <span class="varspell" title="cloudy">clowdie</span> throne to do the world some good.
+</p>
+
+<p><b>IX.</b></p>
+<p class="stanza">
+Or wert thou of the golden-winged <span class="varspell" title="host">hoast</span>,<br />
+Who having clad thy self in <span class="varspell" title="human">humane</span> weed,<br />
+To earth from thy <span class="varspell" title="prefixed">pr&aelig;fixed</span> seat <span class="varspell" title="diddest">didst</span> <span class="varspell" title="post">poast</span>,<br />
+And after short abode <span class="varspell" title="fly">flie</span> back with speed,<span class="line" id="line60"> [ 60 ]</span><br />
+As if to <span class="varspell" title="show">shew</span> what creatures <span class="varspell" title="Heaven">Heav'n</span> doth breed,<br />
+<span class="mindent">Thereby to set the hearts of men on fire</span><br />
+To scorn the sordid world, and unto <span class="varspell" title="Heaven">Heav'n</span> aspire.
+</p>
+
+<p><b>X.</b></p>
+<p class="stanza">
+But oh why <span class="varspell" title="diddest">didst</span> thou not stay here below<br />
+To bless us with thy <span class="varspell" title="heaven">heav'n</span>-<span class="varspell" title="loved">lov'd</span> innocence,<span class="line" id="line65"> [ 65 ]</span><br />
+To slake his wrath whom sin hath made our foe<br />
+To turn Swift-rushing black perdition hence,<br />
+Or drive away the slaughtering pestilence,<br />
+<span class="mindent">To stand <span class="varspell" title="betwixt">'twixt</span> us and our deserved smart</span><br />
+But thou canst best perform that office where thou art.<span class="line" id="line70"> [ 70 ]</span>
+</p>
+
+<p><b>XI.</b></p>
+<p class="stanza">
+Then thou the mother of so sweet a child<br />
+Her false <span class="varspell" title="imagined">imagin'd</span> loss cease to lament,<br />
+And wisely learn to curb thy sorrows wild;<br />
+Think what a present thou to God hast sent,<br />
+And render him with patience what he lent;<span class="line" id="line75"> [ 75 ]</span><br />
+<span class="mindent">This if thou do, he will an <span class="varspell" title="offspring">off-spring</span> give</span><br />
+That till the <span class="varspell" title="world's">worlds</span> last end shall make thy name to live.
+</p>
+
+
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 
+

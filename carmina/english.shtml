@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+ 
+<!--Copyright 2003, all rights reserved-->
+
+<title>Milton: Elegiac Verses</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">Elegaic Verses
+</a>
+</p>
+<br /><br />
+<div class="verse_latin">
+
+<p class="first">
+Get up, let's go, get up!  It's time to shake off these pointless slumbers.  It's getting light; leave the posts of your warm bed.  The rooster is already crowing, that harbinger bird, who is wide awake to call everyone to work.  Fiery <a href="" id="titan" class="annotBtn">Titan</a> peeks over the eastern waves, spreading his bright sunlight over the happy fields.  The <a href="" id="daulian" class="annotBtn">Daulian bird</a>, perched on the oak tree, sings a high-pitched song while the gentle lark pours out a skillful melody.  The wild rose now exhales her sweet perfumes, and violets scent the air while the corn flourishes in the field.  Look!  Zephyr's generous consort, Venus,  spreads new turf on the fields and sprinkles the grass with dew as bright as glass.  You slouch, you can hardly find such delights in your bed, where sleep weighs on your tired eyes.  There dreams trouble your sleep  and griefs disturb your mind.  That's where the seeds of illness originate!  How can a slouch be in good health?</p><br />
+<p>Get up, let's go, get up!  It's time to shake off these pointless slumbers.  It's getting light; leave the posts of your warm bed.
+</p>
+
+</div>
+</body>
+</html>

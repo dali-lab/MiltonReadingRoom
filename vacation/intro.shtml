@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>At a Vacation Exercise: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner">At a Vacation Exercise</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1673"><i>Poems</i> (1673)</a> > <a href="">At a Vacation Exercise: Introduction</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+	<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="intro.shtml"><b>Introduction</b></a>
+				</li>
+				<li>
+					<a href="text.shtml">Text</a>
+				</li>
+				
+			</ul>	
+	</div>
+	
+
+<div id="container">
+
+<div id="content">
+
+
+<p class="poemTitle">Introduction</p>
+
+<p> John Milton composed "At a Vacation Exercise in the Colledge" to conclude his presentation
+at Christ's College, Cambridge of <span class="booktitle">Prolusion VI</span>, a
+formal oration in Latin supporting the proposition that "Sportive Exercises on
+Occasion are not inconsistent with philosophical Studies." <span
+class="booktitle">Prolusion VI</span> may have fulfilled Milton's BA graduation
+requirement to participate in two disputations in the last two years of undergraduate
+study or his later MA requirement to participate in three (<a href="../bibliography/c-e/text.shtml#campbell_corns" target="main">Campbell and
+Corns, <span class="booktitle">John Milton: Life, Work, and Thought</span> 35</a>).
+The poem&mdash;an unorthodox apostrophe in English&mdash;would have concluded the traditional
+Latin "Oratio" and the "Prolusio," a ludicrous lampoon of the College and its
+students. </p>
+
+<p class="next">Until 2008 most scholars accepted 1628 as the date of composition. 
+The 1673 edition of <span class="booktitle">Poems &amp;c. Upon Several
+Occasions</span> includes the preface "Anno Aetatis 19" and Milton was nineteen in
+July 1628, the start of the summer vacation. This early date suggests a highly
+precocious and advanced undergraduate. <a
+href="../bibliography/i-k/text.shtml#william_kerrigan" target="main">William Kerrigan, John
+Rumrich and Stephen Fallon</a> praise Milton for being "serious enough to be drafting
+at age nineteen a life plan dedicated to . . . a noble epic subject, an answerable
+style, a unique access to the divine secrets of the universe, and an enraptured
+audience" (11). <a href="../bibliography/l-m/text.shtml#barbara_lewalski"
+target="main">Barbara Lewalski</a> calls the prolusion "remarkably advanced" (31).
+</p>
+
+<p class="next">Recently, Gordon Campbell and Thomas N. Corns, in their 2008
+biography <a href="../bibliography/c-e/text.shtml#campbell_corns"
+target="main"><span class="booktitle">John Milton: Life, Work and Thought</span></a>
+argue convincingly for a later date&mdash;the summer of 1631, when Milton was a
+postgraduate student pursuing an M.A. (58-9). This later date is not certain but it
+does promise to solve a few nagging problems. First, it is difficult to reconcile
+Milton's "starring role" as "Father" of the vacation exercise with undergraduate
+status. <a href="../bibliography/r-s/text.shtml#shawcross_form">John T.
+Shawcross</a> supports Campbell and Corns' dating by proposing that the line "all of
+us Sophisters," which would require the poem's date be 1628, when Milton was a
+sophister, has been mistranslated and should read "all our Sophisters." This
+alternate translation thus "does not include him but calls upon many participants in
+the exercise and in his audience. He is the 'Dictator' on this occasion, placing him,
+it seems likely, in a superior position" (182 n1). Milton's appointment to this
+starring role, Shawcross intimates, most likely results from a postgraduate
+status.</p>
+
+<p class="next">Campbell and Corns tread new territory, however, in their
+investigations into the content of the prolusion itself. At the beginning, Milton
+notes that the exercises had not been held the previous year, and Cambell and Corns
+have found records only indicate the exercises were cancelled in 1630&mdash;due to the
+plague. With regard to the prolusion's catalog of bird titles, moreover, the pair
+investigated allusions to names of contemporary students, concluding that "the birds
+only begin to flock in large numbers if the date of the prolusion is 1631" (59). </p>
+
+<p class="next">Finally, <span class="booktitle">Prolusion VI</span>'s assertion that
+Milton was appointed "Father" due to the abrupt departure of the original "leader and
+commander of the Sophisters" can situate the poem within Milton's postgraduate career
+at Cambridge. Suggesting that the leader was removed from his position due to his
+participation in a prank, the prolusion describes a stunt in which fifty students
+destroy an aqueduct, "laying siege to the town" and holding Barwell Field ransom with
+thirst. Unable to find a corresponding record, Campbell and Corns conjecture that the
+prolusion cites a drunken encounter of five students with the authorities of
+Chesterton, a town near to Barwell Field, in April 1631 (59). Within this framework,
+the aqueduct's destruction equates to a drunken tumble into King's Ditch and
+urination in the river. Though their analysis mines profoundly for evidence, the
+pair's finding have produced the only satisfactory historical foundation for the
+story to date. </p>
+
+<p class="next">The most recent analysis of "At a Vacation Exercise" is M.K.
+Sugimura's 2009 book <a href="../bibliography/r-s/text.shtml#n.k._sugimura"
+target="main"><span class="booktitle">Matter of Glorious Trial: Spiritual and
+Material Substance in Paradise Lost</span></a>, which favors Campbell and Corn's 1631
+date. Given this contemporary critical inclination and Campbell and Corn's
+persuasively detailed argument, we will assume Milton composed and delivered the poem
+on 8 July 1631. </p>
+
+<p class="next"><a href="../bibliography/r-s/text.shtml#shawcross_form"
+target="main">John T. Shawcross</a> supports Campbell and Corns' dating by proposing
+that the line with which the pair most struggles&mdash;"all of us Sophisters," which would
+require the poem's date be 1628, when Milton was a sophister&mdash;has been mistranslated
+from the Latin and should read "all our Sophisters." This alternate translation thus
+"does not include him but calls upon many participants in the exercise and in his
+audience. He is the 'Dictator' on this occasion, placing him, it seems likely, in a
+superior position" (182 n1). Milton's appointment to this high position, Shawcress
+intimates, most likely results from a postgraduate station. </p>
+
+<p class="next">Milton employed the power conferred upon him by his "Father" role to
+embed an unlikely English poem into a pre-established "salting" tradition, which
+ultimately portrays "At a Vacation Exercise" as a calculated act of self-promotion&mdash;a
+promise for future attainment of new poetic heights. Preceding and accompanying "At a
+Vacation Exercise," <span class="booktitle">Prolusion VI</span> would have adhered to
+the tradition of the "salting" genre of oration, in which an undergraduate delivered
+a speech subject to judgment by his classmates. "Salting" ruled that if the oratory
+pleased its audience, the speaker earned a cup of spiced gruel; if it disappointed,
+he would be presented a "salted" and unsavory drink. By the 1620s, Cambridge
+University had developed its own particular salting practices, in which "a master of
+ceremonies pretended to be a college tutor, and so became the 'father' of his 'sons,'
+the new students" (Campbell and Corns, 60). A dialogue between "Father" and "son" of
+a lewd and mildly insulting nature, Cambridge's salting humorously envisioned a mode
+of interaction forbidden students and tutors by decorum and provided an unlikely
+context for the eruption of claims to future poetic eminence that "At a Vacation
+Exercise" entails. </p>
+
+<p class="next">Resembling past and subsequent outbursts of augury, however, the
+textual context in which "At a Vacation Exercise" anticipates Milton's future depicts
+his evolving strategy for introducing himself as an English epic poet. As early as
+1629 with <a href="../elegiarum/elegy_1/text.shtml" target="main"><span
+class="booktitle">Elegy VI</span></a>, Milton aired his intention to become England's
+"bardic Poet-Priest" (Lewalski, 38). Written in Latin and closely adhering to the
+form of Latin elegies, Elegy VI adheres to the verse epistle format while expressing
+desire to transcend the elegy's typical subjects and "sing the heaven-descended
+king." We see signs of this ambition also in <a href="../nativity/text.shtml"
+target="main"><span class="booktitle">On the Morning of Christ's Nativity</span></a>,
+which Shawcross notes "cannot in its form be considered epical, though its substance
+could be" (Shawcross, 339). </p>
+
+<p class="next">Coming just two years after <span class="booktitle">On the Morning of
+Christ's Nativity</span> according to the 1631 dating, "At a Vacation Exercise"
+deviates radically from Latin poetic heritage to claim Milton's place for epic
+canonization. Milton's intention that the poem prophesize his poetic destiny is
+exemplified by its isolation as a singular work in Milton's second collection of
+published work, the 1673 <span class="booktitle">Poems</span>. Within the collection,
+"At a Vacation Exercise" is seemingly liberated from the Latin speaking exercise
+bonds of its origin: the 1673 <span class="booktitle">Poems</span> places Milton's
+English work before its Latin counterparts without apology. At this point in Milton's
+career, "The poet of Paradise Lost needs and wants no introduction," Lewalski wryly
+notes (505). Moreover, the collection foregrounds Milton's juvenile work, most of
+which, like "At a Vacation Exercise," originated as a school exercise. Anthologizing
+these early exercises in craft, the 1673 <span class="booktitle">Poems</span> appear
+to proclaim the emancipation of these works from their original context, and to allow
+them reflection as individual pieces deserving of further consideration.</p>
+
+<p class="next">Within the 1673 <span class="booktitle">Poems</span>, "At a Vacation
+Exercise" is placed between an English translation of <a
+href="../fifth_ode/text.shtml" target="main">Book 1 of the Fifth Ode of Horace</a>
+and <a href="../conscience/text.shtml" target="main">"On the New Forcers of
+Conscience under the Long Parliament (1646)"</a>&mdash;both new in 1673. However, the
+text's <span class="booktitle">Errata</span> notes that the "Vacation Exercise" was
+misplaced and "should have come in" between <a href="../fair_infant/text.shtml"
+target="main">"On the Death of a Fair Infant dying of a Cough"</a> and <a
+href="../the_passion/index.shtml" target="main">"The Passion."</a> So organized, the
+1673 <span class="booktitle">Poems</span> bolster Milton's projections of his future
+as England's "bardic Poet-Priest" within "At a Vacation Exercise." The preceding
+poem, "On the Death of a Fair Infant"&mdash;also first published in 1673 and probably
+written in 1627-1628 (Campbell and Corns 27)&mdash;represents Milton's first attempt at a
+classical Pindaric ode in English, according to <a
+href="../bibliography/r-s/text.shtml#revard_tangles" target="main">Stella Revard</a>.
+"The Passion," which would have followed "At a Vacation Exercise," actualizes
+authorial identity from an unfinished work. Accompanied by a note expressing Milton's
+frustration over his inability to conclude his assignment&mdash;"This Subject the Author
+finding to be above the yeers he had, when he wrote it, and nothing satisfi'd with
+what was begun, left it unfinisht"&mdash;the poem is far from a gesture of humility.
+Indeed, "The Passion" materializes the author so thoroughly that it transforms the
+poem into a meditation on Milton's writing process, "a poem about Milton trying to
+work up the proper emotions to write a Passion poem" (Revard 38). Placing "At a
+Vacation Exercise" between poems that fashion Milton's identity as a fundamentally
+English poet, the 1673 <span class="booktitle">Poems</span>' original formation
+weaves the poem into a narrative of a national poet coming into his full powers. </p>
+
+<p class="next">Like <span class="booktitle">Elegy VI</span> strategically bursts
+with epic intent inside a non-epic genre, "At a Vacation Exercise" further expands
+upon the initial prophecy of the verse epistle by addressing a larger audience.
+Milton's sudden eruption into "At a Vacation Exercise"&mdash;which proclaims he has "some
+naked thoughts that rove about / And loudly knock to have their passage out" (<a
+href="../vacation/text.shtml#line20" target="text">23-24</a>)&mdash;uses the prolusion's
+opportunity to address a large group of collegiate peers. One only wonders what
+Milton's peers must have made of his bold entry into English beginning with the
+apostrophe "Hail Native language" after having listened to lewd farting and sex jokes
+from the "Prolusio." Milton's syntax produces this departure in English as a brief
+moment of frank communication between author and listener. After representing the
+English language as a wardrobe in an extended metaphor in the first stanza, Milton
+strips his language of poetic devices in the middle of the poem and admits, "Yet had
+I rather, if I were to chuse, / Thy service in some graver subject use" (<a
+href="../vacation/text.shtml#line25" target="text">28-30</a>). England's native
+tongue, the poet suggests, is full of sartorial treasures or "richest Robes" that can
+be employed to greater ends perhaps even than in Latin (<a
+href="../vacation/text.shtml#line20" target="text">21</a>). Milton turns the
+"salting" exercise on itself, using the opportunity it allows him to address his
+acaemic audience to mock the scholastic tradition: instead of making a "graver
+subject" of their own language, English schoolboys insult each other in Latin.
+However much the preceding Prolusion may have amused its Cambridge audience, "At a
+Vacation Exercise" reveals the rhetorical wealth and potential of the English
+language, as much as it does Milton himself. </p>
+
+<p class="next">"At a Vacation Exercise" prepares England, then, for Milton's later,
+grand announcement of his resolution to be his country's epic poet in <a
+href="../reason/book_1/text.shtml" target="main"><span class="booktitle">Reason of
+Church Government Urg'd against Prelaty</span></a>. Presumed to have been written in
+1641&mdash;though its allusion to imprisonment of bishops may situate its composition in
+1642, the year it was published (Campbell and Corns, 146)&mdash;<span
+class="booktitle">Reason of Church Government</span> would have been available for
+mass purchase and its syntax accordingly is "aimed at the general reader, not the
+expert" (<a href="../bibliography/a-b/text.shtml#douglas_bush" target="main">Douglas Bush</a>, 739). Milton used the opportunity to include a "personal digression"
+in the Preface to Book II that projects his destiny to craft epics "adorning my
+native tongue" for the common Englishman he addresses.</p>
+
+<p class="next">Ultimately, <span class="booktitle">Paradise Lost</span> can be seen
+to conclude Milton's narrative of self-presentation and realize the yearning for
+poetic purpose proposed by "At a Vacation Exercise." In "At a Vacation Exercise,"
+Donald Friedman sees a promise fulfilled in Book 1 of <span
+class="booktitle">Paradise Lost</span>. Friedman writes, </p>
+
+<blockquote>In one sense, then, the beginning of Paradise Lost announces the end of a
+very long phase of Milton's education.&hellip; As always in Milton, the end of wisdom
+is action; the ultimate and only fitting result of the long maturation, the
+victory over 'the perpetuall stumble and conjecture and disturbance in this
+oure dark voyage,' is something done, in the service 'intirely reasonable'
+enjoined upon the poet by God and by his own awareness of his singular skills
+and observations.<br />(<a href="../bibliography/f-h/text.shtml#donald_friedman"
+target="main">"Harmony and the Poet's Voice in Some of Milton's Early Poems"
+524</a>)</blockquote>
+
+<p> In "At a Vacation Exercise," Milton seeks a topic worthy of the
+"action" he deems a suitable dénouement to his canonization. Remarkably, by
+inscribing his desire to "at Heav'ns dore / Look in, and see each blissful Deitie"
+(<a href="../vacation/text.shtml#line30" target="text">34-35</a>) and to "sing of
+secret things that came to pass
+/ When Beldam Nature in her cradle was" (<a
+href="../vacation/text.shtml#line45" target="text">45-46</a>), "At a Vacation
+Exercise" acts as a belated preface to the poetic explorations of the 1667 <span
+class="booktitle">Paradise Lost</span>.</p>
+
+<p class="next">"At a Vacation Exercise" depicts Milton's early awareness of his
+skills and calling, and, as a result, proposes a challenge he will rise to meet. "At
+a Vacation Exercise" therefore consciously instills narrative within the history of
+Milton's development as a poet, and ultimately defines its conclusion in <span
+class="booktitle">Paradise Lost</span> as "the end of wisdom" (Friedman, 524). </p>
+
+<p class="author">Katie Kilkenny and Thomas Luxon</p>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

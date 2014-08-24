@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Samson Agonistes: Of . . . Tragedy</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="headerSamson">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Samson Agonistes</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="">Samson Agonistes: Of . . . Tragedy</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="../title/text.shtml">Title Page</a>
+					</li>
+					<li id="notLast">
+						<a href="../tragedy/text.shtml"><b>Of . . . Tragedy</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../intro/text.shtml">Introduction</a>
+					</li>
+					<li>
+						<a href="../drama/text.shtml">Text</a>
+					</li>
+					
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+
+<div class="prose">  
+
+<h2 class="msubhead">Of that sort of Dramatic Poem which is call'd Tragedy</h2>
+
+
+<p class="first"> 
+<span>T</span>ragedy, as it was <span class="varspell" title="anciently">antiently</span> <span class="varspell" title="composed">compos'd</span>, hath been ever held the
+gravest, moralest, and most profitable of all other Poems: therefore
+said by <span class="mi">Aristotle</span> to be of power by raising pity and fear, or
+terror, to purge the mind of those and such like passions, that is
+to temper and reduce them to just measure with a kind of delight, <span class="varspell" title="stirred">stirr'd</span> up
+by reading or seeing those <a href="" id="passions" class="annotBtn">passions well imitated</a>. Nor is Nature
+wanting in her own effects to make good his assertion: for so in
+Physic things of melancholic hue and quality are <span class="varspell" title="used">us'd</span> against
+melancholy, <span class="varspell" title="sour">sowr</span> against <span class="varspell" title="sour">sowr</span>, salt to remove salt <span class="varspell" title="humors">humours</span>. Hence
+Philosophers and other gravest Writers, as <span class="mi">Cicero, Plutarch</span> and
+others, frequently cite out of Tragic Poets, both to adorn and
+illustrate thir discourse. The Apostle <span class="mi">Paul</span> himself thought it not
+unworthy to insert <a href="" id="verse" class="annotBtn">a verse of <span class="mi">Euripides</span></a> into the Text of Holy
+Scripture, I <span class="mi"><abbr title="Corinthians">Cor.</abbr></span> 15.33, and <a href="" id="paraeus" class="annotBtn"><span class="mi"><span class="varspell" title="Paraeus">Par&aelig;us</span></span></a> commenting on the <span class="mi">Revelation,</span>
+divides the whole Book as a Tragedy, into Acts <span class="varspell" title="distinguished">distinguisht</span> each by
+a Chorus of Heavenly Harpings and Song <span class="varspell" title="between">b'tween</span>. Heretofore Men in
+highest dignity have <span class="varspell" title="labored">labour'd</span> not a little to be thought able to
+compose a Tragedy. Of that <span class="varspell" title="honor">honour</span> <a href="" id="tyrant" class="annotBtn"><span class="mi">Dionysius</span> the elder</a> was no less
+ambitious, then before of his attaining to the Tyranny. <a href="" id="caesar" class="annotBtn"><span class="mi">Augustus <span class="varspell" title="Caesar">C&aelig;sar</span></span></a>
+also had begun his <span class="mi">Ajax,</span> but unable to please his own judgment with
+what he had begun, left it <span class="varspell" title="unfinished">unfinisht</span>.  <a href="" id="seneca" class="annotBtn"><span class="mi">Seneca</span></a> the Philosopher is by
+some thought the Author of those Tragedies (at <span class="varspell" title="least">lest</span> the best of
+them) that go under that name. <a href="" id="greg" class="annotBtn"><span class="mi">Gregory Nazianzen</span></a> a Father of the
+Church, thought it not unbeseeming the sanctity of his person to write
+a Tragedy, which he <span class="varspell" title="entitled">entitl'd</span>, <span class="mi">Christ suffering.</span> This is <span class="varspell" title="mentioned">mention'd</span> to
+vindicate Tragedy from the small esteem, or rather infamy, which in
+the account of many it undergoes at this day with other common
+Interludes; <span class="varspell" title="happening">hap'ning</span> through the Poets error of <a href="" id="mixing" class="annotBtn">intermixing Comic
+stuff with Tragic sadness</a> and gravity; or introducing trivial and
+<a href="" id="vulgar" class="annotBtn">vulgar</a> persons, which by all judicious hath <span class="varspell" title="been">bin</span> counted absurd; and
+brought in without discretion, corruptly to <span class="varspell" title="gratify">gratifie</span> the people. And
+though <span class="varspell" title="ancient">antient</span> Tragedy use no Prologue, yet using sometimes, in case
+of self defence, or explanation, that which <a href="" id="martial" class="annotBtn"><span class="mi">Martial</span></a> calls an
+Epistle; in behalf of this Tragedy coming forth after the <span class="varspell" title="ancient">antient</span>
+manner, much different from what among us passes for best, thus much
+before-hand may be <span class="varspell" title="Epistled">Epistl'd</span>; that <span class="mi">Chorus</span> is here <span class="varspell" title="introduced">introduc'd</span> after
+the Greek manner, not <span class="varspell" title="ancient">antient</span> only but modern, and still in use
+among the <span class="mi">Italians.</span> In the modelling therefore of this Poem, with good
+reason, the <span class="varspell" title="Ancients">Antients</span> and <span class="mi">Italians</span> are rather <span class="varspell" title="followed">follow'd</span>, as of much more
+authority and fame. The measure of Verse <span class="varspell" title="used">us'd</span> in the Chorus is of
+all sorts, <span class="varspell" title="called">call'd</span> by the Greeks <a href="" id="strophe" class="annotBtn"><span class="mi">Monostrophic,</span> or rather
+<span class="mi">Apolelymenon,</span></a> without regard had to <span class="mi">Strophe, Antistrophe</span> or <span class="mi">Epod,</span>
+which were a kind of <span class="varspell" title="Stanzas">Stanza's</span> <span class="varspell" title="framed">fram'd</span> only for the Music, then <span class="varspell" title="used">us'd</span>
+with the Chorus that sung; not essential to the Poem, and therefore
+not material; or being divided into <span class="varspell" title="Stanzas">Stanza's</span> or Pauses, they may be
+<span class="varspell" title="called">call'd</span> <a href="" id="allaeo" class="annotBtn"><span class="mi">All&aelig;ostropha.</span></a> Division into Act and Scene referring chiefly to
+the Stage (to which this work never was intended) is here omitted.
+</p>
+<p>It suffices if the whole Drama be found <a href="" id="last" class="annotBtn">not <span class="varspell" title="produced">produc't</span> beyond the <span class="varspell" title="fifth">fift</span>
+Act,</a> Of the style and <span class="varspell" title="uniformity">uniformitie</span>, and that commonly <span class="varspell" title="called">call'd</span> the
+Plot, whether intricate or explicit, which is nothing indeed but
+such <a href="" id="plot" class="annotBtn"><span class="varspell" title="economy">&oelig;conomy</span></a>, or disposition of the fable as may stand best with
+<a href="" id="veri" class="annotBtn">verisimilitude</a> and decorum; they only will best judge who are not
+unacquainted with <span class="mi"><span class="varspell" title="Aeschylus">&AElig;schylus</span>, Sophocles,</span> and <span class="mi">Euripides,</span> the three
+Tragic Poets <span class="varspell" title="unequalled">unequall'd</span> yet by any, and the best rule to all who
+<span class="varspell" title="endeavor">endeavour</span> to write Tragedy. The circumscription of time wherein the
+whole Drama begins and ends, is according to <a href="" id="rule" class="annotBtn"><span class="varspell" title="ancient">antient</span> rule</a>, and best
+example, within the space of 24 hours.
+</p>
+
+</div>
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+</body> 
+</html> 

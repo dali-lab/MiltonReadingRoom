@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<!--Copyright 2003, all rights reserved-->
+
+<title>Milton: Apologus de Rustico et Hero</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title">
+<a href="" id="intro" class="annotBtn"><span class="mi">Apologus de rustico et hero.</span></a>
+</p>
+<br />
+<div class="verse_latin">
+
+<p class="first">
+
+<span class="varspell" title="Rusticos"><span class="minitial">R</span>Usticus</span> ex Malo sapidissima poma quotannis<br />
+<span class="mindent">Legit, &amp; urbano lecta dedit Domino:</span><br />
+Hic incredibili fruct&ucirc;s dulcedine Captus<br />
+<span class="mindent">Malum ipsam in proprias transtulit areolas.</span><br />
+Hactenus illa ferax, sed longo debilis &aelig;vo,<span class="line" id="line5">[ 5 ]</span><br />
+<span class="mindent">Mota solo assueto, protin&ugrave;s aret iners.</span><br />
+Quod tandem ut patuit Domino, spe lusus inani,<br />
+<span class="mindent">Damnavit celeres in sua damna manus.</span><br />
+Atque ait, Heu quant&ograve; satius fuit illa Coloni<br />
+<span class="mindent">(Parva licet) grato dona tulisse animo!</span><span class="line" id="line10">[ 10 ]</span><br />
+Possem Ego avaritiam fr&oelig;nare, gulamque voracem:<br />
+<span class="mindent">Nunc periere mihi &amp; f&oelig;tus &amp; ipsa parens.</span></p>
+</div>
+<br />
+<p class="author">
+<span class="mi">Elegiarum Finis.</span>
+</p>
+
+</body>
+</html>

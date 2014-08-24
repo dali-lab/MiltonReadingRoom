@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>On the Morning of Christ's Nativity: Text</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner">On the Morning of Christ's Nativity</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">On the Morning of Christ's Nativity: Text</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+	<div id="sidebar">
+			<ul id="sidebarNav">
+				<li id="notLast">
+					<a href="intro.shtml">Introduction</a>
+				</li>
+				<li>
+					<a href="text.shtml"><b>Text</b></a>
+				</li>
+				
+			</ul>	
+	</div>
+
+<div id="container">
+
+<div id="content">
+<div class="poenTitle">
+<h3>On the Morning of Christ's Nativity<br />Compos'd 1629</h3>
+</div>
+
+<div class="verse">
+
+<p><b>I</b></p>
+<p class="first">
+<span class="varspell" title="This"><span>T</span>his</span> is the Month, and this the happy morn<br />
+Wherein the Son of <span class="varspell" title="Heaven's">Heav'ns</span> eternal King,<br />
+Of wedded Maid, and Virgin Mother born,<br />
+Our great redemption from above did bring;<br />
+For so the <a href="" id="sages" class="annotBtn">holy sages</a> once did sing,<span class="line" id="line5"> [ 5 ]</span><br />
+<span class="mhalfindent">That he our deadly forfeit should release,</span><br />
+And with his Father work us a perpetual peace.
+</p>
+
+<p><b>II</b></p>
+<p>
+That glorious Form, that Light unsufferable,<br />
+And that far-beaming blaze of Majesty,<br />
+<span class="varspell" title="Wherewith">Wherwith</span> he wont at <span class="varspell" title="Heaven's">Heav'ns</span> high <span class="varspell" title="Council">Councel</span>-Table,<span class="line" id="line10"> [ 10 ]</span><br />
+To sit the midst of <a href="" id="Trinal" class="annotBtn">Trinal Unity</a>,<br />
+He laid aside; and here with us to be,<br />
+<span class="mhalfindent">Forsook the Courts of everlasting Day,</span><br />
+And chose with us a <span class="varspell" title="darksome">darksom</span> House of mortal <a name="line14">Clay</a>.
+</p>
+
+<p><b>III</b></p>
+<p>
+Say <span class="varspell" title="Heavenly">Heav'nly</span> Muse, shall not thy sacred vein<span class="line" id="line15"> [ 15 ]</span><br />
+Afford a present to the Infant God?<br />
+Hast thou no <span class="varspell" title="verse">vers</span>, no hymn, or solemn <span class="varspell" title="strain">strein</span>,<br />
+To <span class="varspell" title="welcome">welcom</span> him to this his new abode,<br />
+Now while the <span class="varspell" title="Heaven">Heav'n</span> by the <span class="varspell" title="Sun's">Suns</span> team untrod,<br />
+<span class="mhalfindent">Hath took no print of the <span class="varspell" title="approaching">approching</span> light,</span><span class="line" id="line20"> [ 20 ]</span><br />
+And all the <a href="" id="spangled" class="annotBtn">spangled host</a> keep watch in squadrons bright?
+</p>
+
+<p><b>IV</b></p>
+<p>
+See how from far upon the Eastern <span class="varspell" title="road">rode</span><br />
+The Star-led <a href="" id="wizards" class="annotBtn"><span class="varspell" title="Wizards">Wisards</span></a> haste with <span class="varspell" title="odors">odours</span> sweet:<br />
+O run, <a href="" id="prevent" class="annotBtn">prevent</a> them with thy humble ode,<br />
+And lay it lowly at his <a href="" id="humble" class="annotBtn">blessed feet</a>;<span class="line" id="line25"> [ 25 ]</span><br />
+Have thou the <span class="varspell" title="honor">honour</span> first, thy Lord to greet,<br />
+<span class="mhalfindent">And <span class="varspell" title="join">joyn</span> thy voice unto the Angel <span class="varspell" title="Choir">Quire</span>,</span><br />
+From out his secret Altar <span class="varspell" title="touched">toucht</span> with <a href="" id="fire" class="annotBtn"><span class="varspell" title="hallowed">hallow'd</span> fire</a>.
+</p>
+
+<p class="poemTitle">The Hymn</p>
+
+<p><b>I</b></p>
+<p class="first">
+<span class="varspell" title="It"><span class="minitial">I</span>t</span> was the Winter <span class="varspell" title="wild">wilde</span>,<br />
+While the <span class="varspell" title="Heaven">Heav'n</span>-born-<span class="varspell" title="child">childe</span>,<span class="line" id="line30"> [ 30 ]</span><br />
+<span class="mhalfindent">All meanly <span class="varspell" title="wrapped">wrapt</span> in the rude manger lies;</span><br />
+Nature in <span class="varspell" title="awe">aw</span> to him<br />
+Had <span class="varspell" title="doffed">doff't</span> her <span class="varspell" title="gaudy">gawdy</span> trim,<br />
+<span class="mhalfindent">With her great Master so to <a href="" id="sympathy" class="annotBtn">sympathize</a>:</span><br />
+It was no season then for her<span class="line" id="line35"> [ 35 ]</span><br />
+To wanton with the Sun her lusty Paramour.
+</p>
+
+
+<p><b>II</b></p>
+<p>
+<span class="varspell" title="Only">Onely</span> with speeches fair<br />
+She <span class="varspell" title="woos">woo's</span> the gentle Air<br />
+<span class="mhalfindent">To hide her guilty front with innocent Snow,</span><br />
+And on her naked shame,<span class="line" id="line40"> [ 40 ]</span><br />
+Pollute with <span class="varspell" title="sinful">sinfull</span> blame,<br />
+<span class="mhalfindent">The Saintly <span class="varspell" title="Veil">Vail</span> of Maiden white to throw,</span><br />
+Confounded, that her <span class="varspell" title="Maker's">Makers</span> eyes<br />
+Should look so <span class="varspell" title="near">neer</span> upon her foul deformities.
+</p>
+
+
+<p><b>III</b></p>
+<p>
+But he her fears to cease,<span class="line" id="line45"> [ 45 ]</span><br />
+Sent down the meek-<span class="varspell" title="eyed">eyd</span> Peace,<br />
+<span class="mhalfindent">She <span class="varspell" title="crowned">crown'd</span> with Olive green, came softly sliding</span><br />
+Down through the turning <a href="" id="sphere" class="annotBtn"><span class="varspell" title="sphere">sphear</span></a>,<br />
+His ready Harbinger,<br />
+<span class="mhalfindent">With Turtle wing the <a href="" id="amorous" class="annotBtn">amorous clouds</a> dividing,</span><span class="line" id="line50"> [ 50 ]</span><br />
+And waving wide her <a href="" id="myrtle" class="annotBtn"><span class="varspell" title="myrtle">mirtle</span></a> wand,<br />
+She strikes a <span class="varspell" title="universal">universall</span> Peace through Sea and Land.
+</p>
+
+<p><b>IV</b></p>
+<p>
+No War, or <span class="varspell" title="Battle's">Battails</span> sound<br />
+Was heard the World around:<br />
+<span class="mhalfindent">The idle spear and shield were high up hung;</span><span class="line" id="line55"> [ 55 ]</span><br />
+The hooked Chariot stood<br />
+<span class="varspell" title="Unstained">Unstain'd</span> with hostile blood,<br />
+<span class="mhalfindent">The Trumpet spake not to the armed throng,</span><br />
+And Kings <span class="varspell" title="sat">sate</span> still with <span class="varspell" title="awful">awfull</span> eye,<br />
+As if they surely knew their <span class="varspell" title="sovereign">sovran</span> Lord was by.<span class="line" id="line60"> [ 60 ]</span>
+</p>
+
+<p><b>V</b></p>
+<p>
+But <span class="varspell" title="peaceful">peacefull</span> was the night<br />
+<span class="varspell" title="Wherein">Wherin</span> the Prince of light<br />
+<span class="mhalfindent">His <span class="varspell" title="reign">raign</span> of peace upon the earth began:</span><br />
+The <span class="varspell" title="Winds">Windes</span>, with wonder <a href="" id="hushed" class="annotBtn">whist</a>,<br />
+Smoothly the waters <span class="varspell" title="kissed">kist</span>,<span class="line" id="line65"> [ 65 ]</span><br />
+<span class="mhalfindent">Whispering new <span class="varspell" title="joys">joyes</span> to the <span class="varspell" title="mild">milde</span> Ocean,</span><br />
+Who now hath quite forgot to rave,<br />
+While <a href="" id="birds" class="annotBtn">Birds of Calm</a> sit brooding on the charmed wave.
+</p>
+
+<p><b>VI</b></p>
+<p>
+The Stars with deep amaze<br />
+Stand <span class="varspell" title="fixed">fixt</span> in <span class="varspell" title="steadfast">stedfast</span> gaze,<span class="line" id="line70"> [ 70 ]</span><br />
+<span class="mhalfindent">Bending one way their <span class="varspell" title="precious">pretious</span> influence,</span><br />
+And will not take their flight,<br />
+For all the morning light,<br />
+<span class="mhalfindent"><a name="lucifer">Or</a> <a href="" id="miller" class="annotBtn"><span class="mi">Lucifer</span></a> that often <span class="varspell" title="warned">warn'd</span> them thence;</span><br />
+But in their glimmering Orbs did glow,<span class="line" id="line75"> [ 75 ]</span><br />
+<span class="varspell" title="Until">Untill</span> their Lord himself bespake, and bid them go.
+</p>
+
+
+<p><b>VII</b></p>
+<p>
+And though the shady gloom<br />
+Had given day her room,<br />
+<span class="mhalfindent">The Sun himself with-held his wonted speed,</span><br />
+And hid his head for shame,<span class="line" id="line80"> [ 80 ]</span><br />
+As his <span class="varspell" title="inferior">inferiour</span> flame,<br />
+<span class="mhalfindent">The new-<span class="varspell" title="enlightened">enlightn'd</span> world no more should need;</span><br />
+He saw a <a href="" id="spenser" class="annotBtn">greater Sun</a> appear<br />
+<span class="varspell" title="Than">Then</span> his bright Throne, or burning <a href="" id="axle" class="annotBtn">Axletree</a> could bear.
+</p>
+
+
+<p><b>VIII</b></p>
+<p>
+The Shepherds on the Lawn,<span class="line" id="line85"> [ 85 ]</span><br />
+Or ere the point of dawn,<br />
+<span class="mhalfindent"><span class="varspell" title="Sat">Sate</span> simply chatting in a <span class="varspell" title="rustic">rustick</span> row;</span><br />
+<a name="pan">Full</a> little thought they <span class="varspell" title="then">than</span>,<br />
+That the mighty <a href="" id="pan" class="annotBtn"><span class="mi">Pan</span></a><br />
+<span class="mhalfindent">Was kindly <span class="varspell" title="come">com</span> to live with them below;</span><span class="line" id="line90"> [ 90 ]</span><br />
+Perhaps their loves, or <span class="varspell" title="else">els</span> their sheep,<br />
+Was all that did their silly thoughts so <span class="varspell" title="busy">busie</span> keep.
+</p>
+
+<p><b>IX</b></p>
+<p>
+When such <span class="varspell" title="music">musick</span> sweet<br />
+Their hearts and ears did greet,<br />
+<span class="mhalfindent">As never was by <span class="varspell" title="mortal">mortall</span> finger <span class="varspell" title="struck">strook</span>,</span><span class="line" id="line95"> [ 95 ]</span><br />
+Divinely-warbled voice<br />
+Answering the stringed noise,<br />
+<span class="mhalfindent">As all their souls in <span class="varspell" title="blissful">blisfull</span> rapture took:</span><br />
+The Air such pleasure <span class="varspell" title="loath">loth</span> to lose,<br />
+With thousand <span class="varspell" title="echoes">echo's</span> still prolongs each <span class="varspell" title="heavenly">heav'nly</span> close.<span class="line" id="line100"> [ 100 ]</span>
+</p>
+
+
+<p><b>X</b></p>
+<p>
+Nature that heard such sound<br />
+Beneath the <a href="" id="moon" class="annotBtn">hollow round</a><br />
+<span class="mhalfindent">Of <span class="mi">Cynthia's</span> seat, the Airy region thrilling,</span><br />
+Now was almost won<br />
+To think her part was <span class="varspell" title="done">don</span>,<span class="line" id="line105"> [ 105 ]</span><br />
+<span class="mhalfindent">And that her <span class="varspell" title="reign">raign</span> had here its last fulfilling;</span><br />
+She knew such harmony alone<br />
+Could hold all <span class="varspell" title="Heaven">Heav'n</span> and Earth in happier union.
+</p>
+
+<p><b>XI</b></p>
+<p>
+At last surrounds their sight<br />
+A Globe of circular light,<span class="line" id="line110"> [ 110 ]</span><br />
+<span class="mhalfindent">That with long beams the shame-<span class="varspell" title="faced">fac't</span> night <span class="varspell" title="arrayed">array'd</span>,</span><br />
+The helmed Cherubim<br />
+And sworded Seraphim<br />
+<span class="mhalfindent">Are seen in glittering ranks with wings <span class="varspell" title="displayed">displaid</span>,</span><br />
+Harping in loud and solemn <span class="varspell" title="choir">quire</span>,<span class="line" id="line115"> [ 115 ]</span><br />
+With unexpressive notes to <span class="varspell" title="Heaven's">Heav'ns</span> new-born Heir.
+</p>
+
+<p><b>XII</b></p>
+<p>
+Such <span class="varspell" title="Music">Musick</span> (as 'tis said)<br />
+Before was never made,<br />
+<span class="mhalfindent">But when of <a name="line119">old</a> the <a href="" id="job" class="annotBtn">sons of morning</a> sung,</span><br />
+While the Creator Great<span class="line" id="line120"> [ 120 ]</span><br />
+His constellations set,<br />
+<span class="mhalfindent">And the well-<span class="varspell" title="balanced">balanc't</span> world on hinges hung,</span><br />
+And cast the dark foundations deep,<br />
+And bid the <span class="varspell" title="weltering">weltring</span> waves their oozy channel keep.
+</p>
+
+
+<p><b>XIII</b></p>
+<p>
+Ring out ye <span class="varspell" title="Chrystal">Crystall</span> <span class="varspell" title="spheres">sphears</span>,<span class="line" id="line125"> [ 125 ]</span><br />
+Once bless our human ears,<br />
+<span class="mhalfindent">(If ye have <a href="" id="pythagoreas" class="annotBtn">power to touch our senses</a> so)</span><br />
+And let your silver chime<br />
+Move in melodious time;<br />
+<span class="mhalfindent">And let the Base of <span class="varspell" title="Heaven's">Heav'ns</span> deep Organ blow,</span><span class="line" id="line130"> [ 130 ]</span><br />
+And with your ninefold harmony<br />
+Make up full consort to <span class="varspell" title="the">th'</span> <span class="varspell" title="Angelic">Angelike</span> symphony.
+</p>
+
+
+<p><a name="xiv"><b>XIV</b></a></p>
+<p>
+For if such holy Song<br />
+Enwrap our fancy long,<br />
+<span class="mhalfindent">Time will run back, and fetch the <a href="" id="golden" class="annotBtn">age of gold</a>,</span><span class="line" id="line135"> [ 135 ]</span><br />
+And <span class="varspell" title="speckled">speckl'd</span> vanity<br />
+Will sicken soon and die,<br />
+<span class="mhalfindent">And leprous sin will melt from earthly <span class="varspell" title="mold">mould</span>,</span><br />
+And Hell itself will pass away,<br />
+And leave her dolorous mansions to the peering day.<span class="line" id="line140"> [ 140 ]</span>
+</p>
+
+
+<p><b>XV</b></p>
+<p>
+Yea Truth, and <a name="justice">Justice</a> then<br />
+Will down return to men,<br />
+<span class="mhalfindent"><span class="varspell" title="The">Th'</span> <span class="varspell" title="enameled">enameld</span> <span class="mi">Arras</span> of the Rainbow wearing,</span><br />
+And Mercy set between,<br />
+<span class="varspell" title="Throned">Thron'd</span> in <span class="varspell" title="Celestial">Celestiall</span> sheen,<span class="line" id="line145"> [ 145 ]</span><br />
+<span class="mhalfindent">With radiant feet the tissued clouds down <span class="varspell" title="steering">stearing</span>,</span><br />
+And <span class="varspell" title="Heaven">Heav'n</span> as at <span class="varspell" title="some">som</span> <span class="varspell" title="festival">festivall</span>,<br />
+Will open wide the Gates of her high Palace Hall.
+</p>
+
+<p><b>XVI</b></p>
+<p>
+But wisest Fate <span class="varspell" title="says">sayes</span> no,<br />
+This must not yet be so,<span class="line" id="line150"> [ 150 ]</span><br />
+<span class="mhalfindent">The Babe lies yet in smiling Infancy,</span><br />
+That on the bitter cross<br />
+Must redeem our loss;<br />
+<span class="mhalfindent">So both himself and us to <span class="varspell" title="glorify">glorifie</span>:</span><br />
+Yet first to those <span class="varspell" title="chained">ychain'd</span> in sleep,<span class="line" id="line155"> [ 155 ]</span><br />
+The <span class="varspell" title="wakeful">wakefull</span> trump of doom must thunder through the deep,
+</p>
+
+
+<p><b>XVII</b></p>
+<p>
+With such a horrid clang<br />
+As on mount <a href="" id="sinai" class="annotBtn"><span class="mi">Sinai</span></a> rang<br />
+<span class="mhalfindent">While the red fire, and <span class="varspell" title="smoldering">smouldring</span> clouds out brake:</span><br />
+The aged Earth <span class="varspell" title="aghast">agast</span><span class="line" id="line160"> [ 160 ]</span><br />
+With <span class="varspell" title="terror">terrour</span> of that blast,<br />
+<span class="mhalfindent">Shall from the surface to the center shake,</span><br />
+When at the <span class="varspell" title="world's">worlds</span> last session,<br />
+The <span class="varspell" title="dreadful">dreadfull</span> Judge in middle Air shall spread his <a href="" id="judge" class="annotBtn">throne</a>.
+</p>
+
+
+<p><b>XVIII</b></p>
+<p>
+And then at last our bliss<span class="line" id="line165"> [ 165 ]</span><br />
+Full and perfect is,<br />
+<span class="mhalfindent">But now begins; for from this happy day</span><br />
+<span class="varspell" title="The">Th'</span> old <a href="" id="dragon" class="annotBtn">Dragon</a> under ground,<br />
+In straiter limits bound,<br />
+<span class="mhalfindent">Not half so far casts his usurped sway,</span><span class="line" id="line170"> [ 170 ]</span><br />
+And wrath to see his Kingdom fail,<br />
+<span class="varspell" title="Swings">Swindges</span> the scaly <span class="varspell" title="Horror">Horrour</span> of his <span class="varspell" title="folded">foulded</span> tail.
+</p>
+
+<p><b>XIX</b></p>
+<p>
+The <a name="dumboracles">Oracles</a> are <span class="varspell" title="dumb">dumm</span>,<br />
+No voice or hideous <span class="varspell" title="hum">humm</span><br />
+<span class="mhalfindent">Runs through the arched roof in words deceiving.</span><span class="line" id="line1175"> [ 175 ]</span><br />
+<span class="mi">Apollo</span> from his shrine<br />
+Can no more divine,<br />
+<span class="mhalfindent">With hollow <span class="varspell" title="shriek">shreik</span> the steep of <span class="mi">Delphos</span> leaving.<br />
+No nightly trance, or breathed spell,</span><br />
+<span class="varspell" title="Inspires">Inspire's</span> the pale-<span class="varspell" title="eyed">ey'd</span> Priest from the prophetic cell.<span class="line" id="line180"> [ 180 ]</span>
+</p>
+
+
+<p><b>XX</b></p>
+<p>
+The lonely mountains <span class="varspell" title="over">o're</span>,<br />
+And the resounding shore,<br />
+<span class="mhalfindent">A voice of weeping heard, and loud lament;</span><br />
+From haunted spring and dale<br />
+<span class="varspell" title="Edged">Edg'd</span> with poplar pale,<span class="line" id="line185"> [ 185 ]</span><br />
+<span class="mhalfindent">The parting <a href="" id="genius" class="annotBtn">Genius</a> is with sighing sent,</span><br />
+With <span class="varspell" title="flower">flowre</span>-<span class="varspell" title="inwoven">inwov'n</span> tresses torn<br />
+The <span class="varspell" title="Nymphs">Nimphs</span> in twilight shade of tangled thickets mourn.
+</p>
+
+
+<p><b>XXI</b></p>
+<p>
+In consecrated Earth,<br />
+And on the holy Hearth,<span class="line" id="line190"> [ 190 ]</span><br />
+<span class="mhalfindent">The <a href="" id="lars" class="annotBtn"><span class="mi">Lars</span>, and <span class="mi">Lemures</span></a> moan with midnight plaint,</span><br />
+In Urns, and Altars round,<br />
+A drear, and dying sound<br />
+<span class="mhalfindent">Affrights the <a href="" id="flamens" class="annotBtn"><span class="mi">Flamins</span></a> at their service quaint;</span><br />
+And the chill Marble seems to sweat,<span class="line" id="line195"> [ 195 ]</span><br />
+While each peculiar power forgoes his wonted seat.
+</p>
+
+
+<p><b>XXII</b></p>
+<p>
+<a href="" id="peor" class="annotBtn"><span class="mi">Peor</span>, and <span class="mi">Baalim</span></a>,<br />
+Forsake their Temples dim,<br />
+<span class="mhalfindent">With that <a name="astarte"><span class="varspell" title="twice">twise</span>-<span class="varspell" title="battered">batter'd</span> god</a> of <a href="" id="palestine" class="annotBtn"><span class="mi">Palestine</span></a>,</span><br />
+And mooned <a href="" id="astarte" class="annotBtn"><span class="mi">Ashtaroth</span></a>,<span class="line" id="line200"> [ 200 ]</span><br />
+<span class="varspell" title="Heaven's">Heav'ns</span> Queen and Mother both,<br />
+<span class="mhalfindent">Now sits not girt with Tapers holy shine,</span><br />
+The Libyc <a href="" id="ram" class="annotBtn"><span class="mi">Hammon</span></a> shrinks his horn,<br />
+In vain the <span class="mi">Tyrian</span> Maids their wounded <a href="" id="damuzzi" class="annotBtn"><span class="mi">Thamuz</span></a> mourn.
+</p>
+
+
+<p><b>XXIII</b></p>
+<p>
+And <a name="moloch">sullen</a> <a href="" id="moloch" class="annotBtn"><span class="mi">Moloch</span></a> fled,<span class="line" id="line205"> [ 205 ]</span><br />
+Hath left in shadows <span class="varspell" title="dread">dred</span>.<br />
+<span class="mhalfindent">His burning Idol all of blackest hue,</span><br />
+In vain with Cymbals ring,<br />
+They call the grisly king,<br />
+ <span class="mhalfindent">In <span class="varspell" title="dismal">dismall</span> dance about the furnace blue;</span><span class="line" id="line210"> [ 210 ]</span><br />
+The brutish <a href="" id="egypt" class="annotBtn">gods of <span class="mi">Nile</span></a> as fast,<br />
+<span class="mi">Isis</span> and <span class="mi">Orus</span>, and the Dog <span class="mi">Anubis</span> <span class="varspell" title="haste">hast</span>.
+</p>
+
+
+<p><b>XXIV</b></p>
+<p>
+Nor is <a href="" id="osiris" class="annotBtn"><span class="mi">Osiris</span></a> seen<br />
+In <span class="mi">Memphian</span> Grove, or Green,<br />
+<span class="mhalfindent">Trampling the <span class="varspell" title="unshowered">unshowr'd</span> <span class="varspell" title="Grass">Grasse</span> with lowings loud:</span><span class="line" id="line215"> [ 215 ]</span><br />
+Nor can he be at rest<br />
+Within his sacred chest,<br />
+<span class="mhalfindent">Naught but profoundest Hell can be his shroud:</span><br />
+In vain with <span class="varspell" title="Timbreled">Timbrel'd</span> Anthems dark<br />
+The sable-stoled Sorcerers bear <a href="" id="sable" class="annotBtn">his <span class="varspell" title="worshipped">worshipt</span> Ark.</a><span class="line" id="line220"> [ 220 ]</span>
+</p>
+
+
+<p><b>XXV</b></p>
+<p>
+He feels from <span class="mi"><span class="varspell" title="Judah's">Juda's</span></span> land<br />
+The <span class="varspell" title="dreaded">dredded</span> <span class="varspell" title="Infant's">Infants</span> hand,<br />
+<span class="mhalfindent">The <span class="varspell" title="rays">rayes</span> of <span class="mi">Bethlehem</span> blind his dusky <span class="varspell" title="eyen">eyn</span>;<br />
+Nor all the gods beside,</span><br />
+Longer dare abide,<span class="line" id="line225"> [ 225 ]</span><br />
+<span class="mhalfindent">Nor <a href="" id="typhon" class="annotBtn"><span class="mi">Typhon</span></a> huge ending in snaky twine:</span><br />
+Our Babe, to <span class="varspell" title="show">shew</span> <a href="" id="hercules" class="annotBtn">his Godhead true,</a><br />
+Can in his <span class="varspell" title="swaddling">swadling</span> bands <span class="varspell" title="control">controul</span> the damned crew.
+</p>
+
+
+<p><b>XXVI</b></p>
+<p>
+So when the Sun in bed,<br />
+<span class="varspell" title="Curtained">Curtain'd</span> with cloudy red,<span class="line" id="line230"> [ 230 ]</span><br />
+<span class="mhalfindent">Pillows his chin upon an <a href="" id="orient" class="annotBtn">Orient</a> wave.</span><br />
+The flocking shadows pale<br />
+Troop to <span class="varspell" title="the">th'</span> <span class="varspell" title="infernal">infernall</span> jail,<br />
+<span class="mhalfindent">Each <span class="varspell" title="fettered">fetter'd</span> Ghost slips to his <span class="varspell" title="several">severall</span> grave,</span><br />
+And the yellow-skirted <span class="mi">Fayes</span><span class="line" id="line235"> [ 235 ]</span><br />
+Fly after the Night-steeds, leaving their Moon-<span class="varspell" title="loved">lov'd</span> maze.
+</p>
+
+
+<p><b>XXVII</b></p>
+<p>
+But see the Virgin <span class="varspell" title="blessed">blest</span>,<br />
+Hath laid her Babe to rest.<br />
+<span class="mhalfindent">Time is our tedious Song should here have ending,</span><br />
+<span class="varspell" title="Heaven's">Heav'ns</span> youngest-<a href="" id="teemed" class="annotBtn">teemed</a> Star<span class="line" id="line240"> [ 240 ]</span><br />
+Hath <span class="varspell" title="fixed">fixt</span> her <span class="varspell" title="polished">polisht</span> Car,<br />
+<span class="mhalfindent">Her sleeping Lord with Handmaid Lamp attending.</span><br />
+And all about the Courtly Stable,<br />
+Bright-<span class="varspell" title="harnessed">harnest</span> Angels sit in order serviceable.
+</p>
+
+
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

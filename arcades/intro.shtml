@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Arcades: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+	</head>
+	
+	
+
+	<body>
+			<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+			<a href=""><img id="search" src="../images/search.png"></img></a>
+			
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+			<div id="header">
+					<a name="top"></a>
+					<div class="align-block">
+						<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+						<span id="poemBanner">Arcades</span>
+					</div>
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast">
+						<a href="intro.shtml"><b>Introduction</b></a>
+					</li>
+					<li>
+						<a href="text.shtml">Text</a>
+					</li>
+				</ul>	
+			</div>
+			
+			<div id="container">
+				<div id="content">
+					<p class="poemTitle">Introduction</p>
+					
+					<p>
+					<span class="booktitle">Arcades</span> was part of a series of small-scale aristocratic entertainments, probably performed during the summer of 1633 (<a href="../bibliography/c-e/text.shtml#carey_fowler" target="main">Carey and Fowler</a> cite Milton's reference to thick foliage at 88-9 to support this dating).  The piece honors  Alice Spencer, the Dowager Countess of Derby.  Her first husband was Ferdinando Stanley, Lord Strange (died 1594), thus she was also known as Lady Strange.  Her kinsman, Edmund Spenser dedicated his <span class="booktitle">Tears of the Muses</span> (1591) to her, and she was the "sweet Amaryllis" in his <a href="http://www.luminarium.org/renascence-editions/colin.html" target="main"><span class="booktitle">Colin Clout's Come Home Again</span></a> (1595).  John Davies of Hereford dedicated <span class="booktitle">Holy Rood</span> to her, and she played the part of Zenobia in Ben Jonson's <span class="booktitle">Masque of Queens</span>.  She married her second husband, <a href="http://www.search.eb.com/eb/article?eu=16321" target="main">Sir Thomas Egerton</a>, in 1600, and her second daughter married Sir Thomas's son, Sir John, who became the Earl of Bridgewater in 1617.  <span class="booktitle">A Mask</span> was written for him.  Milton's connection with the Egertons was likely through his friend <a href="http://www.search.eb.com/eb/article?eu=48512" target="main">Henry Lawes</a>, who taught Music to the Earl's children beginning in 1626.</p>
+					<p>
+					The name and the genre of the work are pastoral.  The title &mdash; meaning "the Arcadians" &mdash; is intended to recall images of classical Arcady, a region of Greece imagined as full of shepherds, nymphs, and pastoral poetry.  Milton was well versed in the tradition of representing Arcadia as a pastoral ideal, and was probably familiar with the pastoral poetry of Spenser, Shakespeare, Jonson, Drayton, William Browne, and George Wither, and certainly Sir Philip Sidney's prose pastoral epic, <a href="http://www.fh-augsburg.de/~harsch/anglica/Chronology/16thC/Sidney/sid_arc0.html" target="main"><span class="booktitle">Arcadia</span></a>.  Milton's masque-like pageant honors the Countess by placing her at the center of the movement of a group of noble persons.  The short body of the poem is thematically very rich.  Milton praises the virtues of motherhood, wisdom, and celestial beauty through the use of numerous classical allusions (especially lines 20-22).  He also introduces, and alters, Platonic cosmology and the Pythagorean doctrine of the Music of the Spheres.  The Genius of the wood may introduce some pagan elements, and some critics (<a href="../bibliography/t-z/text.shtml#Wallace" target="main">John M. Wallace</a>, for example) interpret <span class="booktitle">Arcades</span> as a progression from the profane to the religious, from the classical Renaissance of Italy to the transalpine reformed ethos of the north.  Since <span class="booktitle">Arcades</span> was meant to flatter the Countess, it seems more likely, as <a href="../bibliography/f-h/text.shtml#Flannagan" target="main">Flannagan</a> suggests, that the Genius embodies the magic and moral power of the artist in free service to aristocrats like the Countess and her descendants.  </p>
+					<p> 
+
+The copy-text is from <a href="http://wwwlib.umi.com/eebo/image/114721/30" target="main"><span class="booktitle">Poems</span> (1645)</a> with some reference to the Trinity Manuscript, which, as Shawcross maintains, was probably a transcript made after the first performance.   <br><br><span class="author">John Garber III</span></p>
+				</div>
+				
+				<div id="annotation"></div>	
+			</div>
+			
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 
+
+

@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Elegiarum: Elegia tertia</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Elegiarum</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Elegiarum: Elegia tertia</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin</a>
+					</li>
+					<li id="notLast">
+						<a href="" id="English">English</a>
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						Texts
+					</li>
+					<li id="notLast">
+						<a href="../elegy_1/text.shtml">Elegia prima</a>,
+						<a href="../elegy_2/text.shtml"> secunda</a>
+					</li>
+					<li id="notLast">
+						<a href="../elegy_3/text.shtml"><b>Elegia tertia</b></a>,
+						<a href="../elegy_4/text.shtml"> quarta</a>
+					</li>
+					<li id="notLast">
+						<a href="../elegy_5/text.shtml">Elegia quinta</a>,
+						<a href="../elegy_6/text.shtml"> sexta</a>
+					</li>
+					<li id="notLast">
+						<a href="../elegy_7/text.shtml">Elegia septima</a>
+					</li>
+					<li id="notLast">
+						<a href="../mente/text.shtml">Haec ego mente</a>
+					</li>
+					<li id="notLast" class="newGroup">
+						<a href="../plot/text.shtml">In Proditionem Bombardicam</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem/text.shtml">In eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem2/text.shtml">In eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem3/text.shtml">In eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../gunpowder/text.shtml">In Inventorem Bombardae</a>
+					</li>
+					<li id="notLast" class="newGroup">
+						<a href="../leonoram/text.shtml">Ad Leonoram</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem4/text.shtml">Ad eandem</a>
+					</li>
+					<li id="notLast">
+						<a href="../eandem5/text.shtml">Ad eandem</a>
+					</li>
+					<li class="newGroup">
+						<a href="../../apologus/text.shtml">Additions in <i>Poems</i> (1673)</a>
+					</li>			
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">Elegia tertia,</a> Anno &aelig;tatis 17.<br />
+ <span class="mi">In obitum Pr&aelig;sulis Wintoniensis.</span></p>
+
+<div class="verse_latin">
+
+<p>
+<span class="varspell" title="Moestus">
+<span>M</span>&oelig;stus</span> eram, &amp; tacitus nullo comitante sedebam,<br />
+<span class="mindent">H&aelig;rebantque animo tristia plura meo,</span>
+</p>
+
+<p>
+Protinus en subiit funest&aelig; cladis imago<br />
+<span class="mindent">Fecit in Angliaco quam Libitina solo;</span>
+</p>
+
+
+<p>
+Dum procerum ingressa est splendentes marmore turres<span class="line" id="line5"> [ 5 ]</span><br />
+<span class="mindent">Dira sepulchrali mors metuenda face;</span>
+</p>
+
+<p>
+Pulsavitque auro gravidos &amp; jaspide muros,<br />
+<span class="mindent">Nec metuit satrapum sternere falce greges.</span>
+</p>
+
+<p>
+Tunc memini clarique ducis, fratrisque verendi<br />
+<span class="mindent">Intempestivis ossa cremata rogis.</span><span class="line" id="line10"> [ 10 ]</span>
+</p>
+
+<p>
+Et memini Heroum quos vidit ad &aelig;thera raptos,<br />
+<span class="mindent">Flevit &amp; amissos Belgia tota duces.</span>
+</p>
+
+<p>
+At te pr&aelig;cipu&egrave; luxi dignissime pr&aelig;sul,<br />
+<span class="mindent">Wintoni&aelig;que olim gloria magna tu&aelig;;</span>
+</p>
+
+<p>
+Delicui fletu, &amp; tristi sic ore querebar,<span class="line" id="line15"> [ 15 ]</span><br />
+<span class="mindent">Mors fera Tartareo diva secunda Jovi,</span>
+</p>
+
+<p>
+Nonne satis quod sylva tuas persentiat iras,<br />
+<span class="mindent">Et quod in herbosos jus tibi detur agros,</span>
+</p>
+
+<p>
+Quodque afflata tuo marcescant lilia tabo,<br />
+<span class="mindent">Et crocus, &amp; pulchr&aelig; Cypridi sacra rosa,</span><span class="line" id="line20"> [ 20 ]</span>
+</p>
+
+<p>
+Nec sinis ut semper fluvio contermina quercus<br />
+<span class="mindent">Miretur lapsus pr&aelig;tereuntis aqu&aelig;?</span>
+</p>
+
+<p>
+Et tibi succumbit liquido qu&aelig; plurima c&aelig;lo<br />
+<span class="mindent">Evehitur pennis quamlibet augur avis,</span>
+</p>
+
+
+<p>
+Et qu&aelig; mille nigris errant animalia sylvis,<span class="line" id="line25"> [ 25 ]</span><br />
+<span class="mindent">Et quod alunt mutum Proteos antra pecus.</span>
+</p>
+
+<p>
+Invida, tanta tibi cum sit concessa potestas;<br />
+<span class="mindent">Quid juvat human&acirc; tingere c&aelig;de manus?</span>
+</p>
+
+<p>
+Nobileque in pectus certas acuisse sagittas,<br />
+<span class="mindent">Semideamque animam sede fug&acirc;sse su&acirc;?</span><span class="line" id="line30"> [ 30 ]</span>
+</p>
+
+<p>
+Talia dum lacrymans alto sub pectore volvo,<br />
+<span class="mindent">Roscidus occiduis Hesperus exit aquis,</span>
+</p>
+
+<p>
+Et Tartessiaco submerserat &aelig;quore currum<br />
+<span class="mindent">Ph&oelig;bus ab e&ouml;o littore mensus iter.</span>
+</p>
+
+<p>
+Nec mora, membra cavo posui refovenda cubili,<span class="line" id="line35"> [ 35 ]</span><br />
+<span class="mindent">Condiderant oculos noxque soporque meos.</span>
+</p>
+
+<p>
+Cum mihi visus eram lato spatiarier agro,<br />
+<span class="mindent">Heu nequit ingenium visa referre meum.</span>
+</p>
+
+<p>
+Illic punice&acirc; radiabant omnia luce,<br />
+<span class="mindent">Ut matutino cum juga sole rubent.</span><span class="line" id="line40"> [ 40 ]</span>
+</p>
+
+<p>
+Ac veluti cum pandit opes Thaumantia proles,<br />
+<span class="mindent">Vestitu nituit multicolore solum.</span>
+</p>
+
+<p>
+Non dea tam variis ornavit floribus hortos<br />
+<span class="mindent">Alcinoi, Zephyro Chloris amata levi.</span>
+</p>
+
+<p>
+Flumina vernantes lambunt argentea campos,<span class="line" id="line45"> [ 45 ]</span><br />
+<span class="mindent">Ditior Hesperio flavet arena Tago.</span>
+</p>
+
+<p>
+Serpit odoriferas per opes levis aura Favoni,<br />
+<span class="mindent">Aura sub innumeris humida nata rosis.</span>
+</p>
+
+<p>
+Talis in extremis terr&aelig; Gangetidis oris<br />
+<span class="mindent">Luciferi regis fingitur esse domus.</span><span class="line" id="line50"> [ 50 ]</span>
+</p>
+
+<p>
+Ipse racemiferis dum densas vitibus umbras<br />
+<span class="mindent">Et pellucentes miror ubique locos,</span>
+</p>
+
+<p>
+Ecce mihi subito pr&aelig;sul Wintonius astat, <br />
+<span class="mindent">Sydereum nitido fulsit in ore jubar;</span>
+</p>
+
+<p>
+Vestis ad auratos defluxit candida talos,<span class="line" id="line55"> [ 55 ]</span><br />
+<span class="mindent">Infula divinum cinxerat alba caput.</span>
+</p>
+
+<p>
+Dumque senex tali incedit venerandus amictu,<br />
+<span class="mindent">Intremuit l&aelig;to florea terra sono.</span>
+</p>
+
+<p>
+Agmina gemmatis plaudunt c&aelig;lestia pennis,<br />
+<span class="mindent">Pura triumphali personat &aelig;thra tub&acirc;.</span><span class="line" id="line60"> [ 60 ]</span>
+</p>
+
+<p>
+Quisque novum amplexu comitem cantuque salutat;<br />
+<span class="mindent">Hosque aliquis placido misit ab ore sonos;</span>
+</p>
+
+<p>
+Nate veni, &amp; patrii felix cape gaudia regni,<br />
+<span class="mindent">Semper ab hinc duro, nate, labore vaca.</span>
+</p>
+
+<p>
+Dixit, &amp; aliger&aelig; tetigerunt nablia turm&aelig;,<span class="line" id="line65"> [ 65 ]</span><br />
+<span class="mindent">At mihi cum tenebris aurea pulsa quies.</span>
+</p>
+
+<p>
+Flebam turbatos Cephalei&acirc; pellice somnos,<br />
+<span class="mindent">Talia contingant somnia s&aelig;pe mihi.</span>
+</p>
+
+
+</div>
+</div>
+
+<div id="alternateContent">
+
+	<p class="poemTitle"><a href="" id="intro" class="annotBtn">The Third Elegy</a><br />At the Age of Seventeen<br />
+	On the Death of the Bishop of Winchester
+	</p>
+	<div class="verse_latin">
+	 
+	<p class="first">
+	<span class="varspell" title="Silent"><span>S</span>ilent</span> and alone I sat in sorrowful mood, and many griefs laid hold upon my soul, when suddenly arose the phantom of the deadly plague which <a href="" id="libitina" class="annotBtn">Libitina</a> sent upon England, when bitter Death, fearful with her sepulchral torch, entered the gleaming marble palaces of the great, smote the walls heavy with jasper and gold, and feared not with her scythe to mow down troops of nobles. Then I remembered that famous duke and his revered brother-in-arms, whose bones were consumed on untimely pyres; I remembered the heroes that all Belgia saw caught up to heaven, the <a href="" id="lostleaders" class="annotBtn">lost leaders</a> whom she wept.
+	</p>
+	 <p>
+	But I chiefly lamented for you, most noble Bishop, once the crowning glory of your beloved Winchester. I melted in tears, and thus sadly complained: "Cruel Death, goddess next in power to <a href="" id="tartarean" class="annotBtn">Tartarean Jove</a>, is it not enough that the forests suffer under your wrath, that power is given you over the grass of the field, that the lily, the crocus, and the rose sacred to lovely <a href="" id="cypris" class="annotBtn">Cypris</a>, droop at the touch of your withering breath? Nor do you permit the oak that stands by the river to gaze for ever at the flow of the passing water. And the birds, as many as are borne on wings through the liquid heaven, although they are diviners of the future; all the thousand wild beasts that wander in the dark forests; the <a href="" id="seals" class="annotBtn">dumb herds</a> that find shelter in the caves of Proteus; all succumb to you. You are envious? But, endowed with such power, what joy is it to stain your hands with human blood, to sharpen your unerring bolts to pierce a noble breast, and to drive a soul half-divine from its home?"
+	</p>
+	 <p>
+	While thus in tears I pondered such matters deep in my heart, dewy <a href="" id="hesperus" class="annotBtn">Hesperus</a> arose from the Western sea, and Phoebus, having finished his course from the shores of dawn, had submerged his chariot in the Iberian ocean. Straightway I laid myself on my yielding bed to find repose, and night and sleep had closed my eyes, when, as it seemed, I was wandering in a wide field &mdash; but, alas! I have no gift to tell what I saw. There all things glowed with a purple light, as when the mountain-peaks grow red in the morning sun; and, even, as when the <a href="" id="iris" class="annotBtn">daughter of Thaumas</a> has scattered her rich offspring, the earth was luxuriant in many-colored robes. <a href="" id="chloris" class="annotBtn">Chloris</a>, the goddess beloved of gentle Zephyr, did not adorn the <a href="" id="alcinous" class="annotBtn">garden of Alcinous</a> with flowers so varied. Through verdant fields flowed silver streams whose sands shone a richer gold than those of <a href="" id="tagus" class="annotBtn">Hesperian Tagus</a>. Through the fragrant leaves the soft breath of <a href="" id="favonius" class="annotBtn">Favonius</a> trembled, the moist breath born beneath countless roses. Such a place, it is supposed, is the home of royal <a href="" id="lucifer" class="annotBtn">Lucifer</a>, in a land on the farthest shores of the Ganges. As I gazed in wonder at these sunlit spaces everywhere, and the deep shadows under the clustering vines, suddenly before me stood the Bishop of Winchester. From his face shone a heavenly light like the radiance of the stars, his robe of dazzling white swept down to his golden sandals, and a white band encircled his divine head. As the venerable man in such raiment advanced, the flowery earth trembled with joyous sound. The heavenly hosts clapped their jeweled wings, and the clear air resounded with the triumphal horn. Each saluted his new companion with embrace and song, and one with placid lips uttered these words: "Come, my son, take of the joy and gladness of your Father's kingdom, and <a href="" id="joy" class="annotBtn">from hard labor henceforth and for ever be free</a>." He spoke, and the winged companies touched their harps. But my golden peace was dispelled with the night, and I wept for my dreams shattered by the <a href="" id="cephalus" class="annotBtn">mistress of Cephalus</a>. <a href="" id="amores" class="annotBtn">May such dreams often return</a>. 
+	</p>
+</div>
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

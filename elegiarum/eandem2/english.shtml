@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<!--Copyright 2003-2010, all rights reserved-->
+
+<title>Milton: On the Same</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">On the Same</a>
+</p>
+<br />
+
+<div class="verse_latin">
+
+<p class="first">
+
+James <a href="" id="mocked" class="annotBtn">mocked</a> the notion of Purgatory's fire,  without  passing  through which the soul cannot reach the heavenly mansion.  At this the triple-crowned <a href="" id="Latium" class="annotBtn">Latium monster</a> gnashed his teeth and displayed his ten threatening horns.  "Englishman," he said, "your contempt for what is sacred to me will not go unpunished.  You must pay a penalty for scorning religion.  The only way for you to complete your journey and reach the starry citadel will be by fearfully passing through the flames.  How close your prophetic words were to the deadly truth!  How little they lacked of fulfillment!  For James almost leapt to the highest circle of heaven, whirled up by the Tartarean fire, a burnt ghost.</p>
+</div>
+</body>
+</html>
+

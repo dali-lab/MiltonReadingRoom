@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<!--Copyright 2003-2010, all rights reserved-->
+
+<title>Milton: In eandem</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title">
+<a href="" id="intro" class="annotBtn"><span class="mi">On the Same</span></a>
+</p>
+<br />
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Impious"><span class="minitial">I</span>mpious</span> Rome once cursed this man in horridly impious terms and condemned him to the banks of <a href="" id="styx" class="annotBtn">Styx and the Taenarean gulf</a>.  Now on the contrary, she longs to lift him to the stars and to the celestial gods.</p>
+</div>
+</body>
+</html>
+

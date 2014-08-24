@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+ 
+<!--Copyright 2003, all rights reserved-->
+
+<title>Milton: To Salzilli</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/prose/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/prose/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">To Salzilli</a>, A Roman Poet, When He Was Ill<br /><br />
+<a href="" id="scazons" class="annotBtn">SCAZONS</a>
+</p>
+<br />
+<div class="verse_latin">
+
+<p class="first">
+<span class="minitial">O</span> Muse, who prefers go a halting pace, and rejoices in the <a href="" id="gait" class="annotBtn">limping gait of Vulcan</a>, and thinks that not less pleasing in its place than fair <a href="" id="deiopea" class="annotBtn">D&euml;iopea</a>, when in the dance her graceful feet move before the golden couch of Juno, come now, I pray, bear these few words to Salzilli, who thinks so well of my poetry that quite undeservedly <a href="" id="prefers" class="annotBtn">he prefers it</a> to that of the great divines. These things, therefore, Milton, a native of London, wishes you; he who <a href="" id="left" class="annotBtn">lately left</a> his own nest and that region of the sky where the worst of the winds, with raging lungs, swift and unbridled, drives the gusty blasts beneath the heavens, he who has come to the fruitful fields of Italy to see its cities, famous with proud renown, its men, and the genius of its learned youth; this same Milton wishes you, Salzilli, many favors and complete good health for your ailing body, whose reins are now infested with excessive bile, which, deep-seated, spreads disease through your vitals. The accursed bile did not spare you this for all the <a href="" id="lesbian" class="annotBtn">Lesbian strain</a> that you elegantly pour from your Roman lips. O sweet gift of the gods! Health, <a href="" id="hebe" class="annotBtn">Hebe's sister</a>! And you Phoebus &mdash; or <a href="" id="paean" class="annotBtn">Paean</a> if that name better suits you &mdash; the terror of diseases after <a href="" id="python" class="annotBtn">the death of Python</a>, this man is your own priest. Oak-groves of <a href="" id="faunus" class="annotBtn">Faunus</a>, and you hills rich with vinous dew, seats of gentle <a href="" id="evander" class="annotBtn">Evander</a>, if any healing plant puts forth leaves in your valleys, let each strive to be the first to bring comfort to the sick poet. Thus restored again to his beloved Muses, he will delight the neighboring plains with sweet song. <a href="" id="numa" class="annotBtn">Numa</a> himself shall wonder, where amid the dark groves he spends his blessed eternity of leisure, as he reclines with gaze forever fixed on his Egeria. Swollen Tiber himself, charmed by the song, will favor the annual hope of the husbandmen; nor will he rush on unchecked with too loose a rein on the left and overwhelm even the kings in their sepulchres; he will better control the course of his waters as far as the salt realms of <a href="" id="portunus" class="annotBtn">curving Portumnus</a>. 
+</p>
+
+</div>
+</body>
+</html>

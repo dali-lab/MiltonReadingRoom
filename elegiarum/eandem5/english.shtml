@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<!--Copyright 2003-2010, all rights reserved-->
+
+<title>Milton: To the Same</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title">
+<a href="" id="intro" class="annotBtn"><span class="mi">To the Same</span></a>
+</p>
+<br />
+<div class="verse_latin">
+
+<p class="first">
+<span class="minitial">O</span> credulus Naples, why do you boast of the sweet-voiced Siren, of the famous shrine of <a href="" id="parthenope" class="annotBtn">Parthenope</a>, Achelous's daughter, of the shore-naiad who, when she died on your shores, consecrated a <a href="" id="chalcidian" class="annotBtn">Chalcidian</a> pyre with her body?  But she still lives, and has only exchanged the hoarse murmur of <a href="" id="posilipo" class="annotBtn">Posilipo</a> for the pleasant waves of <a href="" id="tiber" class="annotBtn">Tiber</a>.  There, favored by the eager applause of the Romans, she now with her song holds gods and men entranced.
+</p>
+<br />
+<p class="author">
+End of the Elegies
+</p>
+</div>
+</body>
+</html>

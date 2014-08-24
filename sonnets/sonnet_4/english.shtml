@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<!--Copyright 1999-2006, all rights reserved-->
+
+<title>Milton: Sonnet 4</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">Sonnet 4</a></p>
+<br />
+<div class="verse">
+
+<p>
+<a href="" id="diodati" class="annotBtn">Diodati</a>, and I tell you this with amazement, that unemotional I, who usually feel disdain for love, and often have ridiculed his snares, already have fallen where many good men before me have been snagged. Neither golden braids, nor vermillion cheeks dazzle me so, but underlying this exotic beauty is a new idea that fills my heart: a most honest demeanor, and <a href="" id="ciglia" class="annotBtn">in the brow</a> that calm, tender black splendor, speech adorned with more than one language, and song that might well draw the toilsome moon from mid-sky. And from her eyes shoots such fire that plugging my ears with wax does little to help.
+</p> 
+
+</div>
+</body>
+</html>
+

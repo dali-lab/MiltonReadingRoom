@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Poems (1645): Stationer to the Reader</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+	
+		<script src="../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+		
+   <div id="header">
+		<a name="top"></a>
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner"><i>Poems</i> (1645): Title Page and Front Matter</span>
+		</div>
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+		
+			
+		</div>
+	</div>
+	
+	<div id="sidebar">
+		<ul id="sidebarNav">
+			<li id="notLast" >
+				<a href="../1645_title/frontispiece.shtml">Frontispiece</a>
+			</li>
+			<li id="notLast">
+				<a href="../1645_title/text.shtml">Title Page</a>
+			</li>
+			<li>
+				<a href="text.shtml"><b>Stationer to the Reader</b></a>
+			</li>
+				
+		</ul>	
+	</div>
+
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+<div class="title"><h2 class="msubhead">The Stationer to the Reader</h2></div>
+
+
+<div class="prose_other">
+<p class="first">
+
+<span>I</span><span class="mi">t is not any private respect of gain, Gentle </span>Reader,<span class="mi"> for the slightest Pamphlet is <span class="varspell" title="nowadays">now adayes</span> more vendible then the Works of learnedest men; but it is the love I have to our own Language that hath made me diligent to collect, and set forth such </span><span class="varspell" title="Pieces">Peeces</span><span class="mi"> both in Prose and <span class="varspell" title="Verse">Vers</span>, as may renew the wonted <span class="varspell" title="honor">honour</span> and esteem of our English tongue: and it's the worth of these both English and Latin </span>Poems<span class="mi">, not the flourish of any prefixed </span><a href="" id="encomions" class="annotBtn">encomions</a><span class="mi"> that can invite thee to buy them, though these are not without the highest Commendations and Applause of the <span class="varspell" title="learnedest">learnedst</span> </span><span class="varspell" title="Academics">Academicks</span><span class="mi">, both <span class="varspell" title="domestic">domestick</span> and <span class="varspell" title="foreign">forrein</span>: And amongst those of our <span class="varspell" title="Country">Countrey</span>, the <span class="varspell" title="unparalleled">unparallel'd</span> attestation of that renowned Provost of </span>Eaton<span class="mi">, Sir </span><a href="" id="Henry" class="annotBtn">Henry Wootton</a><span class="mi">:  I know not thy <span class="varspell" title="palate">palat</span> how it relishes such dainties, nor how harmonious thy soul is; perhaps more trivial <a href="" id="Airs" class="annotBtn">Airs</a> may please thee better.  But howsoever thy opinion is spent upon these, that <span class="varspell" title="encouragement">incouragement</span> I have already received from the most ingenious men in their clear and courteous entertainment of </span><a href="" id="waller" class="annotBtn">Mr. <span class="varspell" title="Waller's">Wallers</span><span class="mi"> late choice <span class="varspell" title="Pieces">Peeces</span></span></a><span class="mi">, hath once more made me adventure into the World, presenting it with these ever-green, and not to be blasted Laurels.  The <span class="varspell" title="Author's">Authors</span> more peculiar excellency in these studies, was too well known to conceal his Papers or to keep me from attempting to <span class="varspell" title="solicit">sollicit</span> them from him.  Let the event guide it self which way it will, I shall deserve of the age, by bringing into the Light as true a Birth, as the Muses have brought forth since our famous </span><span class="varspell" title="Spenser">Spencer</span><span class="mi"> wrote;  whose Poems in these English ones are as rarely imitated, as sweetly <span class="varspell" title="excelled">excell'd</span>.  Reader if thou art Eagle-<span class="varspell" title="eyed">eied</span> to censure their worth, I am not fearful to expose them to thy exactest perusal.</span></p>
+<br />
+<span class="author"><span class="mi">Thine to command</span></span><br /><br />
+<span class="author">HUMPH.&nbsp; MOSELEY.</span>
+
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+</body>
+</html>

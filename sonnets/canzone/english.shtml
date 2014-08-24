@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+ 
+
+
+<!--Copyright 1999-2002, all rights reserved-->
+
+<title>Milton: Canzone</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+
+
+
+</head>
+
+<body> 
+
+
+
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">Canzone</a></p>
+<br />
+<div class="verse">
+<p>
+They mock my toil &mdash; the nymphs and am'rous swains &mdash;<br /> 
+And whence this fond attempt to write, they cry,<br /> 
+Love-songs in language that thou little know'st?<br /> 
+How dar'st thou risque to sing these foreign strains?<br /> 
+
+Say truly. Find'st not oft thy purpose cross'd,<span class="line" id="line5"> [ 5 ]</span><br /> 
+And that thy fairest flow'rs, Here, fade and die?<br /> 
+Then with pretence of admiration high--<br /> 
+Thee <a href="" id="rivi" class="annotBtn">other shores</a> expect, and other tides,<br /> 
+Rivers on whose grassy sides<br /> 
+
+Her deathless laurel-leaf with which to bind<span class="line" id="line10"> [ 10 ]</span><br /> 
+Thy flowing locks, already Fame provides;<br /> 
+Why then this burthen, better far declin'd?<br />
+<span class="mindent"><a href="" id="canzone" class="annotBtn">Speak, Muse!</a> for me.--The Fair One said who guides</span><br /> 
+My willing heart, and all my Fancy's flights,<br /> 
+
+"This is the language in which Love delights."<span class="line" id="line15"> [ 15 ]</span>
+
+</p>
+</div>
+
+
+</body> 
+</html> 

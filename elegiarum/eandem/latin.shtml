@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<!--Copyright 2003-2009, all rights reserved-->
+
+<title>Milton: In eandem</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title">
+<a href="" id="intro" class="annotBtn"><span class="mi">In eandem.</span></a>
+</p>
+<br />
+<div class="verse_latin">
+
+<p class="first">
+
+<span class="varspell" title="Siccine"><span class="minitial">S</span>Iccine</span> tentasti c&aelig;lo don&acirc;sse J&auml;cobum<br />
+<span class="mindent">Qu&aelig; septemgemino Bellua monte lates?</span><br />
+Ni meliora tuum poterit dare munera numen,<br />
+<span class="mindent">Parce precor donis insidiosa tuis.</span><br />
+Ille quidem sine te consortia serus adivit<span class="line" id="line5"> [ 5 ]</span><br />
+<span class="mindent">Astra, nec inferni pulveris usus ope.</span><br />
+Sic poti&ugrave;s f&oelig;dus in c&aelig;lum pelle cucullos,<br />
+<span class="mindent">Et quot habet brutos Roma profana Deos,</span><br />
+Namque hac aut ali&acirc; nisi quemque adjuveris arte,<br />
+<span class="mindent">Crede mihi c&aelig;li vix bene scandet iter.</span>
+</p>
+
+</div>
+</body>
+</html>

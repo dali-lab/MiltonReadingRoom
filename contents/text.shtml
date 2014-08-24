@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Contents</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oranienbaum' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		
+		<script src="../miltonContents.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="" title="Home"><img id="home" src="../images/home.png"></img></a>
+	<a href="" title="Search"><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+
+	
+    <div id="header">
+		<a name="top"></a>
+		<div class="align-block baldHeader">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+		</div>
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="#paradiseLost">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="#paradiseRegain'd">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="#samson"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="#common">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+		
+			
+		</div>
+		
+	</div>
+	
+
+
+<div id="containerContents">
+	<div class="tocBox tocText tocAbout center">
+			<table>
+			<tr>
+			<td><img class="resizedForToC floatLeft" src="../images/miltonPortrait.jpg"></img></td>
+			<td>
+			<p class="textTitle leftJustify paddingLeft">ABOUT</p>
+			<p class="aboutP leftJustify paddingLeft">
+			The John Milton Reading Room, the complete poetry and selected prose of John Milton, with
+			introductions, research guides, and hyperlinked annotations. Thomas H. Luxon, General Editor
+			&copy; Trustees of Dartmouth College, 1997-2014. 
+			<br><br>
+			<a href="about_mrr.shtml">More . . .</a>
+			</p></td>
+			</tr>
+			</table>
+			
+			
+			
+			
+			
+	</div>
+	<div class="tocBox center plBox tocBanner">
+		<a class="anchor" name="paradiseLost"></a>
+		<div class="upMask"><img class="upMask" src="../images/upMask.png"></img></div>
+		<p class="boxTitle"><a class="text" href="../pl/book_1/text.shtml">Paradise Lost</a></p>
+		<div class="downMask"><img class="downMask" src="../images/downMask.png"></img></div>
+	</div>
+	<div class="tocBox center tocText">
+		<a class="anchor" name="poems1645"></a>
+		<p class="textTitle">POEMS 1645</p>
+		
+		<div id="wrap">
+		<table class="bookNav">
+			<tr>
+				<td><a href="../1645_title/text.shtml">- Title Page (1645) and Front Matter</a></td>
+				<td><a href="../university_carrier/text.shtml">- On the University Carrier</a></td>
+			</tr>
+			<tr>
+				<td><a href="../nativity/text.shtml">- On the Morning of Christ's Nativity</a></td>
+				<td><a href="../another/text.shtml">- Another on the Same</a></td>
+			</tr>
+			<tr>
+				<td><a href="../paraphrase_114/text.shtml">- A Paraphrase on Psalm 114</a></td>
+				<td><a href="../l'allegro/text.shtml">- L'Allegro</a></td>
+			</tr>
+			<tr>
+				<td><a href="../psalm_136/text.shtml">- Psalm 136</a></td>
+				<td><a href="../penseroso/text.shtml">- Il Penseroso</a></td>
+			</tr>
+			<tr>
+				<td><a href="../the_passion/text.shtml">- The Passion</a></td>
+				<td><a href="../sonnets/sonnet_1/text.shtml">- Sonnets</a></td>
+			</tr>
+			<tr>
+				<td><a href="../on_time/text.shtml">- On Time</a></td>
+				<td><a href="../arcades/text.shtml">- Arcades</a></td>
+			</tr>
+			<tr>
+				<td><a href="../upon_the_circumcision/text.shtml">- Upon the Circumcision</a></td>
+				<td><a href="../lycidas/text.shtml">- Lycidas</a></td>
+			</tr>
+			<tr>
+				<td><a href="../at_a_solemn_music/text.shtml">- At a Solemn Musick</a></td>
+				<td><a href="../comus/text.shtml">- A Mask (1645)</a></td>
+			</tr>
+			<tr>
+				<td><a href="../the_passion/text.shtml">- The Passion</a></td>
+				<td><a href="../poemata/text.shtml">- Poemata Title Page and Tributes to Milton</a></td>
+			</tr>
+			<tr>
+				<td><a href="../marchioness/text.shtml">- An Epitaph on the Marchioness of Winchester</a></td>
+				<td><a href="../elegiarum/elegy_1/text.shtml">- Elegiarum</a></td>
+			</tr>
+			
+			<tr>
+				<td><a href="../may_morning/text.shtml">- Song on May Morning</a></td>
+				<td><a href="../sylvarum/anno_16/text.shtml">- Sylvarum Liber</a></td>
+			</tr>
+		
+			<tr>
+				<td><a href="../on_shakespeare/text.shtml">- On Shakespear 1630</a></td>
+				
+				<td><a href="../damon/text.shtml">- Epitaphium Damonis</a></td>
+			</tr>
+			
+		</table>
+		
+		</div>
+		
+	</div>
+	
+	<div class="tocBox center prBox tocBanner">
+		<a class="anchor" name="paradiseRegain'd"></a>
+		<div class="upMask"><img class="upMask" src="../images/upMask.png"></img></div>
+		<p class="boxTitle"><a class="text" href="../pr/book_1/text.shtml">Paradise Regain'd</a></p>
+		<div class="downMask"><img class="downMask" src="../images/downMask.png"></img></div>
+	
+	</div>
+	
+	<div class="tocBox center tocText">
+		<a class="anchor" name="poems1673"></a>
+		<p class="textTitle"> ADDITIONAL POEMS 1673</p>
+
+		<div id="wrap">
+		<table class="bookNav">
+			<tr>
+				<td><a href="../1673/text.shtml">- Title Page (1673)</a></td>
+			</tr>
+			<tr>
+				<td><a href="../fair_infant/text.shtml">- On the Death of a Fair Infant Dying of a Cough</a></td>
+			</tr>
+			<tr>
+				<td><a href="../sonnets/sonnet_11/text.shtml">- Sonnets</a></td>
+			</tr>
+			<tr>
+				<td><a href="../fifth_ode/text.shtml">- The Fifth Ode of Horace. Book 1</a></td>
+			</tr>
+			<tr>
+				<td><a href="../vacation/text.shtml">- At a Vacation Exercise</a></td>
+			</tr>
+			<tr>
+				<td><a href="../conscience/text.shtml">- On the New Forcers of Conscience</a></td>
+			</tr>
+			<tr>
+				<td><a href="../psalms/psalm_1/text.shtml">- Psalm Translations</a></td>
+			</tr>
+			<tr>
+				<td><a href="../apologus/text.shtml">- Apologus de Rustico & Hero</a></td>
+			</tr>
+			<tr>
+				<td><a href="../effigy/text.shtml">- In Effigiei Ejus Sculptorem</a></td>
+			</tr>
+			<tr>
+				<td><a href="../rouse/text.shtml">- Ad Joannem Roüsium</a></td>
+			</tr>
+			
+		</table>
+		</div>
+	</div>
+	
+	<div class="tocBox center samsonBox tocBanner">
+		<a class="anchor" name="samson"></a>
+		<div class="upMask"><img class="upMask" src="../images/upMask.png"></img></div>
+		<p class="boxTitle"><a class="text" href="../samson/drama/text.shtml">Samson Agonistes</a></p>
+		<div class="downMask"><img class="downMask fullHeight" src="../images/downMask.png"></img></div>
+	
+	</div>
+	
+	<div class="tocBox center tocText">
+		<a class="anchor" name="prose"></a>
+		<p class="textTitle">PROSE</p>
+		
+		<div id="wrap">
+		<table class="bookNav">
+			<tr>
+				<td><a href="../areopagitica/text.shtml">- Areopagitica</a></td>
+			</tr>
+			<tr>
+				<td><a href="../colasterion/text.shtml">- Colasterion</a></td>
+			</tr>
+			<tr>
+				<td><a href="../ddd/book_1/text.shtml">- The Doctrine and Discipline of Divorce</a></td>
+			</tr>
+			<tr>
+				<td><a href="../of_education/text.shtml">- Of Education</a></td>
+			</tr>
+			<tr>
+				<td><a href="../tenure/text.shtml">- The Tenure of Kings and Magistrates</a></td>
+			</tr>
+			<tr>
+				<td><a href="../civil_power/text.shtml">- A Treatise of Civil Power in Ecclesiastical Causes</a></td>
+			</tr>
+			<tr>
+				<td><a href="../prolusions/prolusion_1/text.shtml">- Prolusions</a></td>
+			</tr>
+			<tr>
+				<td><a href="../reason/book_1/text.shtml">- The Reason of Church Government</a></td>
+			</tr>
+			<tr>
+				<td><a href="../tetrachordon/title/text.shtml">- Tetrachordon</a></td>
+			</tr>
+			
+		</table>
+		</div>
+	</div>
+	
+	<div class="tocBox center tocBanner commonplaceBox">
+		<a class="anchor" name="common"></a>
+		<div class="upMask"><img class="upMask" src="../images/upMask.png"></img></div>
+		<p class="boxTitle reduceSize"><a class="text" href="../carmina/text.shtml">Latin Poems from Milton's Commonplace Book</a></p>
+		<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+	</div>
+	
+</div>
+
+
+
+
+<div id="copyrightFooter" class="cf">
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 
+
+
+

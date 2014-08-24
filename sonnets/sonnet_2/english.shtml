@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+ <!--Copyright 1999-2011, all rights reserved-->
+
+<title>Milton: Sonnet 2</title>
+
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) && (${HTTP_USER_AGENT} != /MSIE/)" -->
+   <link rel="stylesheet" type="text/css"   
+   href="../../stylesheets/lyric/netscape47.css" />
+<!--#else -->
+   <link rel="stylesheet" type="text/css"  
+   href="../../stylesheets/lyric/main.css" />
+<!--#endif -->
+<!--insert_style-->
+
+</head>
+
+<body> 
+
+
+<p class="title"><a href="" id="intro" class="annotBtn">Sonnet 2</a></p>
+<br />
+<div class="verse">
+
+<p>
+Graceful <a href="" id="lady" class="annotBtn">lady</a>, whose name honors the grassy Reno valley, and its <a href="" id="ford" class="annotBtn">famous ford</a>,
+Surely he is of little worth who is not enamored of your gentle spirit, that sweetly shines in fine deeds, and never stingy gifts, like shafts shot from <a href="" id="arrows" class="annotBtn">love's bow</a>, where your virtue flourishes like a high wave. When you, beauty, speak or happily sing so that even the sturdiest alpine tree moves, let every man guard his eyes and ears, in case he be found unworthy of you; may heaven's grace alone help him, lest a lover's desire grow old in his heart. 
+
+</p>
+
+</div>
+</body>
+</html>

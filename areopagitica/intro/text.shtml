@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Areopagitica: Introduction</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../../contents/test.shtml"><img id="home" src="../../images/home.png"></img></a>
+	<a href=""><img id="search" src="../../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+	<div id="header">
+		<a name="top"></a>
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Areopagitica</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+		<a href="../../contents/text.shtml#prose">Prose</a> > <a href="">Areopagitica: Introduction</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+
+	
+	<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" >
+						<a href="../intro/text.shtml"><b>Introduction</b></a>
+					</li>
+					<li id="notLast" class="newGroup">
+						<a href="../title/text.shtml">Title Page</a>
+					</li>
+					<li>
+						<a href="../text.shtml">Text</a>
+					</li>
+				
+				</ul>	
+			</div>
+
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+<p class="poemTitle">Introduction</p>
+<p>
+ The title of Milton's <span class="booktitle">Areopagitica</span> alludes to both the <a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0010.tlg018.perseus-eng1:1" target="main" name="Areopagiticus"><span class="booktitle">Areopagiticus</span></a> of <a href="http://www.search.eb.com/eb/article?eu=43907" target="main" name="Isocrates">Isocrates</a> and the story of the apostle Paul in Athens from <a href="http://bible.gospelcom.net/bible?language=English&amp;version=KJV&amp;passage=Acts+17" target="main">Acts 17</a>: 18-34.  Isocrates's tract, which outlines a program for political reform, specifically mentions the degradation of the judges of the Court of the Areopagus, the highest court in Greece.   Milton may fancy himself a man similar in virtue and sagacity to the old judges of the Areopagus whom Isocrates praises; following this allusion, the morally weakened judges of the Areopagus are symbolic of England's sitting Parliament.   Milton doubly identifies with the voice of reform and the sober-minded leaders of a previous generation. The allusion to  Paul in the book of Acts contains a similar parallel: Paul preaches to the pagan Athenians at the Areopagus (the hill where the judges once sat).  In his appeal to the Athenians, Paul uses a stock phrase from a poem by  Aratus, with whom the Greeks would certainly have been familiar.    Paul uses a pagan idea to instruct the Athenians about Christianity.</p>
+	<p class="next">
+As always, Milton divides his scholarly affections between the classical and the biblical in  <span class="booktitle">Areopagitica</span>.  Notice, though, that in this speech classical allusions outweigh biblical, particularly in the first half of the tract.  Milton seems to be making an attempt, by way of copious example, to demonstrate just how Greek and Roman learning can reside within the boundaries of Christian morality.  At first, one might be inclined to dismiss this as merely Milton's attempt to reconcile the differences between his two intellectual loves.  But a closer examination of <span class="booktitle">Areopagitica</span> will reveal Milton's more cagey purpose for allowing  classical references to dominate.  It is a subtle attempt to flatter members of Parliament, by comparing their commonwealth to the enlightened societies of Athens and Rome.  By playing off of the vanity of English politicians, who would of course like to think of themselves as the senators of a latter-day Troy, Milton hopes to reverse the opinion of the legislative body.  Only an ignorant man would criticize the policies of Athens, and that city, as Milton argues, did not support licensing of books.  Milton seems to express a faith that England's enlightened leaders would never embark on a policy that would demonstrate their country's inferiority to those ancient societies.
+</p>
+
+<p class="next">
+Milton's tract is a direct response to the the <a href="order.shtml" target="main">Licensing Order of 1643</a> which reinstated much the same sort of pre-publication censorship once exercised by the Star Chamber and other earlier censors, royal and ecclesiastical.  Milton does not argue here for free and unregulated speech or printing, but simply that books should not be suppressed <i>before</i> publication.  Treasonous, slanderous and blasphemous books, he allows, should be tried according to law, then suppressed and their authors punished.
+</p>
+
+<p class="next">
+The counter-examples Milton offers to those enlightened societies of Greece and Rome are the tyrannical societies of Catholic Spain and the Papacy.  Milton offers the members of Lords and Commons a clear choice: either imitate Popery or institute freedom.  By making the counter-example to enlightened policy Catholicism, Milton once again demonstrates an acute understanding of his audience.  Parliament during Milton's time, especially the House of Commons, was largely Puritan.  The thought that any of their orders might have an odor of unreformed Catholicism  about it was distasteful, especially during the particularly tumultuous days surrounding the civil wars, when accusations of Catholic sympathy flew as regularly as the pigeons of Hyde Park. <span class="booktitle">Areopagitica</span> demonstrates Milton to be not only a great wordsmith and scholar, but also a brilliant political orator.
+</p>
+
+	 <p class="next">
+Milton's <span class="booktitle">Areopagitica</span> had virtually no political impact in its day: Parliament ignored it.  However, as the first major treatise on freedom of the press, it influenced the arguments of many later advocates for the abolition of  censorship.  Even the United States Bill of Rights can be viewed as a direct descendent of Milton's <span class="booktitle">Areopagitica</span>.  Part of the reason that it was ignored in its day may be that Milton had already challenged Parliament and popular opinion with other unorthodox arguments, such as the one presented in the <a href="../ddd/parliament/index.shtml" target="main"><span class="booktitle">Doctrine and Discipline of Divorce</span></a> and its defenses (<a href="../tetrachordon/title/index.shtml" target="main"><span class="booktitle">Tetrachordon</span></a>, <a href="../colasterion/title/index.shtml" target="main"><span class="booktitle">Colasterion</span></a>).  Though he attempted to cultivate an image as a gentleman poet, Milton held radical opinions which challenged societal norms and was even accused of heresy by some of his rivals and targets.  In <span class="booktitle">Areopagitica</span> we have a prime example of the nature of Milton's genius: heavily inflected with biblical and classical knowledge, but too unorthodox for mainstream acceptance, at least in his day.
+</p>
+  
+<p class="author">Nathan Chaney and Casey Noga.</p>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+
+
+</body> 
+</html> 

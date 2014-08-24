@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>An Epitaph on the Marchioness of Winchester</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../miltonNoNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../contents/text.shtml"><img id="home" src="../images/home.png"></img></a>
+	<a href=""><img id="search" src="../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+
+    <div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br>
+			<span id="poemBanner">An Epitaph on the Marchioness of Winchester</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../contents/text.shtml">Home</a> > 
+		<a href="../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">An Epitaph on the Marchioness of Winchester</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+	
+
+<div id="container">
+
+<div id="content">
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">An Epitaph on the Marchioness of Winchester</a></p>
+
+<div class="verse">
+
+<p class="first">
+
+<span class="varspell" title="This"><span>T</span>his</span> rich Marble doth <a href="" id="enterr" class="annotBtn"><span class="varspell" title="inter">enterr</span></a><br />
+The <span class="varspell" title="honored">honour'd</span> Wife of <span class="mi">Winchester</span>,<br />
+A <span class="varspell" title="Viscount's">Vicounts</span> daughter, an <span class="varspell" title="Earl's">Earls</span> heir,<br />
+Besides what her <span class="varspell" title="virtues">vertues</span> fair<br />
+
+Added to her noble birth,<span class="line" id="line5"> [ 5 ]</span><br />
+More <span class="varspell" title="than">then</span> she could own from Earth.<br />
+Summers three times eight save one<br />
+She had <a href="" id="told" class="annotBtn">told</a>, alas too soon,<br />
+After so short time of breath,<br />
+
+To house with <span class="varspell" title="darkness">darknes</span>, and with death.<span class="line" id="line10"> [ 10 ]</span><br />
+Yet had the number of her days<br />
+<span class="varspell" title="Been">Bin</span> as <span class="varspell" title="complete">compleat</span> as was her praise,<br />
+Nature and fate had had no strife<br />
+In giving limit to her life.<br />
+
+Her high birth, and her graces sweet,<span class="line" id="line15"> [ 15 ]</span><br />
+Quickly found a lover <a href="" id="meet" class="annotBtn">meet</a>;<br />
+The <a href="" id="quire" class="annotBtn">Virgin <span class="varspell" title="choir">quire</span></a> for her request<br />
+The <a href="" id="god" class="annotBtn">God</a> that sits at marriage feast;<br />
+He at their invoking came<br />
+
+But with a <a href="" id="flame" class="annotBtn">scarce-<span class="varspell" title="well">wel</span>-lighted flame</a>;<span class="line" id="line20"> [ 20 ]</span><br />
+And in his Garland as he stood,<br />
+Ye might discern a <a href="" id="cypress" class="annotBtn"><span class="varspell" title="Cypress">Cipress</span> bud</a>.<br />
+Once had the early Matrons run<br />
+To greet her of a lovely son,<br />
+
+And now with second hope she goes,<span class="line" id="line25"> [ 25 ]</span><br />
+And calls <a href="" id="lucina" class="annotBtn"><span class="mi">Lucina</span></a> to her <a href="" id="throws" class="annotBtn">throws</a>;<br />
+But whether by mischance or blame<br />
+<a href="" id="atropos" class="annotBtn"><span class="mi">Atropos</span></a> for <a href="" id="lucina" class="annotBtn"><span class="mi">Lucina</span></a> came;<br />
+And with <span class="varspell" title="remorseless">remorsles</span> cruelty,<br />
+
+<span class="varspell" title="Spoiled">Spoil'd</span> at once both fruit and tree:<span class="line" id="line30"> [ 30 ]</span><br />
+The <span class="varspell" title="hapless">haples</span> Babe before his birth<br />
+Had burial, yet not laid in earth,<br />
+And the <span class="varspell" title="languished">languisht</span> <span class="varspell" title="Mother's">Mothers</span> Womb<br />
+Was not long a living Tomb.<br />
+
+So have I seen <span class="varspell" title="some">som</span> tender <a href="" id="slip" class="annotBtn">slip</a><span class="line" id="line35"> [ 35 ]</span><br />
+<span class="varspell" title="Saved">Sav'd</span> with care from <span class="varspell" title="Winter's">Winters</span> nip,<br />
+The pride of her carnation train,<br />
+<span class="varspell" title="Plucked">Pluck't</span> up by <span class="varspell" title="some">som</span> unheedy swain,<br />
+Who <span class="varspell" title="only">onely</span> thought to crop the <span class="varspell" title="flower">flowr</span><br />
+
+New shot up from <span class="varspell" title="vernal">vernall</span> <span class="varspell" title="shower">showr</span>;<span class="line" id="line40"> [ 40 ]</span><br />
+But the fair blossom hangs the head<br />
+Side-ways as on a dying bed,<br />
+And those Pearls of dew she wears,<br />
+Prove to be presaging tears<br />
+
+Which the sad morn had let fall<span class="line" id="line45"> [ 45 ]</span><br />
+On her <span class="varspell" title="hastening">hast'ning</span> <span class="varspell" title="funeral"> funerall</span>.<br />
+Gentle Lady may thy grave<br />
+Peace and quiet ever have;<br />
+After this thy travail sore<br />
+
+Sweet rest <a href="" id="sease" class="annotBtn"><span class="varspell" title="seize">sease</span></a> thee evermore,<span class="line" id="line50"> [ 50 ]</span><br />
+That to give the world <span class="varspell" title="increase">encrease</span>,<br />
+<span class="varspell" title="Shortened">Shortned</span> hast thy own <span class="varspell" title="life's">lives</span> lease,<br />
+Here besides the sorrowing<br />
+That thy noble House doth bring,<br />
+
+Here be tears of perfect moan<span class="line" id="line55"> [ 55 ]</span><br />
+<span class="varspell" title="Wept">Weept</span> for thee in <a href="" id="helicon" class="annotBtn"><span class="mi">Helicon</span></a>,<br />
+And <span class="varspell" title="some">som</span> Flowers, and <span class="varspell" title="some">som</span> Bays,<br />
+For thy <a href="" id="hears" class="annotBtn"><span class="varspell" title="Hearse">Hears</span></a> to strew the ways,<br />
+Sent thee from the banks of <a href="" id="came" class="annotBtn"><span class="mi"><span class="varspell" title="Cam">Came</span></span></a>,<br />
+
+Devoted to thy <span class="varspell" title="virtuous">vertuous</span> name;<span class="line" id="line60"> [ 60 ]</span><br />
+Whilst thou bright Saint high <span class="varspell" title="sittest">sit'st</span> in glory,<br />
+Next her much like to thee in story,<br />
+That fair <a href="" id="syrian" class="annotBtn"><span class="mi">Syrian</span> Shepherdess</a>,<br />
+Who after <span class="varspell" title="years">yeers</span> of <span class="varspell" title="barrenness">barrennes</span><br />
+
+The highly <span class="varspell" title="favored">favour'd</span> <span class="mi">Joseph</span> bore<span class="line" id="line65"> [ 65 ]</span><br />
+To him that <span class="varspell" title="served">serv'd</span> for her before,<br />
+And at her next birth much like thee,<br />
+Through pangs fled to felicity,<br />
+Far within the <span class="varspell" title="bosom">boosom</span> bright<br />
+
+Of blazing Majesty and <a href="" id="mothers" class="annotBtn">Light</a>,<span class="line" id="line70"> [ 70 ]</span><br />
+There with thee, new <span class="varspell" title="welcome">welcom</span> Saint,<br />
+Like fortunes may her soul acquaint,<br />
+With thee there clad in radiant sheen,<br />
+No Marchioness, but now a Queen.</p>
+ 
+           
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 

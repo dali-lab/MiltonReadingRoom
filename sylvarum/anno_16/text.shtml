@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Sylvarum Liber: Anno &aelig;tatis 16</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		
+		<script src="../../miltonNavWithLatin.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+			
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Sylvarum Liber</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Sylvarum Liber: Anno &aelig;tatis 16</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						Language Selection:
+					</li>
+					<li id="notLast">
+						<a href="" id="Latin">Latin</a>
+					</li>
+					<li id="notLast">
+						<a href="" id="English">English</a>
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						Texts
+					</li>
+					<li id="notLast">
+						<a href="../anno_16/text.shtml"><b>Anno &aelig;tatis 16</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../novembris/text.shtml">In Quintus <br>Novembris</a>
+					</li>
+					<li id="notLast">
+						<a href="../ely/text.shtml">Anno &aelig;tatis 17</a>
+					</li>
+					<li id="notLast">
+						<a href="../naturam/text.shtml">Naturam non pati senium</a>
+					</li>
+					<li id="notLast">
+						<a href="../idea/text.shtml">De Idea Platonica</a>
+					</li>
+					<li id="notLast">
+						<a href="../patrem/text.shtml">Ad Patrem</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_114/text.shtml">Psalm 114</a>
+					</li>
+					<li id="notLast">
+						<a href="../philosophus/text.shtml">Philosophus ad <br>regem</a>
+					</li>
+					<li id="notLast">
+						<a href="../salsillum/text.shtml">Ad Salsillum</a>
+					</li>
+					<li id="notLast">
+						<a href="../mansus/text.shtml">Mansus</a>
+					</li>
+					<li class="newGroup">
+						<a href="../../effigy/text.shtml">Additions in <i>Poems</i> (1673)</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">Anno &aelig;tatis 16.</a> In obitum<br />
+Procancellarii medici.</p>
+
+
+<div class="verse_latin">
+
+
+<p class="first">
+<span class="varspell" title="Parere"><span>P</span>ar&eacute;re</span> fati discite legibus,<br />
+Manusque Parc&aelig; jam date supplices,<br />
+<span class="mindent">Qui pendulum telluris orbem</span><br />
+<span class="m3em">J&auml;peti colitis nepotes.</span>
+</p>
+
+<p>
+Vos si relicto mors vaga T&aelig;naro<span class="line" id="line5"> [ 5 ]</span><br />
+Semel voc&acirc;rit flebilis, heu mor&aelig;<br />
+<span class="mindent">Tentantur incass&ugrave;m dolique;</span><br />
+<span class="m3em">Per tenebras Stygis ire certum est.</span>
+</p>
+
+<p>
+Si destinatam pellere dextera<br />
+Mortem valeret, non ferus Hercules<span class="line" id="line10"> [ 10 ]</span><br />
+<span class="mindent">Nessi venenatus cruore</span><br />
+<span class="m3em">&AElig;mathi&acirc; jacuisset Oet&acirc;.</span>
+</p>
+
+<p>
+Nec fraude turpi Palladis invid&aelig;<br />
+Viddisset occisum Ilion Hectora, aut<br />
+<span class="mindent">Quem larva Pelidis peremit</span><span class="line" id="line15"> [ 15 ]</span><br />
+<span class="m3em">Ense Locro, Jove lacrymante.</span>
+</p>
+
+<p>
+Si triste fatum verba Hecat&euml;ia<br />
+Fugare possint, Telegoni parens<br />
+<span class="mindent">Vixisset infamis, potentique</span><br />
+<span class="m3em">&AElig;giali soror usa virg&acirc;.</span><span class="line" id="line20"> [ 20 ]</span>
+</p>
+
+<p>
+Numenque trinum fallere si queant <br />
+Artes medent&ucirc;m, ignotaque gramina,<br />
+<span class="mindent">Non gnarus herbarum Machaon</span><br />
+<span class="m3em">Eurypyli cecidisset hast&acirc;.</span>
+</p>
+
+<p>
+L&aelig;sisset &amp; nec te Philyreie<span class="line" id="line25"> [ 25 ]</span><br />
+Sagitta echidn&aelig; perlita sanguine, <br />
+<span class="mindent">Nec tela te sulmenque avitum</span><br />
+<span class="m3em">C&aelig;se puer genitricis alvo.</span>
+</p>
+
+<p>
+Tuque O alumno major Apolline,<br />
+Gentis togat&aelig; cui regimen datum,<span class="line" id="line30"> [ 30 ]</span><br />
+<span class="mindent">Frondosa quem nunc Cirrha luget,</span><br />
+<span class="m3em">Et mediis Helicon in undis,</span>
+</p>
+
+<p>
+Jam pr&aelig;fuisses Palladio gregi<br />
+L&aelig;tus, superstes, nec sine gloria,<br />
+<span class="mindent">Nec puppe lustrasses Charontis</span><span class="line" id="line35"> [ 35 ]</span><br />
+<span class="m3em">Horribiles barathri recessus.</span>
+</p>
+
+<p>
+At fila rupit Persephone tua<br />
+Irata, cum te viderit artibus<br />
+<span class="mindent">Succoque pollenti tot atris</span><br />
+<span class="m3em">Faucibus eripuisse mortis.</span><span class="line" id="line40"> [ 40 ]</span>
+</p>
+
+<p>
+Colende pr&aelig;ses, membra precor tua<br />
+Molli quiescant cespite, &amp; ex tuo <br />
+<span class="mindent">Crescant ros&aelig;, calth&aelig;que busto,</span><br />
+<span class="m3em">Purpureoque hyacinthus ore.</span>
+</p>
+
+<p>
+Sit mite de te judicium &AElig;aci,<span class="line" id="line45"> [ 45 ]</span><br />
+Subrideatque &AElig;tn&aelig;a Proserpina,<br />
+<span class="mindent">Interque felices perennis</span><br />
+<span class="m3em">Elysio spatiere campo.</span>
+</p>
+
+
+</div>
+</div>
+
+<div id="alternateContent">
+<p class="poemTitle"><a href="" id="intro" class="annotBtn">At Age 16.</a> On the Death<br />
+of the Vice-Chancellor, a Physician
+</p>
+
+<div class="verse_latin">
+
+<p class="first">
+<span class="varspell" title="Learn"><span>L</span>earn</span> to submit to the laws of destiny, and lift your suppliant hands to the Fate, O <a href="" id="japetus" class="annotBtn">children of Iapetus</a> who inhabit the pendulous orb of the earth. If Death, the doleful wanderer from <a href="" id="taenarus" class="annotBtn">Taenarus</a>, shall but once call you, alas! vain is it to attempt wiles and delay, for all must pass through the shades of <a href="" id="styx" class="annotBtn">Styx</a>. Were the right hand strong to repel destined death, fierce Hercules had not lain dead on <a href="" id="oeta" class="annotBtn">Aemathian Oeta</a>, poisoned by the blood of <a href="" id="nessus" class="annotBtn">Nessus</a>; nor had Ilium seen <a href="" id="hectorslain" class="annotBtn">Hector slain</a> by the base guile of envious Pallas; nor <a href="" id="sarpedon" class="annotBtn">Sarpedon</a> whom the phantom Achilles slew with Locrian sword, whilst Jove wept. If <a href="" id="hecatean" class="annotBtn">Hecatean</a> words could put to flight sad fate, the infamous <a href="" id="telegonus" class="annotBtn">mother of Telegonus</a> had yet lived, and the <a href="" id="aegialeus" class="annotBtn">sister of Aegialeus</a>, who used the powerful wand. If mysterious herbs and the art of the physicians could thwart the triple goddesses, <a href="" id="machaon" class="annotBtn">Machaon</a> with his skill in simples had not fallen by the spear of Eurypylus; and the arrow smeared with the serpent's blood had done you no injury, O <a href="" id="philyreius" class="annotBtn">Philyreius</a>; nor had the arms and bolts of your grandsire harmed you, <a href="" id="aesclepius" class="annotBtn">O son</a>, who were cut from your mother's womb. And you, too, Gostlin, greater than your tutor, Apollo, you to whom was given the rule of the <a href="" id="gowned" class="annotBtn">gowned flock</a>, had not died, whom now leafy <a href="" id="cirrha" class="annotBtn">Cyrrha</a> mourns, and <a href="" id="helicon" class="annotBtn">Helicon</a> amid its springs. You would still live, happy and honored to have shepherded the <a href="" id="flock" class="annotBtn">flock of Pallas</a>. You would not have gone in <a href="" id="charon" class="annotBtn">Charon's skiff</a> to the horrible recesses of the abyss. But <a href="" id="persephone" class="annotBtn">Persephone</a> broke the thread of life, angered when she saw how many souls you snatched from the black jaws of Death by your arts and your potent juices. Revered Chancellor, I pray that your body may rest in peace beneath the soft turf, and that from your grave may spring roses, and marigolds, and the hyacinth with blushing face. May the judgment of <a href="" id="aeacus" class="annotBtn">Aeacus</a> rest mildly on you, and may <a href="" id="persephone" class="annotBtn">Sicilian Proserpina</a> grant you a smile, and in the <a href="" id="elysian" class="annotBtn">Elysian fields</a> among the blest may you walk for ever.
+</p>
+ 
+
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+</body> 
+</html> 

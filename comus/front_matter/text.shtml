@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Comus: Front Matter</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+		
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+		
+	</head>
+
+<body> 
+	<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+	<a href=""><img id="search" src="../../images/search.png"></img></a>
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+
+	<div id="header">
+		<div class="align-block">
+			<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Comus</span>
+		</div>
+		
+		<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+		<a href="../../contents/text.shtml#poems1645"><i>Poems</i> (1645)</a> > <a href="">Comus: Front Matter</a></div> !-->
+		
+		<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+	</div>
+
+	<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" >
+						<a href="../intro/text.shtml">Introduction</a>
+					</i>
+					<li id="notLast" class="newGroup">
+						<a href="../title_1645/text.shtml">Title Page (1645)</a>
+					</i>
+					<li id="notLast">
+						<a href="../title_1637/text.shtml">Title Page (1637)</a>
+					</i>
+					<li id="notLast">
+						<a href="../front_matter/text.shtml"><b>Front Matter</b></a>
+					</i>
+					<li>
+						<a href="../text.shtml">Text</a>
+					</i>
+				
+				</ul>	
+			</div>
+	
+
+<div id="container">
+
+<div id="content" class="lengthyWork">
+
+
+<div class="prose">
+<div class="prefitalic">
+<span class="reversem">My Lord,</span>
+<p class="first">
+<span class="reversem"><span class="minitial">T</span></span><span class="varspell" title="This">his</span> Poem, which <span class="varspell" title="received">receiv'd</span> its first <a href="" id="occasion" class="annotBtn">occasion of Birth</a> from your Self, and others of your Noble Family, and much <span class="varspell" title="honor">honour</span> from your own Person in the performance, now returns again to make a <span class="varspell" title="final">finall</span> Dedication of it self to you.  Although <a href="" id="acknowl" class="annotBtn">not openly <span class="varspell" title="acknowledged">acknowledg'd</span></a> by the Author, yet it is a legitimate <span class="varspell" title="offspring">off-spring</span>, so lovely, and so much desired, that the often Copying of it hath <span class="varspell" title="tired">tir'd</span> my Pen to give my <span class="varspell" title="several">severall</span> friends satisfaction, and brought me to a necessity of producing it to the <span class="varspell" title="public">publike</span> view; and now to offer it up in all <span class="varspell" title="rightful">rightfull</span> devotion to those fair Hopes, and rare Endowments of your much-promising Youth, which give a full assurance, to all that know you, of a future excellence.  Live sweet Lord to be the <span class="varspell" title="honor">honour</span> of your Name, and receive this as your own, from the hands of him, who hath by many <span class="varspell" title="favors">favours</span> been long <span class="varspell" title="obliged">oblig'd</span> to your most <span class="varspell" title="honored">honour'd</span> Parents, and as in this representation your attendant <span class="reversem">Thyrsis</span>, so now in all <span class="varspell" title="real">reall</span> expression
+</p>
+<br />
+<p class="author">
+Your <span class="varspell" title="faithful">faithfull</span>, and most<br />
+humble Servant
+<a href="" id="Lawes" class="annotBtn"><span class="reversem">H. LAWES</span></a>
+</p>
+</div>
+<br />
+<hr align="center" />
+<br />
+<div class="prefplain">
+<p class="title">
+The <a name="wotton">Copy</a> of a Letter <span class="varspell" title="Written">Writt'n</span><br />
+By Sir <a href="" id="Wootton" class="annotBtn">Henry Wooton,</a><br />
+To the Author, upon the<br />
+following Poem.<br /><br />
+<span class="mi">From the <span class="varspell" title="College">Colledge</span>, this 13. of April, 1638.</span>
+</p>
+<br />
+<span class="mi">SIR</span>,
+<br />
+<p class="first">
+<span class="minitial">I</span><span class="varspell" title="It">t</span> was a special <span class="varspell" title="favor">favour</span>, when you lately bestowed upon me here, the first taste of your acquaintance, though no longer then to make me know that I wanted more time to value it, and to enjoy it rightly; and in truth, if I could then have imagined your farther stay in these parts, which I understood afterwards by <a href="" id="mrh" class="annotBtn">Mr. <span class="mi">H.</span></a>, I would have been bold in our vulgar phrase to mend my draught (for you left me with an extreme thirst) and to have begged your conversation again, <span class="varspell" title="jointly">joyntly</span> with your said learned Friend, at a poor meal or two, that we might have banded together som good Authors of the <span class="varspell" title="ancient">antient</span> time: Among which, I observed you to have been familiar.
+</p>
+<p>
+Since your going, you have <span class="varspell" title="charged">charg'd</span> me with new Obligations, both for a very <span class="varspell" title="kind">kinde</span> Letter from you dated the sixth of this Month, and for a dainty <span class="varspell" title="piece">peece</span> of entertainment which came <span class="varspell" title="therewith">therwith</span>.  <span class="varspell" title="Wherein">Wherin</span> I should much commend the Tragical part, if the Lyrical did not ravish me with a certain <a href="" id="Dorique" class="annotBtn"><span class="varspell" title="Doric">Dorique</span></a> delicacy in your Songs and Odes, wherunto I must plainly confess to have seen yet nothing parallel in our Language: <a href="" id="mollities" class="annotBtn"><span lang="la" class="mi">Ipsa mollities.</span></a>  But I must not omit to tell you, that I now <span class="varspell" title="only">onely</span> owe you thanks for intimating unto me (how modestly soever) the <a href="" id="true" class="annotBtn">true Artificer.</a>  For the work it self, I had <span class="varspell" title="viewed">view'd</span> <span class="varspell" title="some">som</span> good while before, with singular delight, having <span class="varspell" title="received">receiv'd</span> it from our common Friend Mr.<span class="mi"> R.</span> in the very close of the late<span class="mi"> R'</span>s Poems, Printed at <span class="mi">Oxford,</span> <span class="varspell" title="whereunto">wherunto</span> it was added (as I now suppose) that the Accessory might help out the Principal, according to the Art of <span class="mi">Stationers,</span> and to leave the Reader <a href="" id="bocca" class="annotBtn"><span lang="it" class="mi">Con la bocca dolce.</span></a>
+</p>
+<p>
+Now Sir, concerning your travels, wherin I may chalenge a little more <span class="varspell" title="privilege">priviledge</span> of <span class="varspell" title="Discourse">Discours</span> with you; I suppose you will not <a href="" id="blanch" class="annotBtn">blanch</a> <span class="mi">Paris</span> in your way; therfore I have been bold to trouble you with a few lines to <a href="" id="Mr" class="annotBtn">Mr. <span class="mi">M. B.</span></a> whom you shall easily find attending the young <a href="" id="lord" class="annotBtn">Lord <span class="mi">S.</span></a> as his <span class="varspell" title="Governor">Governour</span>, and you may surely receive from him good directions for the shaping of your farther journey into <span class="mi">Italy</span>, where he did reside by my choice <span class="varspell" title="som">som</span> time for the King, after my own <a href="" id="recess" class="annotBtn">recess</a> from <span class="mi">Venice.</span>
+</p>
+<p>
+I should think that your best Line will be thorow the whole length of <span class="mi">France</span> to <span class="mi">Marseilles</span>, and thence by Sea to <span class="mi">Genoa</span>, whence the passage into <span class="mi">Tuscany</span> is <a href="" id="Diurnal" class="annotBtn">as Diurnal</a> as a <span class="mi">Gravesend</span> Barge:  I hasten as you do to <span class="mi">Florence</span>, or <span class="mi">Siena</span>, the rather to tell you a short story from the interest you have given me in your safety.
+</p>
+<p>
+At <span class="mi">Siena</span> I was tabled in the House of one <span class="mi">Alberto Scipioni</span> an old <span class="mi">Roman</span> Courtier in dangerous times, having bin Steward to the <span class="mi">Duca di Pagliano</span>, who with all his Family were strangled, save this onely man that <span class="varspell" title="escaped">escap'd</span> by foresight of the Tempest: With him I had often much chat of those affairs; Into which he took pleasure to look back from his Native <span class="varspell" title="Harbor">Harbour</span>; and at my departure toward <span class="mi">Rome</span> (which had been the center of his experience) I had <span class="varspell" title="won">wonn</span> confidence enough to beg his advice, how I might carry my self securely there, without offence of others, or of mine own conscience.  <a href="" id="mio" class="annotBtn"><span class="mi">Signor Arrigomio</span></a> (sayes he) <span lang="it" class="mi">I pensieri stretti, &amp; il viso sciolto</span> will go safely over the whole World: Of which <span class="mi">Delphian</span> Oracle (for so I have found it) your judgement doth need no commentary; and therfore (Sir) I will commit you with it to the best of all securities, Gods dear love, remaining
+</p>
+<br /> 
+<p class="author">
+<span class="reversem">Your Friend as much at command<br />
+as any of longer date</span><br />
+Henry Wootton.
+</p>
+</div>
+<br />
+<hr align="center" />
+<br />
+<div class="prefitalic">
+<p class="title">
+<span class="reversem">Postscript.</span>
+</p>
+<br />
+
+<p class="first">
+<span class="reversem"><span class="minitial">S</span><span class="varspell" title="Sir">IR</span>,</span> I have expressly sent this my Foot-boy to prevent your departure without <span class="varspell" title="some">som</span> acknowledgement from me of the receipt of your obliging Letter, having my self through <span class="varspell" title="some">som</span> busines, I know not how, neglected the ordinary conveyance.  In any part where I shall understand you fixed, I shall be glad, and diligent to entertain you with Home-Novelties; even for <span class="varspell" title="some">som</span> fomentation of our friendship, too soon interrupted in the Cradle.
+</p>
+</div>
+
+</div>
+
+</div>
+
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+
+
+</body> 
+</html> 

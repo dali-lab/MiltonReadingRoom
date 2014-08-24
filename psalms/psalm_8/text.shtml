@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Psalm Translations: Psalm 8</title>
+		<meta charset="utf-8">
+		<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+		<script src="annotation.js"></script>
+
+		<script src="../../miltonNav.js"></script>
+
+		
+		<link rel="stylesheet" type="text/css" href="../../style.css">
+	</head>
+	
+	
+
+<body>
+			<a href="../../contents/text.shtml"><img id="home" src="../../images/home.png"></img></a>
+			<a href=""><img id="search" src="../../images/search.png"></img></a>
+			
+
+			<div id="searchBar">
+				<script>
+					  (function() {
+						var cx = '012049470693356252304:cipzxd_hmn4';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+							'//www.google.com/cse/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					
+				<gcse:search></gcse:search>
+			</div>
+	
+			<div id="header">
+				<div class="align-block">
+					<span id="milton"><span class="headerFix1"> The </span><span class="headerFix2"> John Milton Reading Room</span></br><span id="poemBanner">Psalm Translations</span>
+				</div>
+				
+				<!-- <div id="tree"><a href="../../contents/text.shtml">Home</a> > 
+				<a href="../../contents/text.shtml#poems1673"><i>Poems</i> (1673)</a> > <a href="">Psalm Translations: Psalm 8</a></div> !-->
+				
+				<div class="topNavBar">
+			<img class="topNavMask" src="../../images/topBar.png"></img>
+			
+			
+			<div class="navContentsWrapper"><table class="navContents">
+				<tr>
+					<td><table class="inner"><tr><td><a href="../../pl/book_1/text.shtml">Paradise Lost</a></td></tr></table></td>
+		
+					<td><table class="inner"><tr><td><a href="../../pr/book_1/text.shtml">Paradise Regain'd</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#prose">Prose</a></td></tr></table></td>
+			
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1645">Poems 1645</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../contents/text.shtml#poems1673">Poems 1673</a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../samson/drama/text.shtml"><span class="navFix1">Samson</span> <span class="navFix2">Agonistes</span></a></td></tr></table></td>
+				
+					<td><table class="inner"><tr><td><a href="../../carmina/text.shtml">Commonplace Book</a></td></tr></table></td>
+				</tr>
+				
+			</table></div>
+			</div>
+			</div>
+
+			<div id="sidebar">
+				<ul id="sidebarNav">
+					<li id="notLast" class="navHeader">
+						From <i>Poems</i> (1645)
+					</li>
+					<li id="notLast">
+						<a href="../../paraphrase_114/text.shtml">Paraphrase on Psalm 114</a>
+					</li>
+					<li id="notLast">
+						<a href="../../psalm_136/text.shtml">Psalm 136</a>
+						
+					</li>
+					
+					<li id="notLast" class="navHeader">
+						From <i>Poems</i> (1673)
+					</li>
+					<li id="notLast">
+						<a href="../psalm_1/text.shtml">Psalm 1</a>,
+						<a href="../psalm_2/text.shtml"> 2</a>
+					</li>
+					
+					<li id="notLast">
+						<a href="../psalm_3/text.shtml">Psalm 3</a>,
+						<a href="../psalm_4/text.shtml"> 4</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_5/text.shtml">Psalm 5</a>,
+						<a href="../psalm_6/text.shtml"> 6</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_7/text.shtml">Psalm 7</a>,
+						<a href="../psalm_8/text.shtml"><b> 8</b></a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_80/text.shtml">Psalm 80</a>,
+						<a href="../psalm_81/text.shtml"> 81</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_82/text.shtml">Psalm 82</a>,
+						<a href="../psalm_83/text.shtml"> 83</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_84/text.shtml">Psalm 84</a>,
+						<a href="../psalm_85/text.shtml"> 85</a>
+					</li>
+					<li id="notLast">
+						<a href="../psalm_86/text.shtml">Psalm 86</a>,
+						<a href="../psalm_87/text.shtml"> 87</a>
+					</li>
+					<li>
+						<a href="../psalm_88/text.shtml">Psalm 88</a>
+					</li>
+				</ul>	
+			</div>
+			
+<div id="container">
+
+<div id="content">
+
+<div class="verse">
+
+<p class="poemTitle">
+<a href="" id="intro" class="annotBtn"><span class="varspell" title="Psalm"><span class="mi">PSAL</span></span>. VIII.</a>  <span class="varspell" title="August"><span class="mi">Aug</span></span>. 14. 1653.  
+</p>
+
+
+<p class="stanza first">
+<span>O</span> Jehovah, our Lord, how wondrous great<br />
+<span class="mindent">And glorious is thy name through all the earth!</span><br />
+So as above the Heavens thy praise to set<br />
+<span class="mindent">Out of the tender mouths of latest <span class="varspell" title="birth">bearth</span>,</span>
+</p>
+
+
+<p class="stanza">
+Out of the mouths of babes and sucklings thou<span class="line" id="line5"> [ 5 ]</span><br />
+<span class="mindent">Hast founded strength because of all thy foes,</span><br />
+To stint <span class="varspell" title="the">th'</span> enemy, and slack <span class="varspell" title="the">th'</span> <span class="varspell" title="avenger's">avengers</span> brow<br />
+<span class="mindent">That bends his rage thy providence to oppose.</span>
+</p>
+
+
+<p class="stanza">
+When I behold thy Heavens, thy <span class="varspell" title="Fingers'">Fingers</span> art,<br />
+<span class="mindent">The Moon and <span class="varspell" title="Stars">Starrs</span> which thou so bright hast set</span><span class="line" id="line10"> [ 10 ]</span><br />
+In the pure firmament, then saith my heart,<br />
+<span class="mindent">O what is man that thou <span class="varspell" title="rememberest">remembrest</span> yet,</span><br />
+<br />
+And <span class="varspell" title="thinkest">think'st</span> upon him? or of man begot<br />
+<span class="mindent">That him thou <span class="varspell" title="visitest">visit'st</span> and of him art found?</span><br />
+Scarce to be less then Gods, thou <span class="varspell" title="madest">mad'st</span> his lot,<span class="line" id="line15"> [ 15 ]</span><br />
+<span class="mindent">With <span class="varspell" title="honor">honour</span> and with state thou hast him <span class="varspell" title="crowned">crown'd</span>.</span>
+</p>
+
+<p class="stanza">
+<span class="varspell" title="Over">O'er</span> the works of thy hand thou <span class="varspell" title="madest">mad'st</span> him Lord,<br />
+<span class="mindent">Thou hast put all under his lordly feet,</span><br />
+All Flocks, and Herds, by thy commanding word,<br />
+<span class="mindent">All beasts that in the field or <span class="varspell" title="forest">forrest</span> meet;<span class="line" id="line20"> [ 20 ]</span></span>
+</p>
+
+<p class="stanza">
+Fowl of the Heavens, and Fish that through the wet<br />
+<span class="mindent">Sea-paths in shoals do slide. And know no dearth.</span><br />
+O Jehovah our Lord how wondrous great<br />
+<span class="mindent">And glorious is thy name through all the earth.</span>
+</p>
+
+
+           
+</div>
+
+</div>
+<div id="annotation"></div>
+</div>
+
+<div class="downMask"><a class="backToTop" title="Return to Top" href="#top"><img class="downMask fullHeight" src="../../images/greyUp.png"></a></img></div>
+<div id="copyrightFooter" class="cf">
+				
+				<div id="footerLeft">
+					<div id="miscLinks">
+						<table id="miscLinksTable">
+							<tr class="headers">
+							  <td><span class="firstWord1">SELECTED</span><span class="secondWord1"> CRITICISM</span></td>
+							  <td>RESEARCH</span> LINKS</span></td>	
+							  <td>COPYRIGHT</td>
+							  <td><span class="firstWord2">CONNECT</span><span class="secondWord2"> WITH US</span></td>
+							</tr>
+							<tr class="lists">
+								<td><a class="text" href="../../bibliography/a-b/text.shtml">A-B</a></td>
+								<td><a class="text" href="../../links/text.shtml#milton">Milton Sites</a></td>
+								<td><a class="text" rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons License</a></td>
+								<td><a href="https://www.facebook.com/groups/miltonreadingroom/"><img class="limitHeight" src="../../images/facebookLogo.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/c-e/text.shtml">C-E</a></td>
+								<td><a class="text" href="../../links/text.shtml#reference">Reference Guides</td>
+								<td><a class="text" href="../../copyrights/text.shtml">Using This Site</a></td>
+								<td><a href="mailto:thomas.h.luxon@dartmouth.edu"><img class="limitHeight" src="../../images/mailIcon.png"></img></a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/f-h/text.shtml">F-H</a></td>
+								<td><a class="text" href="../../links/text.shtml#classical">Classical Literature</a></td>
+								<td><a class="text"href="http://dartmouth.edu/faculty-directory/thomas-h-luxon">About the Editor</a></td>
+								<td><a class="text" href="http://dartmouth.edu">Dartmouth</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/i-k/text.shtml">I-K</a></td>
+								<td><a class="text" href="../../links/text.shtml#bible">Bible Commentary</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/l-m/text.shtml">L-M</a></td>
+								<td><a class="text" href="../../links/text.shtml#religion">Religion and Theology</a></td>
+								
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/n-q/text.shtml">N-Q</td>
+								<td><a class="text" href="../../links/text.shtml#other">Other</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/r-s/text.shtml">R-S</a></td>
+							</tr>
+							<tr>
+								<td><a class="text" href="../../bibliography/t-z/text.shtml">T-Z</a></td>
+							</tr>
+						</table>
+					</div>
+				
+					<div class="legal">
+						The John Milton Reading Room edited by Thomas H. Luxon<br>
+						Copyrighted 2014&copy; Trustees of Dartmouth College - Creative Commons License
+					</div>
+					
+					
+				</div>
+				
+				<div id="footerRight">
+					<div>Designed and Developed by</div>
+					<br/>
+					<a href="http://dali.dartmouth.edu/"><img class="dali" src="../../images/dali.png"></img></a>
+				</div>
+</div>
+
+</body> 
+</html> 
+
